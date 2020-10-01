@@ -1,21 +1,101 @@
-,Teams2015,Points2015,Goals+2015,Goals-2015,Teams2016,Points2016,Goals+2016,Goals-2016,Teams2017,Points2017,Goals+2017,Goals-2017,Teams2018,Points2018,Goals+2018,Goals-2018,Teams2019,Points2019,Goals+2019,Goals-2019
-0,AFC Bournemouth ,42,23,34,Burnley FC ,40,26,20,Arsenal FC ,63,54,20,Manchester United FC ,66,33,25,Liverpool FC ,82,40,12
-1,Chelsea FC ,50,32,30,Crystal Palace FC ,41,24,25,Brighton & Hove Albion FC ,40,24,25,AFC Bournemouth ,45,30,25,West Ham United FC ,27,23,26
-2,Everton FC ,47,35,30,Everton FC ,61,42,16,Chelsea FC ,70,30,16,Fulham FC ,26,22,36,AFC Bournemouth ,27,17,21
-3,Leicester City FC ,81,35,18,Hull City AFC ,34,28,35,Crystal Palace FC ,44,29,27,Huddersfield Town AFC ,16,10,31,Burnley FC ,39,20,19
-4,Manchester United FC ,66,27,9,Manchester City FC ,78,37,17,Everton FC ,49,28,22,Newcastle United FC ,45,24,25,Crystal Palace FC ,39,12,13
-5,Norwich City FC ,34,26,30,Middlesbrough FC ,28,17,23,Southampton FC ,36,20,26,Watford FC ,50,26,28,Watford FC ,27,16,17
-6,Arsenal FC ,71,31,11,Southampton FC ,46,17,21,Watford FC ,41,27,31,Wolverhampton Wanderers FC ,57,28,21,Tottenham Hotspur FC ,41,27,15
-7,Newcastle United FC ,37,32,24,Arsenal FC ,75,39,16,West Bromwich Albion FC ,31,21,29,Arsenal FC ,70,42,16,Leicester City FC ,53,30,15
-8,Stoke City FC ,51,22,24,AFC Bournemouth ,46,35,29,Manchester United FC ,81,38,9,Liverpool FC ,97,55,10,Newcastle United FC ,35,12,12
-9,West Bromwich Albion FC ,43,20,26,Chelsea FC ,93,55,17,Newcastle United FC ,44,21,17,Southampton FC ,39,27,30,Manchester United FC ,45,29,12
-10,Aston Villa FC ,17,14,35,Manchester United FC ,69,26,12,AFC Bournemouth ,44,26,30,Cardiff City FC ,34,21,38,Arsenal FC ,40,26,20
-11,Southampton FC ,63,39,22,Leicester City FC ,44,31,25,Burnley FC ,54,16,17,Chelsea FC ,72,39,12,Aston Villa FC ,25,18,24
-12,Sunderland AFC ,39,23,20,Stoke City FC ,44,24,24,Leicester City FC ,47,25,22,Everton FC ,54,30,21,Brighton & Hove Albion FC ,29,17,15
-13,Swansea City AFC ,47,20,20,Swansea City AFC ,41,27,34,Liverpool FC ,75,45,10,Leicester City FC ,52,24,20,Everton FC ,37,19,15
-14,Tottenham Hotspur FC ,70,35,15,Tottenham Hotspur FC ,86,47,9,Stoke City FC ,33,20,30,Tottenham Hotspur FC ,71,34,16,Norwich City FC ,21,19,26
-15,Watford FC ,45,20,19,Watford FC ,40,25,29,Swansea City AFC ,33,17,24,West Ham United FC ,52,32,27,Southampton FC ,34,16,31
-16,West Ham United FC ,62,34,26,West Bromwich Albion FC ,45,27,22,Huddersfield Town AFC ,37,16,25,Brighton & Hove Albion FC ,36,19,28,Manchester City FC ,57,33,12
-17,Crystal Palace FC ,42,19,23,Sunderland AFC ,24,16,34,Tottenham Hotspur FC ,77,40,16,Burnley FC ,40,24,32,Sheffield United FC ,43,17,13
-18,Manchester City FC ,66,47,21,West Ham United FC ,45,19,31,Manchester City FC ,100,61,14,Manchester City FC ,98,57,12,Chelsea FC ,48,22,15
-19,Liverpool FC ,60,33,22,Liverpool FC ,76,45,18,West Ham United FC ,42,24,26,Crystal Palace FC ,49,19,23,Wolverhampton Wanderers FC ,43,21,17
+,Year,Teams,Points,Goals+,Goals-
+0,2015,AFC Bournemouth ,42,23,34
+1,2015,Chelsea FC ,50,32,30
+2,2015,Everton FC ,47,35,30
+3,2015,Leicester City FC ,81,35,18
+4,2015,Manchester United FC ,66,27,9
+5,2015,Norwich City FC ,34,26,30
+6,2015,Arsenal FC ,71,31,11
+7,2015,Newcastle United FC ,37,32,24
+8,2015,Stoke City FC ,51,22,24
+9,2015,West Bromwich Albion FC ,43,20,26
+10,2015,Aston Villa FC ,17,14,35
+11,2015,Southampton FC ,63,39,22
+12,2015,Sunderland AFC ,39,23,20
+13,2015,Swansea City AFC ,47,20,20
+14,2015,Tottenham Hotspur FC ,70,35,15
+15,2015,Watford FC ,45,20,19
+16,2015,West Ham United FC ,62,34,26
+17,2015,Crystal Palace FC ,42,19,23
+18,2015,Manchester City FC ,66,47,21
+19,2015,Liverpool FC ,60,33,22
+20,2016,Burnley FC ,40,26,20
+21,2016,Crystal Palace FC ,41,24,25
+22,2016,Everton FC ,61,42,16
+23,2016,Hull City AFC ,34,28,35
+24,2016,Manchester City FC ,78,37,17
+25,2016,Middlesbrough FC ,28,17,23
+26,2016,Southampton FC ,46,17,21
+27,2016,Arsenal FC ,75,39,16
+28,2016,AFC Bournemouth ,46,35,29
+29,2016,Chelsea FC ,93,55,17
+30,2016,Manchester United FC ,69,26,12
+31,2016,Leicester City FC ,44,31,25
+32,2016,Stoke City FC ,44,24,24
+33,2016,Swansea City AFC ,41,27,34
+34,2016,Tottenham Hotspur FC ,86,47,9
+35,2016,Watford FC ,40,25,29
+36,2016,West Bromwich Albion FC ,45,27,22
+37,2016,Sunderland AFC ,24,16,34
+38,2016,West Ham United FC ,45,19,31
+39,2016,Liverpool FC ,76,45,18
+40,2017,Arsenal FC ,63,54,20
+41,2017,Brighton & Hove Albion FC ,40,24,25
+42,2017,Chelsea FC ,70,30,16
+43,2017,Crystal Palace FC ,44,29,27
+44,2017,Everton FC ,49,28,22
+45,2017,Southampton FC ,36,20,26
+46,2017,Watford FC ,41,27,31
+47,2017,West Bromwich Albion FC ,31,21,29
+48,2017,Manchester United FC ,81,38,9
+49,2017,Newcastle United FC ,44,21,17
+50,2017,AFC Bournemouth ,44,26,30
+51,2017,Burnley FC ,54,16,17
+52,2017,Leicester City FC ,47,25,22
+53,2017,Liverpool FC ,75,45,10
+54,2017,Stoke City FC ,33,20,30
+55,2017,Swansea City AFC ,33,17,24
+56,2017,Huddersfield Town AFC ,37,16,25
+57,2017,Tottenham Hotspur FC ,77,40,16
+58,2017,Manchester City FC ,100,61,14
+59,2017,West Ham United FC ,42,24,26
+60,2018,Manchester United FC ,66,33,25
+61,2018,AFC Bournemouth ,45,30,25
+62,2018,Fulham FC ,26,22,36
+63,2018,Huddersfield Town AFC ,16,10,31
+64,2018,Newcastle United FC ,45,24,25
+65,2018,Watford FC ,50,26,28
+66,2018,Wolverhampton Wanderers FC ,57,28,21
+67,2018,Arsenal FC ,70,42,16
+68,2018,Liverpool FC ,97,55,10
+69,2018,Southampton FC ,39,27,30
+70,2018,Cardiff City FC ,34,21,38
+71,2018,Chelsea FC ,72,39,12
+72,2018,Everton FC ,54,30,21
+73,2018,Leicester City FC ,52,24,20
+74,2018,Tottenham Hotspur FC ,71,34,16
+75,2018,West Ham United FC ,52,32,27
+76,2018,Brighton & Hove Albion FC ,36,19,28
+77,2018,Burnley FC ,40,24,32
+78,2018,Manchester City FC ,98,57,12
+79,2018,Crystal Palace FC ,49,19,23
+80,2019,Liverpool FC ,82,40,12
+81,2019,West Ham United FC ,27,23,26
+82,2019,AFC Bournemouth ,27,17,21
+83,2019,Burnley FC ,39,20,19
+84,2019,Crystal Palace FC ,39,12,13
+85,2019,Watford FC ,27,16,17
+86,2019,Tottenham Hotspur FC ,41,27,15
+87,2019,Leicester City FC ,53,30,15
+88,2019,Newcastle United FC ,35,12,12
+89,2019,Manchester United FC ,45,29,12
+90,2019,Arsenal FC ,40,26,20
+91,2019,Aston Villa FC ,25,18,24
+92,2019,Brighton & Hove Albion FC ,29,17,15
+93,2019,Everton FC ,37,19,15
+94,2019,Norwich City FC ,21,19,26
+95,2019,Southampton FC ,34,16,31
+96,2019,Manchester City FC ,57,33,12
+97,2019,Sheffield United FC ,43,17,13
+98,2019,Chelsea FC ,48,22,15
+99,2019,Wolverhampton Wanderers FC ,43,21,17

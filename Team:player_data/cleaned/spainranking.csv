@@ -1,21 +1,101 @@
-,Teams2015,Points2015,Goals+2015,Goals-2015,Teams2016,Points2016,Goals+2016,Goals-2016,Teams2017,Points2017,Goals+2017,Goals-2017,Teams2018,Points2018,Goals+2018,Goals-2018,Teams2019,Points2019,Goals+2019,Goals-2019
-0,Málaga CF ,48,26,15,RCD La Coruña ,36,27,23,CD Leganés ,43,19,19,Real Betis ,50,25,26,Athletic Club Bilbao ,37,15,7
-1,Atlético Madrid ,88,33,7,Málaga CF ,46,32,25,Valencia CF ,73,36,16,Girona FC ,37,17,28,RC Celta Vigo ,26,10,12
-2,RCD Espanyol ,43,22,28,FC Barcelona ,90,64,17,RC Celta Vigo ,49,34,23,FC Barcelona ,87,51,17,Valencia CF ,42,23,12
-3,RCD La Coruña ,42,25,34,Granada CF ,20,17,32,Girona FC ,51,26,22,RC Celta Vigo ,41,31,25,RCD Mallorca ,25,16,14
-4,Rayo Vallecano ,38,29,29,Sevilla FC ,72,39,16,Sevilla FC ,58,31,22,Villarreal CF ,44,28,26,CD Leganés ,23,13,19
-5,Athletic Club Bilbao ,62,35,17,Atlético Madrid ,78,40,14,Athletic Club Bilbao ,43,19,16,SD Eibar ,47,31,21,Villarreal CF ,38,26,17
-6,Real Betis ,45,17,23,Real Sociedad ,64,30,24,FC Barcelona ,93,53,11,Real Madrid ,68,32,15,Deportivo Alavés ,32,18,11
-7,Levante UD ,32,23,26,Sporting Gijón ,31,26,38,RCD La Coruña ,29,22,33,Rayo Vallecano ,32,25,32,RCD Espanyol ,20,12,24
-8,Sporting Gijón ,39,28,28,RC Celta Vigo ,45,30,32,Levante UD ,46,25,28,Athletic Club Bilbao ,53,26,19,Real Betis ,33,27,21
-9,Granada CF ,39,26,31,Valencia CF ,46,32,32,Málaga CF ,20,14,27,Valencia CF ,61,24,12,Atlético Madrid ,45,20,9
-10,Villarreal CF ,64,26,12,Real Betis ,39,22,24,Real Betis ,60,35,31,Getafe CF ,59,28,13,Granada CF ,38,16,8
-11,FC Barcelona ,91,67,14,RCD Espanyol ,56,28,24,Real Sociedad ,49,47,29,CD Leganés ,45,19,16,Levante UD ,33,19,12
-12,RC Celta Vigo ,60,29,25,SD Eibar ,54,29,21,Deportivo Alavés ,47,21,23,Deportivo Alavés ,50,19,19,CA Osasuna ,34,20,20
-13,Real Madrid ,90,70,16,CD Leganés ,35,22,23,UD Las Palmas ,22,15,38,Atlético Madrid ,76,32,10,Real Madrid ,56,27,9
-14,Real Sociedad ,48,22,20,CA Osasuna ,22,23,39,SD Eibar ,51,26,19,Real Valladolid CF ,41,16,26,Getafe CF ,46,21,13
-15,SD Eibar ,43,26,22,Real Madrid ,93,48,20,RCD Espanyol ,49,20,16,RCD Espanyol ,53,28,22,FC Barcelona ,58,45,12
-16,Getafe CF ,36,23,20,Deportivo Alavés ,55,19,21,Getafe CF ,55,26,13,Sevilla FC ,59,39,20,Sevilla FC ,47,19,13
-17,UD Las Palmas ,44,25,17,Athletic Club Bilbao ,63,36,18,Real Madrid ,76,54,20,Levante UD ,44,34,34,Real Sociedad ,46,27,12
-18,Sevilla FC ,52,38,21,UD Las Palmas ,39,33,25,Villarreal CF ,61,35,22,SD Huesca ,33,24,30,SD Eibar ,27,19,20
-19,Valencia CF ,44,25,23,Villarreal CF ,67,35,18,Atlético Madrid ,79,30,8,Real Sociedad ,50,23,20,Real Valladolid CF ,29,14,13
+,Year,Teams,Points,Goals+,Goals-
+0,2015,Málaga CF ,48,26,15
+1,2015,Atlético Madrid ,88,33,7
+2,2015,RCD Espanyol ,43,22,28
+3,2015,RCD La Coruña ,42,25,34
+4,2015,Rayo Vallecano ,38,29,29
+5,2015,Athletic Club Bilbao ,62,35,17
+6,2015,Real Betis ,45,17,23
+7,2015,Levante UD ,32,23,26
+8,2015,Sporting Gijón ,39,28,28
+9,2015,Granada CF ,39,26,31
+10,2015,Villarreal CF ,64,26,12
+11,2015,FC Barcelona ,91,67,14
+12,2015,RC Celta Vigo ,60,29,25
+13,2015,Real Madrid ,90,70,16
+14,2015,Real Sociedad ,48,22,20
+15,2015,SD Eibar ,43,26,22
+16,2015,Getafe CF ,36,23,20
+17,2015,UD Las Palmas ,44,25,17
+18,2015,Sevilla FC ,52,38,21
+19,2015,Valencia CF ,44,25,23
+20,2016,RCD La Coruña ,36,27,23
+21,2016,Málaga CF ,46,32,25
+22,2016,FC Barcelona ,90,64,17
+23,2016,Granada CF ,20,17,32
+24,2016,Sevilla FC ,72,39,16
+25,2016,Atlético Madrid ,78,40,14
+26,2016,Real Sociedad ,64,30,24
+27,2016,Sporting Gijón ,31,26,38
+28,2016,RC Celta Vigo ,45,30,32
+29,2016,Valencia CF ,46,32,32
+30,2016,Real Betis ,39,22,24
+31,2016,RCD Espanyol ,56,28,24
+32,2016,SD Eibar ,54,29,21
+33,2016,CD Leganés ,35,22,23
+34,2016,CA Osasuna ,22,23,39
+35,2016,Real Madrid ,93,48,20
+36,2016,Deportivo Alavés ,55,19,21
+37,2016,Athletic Club Bilbao ,63,36,18
+38,2016,UD Las Palmas ,39,33,25
+39,2016,Villarreal CF ,67,35,18
+40,2017,CD Leganés ,43,19,19
+41,2017,Valencia CF ,73,36,16
+42,2017,RC Celta Vigo ,49,34,23
+43,2017,Girona FC ,51,26,22
+44,2017,Sevilla FC ,58,31,22
+45,2017,Athletic Club Bilbao ,43,19,16
+46,2017,FC Barcelona ,93,53,11
+47,2017,RCD La Coruña ,29,22,33
+48,2017,Levante UD ,46,25,28
+49,2017,Málaga CF ,20,14,27
+50,2017,Real Betis ,60,35,31
+51,2017,Real Sociedad ,49,47,29
+52,2017,Deportivo Alavés ,47,21,23
+53,2017,UD Las Palmas ,22,15,38
+54,2017,SD Eibar ,51,26,19
+55,2017,RCD Espanyol ,49,20,16
+56,2017,Getafe CF ,55,26,13
+57,2017,Real Madrid ,76,54,20
+58,2017,Villarreal CF ,61,35,22
+59,2017,Atlético Madrid ,79,30,8
+60,2018,Real Betis ,50,25,26
+61,2018,Girona FC ,37,17,28
+62,2018,FC Barcelona ,87,51,17
+63,2018,RC Celta Vigo ,41,31,25
+64,2018,Villarreal CF ,44,28,26
+65,2018,SD Eibar ,47,31,21
+66,2018,Real Madrid ,68,32,15
+67,2018,Rayo Vallecano ,32,25,32
+68,2018,Athletic Club Bilbao ,53,26,19
+69,2018,Valencia CF ,61,24,12
+70,2018,Getafe CF ,59,28,13
+71,2018,CD Leganés ,45,19,16
+72,2018,Deportivo Alavés ,50,19,19
+73,2018,Atlético Madrid ,76,32,10
+74,2018,Real Valladolid CF ,41,16,26
+75,2018,RCD Espanyol ,53,28,22
+76,2018,Sevilla FC ,59,39,20
+77,2018,Levante UD ,44,34,34
+78,2018,SD Huesca ,33,24,30
+79,2018,Real Sociedad ,50,23,20
+80,2019,Athletic Club Bilbao ,37,15,7
+81,2019,RC Celta Vigo ,26,10,12
+82,2019,Valencia CF ,42,23,12
+83,2019,RCD Mallorca ,25,16,14
+84,2019,CD Leganés ,23,13,19
+85,2019,Villarreal CF ,38,26,17
+86,2019,Deportivo Alavés ,32,18,11
+87,2019,RCD Espanyol ,20,12,24
+88,2019,Real Betis ,33,27,21
+89,2019,Atlético Madrid ,45,20,9
+90,2019,Granada CF ,38,16,8
+91,2019,Levante UD ,33,19,12
+92,2019,CA Osasuna ,34,20,20
+93,2019,Real Madrid ,56,27,9
+94,2019,Getafe CF ,46,21,13
+95,2019,FC Barcelona ,58,45,12
+96,2019,Sevilla FC ,47,19,13
+97,2019,Real Sociedad ,46,27,12
+98,2019,SD Eibar ,27,19,20
+99,2019,Real Valladolid CF ,29,14,13
