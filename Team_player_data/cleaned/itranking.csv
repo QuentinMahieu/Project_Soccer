@@ -1,101 +1,2822 @@
-,Year,Teams,Points,Goals+,Goals-
-0,2015,SS Lazio ,54,32,23
-1,2015,Hellas Verona FC ,28,21,30
-2,2015,Empoli ,46,22,20
-3,2015,ACF Fiorentina ,64,34,16
-4,2015,Frosinone ,31,18,26
-5,2015,FC Internazionale Milano ,67,29,15
-6,2015,Juventus ,91,37,6
-7,2015,Palermo ,39,24,30
-8,2015,UC Sampdoria ,40,29,25
-9,2015,US Sassuolo Calcio ,61,25,20
-10,2015,Bologna FC ,42,20,21
-11,2015,AC Milan ,57,28,22
-12,2015,Atalanta BC ,45,27,21
-13,2015,Carpi ,38,23,26
-14,2015,AC Chievo Verona ,50,25,18
-15,2015,Genoa CFC ,46,29,19
-16,2015,SSC Napoli ,82,49,12
-17,2015,AS Roma ,80,44,17
-18,2015,Torino FC ,45,25,25
-19,2015,Udinese Calcio ,39,18,28
-20,2016,Juventus ,91,48,9
-21,2016,AS Roma ,87,50,18
-22,2016,Atalanta BC ,72,31,18
-23,2016,Bologna FC ,41,24,25
-24,2016,AC Chievo Verona ,43,25,30
-25,2016,Empoli ,32,16,29
-26,2016,Genoa CFC ,36,24,24
-27,2016,AC Milan ,63,32,20
-28,2016,Palermo ,26,13,30
-29,2016,Pescara ,18,19,38
-30,2016,SS Lazio ,70,40,23
-31,2016,SSC Napoli ,86,44,19
-32,2016,Cagliari Calcio ,47,38,34
-33,2016,FC Crotone ,34,21,25
-34,2016,ACF Fiorentina ,60,34,23
-35,2016,FC Internazionale Milano ,62,44,22
-36,2016,UC Sampdoria ,48,28,23
-37,2016,US Sassuolo Calcio ,46,27,28
-38,2016,Torino FC ,53,43,31
-39,2016,Udinese Calcio ,45,30,23
-40,2017,Juventus ,95,45,8
-41,2017,Hellas Verona FC ,25,14,35
-42,2017,Atalanta BC ,60,30,18
-43,2017,Bologna FC ,39,25,26
-44,2017,FC Crotone ,35,23,25
-45,2017,FC Internazionale Milano ,72,37,16
-46,2017,SS Lazio ,72,45,21
-47,2017,UC Sampdoria ,54,36,20
-48,2017,US Sassuolo Calcio ,43,11,22
-49,2017,Udinese Calcio ,40,24,30
-50,2017,Benevento ,21,23,40
-51,2017,Genoa CFC ,41,23,27
-52,2017,AS Roma ,77,31,19
-53,2017,AC Chievo Verona ,40,22,24
-54,2017,ACF Fiorentina ,57,27,22
-55,2017,AC Milan ,64,25,16
-56,2017,SSC Napoli ,91,43,18
-57,2017,SPAL ,38,22,29
-58,2017,Torino FC ,54,29,18
-59,2017,Cagliari Calcio ,39,18,30
-60,2018,AC Chievo Verona ,20,14,37
-61,2018,SS Lazio ,59,36,25
-62,2018,Bologna FC ,44,28,22
-63,2018,Empoli ,38,33,30
-64,2018,Parma ,41,18,25
-65,2018,US Sassuolo Calcio ,43,33,33
-66,2018,Torino FC ,63,32,19
-67,2018,Atalanta BC ,69,36,19
-68,2018,Juventus ,90,39,13
-69,2018,SSC Napoli ,79,41,16
-70,2018,Cagliari Calcio ,41,23,20
-71,2018,ACF Fiorentina ,41,25,19
-72,2018,Frosinone ,25,14,38
-73,2018,Genoa CFC ,38,21,22
-74,2018,FC Internazionale Milano ,69,27,10
-75,2018,SPAL ,42,20,26
-76,2018,Udinese Calcio ,43,22,22
-77,2018,AS Roma ,66,43,26
-78,2018,AC Milan ,68,31,17
-79,2018,UC Sampdoria ,53,28,16
-80,2019,Parma ,35,17,12
-81,2019,ACF Fiorentina ,30,13,17
-82,2019,Udinese Calcio ,28,10,12
-83,2019,Cagliari Calcio ,32,25,23
-84,2019,AS Roma ,45,26,19
-85,2019,UC Sampdoria ,26,16,22
-86,2019,SPAL ,18,11,20
-87,2019,Torino FC ,27,11,22
-88,2019,Hellas Verona FC ,35,17,12
-89,2019,FC Internazionale Milano ,54,23,10
-90,2019,Bologna FC ,34,18,20
-91,2019,AC Milan ,36,13,15
-92,2019,Juventus ,63,31,10
-93,2019,SS Lazio ,62,39,10
-94,2019,Atalanta BC ,48,33,19
-95,2019,Genoa CFC ,25,14,18
-96,2019,US Lecce ,25,19,26
-97,2019,US Sassuolo Calcio ,32,28,22
-98,2019,SSC Napoli ,39,17,18
-99,2019,Brescia ,16,13,25
+,Year,Teams,Points,Goals+,Goals-,index,short_name,nationality
+0,2015,SS Lazio,54,32,23,76,A. Candreva,Italy
+1,2015,SS Lazio,54,32,23,178,M. Klose,Germany
+2,2015,SS Lazio,54,32,23,366,F. Marchetti,Italy
+3,2015,SS Lazio,54,32,23,437,S. de Vrij,Netherlands
+4,2015,SS Lazio,54,32,23,526,S. Lulić,Bosnia Herzegovina
+5,2015,SS Lazio,54,32,23,577,S. Radu,Romania
+6,2015,SS Lazio,54,32,23,610,S. Mauri,Italy
+7,2015,SS Lazio,54,32,23,623,L. Cana,Albania
+8,2015,SS Lazio,54,32,23,640,L. Biglia,Argentina
+9,2015,SS Lazio,54,32,23,671,M. Parolo,Italy
+10,2015,SS Lazio,54,32,23,684,B. Keita,Spain
+11,2015,SS Lazio,54,32,23,809,C. Ledesma,Italy
+12,2015,SS Lazio,54,32,23,919,O. Onazi,Nigeria
+13,2015,SS Lazio,54,32,23,955,F. Djordjevic,Serbia
+14,2015,SS Lazio,54,32,23,1060,M. Ciani,France
+15,2015,SS Lazio,54,32,23,1093,Ederson,Brazil
+16,2015,SS Lazio,54,32,23,1103,A. Konko,France
+17,2015,SS Lazio,54,32,23,1113,D. Basta,Serbia
+18,2015,SS Lazio,54,32,23,1487,A. González,Uruguay
+19,2015,SS Lazio,54,32,23,1535,Felipe Anderson,Brazil
+20,2015,SS Lazio,54,32,23,1969,E. Berisha,Albania
+21,2015,SS Lazio,54,32,23,2032,L. Cavanda,Belgium
+22,2015,SS Lazio,54,32,23,2158,G. Sculli,Italy
+23,2015,SS Lazio,54,32,23,3293,S. Gentiletti,Argentina
+24,2015,SS Lazio,54,32,23,3413,Pereirinha,Portugal
+25,2015,SS Lazio,54,32,23,3735,E. Braafheid,Netherlands
+26,2015,SS Lazio,54,32,23,3848,D. Novaretti,Argentina
+27,2015,SS Lazio,54,32,23,4657,D. Cataldi,Italy
+28,2015,SS Lazio,54,32,23,7148,T. Strakosha,Albania
+29,2015,SS Lazio,54,32,23,9822,M. Tounkara,Spain
+30,2015,SS Lazio,54,32,23,9838,R. Serpieri,Italy
+31,2015,SS Lazio,54,32,23,11383,G. Pollace,Italy
+32,2015,SS Lazio,54,32,23,11386,M. Antic,Serbia
+33,2015,Hellas Verona,28,21,30,801,R. Márquez,Mexico
+34,2015,Hellas Verona,28,21,30,1154,N. López,Uruguay
+35,2015,Hellas Verona,28,21,30,1409,Rafael,Brazil
+36,2015,Hellas Verona,28,21,30,1714,J. Saviola,Argentina
+37,2015,Hellas Verona,28,21,30,1725,L. Toni,Italy
+38,2015,Hellas Verona,28,21,30,1804,M. Obbadi,Morocco
+39,2015,Hellas Verona,28,21,30,1852,B. Janković,Serbia
+40,2015,Hellas Verona,28,21,30,2041,D. Brivio,Italy
+41,2015,Hellas Verona,28,21,30,2052,L. Christodoulopoulos,Greece
+42,2015,Hellas Verona,28,21,30,2167,E. Hallfreðsson,Iceland
+43,2015,Hellas Verona,28,21,30,2206,V. Moras,Greece
+44,2015,Hellas Verona,28,21,30,2226,Rafael Marques,Brazil
+45,2015,Hellas Verona,28,21,30,2258,G. Rodríguez,Uruguay
+46,2015,Hellas Verona,28,21,30,2358,F. Sørensen,Denmark
+47,2015,Hellas Verona,28,21,30,2432,Luna,Spain
+48,2015,Hellas Verona,28,21,30,2745,Nenê,Brazil
+49,2015,Hellas Verona,28,21,30,2863,P. Tachtsidis,Greece
+50,2015,Hellas Verona,28,21,30,3073,A. González,Uruguay
+51,2015,Hellas Verona,28,21,30,3287,J. Gomez,Argentina
+52,2015,Hellas Verona,28,21,30,3640,A. Agostini,Italy
+53,2015,Hellas Verona,28,21,30,4665,M. Valoti,Italy
+54,2015,Hellas Verona,28,21,30,5153,F. Benussi,Italy
+55,2015,Hellas Verona,28,21,30,6302,J. Sala,Italy
+56,2015,Hellas Verona,28,21,30,8273,G. Campanharo,Brazil
+57,2015,Hellas Verona,28,21,30,8492,A. Ioniţă,Moldova
+58,2015,Hellas Verona,28,21,30,9083,I. Martić,Croatia
+59,2015,Hellas Verona,28,21,30,12639,F. Boni,Italy
+60,2015,Hellas Verona,28,21,30,13176,O. Arzamendia,Paraguay
+61,2015,Hellas Verona,28,21,30,13672,E. Bearzotti,Italy
+62,2015,Hellas Verona,28,21,30,13988,P. Gollini,Italy
+63,2015,Hellas Verona,28,21,30,14315,P. Cappelluzzo,Italy
+64,2015,Empoli,46,22,20,2155,M. Maccarone,Italy
+65,2015,Empoli,46,22,20,3119,F. Tavano,Italy
+66,2015,Empoli,46,22,20,3214,T. Guarente,Italy
+67,2015,Empoli,46,22,20,3354,M. Vecino,Uruguay
+68,2015,Empoli,46,22,20,3559,L. Tonelli,Italy
+69,2015,Empoli,46,22,20,3818,D. Bassi,Italy
+70,2015,Empoli,46,22,20,3929,P. Zieliński,Poland
+71,2015,Empoli,46,22,20,3955,D. Laxalt,Uruguay
+72,2015,Empoli,46,22,20,4586,M. Valdifiori,Italy
+73,2015,Empoli,46,22,20,4648,D. Rugani,Italy
+74,2015,Empoli,46,22,20,4681,E. Hysaj,Albania
+75,2015,Empoli,46,22,20,4713,L. Sepe,Italy
+76,2015,Empoli,46,22,20,4787,L. Mchedlidze,Georgia
+77,2015,Empoli,46,22,20,4920,M. Pucciarelli,Italy
+78,2015,Empoli,46,22,20,5046,V. Laurini,France
+79,2015,Empoli,46,22,20,5472,S. Verdi,Italy
+80,2015,Empoli,46,22,20,5479,M. Bianchetti,Italy
+81,2015,Empoli,46,22,20,5622,Mário Rui,Portugal
+82,2015,Empoli,46,22,20,5631,F. Barba,Italy
+83,2015,Empoli,46,22,20,5965,D. Croce,Italy
+84,2015,Empoli,46,22,20,6257,R. Aguirre,Uruguay
+85,2015,Empoli,46,22,20,6583,F. Signorelli,Venezuela
+86,2015,Empoli,46,22,20,6933,D. Moro,Italy
+87,2015,Empoli,46,22,20,7950,R. Perticone,Italy
+88,2015,Empoli,46,22,20,8330,L. Martinelli,Italy
+89,2015,Empoli,46,22,20,10061,I. Shekiladze,Georgia
+90,2015,Empoli,46,22,20,13637,M. Bachini,Italy
+91,2015,Empoli,46,22,20,14041,D. Konate,Ivory Coast
+92,2015,Empoli,46,22,20,14332,F. Pacini,Italy
+93,2015,Empoli,46,22,20,14814,E. Rovini,Italy
+94,2015,ACF Fiorentina,64,34,16,67,J. Cuadrado,Colombia
+95,2015,ACF Fiorentina,64,34,16,114,G. Rossi,Italy
+96,2015,ACF Fiorentina,64,34,16,138,M. Gomez,Germany
+97,2015,ACF Fiorentina,64,34,16,142,Borja Valero,Spain
+98,2015,ACF Fiorentina,64,34,16,358,A. Aquilani,Italy
+99,2015,ACF Fiorentina,64,34,16,368,G. Rodríguez,Argentina
+100,2015,ACF Fiorentina,64,34,16,440,S. Savić,Montenegro
+101,2015,ACF Fiorentina,64,34,16,471,Joaquín,Spain
+102,2015,ACF Fiorentina,64,34,16,516,M. Fernández,Chile
+103,2015,ACF Fiorentina,64,34,16,545,M. Marin,Germany
+104,2015,ACF Fiorentina,64,34,16,592,M. Richards,England
+105,2015,ACF Fiorentina,64,34,16,717,Neto,Brazil
+106,2015,ACF Fiorentina,64,34,16,764,M. Badelj,Croatia
+107,2015,ACF Fiorentina,64,34,16,791,J. Iličić,Slovenia
+108,2015,ACF Fiorentina,64,34,16,858,J. Vargas,Peru
+109,2015,ACF Fiorentina,64,34,16,1033,D. Pizarro,Chile
+110,2015,ACF Fiorentina,64,34,16,1437,M. Pasqual,Italy
+111,2015,ACF Fiorentina,64,34,16,1506,C. Tătăruşanu,Romania
+112,2015,ACF Fiorentina,64,34,16,1692,N. Tomović,Serbia
+113,2015,ACF Fiorentina,64,34,16,1770,M. El Hamdaoui,Morocco
+114,2015,ACF Fiorentina,64,34,16,1903,K. Babacar,Senegal
+115,2015,ACF Fiorentina,64,34,16,2033,J. Kurtić,Slovenia
+116,2015,ACF Fiorentina,64,34,16,2241,A. Lazzari,Italy
+117,2015,ACF Fiorentina,64,34,16,3797,J. Basanta,Argentina
+118,2015,ACF Fiorentina,64,34,16,3894,F. Bernardeschi,Italy
+119,2015,ACF Fiorentina,64,34,16,4189,O. Iakovenko,Ukraine
+120,2015,ACF Fiorentina,64,34,16,4333,C. Lupatelli,Italy
+121,2015,ACF Fiorentina,64,34,16,6403,Marcos Alonso,Spain
+122,2015,ACF Fiorentina,64,34,16,6430,A. Hegazy,Egypt
+123,2015,ACF Fiorentina,64,34,16,8112,Octávio,Brazil
+124,2015,ACF Fiorentina,64,34,16,9068,J. Brillante,Australia
+125,2015,ACF Fiorentina,64,34,16,9833,L. Lezzerini,Italy
+126,2015,ACF Fiorentina,64,34,16,13154,J. Petriccione,Italy
+127,2015,Frosinone,31,18,26,3475,F. Dionisi,Italy
+128,2015,Frosinone,31,18,26,4503,R. Schiavi,Italy
+129,2015,Frosinone,31,18,26,5517,M. Pigliacelli,Italy
+130,2015,Frosinone,31,18,26,6990,D. Ciofani,Italy
+131,2015,Frosinone,31,18,26,7024,G. Masucci,Italy
+132,2015,Frosinone,31,18,26,7056,D. Zanon,Italy
+133,2015,Frosinone,31,18,26,7408,G. Musacci,Italy
+134,2015,Frosinone,31,18,26,8764,A. Frara,Italy
+135,2015,Frosinone,31,18,26,8784,A. Russo,Italy
+136,2015,Frosinone,31,18,26,8903,D. Soddimo,Italy
+137,2015,Frosinone,31,18,26,8928,D. Curiale,Italy
+138,2015,Frosinone,31,18,26,9724,M. Zappino,Brazil
+139,2015,Frosinone,31,18,26,10284,M. Ciofani,Italy
+140,2015,Frosinone,31,18,26,10885,R. Gucher,Austria
+141,2015,Frosinone,31,18,26,11318,A. Gessa,Italy
+142,2015,Frosinone,31,18,26,11637,D. Bertoncini,Italy
+143,2015,Frosinone,31,18,26,11849,L. Blanchard,Italy
+144,2015,Frosinone,31,18,26,11946,M. Carlini,Italy
+145,2015,Frosinone,31,18,26,14089,D. Altobelli,Italy
+146,2015,Frosinone,31,18,26,14262,L. Paganini,Italy
+147,2015,Frosinone,31,18,26,14295,R. Crivello,Italy
+148,2015,Frosinone,31,18,26,14704,M. Gori,Italy
+149,2015,Frosinone,31,18,26,14870,L. Santamaría,Panama
+150,2015,Frosinone,31,18,26,14941,V. De Lucia,Italy
+151,2015,Frosinone,31,18,26,14959,E. Crescenzi,Italy
+152,2015,Frosinone,31,18,26,15017,F. Formato,Italy
+153,2015,FC Internazionale Milano,67,29,15,83,N. Vidić,Serbia
+154,2015,FC Internazionale Milano,67,29,15,92,S. Handanovič,Slovenia
+155,2015,FC Internazionale Milano,67,29,15,139,R. Palacio,Argentina
+156,2015,FC Internazionale Milano,67,29,15,148,Hernanes,Brazil
+157,2015,FC Internazionale Milano,67,29,15,386,F. Guarín,Colombia
+158,2015,FC Internazionale Milano,67,29,15,410,Juan Jesus,Brazil
+159,2015,FC Internazionale Milano,67,29,15,448,Y. M'Vila,France
+160,2015,FC Internazionale Milano,67,29,15,563,A. Ranocchia,Italy
+161,2015,FC Internazionale Milano,67,29,15,621,H. Campagnaro,Argentina
+162,2015,FC Internazionale Milano,67,29,15,649,Jonathan,Brazil
+163,2015,FC Internazionale Milano,67,29,15,666,P. Osvaldo,Italy
+164,2015,FC Internazionale Milano,67,29,15,678,M. Icardi,Argentina
+165,2015,FC Internazionale Milano,67,29,15,789,G. Medel,Chile
+166,2015,FC Internazionale Milano,67,29,15,880,Y. Nagatomo,Japan
+167,2015,FC Internazionale Milano,67,29,15,888,M. Kovačić,Croatia
+168,2015,FC Internazionale Milano,67,29,15,946,Z. Kuzmanović,Serbia
+169,2015,FC Internazionale Milano,67,29,15,1463,J. Carrizo,Argentina
+170,2015,FC Internazionale Milano,67,29,15,1471,M. Andreolli,Italy
+171,2015,FC Internazionale Milano,67,29,15,2533,R. Krhin,Slovenia
+172,2015,FC Internazionale Milano,67,29,15,2807,Dodô,Brazil
+173,2015,FC Internazionale Milano,67,29,15,2833,J. Obi,Nigeria
+174,2015,FC Internazionale Milano,67,29,15,4021,D. D'Ambrosio,Italy
+175,2015,FC Internazionale Milano,67,29,15,6236,I. Mbaye,Senegal
+176,2015,FC Internazionale Milano,67,29,15,8761,T. Berni,Italy
+177,2015,FC Internazionale Milano,67,29,15,10554,F. Bonazzoli,Italy
+178,2015,FC Internazionale Milano,67,29,15,11450,A. Guidiala,France
+179,2015,FC Internazionale Milano,67,29,15,12006,G. Sciacca,Italy
+180,2015,FC Internazionale Milano,67,29,15,12618,A. Palazzi,Italy
+181,2015,FC Internazionale Milano,67,29,15,13161,D. Costa,Italy
+182,2015,FC Internazionale Milano,67,29,15,13270,R. Alborno,Paraguay
+183,2015,FC Internazionale Milano,67,29,15,13626,M. Casale,Italy
+184,2015,FC Internazionale Milano,67,29,15,14303,I. Donkor,Ghana
+185,2015,FC Internazionale Milano,67,29,15,15414,M. Rocca,Italy
+186,2015,Juventus,91,37,6,37,A. Vidal,Chile
+187,2015,Juventus,91,37,6,43,C. Tévez,Argentina
+188,2015,Juventus,91,37,6,54,A. Pirlo,Italy
+189,2015,Juventus,91,37,6,57,G. Chiellini,Italy
+190,2015,Juventus,91,37,6,63,P. Pogba,France
+191,2015,Juventus,91,37,6,82,A. Barzagli,Italy
+192,2015,Juventus,91,37,6,94,C. Marchisio,Italy
+193,2015,Juventus,91,37,6,127,G. Buffon,Italy
+194,2015,Juventus,91,37,6,196,Llorente,Spain
+195,2015,Juventus,91,37,6,260,P. Evra,France
+196,2015,Juventus,91,37,6,317,L. Bonucci,Italy
+197,2015,Juventus,91,37,6,318,K. Asamoah,Ghana
+198,2015,Juventus,91,37,6,346,M. Cáceres,Uruguay
+199,2015,Juventus,91,37,6,530,Morata,Spain
+200,2015,Juventus,91,37,6,539,R. Pereyra,Argentina
+201,2015,Juventus,91,37,6,564,A. Ogbonna,Italy
+202,2015,Juventus,91,37,6,614,S. Lichtsteiner,Switzerland
+203,2015,Juventus,91,37,6,716,Rômulo,Italy
+204,2015,Juventus,91,37,6,725,S. Giovinco,Italy
+205,2015,Juventus,91,37,6,1046,S. Pepe,Italy
+206,2015,Juventus,91,37,6,1401,M. Storari,Italy
+207,2015,Juventus,91,37,6,1748,S. Padoin,Italy
+208,2015,Juventus,91,37,6,2725,M. Motta,Italy
+209,2015,Juventus,91,37,6,2837,L. Marrone,Italy
+210,2015,Juventus,91,37,6,4383,Rubinho,Brazil
+211,2015,Juventus,91,37,6,4638,K. Coman,France
+212,2015,Juventus,91,37,6,8101,Y. Bnou-Marzuk,France
+213,2015,Juventus,91,37,6,9004,Carlos Blanco,Spain
+214,2015,Juventus,91,37,6,9005,Sergio Buenacasa,Spain
+215,2015,Juventus,91,37,6,10557,J. Cevallos,Ecuador
+216,2015,Juventus,91,37,6,10560,F. Mattiello,Italy
+217,2015,Juventus,91,37,6,12011,L. Citti,Italy
+218,2015,Juventus,91,37,6,12611,E. Ceria,Italy
+219,2015,Palermo,39,24,30,1367,S. Sorrentino,Italy
+220,2015,Palermo,39,24,30,1773,L. Rigoni,Italy
+221,2015,Palermo,39,24,30,2038,G. González,Costa Rica
+222,2015,Palermo,39,24,30,2275,S. Bamba,Ivory Coast
+223,2015,Palermo,39,24,30,2368,S. Makienok,Denmark
+224,2015,Palermo,39,24,30,2384,E. Muñoz,Argentina
+225,2015,Palermo,39,24,30,2680,E. Barreto,Paraguay
+226,2015,Palermo,39,24,30,2785,P. Dybala,Argentina
+227,2015,Palermo,39,24,30,3129,C. Terzi,Italy
+228,2015,Palermo,39,24,30,3379,S. Ujkani,Albania
+229,2015,Palermo,39,24,30,3416,E. Pisano,Italy
+230,2015,Palermo,39,24,30,3896,A. Belotti,Italy
+231,2015,Palermo,39,24,30,4070,G. Ngoyi,DR Congo
+232,2015,Palermo,39,24,30,4183,João Silva,Portugal
+233,2015,Palermo,39,24,30,4194,F. Della Rocca,Italy
+234,2015,Palermo,39,24,30,4331,E. Maresca,Italy
+235,2015,Palermo,39,24,30,4815,F. Vázquez,Argentina
+236,2015,Palermo,39,24,30,4839,M. Morganella,Switzerland
+237,2015,Palermo,39,24,30,4899,F. Bolzoni,Italy
+238,2015,Palermo,39,24,30,5161,R. Vitiello,Italy
+239,2015,Palermo,39,24,30,5460,I. Chochev,Bulgaria
+240,2015,Palermo,39,24,30,5496,F. Daprelà,Switzerland
+241,2015,Palermo,39,24,30,5964,S. Aronica,Italy
+242,2015,Palermo,39,24,30,6189,S. Anđelković,Slovenia
+243,2015,Palermo,39,24,30,6265,R. Quaison,Sweden
+244,2015,Palermo,39,24,30,7130,Emerson,Brazil
+245,2015,Palermo,39,24,30,7241,M. Milanović,Serbia
+246,2015,Palermo,39,24,30,9115,A. Lazaar,Morocco
+247,2015,Palermo,39,24,30,10224,Z. Feddal,Morocco
+248,2015,Palermo,39,24,30,15177,A. Fulignati,Italy
+249,2015,Sampdoria,40,29,25,651,E. Viviano,Italy
+250,2015,Sampdoria,40,29,25,906,M. Gabbiadini,Italy
+251,2015,Sampdoria,40,29,25,1021,Eder,Brazil
+252,2015,Sampdoria,40,29,25,1222,L. De Silvestri,Italy
+253,2015,Sampdoria,40,29,25,1400,D. Gastaldello,Italy
+254,2015,Sampdoria,40,29,25,1520,Pedro Obiang,Spain
+255,2015,Sampdoria,40,29,25,1573,S. Okaka Chuka,Italy
+256,2015,Sampdoria,40,29,25,1597,S. Romero,Argentina
+257,2015,Sampdoria,40,29,25,1718,M. Marchionni,Italy
+258,2015,Sampdoria,40,29,25,2020,N. Krstičić,Serbia
+259,2015,Sampdoria,40,29,25,2065,G. Sansone,Italy
+260,2015,Sampdoria,40,29,25,2612,A. Palombo,Italy
+261,2015,Sampdoria,40,29,25,2693,M. Silvestre,Italy
+262,2015,Sampdoria,40,29,25,2794,A. Romagnoli,Italy
+263,2015,Sampdoria,40,29,25,2834,V. Regini,Italy
+264,2015,Sampdoria,40,29,25,2917,R. Soriano,Italy
+265,2015,Sampdoria,40,29,25,3085,F. Cacciatore,Italy
+266,2015,Sampdoria,40,29,25,3200,D. Mesbah,Algeria
+267,2015,Sampdoria,40,29,25,3239,G. Bergessio,Argentina
+268,2015,Sampdoria,40,29,25,3274,Da Costa,Brazil
+269,2015,Sampdoria,40,29,25,3890,L. Đorđević,Montenegro
+270,2015,Sampdoria,40,29,25,3987,P. Wszołek,Poland
+271,2015,Sampdoria,40,29,25,5487,F. Fedato,Italy
+272,2015,Sampdoria,40,29,25,6243,A. Duncan,Ghana
+273,2015,Sampdoria,40,29,25,7475,L. Rizzo,Italy
+274,2015,Sampdoria,40,29,25,8468,Z. Laczkó,Hungary
+275,2015,Sampdoria,40,29,25,10903,A. De Vitis,Italy
+276,2015,Sampdoria,40,29,25,14000,M. Fornasier,Italy
+277,2015,Sassuolo Calcio,61,25,20,427,A. Consigli,Italy
+278,2015,Sassuolo Calcio,61,25,20,677,D. Berardi,Italy
+279,2015,Sassuolo Calcio,61,25,20,898,S. Zaza,Italy
+280,2015,Sassuolo Calcio,61,25,20,916,S. Taïder,Algeria
+281,2015,Sassuolo Calcio,61,25,20,1188,N. Sansone,Italy
+282,2015,Sassuolo Calcio,61,25,20,1347,P. Cannavaro,Italy
+283,2015,Sassuolo Calcio,61,25,20,1618,F. Acerbi,Italy
+284,2015,Sassuolo Calcio,61,25,20,1730,A. Floro Flores,Italy
+285,2015,Sassuolo Calcio,61,25,20,1734,T. Manfredini,Italy
+286,2015,Sassuolo Calcio,61,25,20,1900,S. Vrsaljko,Croatia
+287,2015,Sassuolo Calcio,61,25,20,2267,S. Floccari,Italy
+288,2015,Sassuolo Calcio,61,25,20,2620,G. Pegolo,Italy
+289,2015,Sassuolo Calcio,61,25,20,2862,L. Ariaudo,Italy
+290,2015,Sassuolo Calcio,61,25,20,2935,L. Pavoletti,Italy
+291,2015,Sassuolo Calcio,61,25,20,3114,M. Brighi,Italy
+292,2015,Sassuolo Calcio,61,25,20,3175,F. Magnanelli,Italy
+293,2015,Sassuolo Calcio,61,25,20,3257,F. Peluso,Italy
+294,2015,Sassuolo Calcio,61,25,20,3398,L. Antei,Italy
+295,2015,Sassuolo Calcio,61,25,20,3759,D. Biondini,Italy
+296,2015,Sassuolo Calcio,61,25,20,4308,E. Terranova,Italy
+297,2015,Sassuolo Calcio,61,25,20,4388,P. Bianco,Italy
+298,2015,Sassuolo Calcio,61,25,20,4537,S. Missiroli,Italy
+299,2015,Sassuolo Calcio,61,25,20,4814,R. Chibsah,Ghana
+300,2015,Sassuolo Calcio,61,25,20,5821,A. Longhi,Italy
+301,2015,Sassuolo Calcio,61,25,20,7905,C. Polito,Italy
+302,2015,Sassuolo Calcio,61,25,20,8004,M. Gazzola,Italy
+303,2015,Sassuolo Calcio,61,25,20,8017,A. Pomini,Italy
+304,2015,Sassuolo Calcio,61,25,20,12651,D. Lodesani,Italy
+305,2015,Sassuolo Calcio,61,25,20,13168,D. Vacondio,Italy
+306,2015,Sassuolo Calcio,61,25,20,13183,E. Gliozzi,Italy
+307,2015,Bologna,42,20,21,2643,D. Maietta,Italy
+308,2015,Bologna,42,20,21,2676,Matuzalém,Brazil
+309,2015,Bologna,42,20,21,2694,D. Pérez,Uruguay
+310,2015,Bologna,42,20,21,3113,D. Cacia,Italy
+311,2015,Bologna,42,20,21,3151,M. Pazienza,Italy
+312,2015,Bologna,42,20,21,3278,A. Morleo,Italy
+313,2015,Bologna,42,20,21,3353,M. Oikonomou,Greece
+314,2015,Bologna,42,20,21,3385,F. Zuculini,Argentina
+315,2015,Bologna,42,20,21,4069,R. Acquafresca,Italy
+316,2015,Bologna,42,20,21,4211,K. Laribi,Tunisia
+317,2015,Bologna,42,20,21,4391,G. Garics,Austria
+318,2015,Bologna,42,20,21,4572,G. Troianiello,Italy
+319,2015,Bologna,42,20,21,6416,Martí Riverola,Spain
+320,2015,Bologna,42,20,21,6639,F. Casarini,Italy
+321,2015,Bologna,42,20,21,6795,F. Coppola,Italy
+322,2015,Bologna,42,20,21,7247,M. Büchel,Austria
+323,2015,Bologna,42,20,21,7532,R. Pasi,Italy
+324,2015,Bologna,42,20,21,8884,L. Ceccarelli,Italy
+325,2015,Bologna,42,20,21,8939,E. Friberg,Sweden
+326,2015,Bologna,42,20,21,10099,L. Giannone,Italy
+327,2015,Bologna,42,20,21,10680,D. Stojanovic,FYR Macedonia
+328,2015,Bologna,42,20,21,10684,A. Yaisien,France
+329,2015,Bologna,42,20,21,10926,M. Abero,Uruguay
+330,2015,Bologna,42,20,21,11461,R. Bentancourt,Uruguay
+331,2015,Bologna,42,20,21,11495,L. Paramatti,Italy
+332,2015,Bologna,42,20,21,11538,F. Rodriguez,Uruguay
+333,2015,Bologna,42,20,21,11611,A. Ferrari,Italy
+334,2015,Bologna,42,20,21,12355,Rafael Páez,Spain
+335,2015,AC Milan,57,28,22,88,Diego López,Spain
+336,2015,AC Milan,57,28,22,134,Alex,Brazil
+337,2015,AC Milan,57,28,22,184,Fernando Torres,Spain
+338,2015,AC Milan,57,28,22,185,N. de Jong,Netherlands
+339,2015,AC Milan,57,28,22,195,R. Montolivo,Italy
+340,2015,AC Milan,57,28,22,207,S. El Shaarawy,Italy
+341,2015,AC Milan,57,28,22,300,G. Bonaventura,Italy
+342,2015,AC Milan,57,28,22,398,K. Honda,Japan
+343,2015,AC Milan,57,28,22,419,A. Poli,Italy
+344,2015,AC Milan,57,28,22,426,J. Ménez,France
+345,2015,AC Milan,57,28,22,522,A. Rami,France
+346,2015,AC Milan,57,28,22,599,C. Zapata,Colombia
+347,2015,AC Milan,57,28,22,607,P. Mexès,France
+348,2015,AC Milan,57,28,22,680,M. De Sciglio,Italy
+349,2015,AC Milan,57,28,22,685,M. van Ginkel,Netherlands
+350,2015,AC Milan,57,28,22,819,S. Muntari,Ghana
+351,2015,AC Milan,57,28,22,822,G. Pazzini,Italy
+352,2015,AC Milan,57,28,22,1029,C. Abbiati,Italy
+353,2015,AC Milan,57,28,22,1034,D. Bonera,Italy
+354,2015,AC Milan,57,28,22,1035,M. Essien,Ghana
+355,2015,AC Milan,57,28,22,1053,M. Agazzi,Italy
+356,2015,AC Milan,57,28,22,1150,M. Niang,France
+357,2015,AC Milan,57,28,22,1197,I. Abate,Italy
+358,2015,AC Milan,57,28,22,1600,P. Armero,Colombia
+359,2015,AC Milan,57,28,22,1742,C. Zaccardo,Italy
+360,2015,AC Milan,57,28,22,1907,R. Saponara,Italy
+361,2015,AC Milan,57,28,22,5494,M. Albertazzi,Italy
+362,2015,Atalanta,45,27,21,629,G. Denis,Argentina
+363,2015,Atalanta,45,27,21,656,L. Cigarini,Italy
+364,2015,Atalanta,45,27,21,709,A. Gómez,Argentina
+365,2015,Atalanta,45,27,21,1227,M. Moralez,Argentina
+366,2015,Atalanta,45,27,21,1279,C. Carmona,Chile
+367,2015,Atalanta,45,27,21,1319,M. Estigarribia,Paraguay
+368,2015,Atalanta,45,27,21,1430,G. Stendardo,Italy
+369,2015,Atalanta,45,27,21,1525,D. Baselli,Italy
+370,2015,Atalanta,45,27,21,1767,G. Biava,Italy
+371,2015,Atalanta,45,27,21,1831,B. Dramé,Senegal
+372,2015,Atalanta,45,27,21,2159,R. Bianchi,Italy
+373,2015,Atalanta,45,27,21,2163,V. Avramov,Serbia
+374,2015,Atalanta,45,27,21,2416,Y. Benalouane,Tunisia
+375,2015,Atalanta,45,27,21,2642,G. Migliaccio,Italy
+376,2015,Atalanta,45,27,21,2841,R. Boakye,Ghana
+377,2015,Atalanta,45,27,21,3361,M. D'Alessandro,Italy
+378,2015,Atalanta,45,27,21,4060,D. Zappacosta,Italy
+379,2015,Atalanta,45,27,21,4332,G. Bellini,Italy
+380,2015,Atalanta,45,27,21,4565,N. Cherubin,Italy
+381,2015,Atalanta,45,27,21,4704,S. Molina,Italy
+382,2015,Atalanta,45,27,21,5301,C. Del Grosso,Italy
+383,2015,Atalanta,45,27,21,5433,V. Rosseti,Italy
+384,2015,Atalanta,45,27,21,5916,L. Scaloni,Argentina
+385,2015,Atalanta,45,27,21,8191,L. Spinazzola,Italy
+386,2015,Atalanta,45,27,21,9596,G. Frezzolini,Italy
+387,2015,Atalanta,45,27,21,9626,C. Raimondi,Italy
+388,2015,Atalanta,45,27,21,10787,M. Sportiello,Italy
+389,2015,Atalanta,45,27,21,12048,A. Grassi,Italy
+390,2015,Atalanta,45,27,21,12049,J. Olausson,Sweden
+391,2015,Carpi,38,23,26,2372,Gabriel,Brazil
+392,2015,Carpi,38,23,26,3332,J. Mbakogu,Nigeria
+393,2015,Carpi,38,23,26,3597,I. Kelava,Croatia
+394,2015,Carpi,38,23,26,4020,S. Romagnoli,Italy
+395,2015,Carpi,38,23,26,4873,A. Di Gaudio,Italy
+396,2015,Carpi,38,23,26,5074,F. Concas,Italy
+397,2015,Carpi,38,23,26,5352,S. Laner,Italy
+398,2015,Carpi,38,23,26,6051,F. Porcari,Italy
+399,2015,Carpi,38,23,26,6345,L. Lollo,Italy
+400,2015,Carpi,38,23,26,7329,E. Suagher,Italy
+401,2015,Carpi,38,23,26,7339,R. Dossena,Italy
+402,2015,Carpi,38,23,26,7391,F. Poli,Italy
+403,2015,Carpi,38,23,26,8261,R. Inglese,Italy
+404,2015,Carpi,38,23,26,9045,M. Ricci,Italy
+405,2015,Carpi,38,23,26,9114,E. De Silvestro,Italy
+406,2015,Carpi,38,23,26,9233,G. Letizia,Italy
+407,2015,Carpi,38,23,26,9315,R. Bianco,Italy
+408,2015,Carpi,38,23,26,9557,R. Gagliolo,Italy
+409,2015,Carpi,38,23,26,10242,L. Pasciuti,Italy
+410,2015,Carpi,38,23,26,10381,A. Struna,Slovenia
+411,2015,Carpi,38,23,26,10584,C. Embalo,Guinea Bissau
+412,2015,Carpi,38,23,26,10727,D. Pape Ndiaga,Senegal
+413,2015,Carpi,38,23,26,12005,M. Gatto,Italy
+414,2015,Carpi,38,23,26,13728,K. Lasagna,Italy
+415,2015,Carpi,38,23,26,13950,M. Mbaye,Senegal
+416,2015,Carpi,38,23,26,14730,A. Sabbione,Italy
+417,2015,Carpi,38,23,26,15180,J. Consol,Italy
+418,2015,Carpi,38,23,26,15197,V. Nava,Italy
+419,2015,AC Chievo Verona,50,25,18,912,A. Paloschi,Italy
+420,2015,AC Chievo Verona,50,25,18,926,P. Hetemaj,Finland
+421,2015,AC Chievo Verona,50,25,18,1124,V. Birsa,Slovenia
+422,2015,AC Chievo Verona,50,25,18,1211,F. Bardi,Italy
+423,2015,AC Chievo Verona,50,25,18,1351,A. Gamberini,Italy
+424,2015,AC Chievo Verona,50,25,18,1580,E. Schelotto,Italy
+425,2015,AC Chievo Verona,50,25,18,1594,R. Botta,Argentina
+426,2015,AC Chievo Verona,50,25,18,1822,M. Izco,Argentina
+427,2015,AC Chievo Verona,50,25,18,2138,D. Dainelli,Italy
+428,2015,AC Chievo Verona,50,25,18,2141,A. Bizzarri,Argentina
+429,2015,AC Chievo Verona,50,25,18,2179,M. López,Argentina
+430,2015,AC Chievo Verona,50,25,18,2181,B. Cesar,Slovenia
+431,2015,AC Chievo Verona,50,25,18,2302,R. Meggiorini,Italy
+432,2015,AC Chievo Verona,50,25,18,2420,I. Radovanovic,Serbia
+433,2015,AC Chievo Verona,50,25,18,2820,I. Cofie,Ghana
+434,2015,AC Chievo Verona,50,25,18,2838,D. Lazarević,Slovenia
+435,2015,AC Chievo Verona,50,25,18,2848,N. Bellomo,Italy
+436,2015,AC Chievo Verona,50,25,18,2910,E. Zukanović,Bosnia Herzegovina
+437,2015,AC Chievo Verona,50,25,18,3325,C. Biraghi,Italy
+438,2015,AC Chievo Verona,50,25,18,3358,T. Kupisz,Poland
+439,2015,AC Chievo Verona,50,25,18,3719,S. Pellissier,Italy
+440,2015,AC Chievo Verona,50,25,18,3737,G. Sardo,Italy
+441,2015,AC Chievo Verona,50,25,18,3752,C. Puggioni,Italy
+442,2015,AC Chievo Verona,50,25,18,3817,T. Mangani,France
+443,2015,AC Chievo Verona,50,25,18,3819,N. Frey,France
+444,2015,AC Chievo Verona,50,25,18,3837,Edimar,Brazil
+445,2015,AC Chievo Verona,50,25,18,5604,A. Seculin,Italy
+446,2015,AC Chievo Verona,50,25,18,6159,M. Pamić,Croatia
+447,2015,AC Chievo Verona,50,25,18,8163,Miranda,Brazil
+448,2015,AC Chievo Verona,50,25,18,9424,L. Finazzi,Brazil
+449,2015,AC Chievo Verona,50,25,18,10556,G. Sorcan,Slovenia
+450,2015,AC Chievo Verona,50,25,18,14559,I. Toskic,Italy
+451,2015,Genoa,46,29,19,681,M. Perin,Italy
+452,2015,Genoa,46,29,19,903,M. Lestienne,Belgium
+453,2015,Genoa,46,29,19,938,I. Fetfatzidis,Greece
+454,2015,Genoa,46,29,19,994,Edenílson,Brazil
+455,2015,Genoa,46,29,19,1127,A. Matri,Italy
+456,2015,Genoa,46,29,19,1200,D. Perotti,Argentina
+457,2015,Genoa,46,29,19,1386,M. Pinilla,Chile
+458,2015,Genoa,46,29,19,1408,N. Burdisso,Argentina
+459,2015,Genoa,46,29,19,1492,F. Roncaglia,Argentina
+460,2015,Genoa,46,29,19,1706,J. Kucka,Slovakia
+461,2015,Genoa,46,29,19,1946,A. Bertolacci,Italy
+462,2015,Genoa,46,29,19,1961,L. Antonelli,Italy
+463,2015,Genoa,46,29,19,1973,Iago Falqué,Spain
+464,2015,Genoa,46,29,19,2183,G. Marchese,Italy
+465,2015,Genoa,46,29,19,2404,S. Sturaro,Italy
+466,2015,Genoa,46,29,19,2415,S. De Maio,France
+467,2015,Genoa,46,29,19,2565,T. Rincón,Venezuela
+468,2015,Genoa,46,29,19,2664,L. Greco,Italy
+469,2015,Genoa,46,29,19,3142,M. Santana,Argentina
+470,2015,Genoa,46,29,19,3150,L. Antonini,Italy
+471,2015,Genoa,46,29,19,4120,F. Mussis,Argentina
+472,2015,Genoa,46,29,19,4195,A. Rosi,Italy
+473,2015,Genoa,46,29,19,4905,E. Lamanna,Italy
+474,2015,Genoa,46,29,19,5694,F. Seymour,Chile
+475,2015,Genoa,46,29,19,6292,A. Izzo,Italy
+476,2015,Genoa,46,29,19,11042,R. Strasser,Sierra Leone
+477,2015,Genoa,46,29,19,11345,D. Jawad,Morocco
+478,2015,Genoa,46,29,19,13147,D. Sommariva,Italy
+479,2015,Genoa,46,29,19,13954,R. Mandragora,Italy
+480,2015,Genoa,46,29,19,14579,T. Velocci,Italy
+481,2015,Genoa,46,29,19,14820,L. Gallotti,Italy
+482,2015,Genoa,46,29,19,14829,G. Bennati,Italy
+483,2015,Genoa,46,29,19,15449,M. Fissore,Italy
+484,2015,Napoli,82,49,12,51,G. Higuaín,Argentina
+485,2015,Napoli,82,49,12,106,M. Hamšik,Slovakia
+486,2015,Napoli,82,49,12,108,D. Mertens,Belgium
+487,2015,Napoli,82,49,12,236,José Callejón,Spain
+488,2015,Napoli,82,49,12,274,Raúl Albiol,Spain
+489,2015,Napoli,82,49,12,293,L. Insigne,Italy
+490,2015,Napoli,82,49,12,378,G. Inler,Switzerland
+491,2015,Napoli,82,49,12,509,Michu,Spain
+492,2015,Napoli,82,49,12,683,Jorginho,Italy
+493,2015,Napoli,82,49,12,748,J. De Guzmán,Netherlands
+494,2015,Napoli,82,49,12,786,Henrique,Brazil
+495,2015,Napoli,82,49,12,838,C. Maggio,Italy
+496,2015,Napoli,82,49,12,918,F. Ghoulam,Algeria
+497,2015,Napoli,82,49,12,1138,M. Britos,Uruguay
+498,2015,Napoli,82,49,12,1196,D. Zapata,Colombia
+499,2015,Napoli,82,49,12,1235,Rafael,Brazil
+500,2015,Napoli,82,49,12,1243,David López,Spain
+501,2015,Napoli,82,49,12,1475,J. Zúñiga,Colombia
+502,2015,Napoli,82,49,12,1860,W. Gargano,Uruguay
+503,2015,Napoli,82,49,12,1987,K. Koulibaly,France
+504,2015,Napoli,82,49,12,2729,M. Andújar,Argentina
+505,2015,Napoli,82,49,12,3141,G. Mesto,Italy
+506,2015,Napoli,82,49,12,5200,A. Rosati,Italy
+507,2015,Napoli,82,49,12,7192,J. Radošević,Croatia
+508,2015,Napoli,82,49,12,7902,R. Colombo,Italy
+509,2015,Napoli,82,49,12,12867,F. Gaetano,Italy
+510,2015,Napoli,82,49,12,13708,F. Liivak,Estonia
+511,2015,Napoli,82,49,12,13746,N. Contini,Ukraine
+512,2015,Napoli,82,49,12,14052,A. Romano,Italy
+513,2015,Napoli,82,49,12,14082,L. Palmiero,Italy
+514,2015,Napoli,82,49,12,14137,V. Guardiglio,Italy
+515,2015,Napoli,82,49,12,14650,S. Luperto,Italy
+516,2015,AS Roma,80,44,17,56,D. De Rossi,Italy
+517,2015,AS Roma,80,44,17,69,M. Pjanić,Bosnia Herzegovina
+518,2015,AS Roma,80,44,17,160,K. Strootman,Netherlands
+519,2015,AS Roma,80,44,17,165,Leandro Castán,Brazil
+520,2015,AS Roma,80,44,17,171,Gervinho,Ivory Coast
+521,2015,AS Roma,80,44,17,182,A. Cole,England
+522,2015,AS Roma,80,44,17,251,F. Totti,Italy
+523,2015,AS Roma,80,44,17,340,R. Nainggolan,Belgium
+524,2015,AS Roma,80,44,17,349,M. De Sanctis,Italy
+525,2015,AS Roma,80,44,17,361,Maicon,Brazil
+526,2015,AS Roma,80,44,17,442,D. Astori,Italy
+527,2015,AS Roma,80,44,17,527,J. Iturbe,Argentina
+528,2015,AS Roma,80,44,17,540,M. Destro,Italy
+529,2015,AS Roma,80,44,17,605,S. Keita,Mali
+530,2015,AS Roma,80,44,17,702,A. Ljajić,Serbia
+531,2015,AS Roma,80,44,17,706,A. Florenzi,Italy
+532,2015,AS Roma,80,44,17,710,M. Yanga-M'Biwa,France
+533,2015,AS Roma,80,44,17,733,K. Manolas,Greece
+534,2015,AS Roma,80,44,17,1391,M. Borriello,Italy
+535,2015,AS Roma,80,44,17,1486,V. Torosidis,Greece
+536,2015,AS Roma,80,44,17,1834,U. Emanuelson,Netherlands
+537,2015,AS Roma,80,44,17,2261,G. Curci,Italy
+538,2015,AS Roma,80,44,17,2293,J. Holebas,Greece
+539,2015,AS Roma,80,44,17,2337,S. Uçan,Turkey
+540,2015,AS Roma,80,44,17,2349,L. Paredes,Argentina
+541,2015,AS Roma,80,44,17,2626,F. Balzaretti,Italy
+542,2015,AS Roma,80,44,17,3149,B. Lobonţ,Romania
+543,2015,AS Roma,80,44,17,3360,L. Skorupski,Poland
+544,2015,AS Roma,80,44,17,7135,A. Sanabria,Paraguay
+545,2015,AS Roma,80,44,17,10577,M. Somma,Italy
+546,2015,AS Roma,80,44,17,12087,T. Svedkauskas,Lithuania
+547,2015,AS Roma,80,44,17,13665,F. Di Mariano,Italy
+548,2015,AS Roma,80,44,17,15162,E. Capradossi,Italy
+549,2015,Torino,45,25,25,342,K. Glik,Poland
+550,2015,Torino,45,25,25,642,F. Quagliarella,Italy
+551,2015,Torino,45,25,25,698,N. Maksimović,Serbia
+552,2015,Torino,45,25,25,1036,E. Moretti,Italy
+553,2015,Torino,45,25,25,1096,A. Nocerino,Italy
+554,2015,Torino,45,25,25,1189,J. Sánchez Miño,Argentina
+555,2015,Torino,45,25,25,1201,M. Darmian,Italy
+556,2015,Torino,45,25,25,1203,O. El Kaddouri,Morocco
+557,2015,Torino,45,25,25,1207,Rubén Pérez,Spain
+558,2015,Torino,45,25,25,1377,J. Gillet,Belgium
+559,2015,Torino,45,25,25,1379,C. Bovo,Italy
+560,2015,Torino,45,25,25,1431,Amauri,Italy
+561,2015,Torino,45,25,25,1452,D. Padelli,Italy
+562,2015,Torino,45,25,25,1480,G. Vives,Italy
+563,2015,Torino,45,25,25,2137,L. Castellazzi,Italy
+564,2015,Torino,45,25,25,2149,A. Farnerud,Sweden
+565,2015,Torino,45,25,25,2173,A. Gazzi,Italy
+566,2015,Torino,45,25,25,2205,C. Molinaro,Italy
+567,2015,Torino,45,25,25,2243,Barreto,Brazil
+568,2015,Torino,45,25,25,2564,M. Basha,Albania
+569,2015,Torino,45,25,25,2939,Bruno Peres,Brazil
+570,2015,Torino,45,25,25,3482,M. Larrondo,Argentina
+571,2015,Torino,45,25,25,3903,M. Benassi,Italy
+572,2015,Torino,45,25,25,3938,P. Jansson,Sweden
+573,2015,Torino,45,25,25,5452,J. Martínez,Venezuela
+574,2015,Torino,45,25,25,5469,G. Silva,Uruguay
+575,2015,Torino,45,25,25,8786,S. Masiello,Italy
+576,2015,Torino,45,25,25,9666,I. Zeytulaev,Uzbekistan
+577,2015,Torino,45,25,25,9726,A. Barusso,Ghana
+578,2015,Torino,45,25,25,10704,D. Cinaglia,Italy
+579,2015,Torino,45,25,25,13151,L. Cargnino,Italy
+580,2015,Torino,45,25,25,14309,S. Monni,Italy
+581,2015,Torino,45,25,25,14310,G. Graziano,Italy
+582,2015,Udinese Calcio,39,18,28,477,A. Di Natale,Italy
+583,2015,Udinese Calcio,39,18,28,696,Bruno Fernandes,Portugal
+584,2015,Udinese Calcio,39,18,28,729,T. Heurtaux,France
+585,2015,Udinese Calcio,39,18,28,1039,M. Domizzi,Italy
+586,2015,Udinese Calcio,39,18,28,1112,Danilo,Brazil
+587,2015,Udinese Calcio,39,18,28,1140,Z. Brkić,Serbia
+588,2015,Udinese Calcio,39,18,28,1291,Allan,Brazil
+589,2015,Udinese Calcio,39,18,28,1331,P. Kone,Greece
+590,2015,Udinese Calcio,39,18,28,1345,G. Pinzi,Italy
+591,2015,Udinese Calcio,39,18,28,1458,C. Théréau,France
+592,2015,Udinese Calcio,39,18,28,1489,O. Karnezis,Greece
+593,2015,Udinese Calcio,39,18,28,1533,L. Muriel,Colombia
+594,2015,Udinese Calcio,39,18,28,1537,Guilherme,Brazil
+595,2015,Udinese Calcio,39,18,28,1754,Albert Riera,Spain
+596,2015,Udinese Calcio,39,18,28,1958,S. Widmer,Switzerland
+597,2015,Udinese Calcio,39,18,28,1974,E. Badu,Ghana
+598,2015,Udinese Calcio,39,18,28,2239,A. Coda,Italy
+599,2015,Udinese Calcio,39,18,28,2328,S. Scuffet,Italy
+600,2015,Udinese Calcio,39,18,28,2410,I. Bubnjić,Croatia
+601,2015,Udinese Calcio,39,18,28,2430,Gabriel Silva,Brazil
+602,2015,Udinese Calcio,39,18,28,3331,M. Faraoni,Italy
+603,2015,Udinese Calcio,39,18,28,3564,I. Piris,Paraguay
+604,2015,Udinese Calcio,39,18,28,4325,G. Pasquale,Italy
+605,2015,Udinese Calcio,39,18,28,4386,A. Geijo,Switzerland
+606,2015,Udinese Calcio,39,18,28,4679,Jadson,Brazil
+607,2015,Udinese Calcio,39,18,28,5447,A. Zapata,Colombia
+608,2015,Udinese Calcio,39,18,28,5626,M. Wagué,Mali
+609,2015,Udinese Calcio,39,18,28,6534,N. Belmonte,Italy
+610,2015,Udinese Calcio,39,18,28,7131,M. Hallberg,Sweden
+611,2015,Udinese Calcio,39,18,28,8137,Lucas Evangelista,Brazil
+612,2015,Udinese Calcio,39,18,28,10606,A. Meret,Italy
+613,2015,Udinese Calcio,39,18,28,10715,M. Alhassan,Ghana
+614,2016,Juventus,91,48,9,17,G. Chiellini,Italy
+615,2016,Juventus,91,48,9,23,P. Pogba,France
+616,2016,Juventus,91,48,9,65,G. Buffon,Italy
+617,2016,Juventus,91,48,9,72,A. Barzagli,Italy
+618,2016,Juventus,91,48,9,77,C. Marchisio,Italy
+619,2016,Juventus,91,48,9,117,S. Khedira,Germany
+620,2016,Juventus,91,48,9,118,M. Mandžukić,Croatia
+621,2016,Juventus,91,48,9,119,L. Bonucci,Italy
+622,2016,Juventus,91,48,9,130,Alex Sandro,Brazil
+623,2016,Juventus,91,48,9,157,S. Lichtsteiner,Switzerland
+624,2016,Juventus,91,48,9,173,J. Cuadrado,Colombia
+625,2016,Juventus,91,48,9,178,Morata,Spain
+626,2016,Juventus,91,48,9,183,R. Pereyra,Argentina
+627,2016,Juventus,91,48,9,230,P. Evra,France
+628,2016,Juventus,91,48,9,261,M. Cáceres,Uruguay
+629,2016,Juventus,91,48,9,429,Neto,Brazil
+630,2016,Juventus,91,48,9,440,K. Asamoah,Ghana
+631,2016,Juventus,91,48,9,546,P. Dybala,Argentina
+632,2016,Juventus,91,48,9,547,D. Rugani,Italy
+633,2016,Juventus,91,48,9,585,S. Zaza,Italy
+634,2016,Juventus,91,48,9,730,S. Sturaro,Italy
+635,2016,Juventus,91,48,9,1302,M. Lemina,Gabon
+636,2016,Juventus,91,48,9,1480,S. Padoin,Italy
+637,2016,Juventus,91,48,9,2829,Rubinho,Brazil
+638,2016,Juventus,91,48,9,8510,G. Vadalá,Argentina
+639,2016,Juventus,91,48,9,8514,M. Vitale,Italy
+640,2016,AS Roma,87,50,18,61,M. Pjanić,Bosnia Herzegovina
+641,2016,AS Roma,87,50,18,91,R. Nainggolan,Belgium
+642,2016,AS Roma,87,50,18,101,D. De Rossi,Italy
+643,2016,AS Roma,87,50,18,131,K. Manolas,Greece
+644,2016,AS Roma,87,50,18,168,Leandro Castán,Brazil
+645,2016,AS Roma,87,50,18,260,E. Džeko,Bosnia Herzegovina
+646,2016,AS Roma,87,50,18,271,M. Salah,Egypt
+647,2016,AS Roma,87,50,18,289,K. Strootman,Netherlands
+648,2016,AS Roma,87,50,18,328,F. Totti,Italy
+649,2016,AS Roma,87,50,18,339,Maicon,Brazil
+650,2016,AS Roma,87,50,18,374,Gervinho,Ivory Coast
+651,2016,AS Roma,87,50,18,426,Iago Falqué,Spain
+652,2016,AS Roma,87,50,18,439,W. Szczęsny,Poland
+653,2016,AS Roma,87,50,18,476,M. De Sanctis,Italy
+654,2016,AS Roma,87,50,18,480,S. Keita,Mali
+655,2016,AS Roma,87,50,18,741,J. Iturbe,Argentina
+656,2016,AS Roma,87,50,18,808,A. Florenzi,Italy
+657,2016,AS Roma,87,50,18,959,A. Rüdiger,Germany
+658,2016,AS Roma,87,50,18,1007,L. Digne,France
+659,2016,AS Roma,87,50,18,1220,V. Torosidis,Greece
+660,2016,AS Roma,87,50,18,1472,A. Cole,England
+661,2016,AS Roma,87,50,18,2084,S. Uçan,Turkey
+662,2016,AS Roma,87,50,18,2560,N. Gyömbér,Slovakia
+663,2016,AS Roma,87,50,18,4047,B. Lobonţ,Romania
+664,2016,AS Roma,87,50,18,11529,E. Capradossi,Italy
+665,2016,AS Roma,87,50,18,12567,José Machín,Equatorial Guinea
+666,2016,AS Roma,87,50,18,13654,S. Anočič,Croatia
+667,2016,Atalanta,72,31,18,523,G. Paletta,Italy
+668,2016,Atalanta,72,31,18,651,G. Denis,Argentina
+669,2016,Atalanta,72,31,18,684,L. Cigarini,Italy
+670,2016,Atalanta,72,31,18,1095,J. Kurtić,Slovenia
+671,2016,Atalanta,72,31,18,1284,M. Sportiello,Italy
+672,2016,Atalanta,72,31,18,1401,A. Gómez,Argentina
+673,2016,Atalanta,72,31,18,1492,M. Pinilla,Chile
+674,2016,Atalanta,72,31,18,1534,G. Stendardo,Italy
+675,2016,Atalanta,72,31,18,1570,B. Dramé,Senegal
+676,2016,Atalanta,72,31,18,1623,M. Moralez,Argentina
+677,2016,Atalanta,72,31,18,1699,Rafael Tolói,Brazil
+678,2016,Atalanta,72,31,18,1873,C. Carmona,Chile
+679,2016,Atalanta,72,31,18,1972,M. Canini,Italy
+680,2016,Atalanta,72,31,18,1995,A. Masiello,Italy
+681,2016,Atalanta,72,31,18,2271,D. Brivio,Italy
+682,2016,Atalanta,72,31,18,2481,M. Estigarribia,Paraguay
+683,2016,Atalanta,72,31,18,3398,G. Migliaccio,Italy
+684,2016,Atalanta,72,31,18,3693,E. Suagher,Italy
+685,2016,Atalanta,72,31,18,4180,D. Bassi,Italy
+686,2016,Atalanta,72,31,18,4191,N. Cherubin,Italy
+687,2016,Atalanta,72,31,18,4355,M. D'Alessandro,Italy
+688,2016,Atalanta,72,31,18,4539,M. de Roon,Netherlands
+689,2016,Atalanta,72,31,18,4713,G. Bellini,Italy
+690,2016,Atalanta,72,31,18,8506,G. Monachello,Italy
+691,2016,Atalanta,72,31,18,9516,A. Conti,Italy
+692,2016,Atalanta,72,31,18,11353,C. Raimondi,Italy
+693,2016,Atalanta,72,31,18,11775,A. Grassi,Italy
+694,2016,Bologna,41,24,25,609,M. Destro,Italy
+695,2016,Bologna,41,24,25,871,A. Mirante,Italy
+696,2016,Bologna,41,24,25,1243,E. Giaccherini,Italy
+697,2016,Bologna,41,24,25,1352,S. Taïder,Algeria
+698,2016,Bologna,41,24,25,1502,F. Brienza,Italy
+699,2016,Bologna,41,24,25,1505,D. Gastaldello,Italy
+700,2016,Bologna,41,24,25,1626,L. Rossettini,Italy
+701,2016,Bologna,41,24,25,1693,M. Oikonomou,Greece
+702,2016,Bologna,41,24,25,2089,L. Crisetig,Italy
+703,2016,Bologna,41,24,25,2116,F. Zuculini,Argentina
+704,2016,Bologna,41,24,25,2833,D. Maietta,Italy
+705,2016,Bologna,41,24,25,2993,A. Morleo,Italy
+706,2016,Bologna,41,24,25,3554,Da Costa,Brazil
+707,2016,Bologna,41,24,25,3610,M. Mancosu,Italy
+708,2016,Bologna,41,24,25,3635,E. Pulgar,Chile
+709,2016,Bologna,41,24,25,4022,M. Brighi,Italy
+710,2016,Bologna,41,24,25,4155,L. Ceccarelli,Italy
+711,2016,Bologna,41,24,25,4271,G. Donsah,Ghana
+712,2016,Bologna,41,24,25,4329,E. Krafth,Sweden
+713,2016,Bologna,41,24,25,4896,C. Rickler Del Mare,Italy
+714,2016,Bologna,41,24,25,5077,A. Masina,Morocco
+715,2016,Bologna,41,24,25,5711,R. Acquafresca,Italy
+716,2016,Bologna,41,24,25,5955,L. Rizzo,Italy
+717,2016,Bologna,41,24,25,6456,N. Pulzetti,Italy
+718,2016,Bologna,41,24,25,6979,M. Crimi,Italy
+719,2016,Bologna,41,24,25,7799,F. Falco,Italy
+720,2016,Bologna,41,24,25,8553,I. Mbaye,Senegal
+721,2016,Bologna,41,24,25,11098,A. Ferrari,Italy
+722,2016,Bologna,41,24,25,11694,D. Stojanovic,FYR Macedonia
+723,2016,Bologna,41,24,25,12975,A. Diawara,Guinea
+724,2016,Bologna,41,24,25,14101,F. Lombardi,Italy
+725,2016,AC Chievo Verona,43,25,30,767,A. Paloschi,Italy
+726,2016,AC Chievo Verona,43,25,30,844,A. Gamberini,Italy
+727,2016,AC Chievo Verona,43,25,30,870,B. Cesar,Slovenia
+728,2016,AC Chievo Verona,43,25,30,982,P. Mpoku,DR Congo
+729,2016,AC Chievo Verona,43,25,30,1114,S. Pepe,Italy
+730,2016,AC Chievo Verona,43,25,30,1204,P. Hetemaj,Finland
+731,2016,AC Chievo Verona,43,25,30,1461,D. Dainelli,Italy
+732,2016,AC Chievo Verona,43,25,30,1589,V. Birsa,Slovenia
+733,2016,AC Chievo Verona,43,25,30,1891,A. Bizzarri,Argentina
+734,2016,AC Chievo Verona,43,25,30,1982,M. Izco,Argentina
+735,2016,AC Chievo Verona,43,25,30,2030,R. Meggiorini,Italy
+736,2016,AC Chievo Verona,43,25,30,2261,L. Castro,Argentina
+737,2016,AC Chievo Verona,43,25,30,2281,I. Radovanovic,Serbia
+738,2016,AC Chievo Verona,43,25,30,2370,M. Gobbi,Italy
+739,2016,AC Chievo Verona,43,25,30,2661,A. Christiansen,Denmark
+740,2016,AC Chievo Verona,43,25,30,2868,S. Pellissier,Italy
+741,2016,AC Chievo Verona,43,25,30,2951,N. Frey,France
+742,2016,AC Chievo Verona,43,25,30,2982,F. Cacciatore,Italy
+743,2016,AC Chievo Verona,43,25,30,3034,F. Mattiello,Italy
+744,2016,AC Chievo Verona,43,25,30,3129,N. Bellomo,Italy
+745,2016,AC Chievo Verona,43,25,30,4518,A. Seculin,Italy
+746,2016,AC Chievo Verona,43,25,30,4753,W. Bressan,Italy
+747,2016,AC Chievo Verona,43,25,30,6102,R. Inglese,Italy
+748,2016,AC Chievo Verona,43,25,30,6929,Miranda,Brazil
+749,2016,AC Chievo Verona,43,25,30,7305,G. Sardo,Italy
+750,2016,AC Chievo Verona,43,25,30,7761,N. Rigoni,Italy
+751,2016,AC Chievo Verona,43,25,30,11214,N. Djiby,Senegal
+752,2016,AC Chievo Verona,43,25,30,14296,I. Toskic,Montenegro
+753,2016,Empoli,32,16,29,825,L. Tonelli,Italy
+754,2016,Empoli,32,16,29,1062,Mário Rui,Portugal
+755,2016,Empoli,32,16,29,1504,D. Croce,Italy
+756,2016,Empoli,32,16,29,1738,R. Saponara,Italy
+757,2016,Empoli,32,16,29,2014,A. Costa,Italy
+758,2016,Empoli,32,16,29,2163,M. Pucciarelli,Italy
+759,2016,Empoli,32,16,29,2350,M. Maccarone,Italy
+760,2016,Empoli,32,16,29,3071,L. Paredes,Argentina
+761,2016,Empoli,32,16,29,3076,F. Barba,Italy
+762,2016,Empoli,32,16,29,3134,P. Zieliński,Poland
+763,2016,Empoli,32,16,29,3206,L. Skorupski,Poland
+764,2016,Empoli,32,16,29,3776,L. Mchedlidze,Georgia
+765,2016,Empoli,32,16,29,4376,M. Livaja,Croatia
+766,2016,Empoli,32,16,29,4661,V. Laurini,France
+767,2016,Empoli,32,16,29,4828,M. Zambelli,Italy
+768,2016,Empoli,32,16,29,6029,M. Camporese,Italy
+769,2016,Empoli,32,16,29,6978,R. Maiello,Italy
+770,2016,Empoli,32,16,29,7706,R. Krunic,Bosnia Herzegovina
+771,2016,Empoli,32,16,29,7974,A. Pelagotti,Italy
+772,2016,Empoli,32,16,29,9724,Ronaldo,Brazil
+773,2016,Empoli,32,16,29,10350,L. Bittante,Italy
+774,2016,Empoli,32,16,29,10696,M. Pugliesi,Italy
+775,2016,Empoli,32,16,29,10984,A. Piu,Italy
+776,2016,Empoli,32,16,29,11179,K. Dermaku,Albania
+777,2016,Empoli,32,16,29,12950,A. Dioussé,Senegal
+778,2016,Genoa,36,24,24,177,M. Perin,Italy
+779,2016,Genoa,36,24,24,438,D. Perotti,Argentina
+780,2016,Genoa,36,24,24,530,C. Ansaldi,Argentina
+781,2016,Genoa,36,24,24,743,Diogo Figueiras,Portugal
+782,2016,Genoa,36,24,24,867,I. Cissokho,Senegal
+783,2016,Genoa,36,24,24,932,A. Costa,Argentina
+784,2016,Genoa,36,24,24,1065,Diego Capel,Spain
+785,2016,Genoa,36,24,24,1130,N. Burdisso,Argentina
+786,2016,Genoa,36,24,24,1223,S. De Maio,France
+787,2016,Genoa,36,24,24,1309,P. Tachtsidis,Greece
+788,2016,Genoa,36,24,24,1418,T. Rincón,Venezuela
+789,2016,Genoa,36,24,24,1506,G. Pandev,FYR Macedonia
+790,2016,Genoa,36,24,24,1572,S. Gakpé,Togo
+791,2016,Genoa,36,24,24,1932,G. Marchese,Italy
+792,2016,Genoa,36,24,24,2564,E. Muñoz,Argentina
+793,2016,Genoa,36,24,24,2589,D. Lazović,Serbia
+794,2016,Genoa,36,24,24,2590,A. Izzo,Italy
+795,2016,Genoa,36,24,24,2824,M. Santana,Argentina
+796,2016,Genoa,36,24,24,2838,B. Džemaili,Switzerland
+797,2016,Genoa,36,24,24,3209,E. Lamanna,Italy
+798,2016,Genoa,36,24,24,3295,L. Pavoletti,Italy
+799,2016,Genoa,36,24,24,3309,S. Ujkani,Kosovo
+800,2016,Genoa,36,24,24,3690,D. Laxalt,Uruguay
+801,2016,Genoa,36,24,24,6913,A. També,Mali
+802,2016,Genoa,36,24,24,7853,A. Donnarumma,Italy
+803,2016,Genoa,36,24,24,8696,D. Martínez,Paraguay
+804,2016,Genoa,36,24,24,12588,O. Ntcham,France
+805,2016,Genoa,36,24,24,12951,D. Sommariva,Italy
+806,2016,Genoa,36,24,24,12963,G. Panico,Italy
+807,2016,AC Milan,63,32,20,160,Diego López,Spain
+808,2016,AC Milan,63,32,20,175,C. Bacca,Colombia
+809,2016,AC Milan,63,32,20,231,N. de Jong,Netherlands
+810,2016,AC Milan,63,32,20,236,Alex,Brazil
+811,2016,AC Milan,63,32,20,248,J. Ménez,France
+812,2016,AC Milan,63,32,20,302,M. Balotelli,Italy
+813,2016,AC Milan,63,32,20,362,R. Montolivo,Italy
+814,2016,AC Milan,63,32,20,481,P. Mexès,France
+815,2016,AC Milan,63,32,20,538,Luiz Adriano,Brazil
+816,2016,AC Milan,63,32,20,595,G. Bonaventura,Italy
+817,2016,AC Milan,63,32,20,672,I. Abate,Italy
+818,2016,AC Milan,63,32,20,696,C. Zapata,Colombia
+819,2016,AC Milan,63,32,20,771,A. Bertolacci,Italy
+820,2016,AC Milan,63,32,20,795,A. Poli,Italy
+821,2016,AC Milan,63,32,20,842,C. Abbiati,Italy
+822,2016,AC Milan,63,32,20,906,L. Antonelli,Italy
+823,2016,AC Milan,63,32,20,920,A. Cerci,Italy
+824,2016,AC Milan,63,32,20,926,K. Honda,Japan
+825,2016,AC Milan,63,32,20,964,M. De Sciglio,Italy
+826,2016,AC Milan,63,32,20,1250,A. Romagnoli,Italy
+827,2016,AC Milan,63,32,20,1546,A. Nocerino,Italy
+828,2016,AC Milan,63,32,20,1657,M. Niang,France
+829,2016,AC Milan,63,32,20,1672,Suso,Spain
+830,2016,AC Milan,63,32,20,2526,J. Mauri,Italy
+831,2016,AC Milan,63,32,20,3738,Rodrigo Ely,Brazil
+832,2016,AC Milan,63,32,20,10354,S. Simic,Czech Republic
+833,2016,AC Milan,63,32,20,11470,D. Calabria,Italy
+834,2016,Palermo,26,13,30,451,F. Vázquez,Italy
+835,2016,Palermo,26,13,30,827,G. González,Costa Rica
+836,2016,Palermo,26,13,30,851,S. Sorrentino,Italy
+837,2016,Palermo,26,13,30,1462,E. Maresca,Italy
+838,2016,Palermo,26,13,30,1514,L. Rigoni,Italy
+839,2016,Palermo,26,13,30,1515,R. Vitiello,Italy
+840,2016,Palermo,26,13,30,1642,S. Anđelković,Slovenia
+841,2016,Palermo,26,13,30,2184,A. El Kaoutari,Morocco
+842,2016,Palermo,26,13,30,2538,R. Quaison,Sweden
+843,2016,Palermo,26,13,30,2615,O. Hiljemark,Sweden
+844,2016,Palermo,26,13,30,2744,F. Bolzoni,Italy
+845,2016,Palermo,26,13,30,2756,M. Jajalo,Croatia
+846,2016,Palermo,26,13,30,3095,A. Lazaar,Morocco
+847,2016,Palermo,26,13,30,3696,I. Chochev,Bulgaria
+848,2016,Palermo,26,13,30,4390,U. Đurđević,Serbia
+849,2016,Palermo,26,13,30,5091,G. Brugman,Uruguay
+850,2016,Palermo,26,13,30,5190,A. Trajkovski,FYR Macedonia
+851,2016,Palermo,26,13,30,5233,S. Colombi,Italy
+852,2016,Palermo,26,13,30,5960,E. Goldaniga,Italy
+853,2016,Palermo,26,13,30,6012,F. Daprelà,Switzerland
+854,2016,Palermo,26,13,30,6126,A. Struna,Slovenia
+855,2016,Palermo,26,13,30,8943,A. Rispoli,Italy
+856,2016,Palermo,26,13,30,10855,M. Cassini,Argentina
+857,2016,Palermo,26,13,30,12661,A. La Gumina,Italy
+858,2016,Palermo,26,13,30,13003,R. Pirrello,Italy
+859,2016,Palermo,26,13,30,13335,F. Alastra,Italy
+860,2016,Palermo,26,13,30,13336,G. Pezzella,Italy
+861,2016,Pescara,18,19,38,3069,M. Valoti,Italy
+862,2016,Pescara,18,19,38,4323,G. Caprari,Italy
+863,2016,Pescara,18,19,38,4414,A. Benali,Libya
+864,2016,Pescara,18,19,38,4446,V. Fiorillo,Italy
+865,2016,Pescara,18,19,38,5217,D. Župarić,Croatia
+866,2016,Pescara,18,19,38,5913,V. Verre,Italy
+867,2016,Pescara,18,19,38,7191,L. Memushaj,Albania
+868,2016,Pescara,18,19,38,7352,E. Pesoli,Italy
+869,2016,Pescara,18,19,38,7715,A. Crescenzi,Italy
+870,2016,Pescara,18,19,38,7735,R. Fiamozzi,Italy
+871,2016,Pescara,18,19,38,8071,G. Bunoza,Bosnia Herzegovina
+872,2016,Pescara,18,19,38,8109,F. Grillo,Italy
+873,2016,Pescara,18,19,38,8294,S. Aresti,Italy
+874,2016,Pescara,18,19,38,8355,M. Sansovini,Italy
+875,2016,Pescara,18,19,38,8769,G. Lapadula,Italy
+876,2016,Pescara,18,19,38,8786,F. Zampano,Italy
+877,2016,Pescara,18,19,38,9540,M. Fornasier,Italy
+878,2016,Pescara,18,19,38,10101,A. Bruno,Italy
+879,2016,Pescara,18,19,38,11977,G. Aldegani,Italy
+880,2016,Pescara,18,19,38,12212,L. Torreira,Uruguay
+881,2016,Pescara,18,19,38,12268,R. Mandragora,Italy
+882,2016,Pescara,18,19,38,12307,R. Selasi,Ghana
+883,2016,Pescara,18,19,38,12645,L. Forte,Italy
+884,2016,Pescara,18,19,38,13748,P. Cappelluzzo,Italy
+885,2016,SS Lazio,70,40,23,115,A. Candreva,Italy
+886,2016,SS Lazio,70,40,23,126,S. de Vrij,Netherlands
+887,2016,SS Lazio,70,40,23,163,L. Biglia,Argentina
+888,2016,SS Lazio,70,40,23,225,M. Klose,Germany
+889,2016,SS Lazio,70,40,23,263,M. Parolo,Italy
+890,2016,SS Lazio,70,40,23,303,Maurício,Brazil
+891,2016,SS Lazio,70,40,23,317,F. Djordjevic,Serbia
+892,2016,SS Lazio,70,40,23,333,S. Mauri,Italy
+893,2016,SS Lazio,70,40,23,344,F. Marchetti,Italy
+894,2016,SS Lazio,70,40,23,369,D. Basta,Serbia
+895,2016,SS Lazio,70,40,23,393,Felipe Anderson,Brazil
+896,2016,SS Lazio,70,40,23,521,S. Radu,Romania
+897,2016,SS Lazio,70,40,23,712,S. Lulić,Bosnia Herzegovina
+898,2016,SS Lazio,70,40,23,915,A. Matri,Italy
+899,2016,SS Lazio,70,40,23,946,S. Gentiletti,Argentina
+900,2016,SS Lazio,70,40,23,955,B. Keita,Spain
+901,2016,SS Lazio,70,40,23,962,R. Morrison,England
+902,2016,SS Lazio,70,40,23,1256,R. Kishna,Netherlands
+903,2016,SS Lazio,70,40,23,1285,W. Hoedt,Netherlands
+904,2016,SS Lazio,70,40,23,1294,O. Onazi,Nigeria
+905,2016,SS Lazio,70,40,23,1555,A. Konko,France
+906,2016,SS Lazio,70,40,23,2064,D. Cataldi,Italy
+907,2016,SS Lazio,70,40,23,2185,E. Berisha,Albania
+908,2016,SS Lazio,70,40,23,2878,E. Braafheid,Netherlands
+909,2016,SS Lazio,70,40,23,4285,S. Milinković-Savić,Serbia
+910,2016,SS Lazio,70,40,23,5093,Patric,Spain
+911,2016,SS Lazio,70,40,23,8580,C. Oikonomidis,Australia
+912,2016,SS Lazio,70,40,23,9463,R. Serpieri,Italy
+913,2016,SS Lazio,70,40,23,10217,G. Guerrieri,Italy
+914,2016,SS Lazio,70,40,23,10446,A. Berardi,Italy
+915,2016,Napoli,86,44,19,60,G. Higuaín,Argentina
+916,2016,Napoli,86,44,19,96,M. Hamšik,Slovakia
+917,2016,Napoli,86,44,19,151,D. Mertens,Belgium
+918,2016,Napoli,86,44,19,184,L. Insigne,Italy
+919,2016,Napoli,86,44,19,206,Allan,Brazil
+920,2016,Napoli,86,44,19,247,Raúl Albiol,Spain
+921,2016,Napoli,86,44,19,266,José Callejón,Spain
+922,2016,Napoli,86,44,19,332,José Reina,Spain
+923,2016,Napoli,86,44,19,567,M. Gabbiadini,Italy
+924,2016,Napoli,86,44,19,568,K. Koulibaly,Senegal
+925,2016,Napoli,86,44,19,584,F. Ghoulam,Algeria
+926,2016,Napoli,86,44,19,745,Jorginho,Italy
+927,2016,Napoli,86,44,19,753,O. El Kaddouri,Morocco
+928,2016,Napoli,86,44,19,784,David López,Spain
+929,2016,Napoli,86,44,19,811,V. Chiricheş,Romania
+930,2016,Napoli,86,44,19,913,J. Zúñiga,Colombia
+931,2016,Napoli,86,44,19,916,J. De Guzmán,Netherlands
+932,2016,Napoli,86,44,19,928,Henrique,Brazil
+933,2016,Napoli,86,44,19,933,M. Valdifiori,Italy
+934,2016,Napoli,86,44,19,1148,C. Maggio,Italy
+935,2016,Napoli,86,44,19,1314,Rafael,Brazil
+936,2016,Napoli,86,44,19,1365,E. Hysaj,Albania
+937,2016,Napoli,86,44,19,1684,Gabriel,Brazil
+938,2016,Napoli,86,44,19,2330,I. Strinić,Croatia
+939,2016,Napoli,86,44,19,8705,J. Dezi,Italy
+940,2016,Napoli,86,44,19,14253,S. Luperto,Italy
+941,2016,Cagliari Calcio,47,38,34,1508,M. Storari,Italy
+942,2016,Cagliari Calcio,47,38,34,1800,M. Sau,Italy
+943,2016,Cagliari Calcio,47,38,34,2735,D. Di Gennaro,Italy
+944,2016,Cagliari Calcio,47,38,34,3053,N. Murru,Italy
+945,2016,Cagliari Calcio,47,38,34,3123,M. Capuano,Italy
+946,2016,Cagliari Calcio,47,38,34,3152,Diego Farías,Brazil
+947,2016,Cagliari Calcio,47,38,34,3236,L. Ceppitelli,Italy
+948,2016,Cagliari Calcio,47,38,34,3492,A. Balzano,Italy
+949,2016,Cagliari Calcio,47,38,34,3784,S. Benedetti,Italy
+950,2016,Cagliari Calcio,47,38,34,3786,João Pedro,Brazil
+951,2016,Cagliari Calcio,47,38,34,4158,D. Dessena,Italy
+952,2016,Cagliari Calcio,47,38,34,4263,F. Melchiorri,Italy
+953,2016,Cagliari Calcio,47,38,34,4826,G. Munari,Italy
+954,2016,Cagliari Calcio,47,38,34,5063,A. Cragno,Italy
+955,2016,Cagliari Calcio,47,38,34,5243,N. Giannetti,Italy
+956,2016,Cagliari Calcio,47,38,34,5862,A. Cerri,Italy
+957,2016,Cagliari Calcio,47,38,34,5882,L. Krajnc,Slovenia
+958,2016,Cagliari Calcio,47,38,34,5920,D. Del Fabro,Italy
+959,2016,Cagliari Calcio,47,38,34,6682,A. Tello,Colombia
+960,2016,Cagliari Calcio,47,38,34,6761,M. Fossati,Italy
+961,2016,Cagliari Calcio,47,38,34,7482,F. Pisacane,Italy
+962,2016,Cagliari Calcio,47,38,34,8244,R. Colombo,Italy
+963,2016,Cagliari Calcio,47,38,34,8611,A. Barreca,Italy
+964,2016,Cagliari Calcio,47,38,34,10243,N. Barella,Italy
+965,2016,Cagliari Calcio,47,38,34,11639,A. Deiola,Italy
+966,2016,FC Crotone,34,21,25,3004,Claiton,Brazil
+967,2016,FC Crotone,34,21,25,4411,B. Martella,Italy
+968,2016,FC Crotone,34,21,25,4512,A. Stoian,Romania
+969,2016,FC Crotone,34,21,25,6066,F. Ricci,Italy
+970,2016,FC Crotone,34,21,25,6838,A. Budimir,Croatia
+971,2016,FC Crotone,34,21,25,7234,F. Modesto,Italy
+972,2016,FC Crotone,34,21,25,7486,P. De Giorgio,Italy
+973,2016,FC Crotone,34,21,25,7584,M. Tounkara,Spain
+974,2016,FC Crotone,34,21,25,8021,G. Torromino,Italy
+975,2016,FC Crotone,34,21,25,8189,M. Paro,Italy
+976,2016,FC Crotone,34,21,25,8214,A. Cordaz,Italy
+977,2016,FC Crotone,34,21,25,8676,G. Zampano,Italy
+978,2016,FC Crotone,34,21,25,9055,M. Cremonesi,Italy
+979,2016,FC Crotone,34,21,25,9470,M. Balasa,Romania
+980,2016,FC Crotone,34,21,25,10288,E. Yao Guy,Ivory Coast
+981,2016,FC Crotone,34,21,25,10415,A. Barberis,Italy
+982,2016,FC Crotone,34,21,25,10472,A. Salzano,Italy
+983,2016,FC Crotone,34,21,25,10958,D. Leto,Italy
+984,2016,FC Crotone,34,21,25,11026,L. Capezzi,Italy
+985,2016,FC Crotone,34,21,25,11169,A. Sabbione,Italy
+986,2016,FC Crotone,34,21,25,11180,M. Festa,Italy
+987,2016,FC Crotone,34,21,25,11686,I. Galli,Italy
+988,2016,FC Crotone,34,21,25,12206,A. Tripicchio,Italy
+989,2016,FC Crotone,34,21,25,13713,C. Riggio,Italy
+990,2016,ACF Fiorentina,60,34,23,165,Borja Valero,Spain
+991,2016,ACF Fiorentina,60,34,23,346,G. Rodríguez,Argentina
+992,2016,ACF Fiorentina,60,34,23,365,G. Rossi,Italy
+993,2016,ACF Fiorentina,60,34,23,368,J. Błaszczykowski,Poland
+994,2016,ACF Fiorentina,60,34,23,463,Mario Suárez,Spain
+995,2016,ACF Fiorentina,60,34,23,529,D. Astori,Italy
+996,2016,ACF Fiorentina,60,34,23,718,J. Iličić,Slovenia
+997,2016,ACF Fiorentina,60,34,23,841,M. Badelj,Croatia
+998,2016,ACF Fiorentina,60,34,23,885,M. Pasqual,Italy
+999,2016,ACF Fiorentina,60,34,23,909,M. Fernández,Chile
+1000,2016,ACF Fiorentina,60,34,23,1276,K. Babacar,Senegal
+1001,2016,ACF Fiorentina,60,34,23,1382,Marcos Alonso,Spain
+1002,2016,ACF Fiorentina,60,34,23,1446,F. Roncaglia,Argentina
+1003,2016,ACF Fiorentina,60,34,23,1453,N. Tomović,Serbia
+1004,2016,ACF Fiorentina,60,34,23,1641,C. Tătăruşanu,Romania
+1005,2016,ACF Fiorentina,60,34,23,1797,N. Kalinić,Croatia
+1006,2016,ACF Fiorentina,60,34,23,2139,L. Sepe,Italy
+1007,2016,ACF Fiorentina,60,34,23,2174,M. Vecino,Uruguay
+1008,2016,ACF Fiorentina,60,34,23,3043,F. Bernardeschi,Italy
+1009,2016,ACF Fiorentina,60,34,23,3979,O. Iakovenko,Ukraine
+1010,2016,ACF Fiorentina,60,34,23,4313,Gilberto,Brazil
+1011,2016,ACF Fiorentina,60,34,23,6000,A. Rebić,Croatia
+1012,2016,ACF Fiorentina,60,34,23,8715,M. Bakić,Montenegro
+1013,2016,ACF Fiorentina,60,34,23,10214,L. Lezzerini,Italy
+1014,2016,ACF Fiorentina,60,34,23,10289,R. Bagadur,Croatia
+1015,2016,FC Internazionale Milano,62,44,22,76,Miranda,Brazil
+1016,2016,FC Internazionale Milano,62,44,22,104,N. Vidić,Serbia
+1017,2016,FC Internazionale Milano,62,44,22,107,S. Handanovič,Slovenia
+1018,2016,FC Internazionale Milano,62,44,22,213,S. Jovetić,Montenegro
+1019,2016,FC Internazionale Milano,62,44,22,221,G. Medel,Chile
+1020,2016,FC Internazionale Milano,62,44,22,355,R. Palacio,Argentina
+1021,2016,FC Internazionale Milano,62,44,22,372,F. Guarín,Colombia
+1022,2016,FC Internazionale Milano,62,44,22,401,M. Icardi,Argentina
+1023,2016,FC Internazionale Milano,62,44,22,411,A. Ljajić,Serbia
+1024,2016,FC Internazionale Milano,62,44,22,430,Montoya,Spain
+1025,2016,FC Internazionale Milano,62,44,22,431,Juan Jesus,Brazil
+1026,2016,FC Internazionale Milano,62,44,22,569,G. Kondogbia,France
+1027,2016,FC Internazionale Milano,62,44,22,637,A. Ranocchia,Italy
+1028,2016,FC Internazionale Milano,62,44,22,639,J. Biabiany,France
+1029,2016,FC Internazionale Milano,62,44,22,742,J. Murillo,Colombia
+1030,2016,FC Internazionale Milano,62,44,22,945,R. Álvarez,Argentina
+1031,2016,FC Internazionale Milano,62,44,22,1017,Alex Telles,Brazil
+1032,2016,FC Internazionale Milano,62,44,22,1048,D. Santon,Italy
+1033,2016,FC Internazionale Milano,62,44,22,1303,M. Brozović,Croatia
+1034,2016,FC Internazionale Milano,62,44,22,1455,D. D'Ambrosio,Italy
+1035,2016,FC Internazionale Milano,62,44,22,1987,J. Carrizo,Argentina
+1036,2016,FC Internazionale Milano,62,44,22,2143,Dodô,Brazil
+1037,2016,FC Internazionale Milano,62,44,22,2996,Y. Nagatomo,Japan
+1038,2016,FC Internazionale Milano,62,44,22,4279,A. Gnoukouri,Ivory Coast
+1039,2016,FC Internazionale Milano,62,44,22,9944,T. Berni,Italy
+1040,2016,FC Internazionale Milano,62,44,22,10859,R. Manaj,Albania
+1041,2016,FC Internazionale Milano,62,44,22,10879,F. Dimarco,Italy
+1042,2016,FC Internazionale Milano,62,44,22,10920,E. Baldini,Italy
+1043,2016,Sampdoria,48,28,23,224,A. Cassano,Italy
+1044,2016,Sampdoria,48,28,23,535,Eder,Italy
+1045,2016,Sampdoria,48,28,23,673,E. Viviano,Italy
+1046,2016,Sampdoria,48,28,23,789,L. De Silvestri,Italy
+1047,2016,Sampdoria,48,28,23,988,Fernando,Brazil
+1048,2016,Sampdoria,48,28,23,1156,E. Barreto,Paraguay
+1049,2016,Sampdoria,48,28,23,1503,M. Cassani,Italy
+1050,2016,Sampdoria,48,28,23,1580,N. Moisander,Finland
+1051,2016,Sampdoria,48,28,23,1603,L. Christodoulopoulos,Greece
+1052,2016,Sampdoria,48,28,23,1680,R. Soriano,Italy
+1053,2016,Sampdoria,48,28,23,1682,L. Muriel,Colombia
+1054,2016,Sampdoria,48,28,23,1961,M. Silvestre,Italy
+1055,2016,Sampdoria,48,28,23,2483,E. Zukanović,Bosnia Herzegovina
+1056,2016,Sampdoria,48,28,23,2695,N. Krstičić,Serbia
+1057,2016,Sampdoria,48,28,23,2702,V. Regini,Italy
+1058,2016,Sampdoria,48,28,23,2812,A. Palombo,Italy
+1059,2016,Sampdoria,48,28,23,3081,J. Correa,Argentina
+1060,2016,Sampdoria,48,28,23,3446,D. Mesbah,Algeria
+1061,2016,Sampdoria,48,28,23,3462,A. Coda,Italy
+1062,2016,Sampdoria,48,28,23,4102,C. Puggioni,Italy
+1063,2016,Sampdoria,48,28,23,5208,A. Brignoli,Italy
+1064,2016,Sampdoria,48,28,23,6796,Alejandro Rodríguez,Spain
+1065,2016,Sampdoria,48,28,23,10199,F. Bonazzoli,Italy
+1066,2016,Sampdoria,48,28,23,11605,D. Ivan,Slovakia
+1067,2016,Sampdoria,48,28,23,12089,S. Massolo,Italy
+1068,2016,Sampdoria,48,28,23,12621,Pedro Pereira,Portugal
+1069,2016,Sampdoria,48,28,23,12670,E. Oneto,Italy
+1070,2016,Sampdoria,48,28,23,13462,L. Serinelli,Italy
+1071,2016,Sassuolo Calcio,46,27,28,285,D. Berardi,Italy
+1072,2016,Sassuolo Calcio,46,27,28,462,A. Consigli,Italy
+1073,2016,Sassuolo Calcio,46,27,28,1280,G. Defrel,France
+1074,2016,Sassuolo Calcio,46,27,28,1292,N. Sansone,Italy
+1075,2016,Sassuolo Calcio,46,27,28,1297,S. Vrsaljko,Croatia
+1076,2016,Sassuolo Calcio,46,27,28,1425,F. Acerbi,Italy
+1077,2016,Sassuolo Calcio,46,27,28,1458,P. Cannavaro,Italy
+1078,2016,Sassuolo Calcio,46,27,28,2431,S. Floccari,Italy
+1079,2016,Sassuolo Calcio,46,27,28,2693,L. Ariaudo,Italy
+1080,2016,Sassuolo Calcio,46,27,28,2804,A. Floro Flores,Italy
+1081,2016,Sassuolo Calcio,46,27,28,2816,G. Pegolo,Italy
+1082,2016,Sassuolo Calcio,46,27,28,2942,S. Missiroli,Italy
+1083,2016,Sassuolo Calcio,46,27,28,2950,F. Peluso,Italy
+1084,2016,Sassuolo Calcio,46,27,28,3128,L. Antei,Italy
+1085,2016,Sassuolo Calcio,46,27,28,3428,F. Magnanelli,Italy
+1086,2016,Sassuolo Calcio,46,27,28,3680,A. Duncan,Ghana
+1087,2016,Sassuolo Calcio,46,27,28,4109,D. Biondini,Italy
+1088,2016,Sassuolo Calcio,46,27,28,4195,E. Terranova,Italy
+1089,2016,Sassuolo Calcio,46,27,28,4453,K. Laribi,Tunisia
+1090,2016,Sassuolo Calcio,46,27,28,4598,A. Longhi,Italy
+1091,2016,Sassuolo Calcio,46,27,28,5926,M. Politano,Italy
+1092,2016,Sassuolo Calcio,46,27,28,6555,M. Gazzola,Italy
+1093,2016,Sassuolo Calcio,46,27,28,7708,D. Falcinelli,Italy
+1094,2016,Sassuolo Calcio,46,27,28,8369,A. Pomini,Italy
+1095,2016,Sassuolo Calcio,46,27,28,11484,J. Broh Tonye,France
+1096,2016,Sassuolo Calcio,46,27,28,12038,L. Fontanesi,Italy
+1097,2016,Sassuolo Calcio,46,27,28,12050,L. Pellegrini,Italy
+1098,2016,Torino,53,43,31,148,K. Glik,Poland
+1099,2016,Torino,53,43,31,277,N. Maksimović,Serbia
+1100,2016,Torino,53,43,31,452,Bruno Peres,Brazil
+1101,2016,Torino,53,43,31,514,F. Quagliarella,Italy
+1102,2016,Torino,53,43,31,558,D. Baselli,Italy
+1103,2016,Torino,53,43,31,644,E. Moretti,Italy
+1104,2016,Torino,53,43,31,864,A. Gazzi,Italy
+1105,2016,Torino,53,43,31,868,M. López,Argentina
+1106,2016,Torino,53,43,31,1177,D. Padelli,Italy
+1107,2016,Torino,53,43,31,1347,P. Jansson,Sweden
+1108,2016,Torino,53,43,31,1358,Danilo Avelar,Brazil
+1109,2016,Torino,53,43,31,1481,C. Bovo,Italy
+1110,2016,Torino,53,43,31,1533,C. Molinaro,Italy
+1111,2016,Torino,53,43,31,1535,Amauri,Italy
+1112,2016,Torino,53,43,31,1607,G. Vives,Italy
+1113,2016,Torino,53,43,31,1689,M. Benassi,Italy
+1114,2016,Torino,53,43,31,1692,D. Zappacosta,Italy
+1115,2016,Torino,53,43,31,1709,A. Acquah,Ghana
+1116,2016,Torino,53,43,31,1716,J. Martínez,Venezuela
+1117,2016,Torino,53,43,31,1904,A. Farnerud,Sweden
+1118,2016,Torino,53,43,31,2108,G. Silva,Uruguay
+1119,2016,Torino,53,43,31,2548,J. Obi,Nigeria
+1120,2016,Torino,53,43,31,2797,L. Castellazzi,Italy
+1121,2016,Torino,53,43,31,3059,A. Belotti,Italy
+1122,2016,Torino,53,43,31,3820,S. Ichazo,Uruguay
+1123,2016,Torino,53,43,31,6806,S. Prcić,Bosnia Herzegovina
+1124,2016,Torino,53,43,31,9510,L. Cargnino,Italy
+1125,2016,Torino,53,43,31,11714,S. Ignico,Italy
+1126,2016,Udinese Calcio,45,30,23,492,A. Di Natale,Italy
+1127,2016,Udinese Calcio,45,30,23,629,T. Heurtaux,France
+1128,2016,Udinese Calcio,45,30,23,669,Danilo,Brazil
+1129,2016,Udinese Calcio,45,30,23,707,O. Karnezis,Greece
+1130,2016,Udinese Calcio,45,30,23,899,C. Théréau,France
+1131,2016,Udinese Calcio,45,30,23,994,D. Zapata,Colombia
+1132,2016,Udinese Calcio,45,30,23,1270,Bruno Fernandes,Portugal
+1133,2016,Udinese Calcio,45,30,23,1396,Edenílson,Brazil
+1134,2016,Udinese Calcio,45,30,23,1428,I. Piris,Paraguay
+1135,2016,Udinese Calcio,45,30,23,1475,M. Domizzi,Italy
+1136,2016,Udinese Calcio,45,30,23,1581,P. Kone,Greece
+1137,2016,Udinese Calcio,45,30,23,1624,Marquinho,Brazil
+1138,2016,Udinese Calcio,45,30,23,1746,Guilherme,Brazil
+1139,2016,Udinese Calcio,45,30,23,2009,M. Iturra,Chile
+1140,2016,Udinese Calcio,45,30,23,2131,E. Insúa,Argentina
+1141,2016,Udinese Calcio,45,30,23,2171,S. Widmer,Switzerland
+1142,2016,Udinese Calcio,45,30,23,2192,E. Badu,Ghana
+1143,2016,Udinese Calcio,45,30,23,2666,M. Wagué,Mali
+1144,2016,Udinese Calcio,45,30,23,3084,A. Adnan,Iraq
+1145,2016,Udinese Calcio,45,30,23,3106,Lucas Evangelista,Brazil
+1146,2016,Udinese Calcio,45,30,23,4337,S. Perica,Croatia
+1147,2016,Udinese Calcio,45,30,23,4708,G. Pasquale,Italy
+1148,2016,Udinese Calcio,45,30,23,5248,A. Merkel,Kazakhstan
+1149,2016,Udinese Calcio,45,30,23,5294,R. Romo,Venezuela
+1150,2016,Udinese Calcio,45,30,23,6827,R. Aguirre,Uruguay
+1151,2016,Udinese Calcio,45,30,23,8787,A. Camigliano,Italy
+1152,2016,Udinese Calcio,45,30,23,9409,A. Meret,Italy
+1153,2016,Udinese Calcio,45,30,23,11145,D. Pape Ndiaga,Senegal
+1154,2017,Juventus,95,45,8,21,G. Buffon,Italy
+1155,2017,Juventus,95,45,8,25,G. Chiellini,Italy
+1156,2017,Juventus,95,45,8,26,G. Higuaín,Argentina
+1157,2017,Juventus,95,45,8,43,L. Bonucci,Italy
+1158,2017,Juventus,95,45,8,48,A. Barzagli,Italy
+1159,2017,Juventus,95,45,8,56,C. Marchisio,Italy
+1160,2017,Juventus,95,45,8,59,P. Dybala,Argentina
+1161,2017,Juventus,95,45,8,64,M. Pjanić,Bosnia Herzegovina
+1162,2017,Juventus,95,45,8,70,Dani Alves,Brazil
+1163,2017,Juventus,95,45,8,94,Alex Sandro,Brazil
+1164,2017,Juventus,95,45,8,151,S. Lichtsteiner,Switzerland
+1165,2017,Juventus,95,45,8,173,M. Benatia,Morocco
+1166,2017,Juventus,95,45,8,176,S. Khedira,Germany
+1167,2017,Juventus,95,45,8,178,M. Mandžukić,Croatia
+1168,2017,Juventus,95,45,8,231,P. Evra,France
+1169,2017,Juventus,95,45,8,265,J. Cuadrado,Colombia
+1170,2017,Juventus,95,45,8,446,K. Asamoah,Ghana
+1171,2017,Juventus,95,45,8,498,Hernanes,Brazil
+1172,2017,Juventus,95,45,8,518,Neto,Brazil
+1173,2017,Juventus,95,45,8,531,D. Rugani,Italy
+1174,2017,Juventus,95,45,8,976,M. Lemina,Gabon
+1175,2017,Juventus,95,45,8,985,S. Sturaro,Italy
+1176,2017,Juventus,95,45,8,1243,M. Pjaca,Croatia
+1177,2017,Juventus,95,45,8,3190,F. Mattiello,Italy
+1178,2017,Juventus,95,45,8,3696,P. De Ceglie,Italy
+1179,2017,Juventus,95,45,8,5455,R. Mandragora,Italy
+1180,2017,Juventus,95,45,8,7393,E. Audero,Italy
+1181,2017,Hellas Verona,25,14,35,1459,G. Pazzini,Italy
+1182,2017,Hellas Verona,25,14,35,1846,E. Maresca,Italy
+1183,2017,Hellas Verona,25,14,35,2526,Rômulo,Italy
+1184,2017,Hellas Verona,25,14,35,2549,J. Gomez,Argentina
+1185,2017,Hellas Verona,25,14,35,2698,M. Bianchetti,Italy
+1186,2017,Hellas Verona,25,14,35,2943,L. Greco,Italy
+1187,2017,Hellas Verona,25,14,35,3048,N. Cherubin,Italy
+1188,2017,Hellas Verona,25,14,35,3051,E. Pisano,Italy
+1189,2017,Hellas Verona,25,14,35,3081,L. Siligardi,Italy
+1190,2017,Hellas Verona,25,14,35,3237,M. Valoti,Italy
+1191,2017,Hellas Verona,25,14,35,3408,F. Zuculini,Argentina
+1192,2017,Hellas Verona,25,14,35,3512,S. Souprayen,France
+1193,2017,Hellas Verona,25,14,35,4986,A. Caracciolo,Italy
+1194,2017,Hellas Verona,25,14,35,6458,M. Fossati,Italy
+1195,2017,Hellas Verona,25,14,35,6554,D. Bessa,Italy
+1196,2017,Hellas Verona,25,14,35,6714,M. Albertazzi,Italy
+1197,2017,Hellas Verona,25,14,35,6888,F. Coppola,Italy
+1198,2017,Hellas Verona,25,14,35,7107,G. Troianiello,Italy
+1199,2017,Hellas Verona,25,14,35,7404,S. Ganz,Italy
+1200,2017,Hellas Verona,25,14,35,7421,M. Fares,France
+1201,2017,Hellas Verona,25,14,35,7891,D. Luppi,Italy
+1202,2017,Hellas Verona,25,14,35,12037,Nicolas,Brazil
+1203,2017,Hellas Verona,25,14,35,14303,M. Zaccagni,Italy
+1204,2017,Hellas Verona,25,14,35,15531,P. Cappelluzzo,Italy
+1205,2017,Atalanta,60,30,18,214,M. Sportiello,Italy
+1206,2017,Atalanta,60,30,18,463,A. Gómez,Argentina
+1207,2017,Atalanta,60,30,18,784,A. Paloschi,Italy
+1208,2017,Atalanta,60,30,18,1454,M. Pinilla,Chile
+1209,2017,Atalanta,60,30,18,1501,A. Konko,France
+1210,2017,Atalanta,60,30,18,1747,Rafael Tolói,Brazil
+1211,2017,Atalanta,60,30,18,1819,E. Berisha,Albania
+1212,2017,Atalanta,60,30,18,1834,J. Kurtić,Slovenia
+1213,2017,Atalanta,60,30,18,1893,G. Stendardo,Italy
+1214,2017,Atalanta,60,30,18,1933,B. Dramé,Senegal
+1215,2017,Atalanta,60,30,18,2012,C. Carmona,Chile
+1216,2017,Atalanta,60,30,18,2025,E. Zukanović,Bosnia Herzegovina
+1217,2017,Atalanta,60,30,18,2435,A. Masiello,Italy
+1218,2017,Atalanta,60,30,18,3598,G. Migliaccio,Italy
+1219,2017,Atalanta,60,30,18,3948,A. Grassi,Italy
+1220,2017,Atalanta,60,30,18,3971,A. Conti,Italy
+1221,2017,Atalanta,60,30,18,4060,E. Suagher,Italy
+1222,2017,Atalanta,60,30,18,4159,A. Pešić,Serbia
+1223,2017,Atalanta,60,30,18,4414,D. Bassi,Italy
+1224,2017,Atalanta,60,30,18,4667,F. Kessié,Ivory Coast
+1225,2017,Atalanta,60,30,18,4693,L. Spinazzola,Italy
+1226,2017,Atalanta,60,30,18,4858,B. Cabezas,Ecuador
+1227,2017,Atalanta,60,30,18,4919,M. D'Alessandro,Italy
+1228,2017,Atalanta,60,30,18,5496,M. Caldara,Italy
+1229,2017,Atalanta,60,30,18,6609,R. Freuler,Switzerland
+1230,2017,Atalanta,60,30,18,6919,C. Raimondi,Italy
+1231,2017,Atalanta,60,30,18,8487,A. Petagna,Italy
+1232,2017,Atalanta,60,30,18,13085,R. Gagliardini,Italy
+1233,2017,Atalanta,60,30,18,14763,E. Ceria,Italy
+1234,2017,Bologna,39,25,26,348,A. Mirante,Italy
+1235,2017,Bologna,39,25,26,770,M. Destro,Italy
+1236,2017,Bologna,39,25,26,965,L. Krejčí,Czech Republic
+1237,2017,Bologna,39,25,26,1104,D. Gastaldello,Italy
+1238,2017,Bologna,39,25,26,1175,V. Torosidis,Greece
+1239,2017,Bologna,39,25,26,1332,M. Oikonomou,Greece
+1240,2017,Bologna,39,25,26,1571,A. Mounier,France
+1241,2017,Bologna,39,25,26,1646,G. Donsah,Ghana
+1242,2017,Bologna,39,25,26,1694,S. Verdi,Italy
+1243,2017,Bologna,39,25,26,1706,S. Taïder,Algeria
+1244,2017,Bologna,39,25,26,1721,A. Masina,Italy
+1245,2017,Bologna,39,25,26,1732,F. Viviani,Italy
+1246,2017,Bologna,39,25,26,2166,F. Helander,Sweden
+1247,2017,Bologna,39,25,26,2373,D. Maietta,Italy
+1248,2017,Bologna,39,25,26,2374,B. Džemaili,Switzerland
+1249,2017,Bologna,39,25,26,2437,S. Floccari,Italy
+1250,2017,Bologna,39,25,26,2744,L. Rizzo,Italy
+1251,2017,Bologna,39,25,26,3196,A. Nagy,Hungary
+1252,2017,Bologna,39,25,26,3232,A. Gomis,Senegal
+1253,2017,Bologna,39,25,26,3303,E. Pulgar,Chile
+1254,2017,Bologna,39,25,26,3779,Da Costa,Brazil
+1255,2017,Bologna,39,25,26,4494,A. Morleo,Italy
+1256,2017,Bologna,39,25,26,4701,I. Mbaye,Senegal
+1257,2017,Bologna,39,25,26,5243,R. Acquafresca,Italy
+1258,2017,Bologna,39,25,26,5547,F. Di Francesco,Italy
+1259,2017,Bologna,39,25,26,5574,E. Krafth,Sweden
+1260,2017,Bologna,39,25,26,5589,A. Ferrari,Italy
+1261,2017,Bologna,39,25,26,10358,S. Umar,Nigeria
+1262,2017,Bologna,39,25,26,11527,D. Boldor,Romania
+1263,2017,Bologna,39,25,26,12149,M. Sarr,Senegal
+1264,2017,Bologna,39,25,26,14098,A. Tabacchi,Italy
+1265,2017,FC Crotone,35,23,25,2718,L. Crisetig,Italy
+1266,2017,FC Crotone,35,23,25,2968,R. Palladino,Italy
+1267,2017,FC Crotone,35,23,25,3116,Claiton,Brazil
+1268,2017,FC Crotone,35,23,25,3477,M. Rohdén,Sweden
+1269,2017,FC Crotone,35,23,25,3640,D. Mesbah,Algeria
+1270,2017,FC Crotone,35,23,25,4009,B. Martella,Italy
+1271,2017,FC Crotone,35,23,25,4090,N. Dussenne,Belgium
+1272,2017,FC Crotone,35,23,25,4162,G. Ferrari,Italy
+1273,2017,FC Crotone,35,23,25,4409,A. Rosi,Italy
+1274,2017,FC Crotone,35,23,25,4637,L. Capezzi,Italy
+1275,2017,FC Crotone,35,23,25,4741,F. Ceccherini,Italy
+1276,2017,FC Crotone,35,23,25,4772,M. Sampirisi,Italy
+1277,2017,FC Crotone,35,23,25,4865,D. Falcinelli,Italy
+1278,2017,FC Crotone,35,23,25,5024,A. Stoian,Romania
+1279,2017,FC Crotone,35,23,25,5672,M. Trotta,Italy
+1280,2017,FC Crotone,35,23,25,5690,Simy,Nigeria
+1281,2017,FC Crotone,35,23,25,6956,A. Cordaz,Italy
+1282,2017,FC Crotone,35,23,25,7187,A. Tonev,Bulgaria
+1283,2017,FC Crotone,35,23,25,7480,E. Gnahoré,France
+1284,2017,FC Crotone,35,23,25,8587,A. Barberis,Italy
+1285,2017,FC Crotone,35,23,25,8950,A. Salzano,Italy
+1286,2017,FC Crotone,35,23,25,12023,P. De Giorgio,Italy
+1287,2017,FC Crotone,35,23,25,12348,G. Zampano,Italy
+1288,2017,FC Crotone,35,23,25,12453,M. Festa,Italy
+1289,2017,FC Crotone,35,23,25,13606,V. Cojocaru,Romania
+1290,2017,FC Crotone,35,23,25,13683,N. Fazzi,Italy
+1291,2017,FC Crotone,35,23,25,13950,A. Nalini,Italy
+1292,2017,FC Crotone,35,23,25,14526,G. Cuomo,Italy
+1293,2017,FC Crotone,35,23,25,15025,M. Nicoletti,Italy
+1294,2017,FC Crotone,35,23,25,15541,T. Dozi,France
+1295,2017,FC Crotone,35,23,25,16134,L. Bruno,Italy
+1296,2017,FC Crotone,35,23,25,16550,C. Barillari,Italy
+1297,2017,FC Internazionale Milano,72,37,16,36,S. Handanovič,Slovenia
+1298,2017,FC Internazionale Milano,72,37,16,54,Miranda,Brazil
+1299,2017,FC Internazionale Milano,72,37,16,123,E. Banega,Argentina
+1300,2017,FC Internazionale Milano,72,37,16,133,João Mário,Portugal
+1301,2017,FC Internazionale Milano,72,37,16,177,I. Perišić,Croatia
+1302,2017,FC Internazionale Milano,72,37,16,187,G. Medel,Chile
+1303,2017,FC Internazionale Milano,72,37,16,201,M. Icardi,Argentina
+1304,2017,FC Internazionale Milano,72,37,16,318,S. Jovetić,Montenegro
+1305,2017,FC Internazionale Milano,72,37,16,362,A. Candreva,Italy
+1306,2017,FC Internazionale Milano,72,37,16,413,J. Murillo,Colombia
+1307,2017,FC Internazionale Milano,72,37,16,487,C. Ansaldi,Argentina
+1308,2017,FC Internazionale Milano,72,37,16,496,Eder,Italy
+1309,2017,FC Internazionale Milano,72,37,16,575,M. Brozović,Croatia
+1310,2017,FC Internazionale Milano,72,37,16,628,Felipe Melo,Brazil
+1311,2017,FC Internazionale Milano,72,37,16,642,R. Palacio,Argentina
+1312,2017,FC Internazionale Milano,72,37,16,713,Gabriel,Brazil
+1313,2017,FC Internazionale Milano,72,37,16,884,M. Andreolli,Italy
+1314,2017,FC Internazionale Milano,72,37,16,1306,G. Kondogbia,France
+1315,2017,FC Internazionale Milano,72,37,16,1342,D. Santon,Italy
+1316,2017,FC Internazionale Milano,72,37,16,1560,A. Ranocchia,Italy
+1317,2017,FC Internazionale Milano,72,37,16,1575,J. Biabiany,France
+1318,2017,FC Internazionale Milano,72,37,16,1929,J. Carrizo,Argentina
+1319,2017,FC Internazionale Milano,72,37,16,2037,Y. Nagatomo,Japan
+1320,2017,FC Internazionale Milano,72,37,16,2041,D. D'Ambrosio,Italy
+1321,2017,FC Internazionale Milano,72,37,16,4644,A. Gnoukouri,Ivory Coast
+1322,2017,FC Internazionale Milano,72,37,16,5504,E. Yao Guy,Ivory Coast
+1323,2017,FC Internazionale Milano,72,37,16,10991,T. Berni,Italy
+1324,2017,FC Internazionale Milano,72,37,16,11376,L. Zonta,Italy
+1325,2017,FC Internazionale Milano,72,37,16,12217,A. Pinamonti,Italy
+1326,2017,FC Internazionale Milano,72,37,16,12255,S. Miangue,Belgium
+1327,2017,FC Internazionale Milano,72,37,16,12933,M. Di Gregorio,Italy
+1328,2017,FC Internazionale Milano,72,37,16,14086,I. Radu,Romania
+1329,2017,FC Internazionale Milano,72,37,16,14603,A. Bakayoko,France
+1330,2017,SS Lazio,72,45,21,194,S. de Vrij,Netherlands
+1331,2017,SS Lazio,72,45,21,236,F. Marchetti,Italy
+1332,2017,SS Lazio,72,45,21,244,L. Biglia,Argentina
+1333,2017,SS Lazio,72,45,21,372,M. Parolo,Italy
+1334,2017,SS Lazio,72,45,21,419,C. Immobile,Italy
+1335,2017,SS Lazio,72,45,21,480,D. Basta,Serbia
+1336,2017,SS Lazio,72,45,21,557,Felipe Anderson,Brazil
+1337,2017,SS Lazio,72,45,21,657,S. Radu,Romania
+1338,2017,SS Lazio,72,45,21,720,K. Baldé Diao,Senegal
+1339,2017,SS Lazio,72,45,21,914,S. Lulić,Bosnia Herzegovina
+1340,2017,SS Lazio,72,45,21,951,Luis Alberto,Spain
+1341,2017,SS Lazio,72,45,21,1008,R. Morrison,England
+1342,2017,SS Lazio,72,45,21,1190,F. Đorđević,Serbia
+1343,2017,SS Lazio,72,45,21,1274,S. Milinković-Savić,Serbia
+1344,2017,SS Lazio,72,45,21,1291,Bastos,Angola
+1345,2017,SS Lazio,72,45,21,1293,W. Hoedt,Netherlands
+1346,2017,SS Lazio,72,45,21,1656,D. Cataldi,Italy
+1347,2017,SS Lazio,72,45,21,1662,Wallace,Brazil
+1348,2017,SS Lazio,72,45,21,1682,R. Kishna,Netherlands
+1349,2017,SS Lazio,72,45,21,2230,M. Leitner,Germany
+1350,2017,SS Lazio,72,45,21,2484,A. González,Uruguay
+1351,2017,SS Lazio,72,45,21,2665,J. Lukaku,Belgium
+1352,2017,SS Lazio,72,45,21,5620,Patric,Spain
+1353,2017,SS Lazio,72,45,21,5865,I. Vargić,Croatia
+1354,2017,SS Lazio,72,45,21,6396,J. Minala,Cameroon
+1355,2017,SS Lazio,72,45,21,7702,Vinícius,Brazil
+1356,2017,SS Lazio,72,45,21,9396,M. Tounkara,Spain
+1357,2017,SS Lazio,72,45,21,10438,T. Strakosha,Albania
+1358,2017,SS Lazio,72,45,21,11439,F. Prce,Croatia
+1359,2017,SS Lazio,72,45,21,12208,A. Murgia,Italy
+1360,2017,SS Lazio,72,45,21,12912,C. Lombardi,Italy
+1361,2017,Sampdoria,54,36,20,252,E. Viviano,Italy
+1362,2017,Sampdoria,54,36,20,747,D. Praet,Belgium
+1363,2017,Sampdoria,54,36,20,822,A. Cassano,Italy
+1364,2017,Sampdoria,54,36,20,855,F. Quagliarella,Italy
+1365,2017,Sampdoria,54,36,20,1158,L. Cigarini,Italy
+1366,2017,Sampdoria,54,36,20,1217,R. Álvarez,Argentina
+1367,2017,Sampdoria,54,36,20,1267,Bruno Fernandes,Portugal
+1368,2017,Sampdoria,54,36,20,1349,F. Đuričić,Serbia
+1369,2017,Sampdoria,54,36,20,1353,L. Muriel,Colombia
+1370,2017,Sampdoria,54,36,20,1805,C. Carbonero,Colombia
+1371,2017,Sampdoria,54,36,20,2087,K. Linetty,Poland
+1372,2017,Sampdoria,54,36,20,2154,Dodô,Brazil
+1373,2017,Sampdoria,54,36,20,2391,E. Barreto,Paraguay
+1374,2017,Sampdoria,54,36,20,2405,M. Silvestre,Italy
+1375,2017,Sampdoria,54,36,20,2660,J. Sala,Italy
+1376,2017,Sampdoria,54,36,20,3202,P. Schick,Czech Republic
+1377,2017,Sampdoria,54,36,20,3412,V. Regini,Italy
+1378,2017,Sampdoria,54,36,20,3575,A. Palombo,Italy
+1379,2017,Sampdoria,54,36,20,3973,L. Torreira,Uruguay
+1380,2017,Sampdoria,54,36,20,4074,A. Budimir,Croatia
+1381,2017,Sampdoria,54,36,20,4333,C. Puggioni,Italy
+1382,2017,Sampdoria,54,36,20,4650,L. Krajnc,Slovenia
+1383,2017,Sampdoria,54,36,20,6037,D. Pavlovic,Switzerland
+1384,2017,Sampdoria,54,36,20,6437,M. Škriniar,Slovakia
+1385,2017,Sampdoria,54,36,20,6833,M. Eramo,Italy
+1386,2017,Sampdoria,54,36,20,7312,Pedro Pereira,Portugal
+1387,2017,Sampdoria,54,36,20,12324,S. Amuzie,Nigeria
+1388,2017,Sampdoria,54,36,20,13023,A. Tozzo,Italy
+1389,2017,Sampdoria,54,36,20,16172,T. Krapikas,Lithuania
+1390,2017,Sassuolo Calcio,43,11,22,162,A. Consigli,Italy
+1391,2017,Sassuolo Calcio,43,11,22,208,D. Berardi,Italy
+1392,2017,Sassuolo Calcio,43,11,22,329,F. Acerbi,Italy
+1393,2017,Sassuolo Calcio,43,11,22,893,A. Matri,Italy
+1394,2017,Sassuolo Calcio,43,11,22,1117,F. Magnanelli,Italy
+1395,2017,Sassuolo Calcio,43,11,22,1285,A. Duncan,Ghana
+1396,2017,Sassuolo Calcio,43,11,22,1314,T. Letschert,Netherlands
+1397,2017,Sassuolo Calcio,43,11,22,1434,P. Cannavaro,Italy
+1398,2017,Sassuolo Calcio,43,11,22,1538,S. Missiroli,Italy
+1399,2017,Sassuolo Calcio,43,11,22,2115,M. Politano,Italy
+1400,2017,Sassuolo Calcio,43,11,22,2196,G. Defrel,France
+1401,2017,Sassuolo Calcio,43,11,22,2470,F. Peluso,Italy
+1402,2017,Sassuolo Calcio,43,11,22,3339,L. Antei,Italy
+1403,2017,Sassuolo Calcio,43,11,22,3533,A. Ragusa,Italy
+1404,2017,Sassuolo Calcio,43,11,22,3580,G. Pegolo,Italy
+1405,2017,Sassuolo Calcio,43,11,22,3914,L. Pellegrini,Italy
+1406,2017,Sassuolo Calcio,43,11,22,3915,S. Sensi,Italy
+1407,2017,Sassuolo Calcio,43,11,22,4339,D. Biondini,Italy
+1408,2017,Sassuolo Calcio,43,11,22,4438,E. Terranova,Italy
+1409,2017,Sassuolo Calcio,43,11,22,5258,M. Gazzola,Italy
+1410,2017,Sassuolo Calcio,43,11,22,6469,F. Ricci,Italy
+1411,2017,Sassuolo Calcio,43,11,22,7377,L. Mazzitelli,Italy
+1412,2017,Sassuolo Calcio,43,11,22,7609,P. Iemmello,Italy
+1413,2017,Sassuolo Calcio,43,11,22,9166,A. Pomini,Italy
+1414,2017,Sassuolo Calcio,43,11,22,10477,Pol Lirola,Spain
+1415,2017,Sassuolo Calcio,43,11,22,12789,C. Adjapong,Ghana
+1416,2017,Sassuolo Calcio,43,11,22,13060,C. Dell'Orco,Italy
+1417,2017,Udinese Calcio,40,24,30,260,O. Karnezis,Greece
+1418,2017,Udinese Calcio,40,24,30,658,Danilo,Brazil
+1419,2017,Udinese Calcio,40,24,30,672,S. Kums,Belgium
+1420,2017,Udinese Calcio,40,24,30,779,D. Zapata,Colombia
+1421,2017,Udinese Calcio,40,24,30,865,C. Théréau,France
+1422,2017,Udinese Calcio,40,24,30,915,T. Heurtaux,France
+1423,2017,Udinese Calcio,40,24,30,1244,A. Peñaranda,Venezuela
+1424,2017,Udinese Calcio,40,24,30,1321,S. Widmer,Switzerland
+1425,2017,Udinese Calcio,40,24,30,1456,E. Hallfreðsson,Iceland
+1426,2017,Udinese Calcio,40,24,30,1532,P. Kone,Greece
+1427,2017,Udinese Calcio,40,24,30,1657,R. De Paul,Argentina
+1428,2017,Udinese Calcio,40,24,30,1711,Ryder,Brazil
+1429,2017,Udinese Calcio,40,24,30,1752,E. Badu,Ghana
+1430,2017,Udinese Calcio,40,24,30,1841,Felipe,Brazil
+1431,2017,Udinese Calcio,40,24,30,1866,F. Lodi,Italy
+1432,2017,Udinese Calcio,40,24,30,1961,P. Armero,Colombia
+1433,2017,Udinese Calcio,40,24,30,2085,S. Scuffet,Italy
+1434,2017,Udinese Calcio,40,24,30,2240,M. Wagué,Mali
+1435,2017,Udinese Calcio,40,24,30,2514,G. Angella,Italy
+1436,2017,Udinese Calcio,40,24,30,2676,A. Adnan,Iraq
+1437,2017,Udinese Calcio,40,24,30,2707,Samir,Brazil
+1438,2017,Udinese Calcio,40,24,30,3270,Lucas Evangelista,Brazil
+1439,2017,Udinese Calcio,40,24,30,3273,S. Perica,Croatia
+1440,2017,Udinese Calcio,40,24,30,4042,M. Faraoni,Italy
+1441,2017,Udinese Calcio,40,24,30,4690,A. Balic,Croatia
+1442,2017,Udinese Calcio,40,24,30,5523,Ewandro,Brazil
+1443,2017,Udinese Calcio,40,24,30,6379,S. Fofana,France
+1444,2017,Udinese Calcio,40,24,30,6383,J. Jankto,Czech Republic
+1445,2017,Udinese Calcio,40,24,30,13516,S. Perisan,Italy
+1446,2017,Benevento,21,23,40,5211,F. Ceravolo,Italy
+1447,2017,Benevento,21,23,40,5512,A. Cragno,Italy
+1448,2017,Benevento,21,23,40,5539,Y. Chibsah,Ghana
+1449,2017,Benevento,21,23,40,6676,M. Camporese,Italy
+1450,2017,Benevento,21,23,40,8087,W. López,Uruguay
+1451,2017,Benevento,21,23,40,8095,D. Buzzegoli,Italy
+1452,2017,Benevento,21,23,40,8219,F. Lucioni,Italy
+1453,2017,Benevento,21,23,40,8656,M. Pajač,Croatia
+1454,2017,Benevento,21,23,40,8745,F. Falco,Italy
+1455,2017,Benevento,21,23,40,9179,G. Bianco,Italy
+1456,2017,Benevento,21,23,40,9464,G. Puşcaş,Romania
+1457,2017,Benevento,21,23,40,9473,R. Bagadur,Croatia
+1458,2017,Benevento,21,23,40,9567,L. Venuti,Italy
+1459,2017,Benevento,21,23,40,9937,K. Cissé,Guinea
+1460,2017,Benevento,21,23,40,10049,A. De Falco,Italy
+1461,2017,Benevento,21,23,40,10196,A. Campagnacci,Italy
+1462,2017,Benevento,21,23,40,10995,P. Gori,Italy
+1463,2017,Benevento,21,23,40,11940,F. Melara,Italy
+1464,2017,Benevento,21,23,40,12034,E. Padella,Italy
+1465,2017,Benevento,21,23,40,12176,A. Ciciretti,Italy
+1466,2017,Benevento,21,23,40,12698,E. Pezzi,Italy
+1467,2017,Benevento,21,23,40,13225,F. Perucchini,Italy
+1468,2017,Benevento,21,23,40,13752,B. Gyamfi,Ghana
+1469,2017,Benevento,21,23,40,13939,N. Jakimovski,FYR Macedonia
+1470,2017,Benevento,21,23,40,15920,R. Piscitelli,Italy
+1471,2017,Benevento,21,23,40,16264,L. Del Pinto,Italy
+1472,2017,Genoa,41,23,27,132,M. Perin,Italy
+1473,2017,Genoa,41,23,27,680,Miguel Veloso,Portugal
+1474,2017,Genoa,41,23,27,933,S. Gentiletti,Argentina
+1475,2017,Genoa,41,23,27,1109,N. Burdisso,Argentina
+1476,2017,Genoa,41,23,27,1220,L. Pavoletti,Italy
+1477,2017,Genoa,41,23,27,1600,T. Rincón,Venezuela
+1478,2017,Genoa,41,23,27,1673,L. Ocampos,Argentina
+1479,2017,Genoa,41,23,27,1743,A. Izzo,Italy
+1480,2017,Genoa,41,23,27,1835,Edenílson,Brazil
+1481,2017,Genoa,41,23,27,2170,D. Laxalt,Uruguay
+1482,2017,Genoa,41,23,27,2312,L. Orbán,Argentina
+1483,2017,Genoa,41,23,27,2333,D. Lazović,Serbia
+1484,2017,Genoa,41,23,27,2372,G. Pandev,FYR Macedonia
+1485,2017,Genoa,41,23,27,2375,L. Rigoni,Italy
+1486,2017,Genoa,41,23,27,2436,S. Gakpé,Togo
+1487,2017,Genoa,41,23,27,2714,E. Muñoz,Argentina
+1488,2017,Genoa,41,23,27,2905,D. Brivio,Italy
+1489,2017,Genoa,41,23,27,2926,I. Cissokho,Senegal
+1490,2017,Genoa,41,23,27,3418,I. Cofie,Ghana
+1491,2017,Genoa,41,23,27,3456,E. Lamanna,Italy
+1492,2017,Genoa,41,23,27,4652,N. Ninković,Serbia
+1493,2017,Genoa,41,23,27,5472,G. Simeone,Argentina
+1494,2017,Genoa,41,23,27,6498,D. Biraschi,Italy
+1495,2017,Genoa,41,23,27,8570,R. Fiamozzi,Italy
+1496,2017,Genoa,41,23,27,9382,O. Ntcham,France
+1497,2017,Genoa,41,23,27,10481,L. Zima,Czech Republic
+1498,2017,Genoa,41,23,27,14991,L. Zanimacchia,Italy
+1499,2017,Genoa,41,23,27,15437,M. Ierardi,Italy
+1500,2017,Genoa,41,23,27,16490,D. Faccioli,Italy
+1501,2017,AS Roma,77,31,19,96,K. Manolas,Greece
+1502,2017,AS Roma,77,31,19,122,R. Nainggolan,Belgium
+1503,2017,AS Roma,77,31,19,149,D. De Rossi,Italy
+1504,2017,AS Roma,77,31,19,213,A. Florenzi,Italy
+1505,2017,AS Roma,77,31,19,280,S. El Shaarawy,Italy
+1506,2017,AS Roma,77,31,19,282,M. Salah,Egypt
+1507,2017,AS Roma,77,31,19,312,K. Strootman,Netherlands
+1508,2017,AS Roma,77,31,19,317,Bruno Peres,Brazil
+1509,2017,AS Roma,77,31,19,352,T. Vermaelen,Belgium
+1510,2017,AS Roma,77,31,19,396,Alisson,Brazil
+1511,2017,AS Roma,77,31,19,450,F. Totti,Italy
+1512,2017,AS Roma,77,31,19,500,E. Džeko,Bosnia Herzegovina
+1513,2017,AS Roma,77,31,19,509,D. Perotti,Argentina
+1514,2017,AS Roma,77,31,19,605,W. Szczęsny,Poland
+1515,2017,AS Roma,77,31,19,777,Mário Rui,Portugal
+1516,2017,AS Roma,77,31,19,983,J. Iturbe,Paraguay
+1517,2017,AS Roma,77,31,19,988,A. Rüdiger,Germany
+1518,2017,AS Roma,77,31,19,1174,F. Fazio,Argentina
+1519,2017,AS Roma,77,31,19,1262,L. Paredes,Argentina
+1520,2017,AS Roma,77,31,19,1757,Juan Jesus,Brazil
+1521,2017,AS Roma,77,31,19,5097,B. Lobonţ,Romania
+1522,2017,AS Roma,77,31,19,5544,Emerson,Brazil
+1523,2017,AS Roma,77,31,19,7297,Gerson,Brazil
+1524,2017,AS Roma,77,31,19,12119,A. Nura,Nigeria
+1525,2017,AS Roma,77,31,19,13010,M. Seck,Senegal
+1526,2017,AS Roma,77,31,19,15781,S. Anočič,Croatia
+1527,2017,AC Chievo Verona,40,22,24,452,S. Sorrentino,Italy
+1528,2017,AC Chievo Verona,40,22,24,820,A. Gamberini,Italy
+1529,2017,AC Chievo Verona,40,22,24,837,B. Cesar,Slovenia
+1530,2017,AC Chievo Verona,40,22,24,889,V. Birsa,Slovenia
+1531,2017,AC Chievo Verona,40,22,24,1167,J. De Guzmán,Netherlands
+1532,2017,AC Chievo Verona,40,22,24,1219,L. Castro,Argentina
+1533,2017,AC Chievo Verona,40,22,24,1512,M. Izco,Argentina
+1534,2017,AC Chievo Verona,40,22,24,1530,P. Hetemaj,Finland
+1535,2017,AC Chievo Verona,40,22,24,1588,R. Meggiorini,Italy
+1536,2017,AC Chievo Verona,40,22,24,1845,D. Dainelli,Italy
+1537,2017,AC Chievo Verona,40,22,24,1941,N. Spolli,Argentina
+1538,2017,AC Chievo Verona,40,22,24,2005,I. Radovanovic,Serbia
+1539,2017,AC Chievo Verona,40,22,24,2371,M. Gobbi,Italy
+1540,2017,AC Chievo Verona,40,22,24,2387,S. Pellissier,Italy
+1541,2017,AC Chievo Verona,40,22,24,2504,F. Cacciatore,Italy
+1542,2017,AC Chievo Verona,40,22,24,2715,N. Rigoni,Italy
+1543,2017,AC Chievo Verona,40,22,24,2893,A. Floro Flores,Italy
+1544,2017,AC Chievo Verona,40,22,24,3034,N. Frey,France
+1545,2017,AC Chievo Verona,40,22,24,3326,R. Inglese,Italy
+1546,2017,AC Chievo Verona,40,22,24,4869,A. Seculin,Italy
+1547,2017,AC Chievo Verona,40,22,24,5098,W. Bressan,Italy
+1548,2017,AC Chievo Verona,40,22,24,6351,V. Parigini,Italy
+1549,2017,AC Chievo Verona,40,22,24,7352,S. Bastien,Belgium
+1550,2017,AC Chievo Verona,40,22,24,9030,G. Sardo,Italy
+1551,2017,AC Chievo Verona,40,22,24,10510,L. Jallow,Gambia
+1552,2017,AC Chievo Verona,40,22,24,12932,F. Damian,Italy
+1553,2017,AC Chievo Verona,40,22,24,13448,A. Confente,Italy
+1554,2017,AC Chievo Verona,40,22,24,13549,F. De Paoli,Italy
+1555,2017,AC Chievo Verona,40,22,24,13719,Y. Bobb,Gambia
+1556,2017,AC Chievo Verona,40,22,24,14302,F. Costa,Italy
+1557,2017,ACF Fiorentina,57,27,22,157,G. Rodríguez,Argentina
+1558,2017,ACF Fiorentina,57,27,22,160,Borja Valero,Spain
+1559,2017,ACF Fiorentina,57,27,22,361,D. Astori,Italy
+1560,2017,ACF Fiorentina,57,27,22,512,N. Kalinić,Croatia
+1561,2017,ACF Fiorentina,57,27,22,521,J. Iličić,Slovenia
+1562,2017,ACF Fiorentina,57,27,22,610,M. Badelj,Croatia
+1563,2017,ACF Fiorentina,57,27,22,730,S. Cristóforo,Uruguay
+1564,2017,ACF Fiorentina,57,27,22,741,F. Bernardeschi,Italy
+1565,2017,ACF Fiorentina,57,27,22,774,Cristian Tello,Spain
+1566,2017,ACF Fiorentina,57,27,22,1033,M. Vecino,Uruguay
+1567,2017,ACF Fiorentina,57,27,22,1124,M. Zárate,Argentina
+1568,2017,ACF Fiorentina,57,27,22,1178,S. De Maio,France
+1569,2017,ACF Fiorentina,57,27,22,1216,C. Tătăruşanu,Romania
+1570,2017,ACF Fiorentina,57,27,22,1299,K. Babacar,Senegal
+1571,2017,ACF Fiorentina,57,27,22,1561,C. Sánchez,Colombia
+1572,2017,ACF Fiorentina,57,27,22,1607,N. Tomović,Serbia
+1573,2017,ACF Fiorentina,57,27,22,2652,C. Salcedo,Mexico
+1574,2017,ACF Fiorentina,57,27,22,2659,H. Toledo,Argentina
+1575,2017,ACF Fiorentina,57,27,22,3901,B. Drągowski,Poland
+1576,2017,ACF Fiorentina,57,27,22,3933,K. Diks,Netherlands
+1577,2017,ACF Fiorentina,57,27,22,4228,H. Milić,Croatia
+1578,2017,ACF Fiorentina,57,27,22,4754,M. Olivera,Uruguay
+1579,2017,ACF Fiorentina,57,27,22,8400,L. Lezzerini,Italy
+1580,2017,ACF Fiorentina,57,27,22,11288,I. Hagi,Romania
+1581,2017,ACF Fiorentina,57,27,22,14556,F. Chiesa,Italy
+1582,2017,ACF Fiorentina,57,27,22,15361,A. Diakhate,Senegal
+1583,2017,ACF Fiorentina,57,27,22,16799,G. Satalino,Italy
+1584,2017,AC Milan,64,25,16,128,C. Bacca,Colombia
+1585,2017,AC Milan,64,25,16,263,G. Bonaventura,Italy
+1586,2017,AC Milan,64,25,16,374,K. Honda,Japan
+1587,2017,AC Milan,64,25,16,464,J. Sosa,Argentina
+1588,2017,AC Milan,64,25,16,671,M. Fernández,Chile
+1589,2017,AC Milan,64,25,16,683,Luiz Adriano,Brazil
+1590,2017,AC Milan,64,25,16,718,A. Romagnoli,Italy
+1591,2017,AC Milan,64,25,16,724,M. Niang,France
+1592,2017,AC Milan,64,25,16,856,R. Montolivo,Italy
+1593,2017,AC Milan,64,25,16,867,G. Paletta,Italy
+1594,2017,AC Milan,64,25,16,873,I. Abate,Italy
+1595,2017,AC Milan,64,25,16,885,L. Antonelli,Italy
+1596,2017,AC Milan,64,25,16,894,C. Zapata,Colombia
+1597,2017,AC Milan,64,25,16,922,J. Kucka,Slovakia
+1598,2017,AC Milan,64,25,16,986,Suso,Spain
+1599,2017,AC Milan,64,25,16,1019,A. Bertolacci,Italy
+1600,2017,AC Milan,64,25,16,1224,L. Vangioni,Argentina
+1601,2017,AC Milan,64,25,16,1235,G. Donnarumma,Italy
+1602,2017,AC Milan,64,25,16,1273,G. Gómez,Paraguay
+1603,2017,AC Milan,64,25,16,1309,M. De Sciglio,Italy
+1604,2017,AC Milan,64,25,16,1406,A. Poli,Italy
+1605,2017,AC Milan,64,25,16,2135,Gabriel,Brazil
+1606,2017,AC Milan,64,25,16,2281,G. Lapadula,Italy
+1607,2017,AC Milan,64,25,16,2613,M. Pašalić,Croatia
+1608,2017,AC Milan,64,25,16,4048,Rodrigo Ely,Brazil
+1609,2017,AC Milan,64,25,16,4647,D. Calabria,Italy
+1610,2017,AC Milan,64,25,16,7323,M. Locatelli,Italy
+1611,2017,Napoli,91,43,18,75,M. Hamšik,Slovakia
+1612,2017,Napoli,91,43,18,109,José Reina,Spain
+1613,2017,Napoli,91,43,18,141,L. Insigne,Italy
+1614,2017,Napoli,91,43,18,171,D. Mertens,Belgium
+1615,2017,Napoli,91,43,18,212,K. Koulibaly,Senegal
+1616,2017,Napoli,91,43,18,242,Raúl Albiol,Spain
+1617,2017,Napoli,91,43,18,283,N. Maksimović,Serbia
+1618,2017,Napoli,91,43,18,286,M. Gabbiadini,Italy
+1619,2017,Napoli,91,43,18,290,Jorginho,Italy
+1620,2017,Napoli,91,43,18,315,Allan,Brazil
+1621,2017,Napoli,91,43,18,373,José Callejón,Spain
+1622,2017,Napoli,91,43,18,534,A. Milik,Poland
+1623,2017,Napoli,91,43,18,574,E. Hysaj,Albania
+1624,2017,Napoli,91,43,18,585,F. Ghoulam,Algeria
+1625,2017,Napoli,91,43,18,597,L. Tonelli,Italy
+1626,2017,Napoli,91,43,18,786,O. El Kaddouri,Morocco
+1627,2017,Napoli,91,43,18,925,E. Giaccherini,Italy
+1628,2017,Napoli,91,43,18,1080,V. Chiricheş,Romania
+1629,2017,Napoli,91,43,18,1265,P. Zieliński,Poland
+1630,2017,Napoli,91,43,18,1648,M. Rog,Croatia
+1631,2017,Napoli,91,43,18,1894,C. Maggio,Italy
+1632,2017,Napoli,91,43,18,2097,A. Diawara,Guinea
+1633,2017,Napoli,91,43,18,2223,L. Sepe,Italy
+1634,2017,Napoli,91,43,18,2224,Rafael,Brazil
+1635,2017,Napoli,91,43,18,2545,I. Strinić,Croatia
+1636,2017,Napoli,91,43,18,5582,R. Insigne,Italy
+1637,2017,Napoli,91,43,18,15606,I. Lasicki,Poland
+1638,2017,SPAL,38,22,29,5294,M. Antenucci,Italy
+1639,2017,SPAL,38,22,29,5460,A. Cerri,Italy
+1640,2017,SPAL,38,22,29,6097,C. Del Grosso,Italy
+1641,2017,SPAL,38,22,29,6187,P. Schiattarella,Italy
+1642,2017,SPAL,38,22,29,7311,A. Meret,Italy
+1643,2017,SPAL,38,22,29,8334,L. Grassi,Italy
+1644,2017,SPAL,38,22,29,8723,G. Zigoni,Italy
+1645,2017,SPAL,38,22,29,9180,D. Gasparetto,Italy
+1646,2017,SPAL,38,22,29,9227,E. Schiavon,Italy
+1647,2017,SPAL,38,22,29,9277,M. Arini,Italy
+1648,2017,SPAL,38,22,29,9363,A. Picchi,Italy
+1649,2017,SPAL,38,22,29,9391,G. Marchegiani,Italy
+1650,2017,SPAL,38,22,29,10246,M. Cremonesi,Italy
+1651,2017,SPAL,38,22,29,10921,M. Castagnetti,Italy
+1652,2017,SPAL,38,22,29,10940,P. Branduani,Italy
+1653,2017,SPAL,38,22,29,11127,N. Giani,Italy
+1654,2017,SPAL,38,22,29,11492,M. Lazzari,Italy
+1655,2017,SPAL,38,22,29,11740,M. Finotto,Italy
+1656,2017,SPAL,38,22,29,12339,F. Vicari,Italy
+1657,2017,SPAL,38,22,29,13441,L. Mora,Italy
+1658,2017,SPAL,38,22,29,13573,S. Pontisso,Italy
+1659,2017,SPAL,38,22,29,13753,K. Bonifazi,Italy
+1660,2017,SPAL,38,22,29,14329,A. Beghetto,Italy
+1661,2017,SPAL,38,22,29,14456,M. Spighi,Italy
+1662,2017,SPAL,38,22,29,15421,T. Equizi,Italy
+1663,2017,SPAL,38,22,29,15436,P. Ghiglione,Italy
+1664,2017,SPAL,38,22,29,15674,T. Silvestri,Italy
+1665,2017,SPAL,38,22,29,16727,C. Concas,Italy
+1666,2017,Torino,54,29,18,114,J. Hart,England
+1667,2017,Torino,54,29,18,486,Castán,Brazil
+1668,2017,Torino,54,29,18,547,D. Baselli,Italy
+1669,2017,Torino,54,29,18,766,A. Ljajić,Serbia
+1670,2017,Torino,54,29,18,807,Iago Falqué,Spain
+1671,2017,Torino,54,29,18,835,M. López,Argentina
+1672,2017,Torino,54,29,18,944,A. Belotti,Italy
+1673,2017,Torino,54,29,18,955,M. Benassi,Italy
+1674,2017,Torino,54,29,18,979,D. Zappacosta,Italy
+1675,2017,Torino,54,29,18,1093,E. Moretti,Italy
+1676,2017,Torino,54,29,18,1135,D. Padelli,Italy
+1677,2017,Torino,54,29,18,1153,L. De Silvestri,Italy
+1678,2017,Torino,54,29,18,1202,M. Valdifiori,Italy
+1679,2017,Torino,54,29,18,1421,Danilo Avelar,Brazil
+1680,2017,Torino,54,29,18,1449,C. Bovo,Italy
+1681,2017,Torino,54,29,18,1892,C. Molinaro,Italy
+1682,2017,Torino,54,29,18,1975,G. Vives,Italy
+1683,2017,Torino,54,29,18,2003,L. Rossettini,Italy
+1684,2017,Torino,54,29,18,2158,A. Acquah,Ghana
+1685,2017,Torino,54,29,18,2683,J. Obi,Nigeria
+1686,2017,Torino,54,29,18,3300,J. Martínez,Venezuela
+1687,2017,Torino,54,29,18,6428,L. Boyé,Argentina
+1688,2017,Torino,54,29,18,6445,A. Ajeti,Albania
+1689,2017,Torino,54,29,18,6569,S. Gustafson,Sweden
+1690,2017,Torino,54,29,18,7376,M. Aramu,Italy
+1691,2017,Torino,54,29,18,7415,A. Barreca,Italy
+1692,2017,Cagliari Calcio,39,18,30,630,Bruno Alves,Portugal
+1693,2017,Cagliari Calcio,39,18,30,1460,M. Storari,Italy
+1694,2017,Cagliari Calcio,39,18,30,1583,M. Isla,Chile
+1695,2017,Cagliari Calcio,39,18,30,1749,P. Tachtsidis,Greece
+1696,2017,Cagliari Calcio,39,18,30,1788,A. Ioniţă,Moldova
+1697,2017,Cagliari Calcio,39,18,30,1869,M. Borriello,Italy
+1698,2017,Cagliari Calcio,39,18,30,1881,Rafael,Brazil
+1699,2017,Cagliari Calcio,39,18,30,2262,Diego Farías,Brazil
+1700,2017,Cagliari Calcio,39,18,30,2507,M. Sau,Italy
+1701,2017,Cagliari Calcio,39,18,30,2686,João Pedro,Brazil
+1702,2017,Cagliari Calcio,39,18,30,2903,S. Padoin,Italy
+1703,2017,Cagliari Calcio,39,18,30,3050,D. Di Gennaro,Italy
+1704,2017,Cagliari Calcio,39,18,30,3153,F. Melchiorri,Italy
+1705,2017,Cagliari Calcio,39,18,30,3290,M. Capuano,Italy
+1706,2017,Cagliari Calcio,39,18,30,3473,L. Ceppitelli,Italy
+1707,2017,Cagliari Calcio,39,18,30,3940,N. Murru,Italy
+1708,2017,Cagliari Calcio,39,18,30,4123,B. Salamon,Poland
+1709,2017,Cagliari Calcio,39,18,30,4387,D. Dessena,Italy
+1710,2017,Cagliari Calcio,39,18,30,4787,L. Bittante,Italy
+1711,2017,Cagliari Calcio,39,18,30,4811,N. Giannetti,Italy
+1712,2017,Cagliari Calcio,39,18,30,6991,G. Munari,Italy
+1713,2017,Cagliari Calcio,39,18,30,9342,N. Barella,Italy
+1714,2017,Cagliari Calcio,39,18,30,10052,R. Colombo,Italy
+1715,2017,Cagliari Calcio,39,18,30,10177,F. Pisacane,Italy
+1716,2018,AC Chievo Verona,20,14,37,491,V. Birsa,Slovenia
+1717,2018,AC Chievo Verona,20,14,37,616,S. Sorrentino,Italy
+1718,2018,AC Chievo Verona,20,14,37,911,L. Castro,Argentina
+1719,2018,AC Chievo Verona,20,14,37,1071,A. Gamberini,Italy
+1720,2018,AC Chievo Verona,20,14,37,1127,P. Hetemaj,Finland
+1721,2018,AC Chievo Verona,20,14,37,1165,I. Radovanović,Serbia
+1722,2018,AC Chievo Verona,20,14,37,1391,D. Dainelli,Italy
+1723,2018,AC Chievo Verona,20,14,37,1409,B. Cesar,Slovenia
+1724,2018,AC Chievo Verona,20,14,37,1517,R. Meggiorini,Italy
+1725,2018,AC Chievo Verona,20,14,37,1537,N. Tomović,Serbia
+1726,2018,AC Chievo Verona,20,14,37,1707,R. Inglese,Italy
+1727,2018,AC Chievo Verona,20,14,37,2177,N. Rigoni,Italy
+1728,2018,AC Chievo Verona,20,14,37,2473,F. Cacciatore,Italy
+1729,2018,AC Chievo Verona,20,14,37,2822,M. Pucciarelli,Italy
+1730,2018,AC Chievo Verona,20,14,37,2942,M. Gobbi,Italy
+1731,2018,AC Chievo Verona,20,14,37,2962,S. Pellissier,Italy
+1732,2018,AC Chievo Verona,20,14,37,3778,N. Frey,France
+1733,2018,AC Chievo Verona,20,14,37,4854,S. Bastien,Belgium
+1734,2018,AC Chievo Verona,20,14,37,4899,L. Garritano,Italy
+1735,2018,AC Chievo Verona,20,14,37,4930,M. Stępiński,Poland
+1736,2018,AC Chievo Verona,20,14,37,5054,A. Seculin,Italy
+1737,2018,AC Chievo Verona,20,14,37,5708,G. Gaudino,Germany
+1738,2018,AC Chievo Verona,20,14,37,7862,M. Bani,Italy
+1739,2018,AC Chievo Verona,20,14,37,9986,P. Jaroszyński,Poland
+1740,2018,AC Chievo Verona,20,14,37,11847,M. Léris,France
+1741,2018,AC Chievo Verona,20,14,37,13454,E. Vignato,Italy
+1742,2018,AC Chievo Verona,20,14,37,13762,M. Gatto,Italy
+1743,2018,AC Chievo Verona,20,14,37,14197,A. Confente,Italy
+1744,2018,AC Chievo Verona,20,14,37,14222,F. De Paoli,Italy
+1745,2018,AC Chievo Verona,20,14,37,14853,F. Pavoni,Italy
+1746,2018,SS Lazio,59,36,25,135,S. de Vrij,Netherlands
+1747,2018,SS Lazio,59,36,25,163,Nani,Portugal
+1748,2018,SS Lazio,59,36,25,238,C. Immobile,Italy
+1749,2018,SS Lazio,59,36,25,315,Felipe Anderson,Brazil
+1750,2018,SS Lazio,59,36,25,380,M. Parolo,Italy
+1751,2018,SS Lazio,59,36,25,402,S. Milinković-Savić,Serbia
+1752,2018,SS Lazio,59,36,25,461,F. Marchetti,Italy
+1753,2018,SS Lazio,59,36,25,476,D. Basta,Serbia
+1754,2018,SS Lazio,59,36,25,636,S. Radu,Romania
+1755,2018,SS Lazio,59,36,25,652,Lucas Leiva,Brazil
+1756,2018,SS Lazio,59,36,25,672,Maurício,Brazil
+1757,2018,SS Lazio,59,36,25,883,S. Lulić,Bosnia Herzegovina
+1758,2018,SS Lazio,59,36,25,935,Wallace,Brazil
+1759,2018,SS Lazio,59,36,25,956,J. Lukaku,Belgium
+1760,2018,SS Lazio,59,36,25,969,Luis Alberto,Spain
+1761,2018,SS Lazio,59,36,25,981,Bastos,Angola
+1762,2018,SS Lazio,59,36,25,1133,F. Caicedo,Ecuador
+1763,2018,SS Lazio,59,36,25,1932,F. Đorđević,Serbia
+1764,2018,SS Lazio,59,36,25,2043,T. Strakosha,Albania
+1765,2018,SS Lazio,59,36,25,3799,D. Di Gennaro,Italy
+1766,2018,SS Lazio,59,36,25,4214,A. Marušić,Montenegro
+1767,2018,SS Lazio,59,36,25,5879,Patric,Spain
+1768,2018,SS Lazio,59,36,25,6542,I. Vargić,Croatia
+1769,2018,SS Lazio,59,36,25,6624,A. Murgia,Italy
+1770,2018,SS Lazio,59,36,25,7792,B. Perea,Colombia
+1771,2018,SS Lazio,59,36,25,8741,L. Crecco,Italy
+1772,2018,SS Lazio,59,36,25,8787,C. Oikonomidis,Australia
+1773,2018,SS Lazio,59,36,25,9784,M. Tounkara,Senegal
+1774,2018,SS Lazio,59,36,25,11795,Pedro Neto,Portugal
+1775,2018,SS Lazio,59,36,25,13527,Luiz Felipe,Brazil
+1776,2018,SS Lazio,59,36,25,13570,G. Guerrieri,Italy
+1777,2018,SS Lazio,59,36,25,14152,Bruno Jordão,Portugal
+1778,2018,SS Lazio,59,36,25,14264,S. Palombi,Italy
+1779,2018,Bologna,44,28,22,462,A. Mirante,Italy
+1780,2018,Bologna,44,28,22,767,S. Verdi,Italy
+1781,2018,Bologna,44,28,22,823,R. Palacio,Argentina
+1782,2018,Bologna,44,28,22,1020,L. Krejčí,Czech Republic
+1783,2018,Bologna,44,28,22,1308,M. Destro,Italy
+1784,2018,Bologna,44,28,22,1490,S. De Maio,France
+1785,2018,Bologna,44,28,22,1608,G. Donsah,Ghana
+1786,2018,Bologna,44,28,22,1742,S. Taïder,Algeria
+1787,2018,Bologna,44,28,22,1927,A. Poli,Italy
+1788,2018,Bologna,44,28,22,1990,G. González,Costa Rica
+1789,2018,Bologna,44,28,22,2039,A. Nagy,Hungary
+1790,2018,Bologna,44,28,22,2144,A. Masina,Italy
+1791,2018,Bologna,44,28,22,2302,D. Maietta,Italy
+1792,2018,Bologna,44,28,22,2488,Da Costa,Brazil
+1793,2018,Bologna,44,28,22,2641,F. Di Francesco,Italy
+1794,2018,Bologna,44,28,22,2664,E. Krafth,Sweden
+1795,2018,Bologna,44,28,22,2694,E. Pulgar,Chile
+1796,2018,Bologna,44,28,22,2722,F. Helander,Sweden
+1797,2018,Bologna,44,28,22,2751,L. Crisetig,Italy
+1798,2018,Bologna,44,28,22,3088,V. Torosidis,Greece
+1799,2018,Bologna,44,28,22,3322,B. Petković,Croatia
+1800,2018,Bologna,44,28,22,5730,C. Keita,Mali
+1801,2018,Bologna,44,28,22,5793,I. Mbaye,Senegal
+1802,2018,Bologna,44,28,22,6826,F. Avenatti,Uruguay
+1803,2018,Bologna,44,28,22,7854,C. Falletti,Uruguay
+1804,2018,Bologna,44,28,22,8662,O. Orji,Nigeria
+1805,2018,Bologna,44,28,22,12305,A. Santurro,Italy
+1806,2018,Bologna,44,28,22,12750,F. Brignani,Italy
+1807,2018,Bologna,44,28,22,13496,J. Valencia,Colombia
+1808,2018,Bologna,44,28,22,16374,F. Ravaglia,Italy
+1809,2018,Empoli,38,33,30,2235,L. Mchedlidze,Georgia
+1810,2018,Empoli,38,33,30,2970,M. Pasqual,Italy
+1811,2018,Empoli,38,33,30,3492,L. Lollo,Italy
+1812,2018,Empoli,38,33,30,4062,R. Krunić,Bosnia Herzegovina
+1813,2018,Empoli,38,33,30,4329,S. Romagnoli,Italy
+1814,2018,Empoli,38,33,30,4611,F. Caputo,Italy
+1815,2018,Empoli,38,33,30,4898,N. Ninković,Serbia
+1816,2018,Empoli,38,33,30,6046,A. Donnarumma,Italy
+1817,2018,Empoli,38,33,30,7863,I. Provedel,Italy
+1818,2018,Empoli,38,33,30,8645,M. Castagnetti,Italy
+1819,2018,Empoli,38,33,30,8674,S. Luperto,Italy
+1820,2018,Empoli,38,33,30,9051,F. Veseli,Albania
+1821,2018,Empoli,38,33,30,9777,A. Picchi,Italy
+1822,2018,Empoli,38,33,30,9907,M. Zajc,Slovenia
+1823,2018,Empoli,38,33,30,10612,P. Terracciano,Italy
+1824,2018,Empoli,38,33,30,10883,A. Piu,Italy
+1825,2018,Empoli,38,33,30,10990,L. Šimić,Croatia
+1826,2018,Empoli,38,33,30,11300,G. Di Lorenzo,Italy
+1827,2018,Empoli,38,33,30,12147,J. Untersee,Switzerland
+1828,2018,Empoli,38,33,30,12787,I. Bennacer,Algeria
+1829,2018,Empoli,38,33,30,12939,M. Seck,Senegal
+1830,2018,Empoli,38,33,30,14312,L. Polvani,Italy
+1831,2018,Empoli,38,33,30,15699,H. Traorè,Ivory Coast
+1832,2018,Empoli,38,33,30,16076,N. Pejović,Serbia
+1833,2018,Empoli,38,33,30,16903,D. Zappella,Italy
+1834,2018,Empoli,38,33,30,16931,A. Jakupović,Austria
+1835,2018,Empoli,38,33,30,17123,G. Meli,Italy
+1836,2018,Empoli,38,33,30,17289,D. Buglio,Italy
+1837,2018,Empoli,38,33,30,17522,A. Giacomel,Italy
+1838,2018,Parma,41,18,25,3052,F. Ceravolo,Italy
+1839,2018,Parma,41,18,25,3138,L. Siligardi,Italy
+1840,2018,Parma,41,18,25,3227,A. Di Gaudio,Italy
+1841,2018,Parma,41,18,25,3654,E. Calaió,Italy
+1842,2018,Parma,41,18,25,4197,J. Dezi,Italy
+1843,2018,Parma,41,18,25,4394,V. Di Cesare,Italy
+1844,2018,Parma,41,18,25,4410,A. Lucarelli,Italy
+1845,2018,Parma,41,18,25,4740,R. Gagliolo,Italy
+1846,2018,Parma,41,18,25,5028,R. Insigne,Italy
+1847,2018,Parma,41,18,25,6344,M. Scozzarella,Italy
+1848,2018,Parma,41,18,25,6366,L. Scaglia,Italy
+1849,2018,Parma,41,18,25,7496,M. Coly,Senegal
+1850,2018,Parma,41,18,25,8248,G. Munari,Italy
+1851,2018,Parma,41,18,25,8331,A. Barillà,Italy
+1852,2018,Parma,41,18,25,8368,S. Iacoponi,Italy
+1853,2018,Parma,41,18,25,9222,Y. Baraye,Senegal
+1854,2018,Parma,41,18,25,10490,P. Frattali,Italy
+1855,2018,Parma,41,18,25,10588,M. Scavone,Italy
+1856,2018,Parma,41,18,25,12728,F. Sierralta,Chile
+1857,2018,Parma,41,18,25,12737,L. Germoni,Italy
+1858,2018,Parma,41,18,25,14103,M. Nocciolini,Italy
+1859,2018,Parma,41,18,25,14560,M. Frediani,Italy
+1860,2018,Parma,41,18,25,15211,D. Giorgino,Italy
+1861,2018,Parma,41,18,25,15259,F. Adorni,Italy
+1862,2018,Parma,41,18,25,15678,D. Garufo,Italy
+1863,2018,Parma,41,18,25,15693,M. Nardi,Italy
+1864,2018,Parma,41,18,25,15926,P. Mazzocchi,Italy
+1865,2018,Parma,41,18,25,16062,F. Corapi,Italy
+1866,2018,Parma,41,18,25,16252,J. Ramos,Uruguay
+1867,2018,Parma,41,18,25,16793,L. Saporetti,Italy
+1868,2018,Sassuolo Calcio,43,33,33,254,A. Consigli,Italy
+1869,2018,Sassuolo Calcio,43,33,33,291,F. Acerbi,Italy
+1870,2018,Sassuolo Calcio,43,33,33,307,D. Berardi,Italy
+1871,2018,Sassuolo Calcio,43,33,33,979,M. Politano,Italy
+1872,2018,Sassuolo Calcio,43,33,33,1091,F. Magnanelli,Italy
+1873,2018,Sassuolo Calcio,43,33,33,1258,A. Duncan,Ghana
+1874,2018,Sassuolo Calcio,43,33,33,1476,A. Matri,Italy
+1875,2018,Sassuolo Calcio,43,33,33,1614,S. Sensi,Italy
+1876,2018,Sassuolo Calcio,43,33,33,1797,P. Cannavaro,Italy
+1877,2018,Sassuolo Calcio,43,33,33,1901,S. Missiroli,Italy
+1878,2018,Sassuolo Calcio,43,33,33,2115,Pol Lirola,Spain
+1879,2018,Sassuolo Calcio,43,33,33,2249,D. Falcinelli,Italy
+1880,2018,Sassuolo Calcio,43,33,33,2431,F. Peluso,Italy
+1881,2018,Sassuolo Calcio,43,33,33,2520,A. Ragusa,Italy
+1882,2018,Sassuolo Calcio,43,33,33,2672,L. Mazzitelli,Italy
+1883,2018,Sassuolo Calcio,43,33,33,2906,T. Letschert,Netherlands
+1884,2018,Sassuolo Calcio,43,33,33,3091,M. Gazzola,Italy
+1885,2018,Sassuolo Calcio,43,33,33,3359,E. Goldaniga,Italy
+1886,2018,Sassuolo Calcio,43,33,33,3620,G. Pegolo,Italy
+1887,2018,Sassuolo Calcio,43,33,33,5366,D. Biondini,Italy
+1888,2018,Sassuolo Calcio,43,33,33,5817,C. Adjapong,Italy
+1889,2018,Sassuolo Calcio,43,33,33,6843,C. Dell'Orco,Italy
+1890,2018,Sassuolo Calcio,43,33,33,10799,F. Cassata,Italy
+1891,2018,Sassuolo Calcio,43,33,33,10923,G. Scamacca,Italy
+1892,2018,Sassuolo Calcio,43,33,33,11797,D. Frattesi,Italy
+1893,2018,Sassuolo Calcio,43,33,33,16681,L. Marson,Italy
+1894,2018,Torino,63,32,19,129,A. Belotti,Italy
+1895,2018,Torino,63,32,19,508,Iago Falqué,Spain
+1896,2018,Torino,63,32,19,548,D. Baselli,Italy
+1897,2018,Torino,63,32,19,572,A. Ljajić,Serbia
+1898,2018,Torino,63,32,19,641,S. Sirigu,Italy
+1899,2018,Torino,63,32,19,650,C. Ansaldi,Argentina
+1900,2018,Torino,63,32,19,698,M. Niang,France
+1901,2018,Torino,63,32,19,783,N. Nkoulou,Cameroon
+1902,2018,Torino,63,32,19,1082,N. Burdisso,Argentina
+1903,2018,Torino,63,32,19,1170,M. Valdifiori,Italy
+1904,2018,Torino,63,32,19,1176,T. Rincón,Venezuela
+1905,2018,Torino,63,32,19,1458,L. De Silvestri,Italy
+1906,2018,Torino,63,32,19,1584,A. Barreca,Italy
+1907,2018,Torino,63,32,19,1800,E. Moretti,Italy
+1908,2018,Torino,63,32,19,2193,A. Acquah,Ghana
+1909,2018,Torino,63,32,19,2650,Alex Berenguer,Spain
+1910,2018,Torino,63,32,19,2802,J. Obi,Nigeria
+1911,2018,Torino,63,32,19,2961,C. Molinaro,Italy
+1912,2018,Torino,63,32,19,3292,L. Boyé,Argentina
+1913,2018,Torino,63,32,19,3301,Lyanco,Brazil
+1914,2018,Torino,63,32,19,4010,K. Bonifazi,Italy
+1915,2018,Torino,63,32,19,5811,V. Milinković-Savić,Serbia
+1916,2018,Torino,63,32,19,6813,S. Gustafson,Sweden
+1917,2018,Torino,63,32,19,7624,S. Umar,Nigeria
+1918,2018,Torino,63,32,19,8045,S. Ichazo,Uruguay
+1919,2018,Torino,63,32,19,13658,S. Edera,Italy
+1920,2018,Torino,63,32,19,14894,M. De Luca,Italy
+1921,2018,Atalanta,69,36,19,111,A. Gómez,Argentina
+1922,2018,Atalanta,69,36,19,516,J. Iličić,Slovenia
+1923,2018,Atalanta,69,36,19,784,E. Berisha,Albania
+1924,2018,Atalanta,69,36,19,1002,Rafael Tolói,Brazil
+1925,2018,Atalanta,69,36,19,1121,A. Masiello,Italy
+1926,2018,Atalanta,69,36,19,1225,M. Caldara,Italy
+1927,2018,Atalanta,69,36,19,1255,L. Spinazzola,Italy
+1928,2018,Atalanta,69,36,19,1550,J. Kurtić,Slovenia
+1929,2018,Atalanta,69,36,19,1653,R. Freuler,Switzerland
+1930,2018,Atalanta,69,36,19,1724,M. de Roon,Netherlands
+1931,2018,Atalanta,69,36,19,2394,B. Dramé,Senegal
+1932,2018,Atalanta,69,36,19,2629,A. Petagna,Italy
+1933,2018,Atalanta,69,36,19,2713,A. Cornelius,Denmark
+1934,2018,Atalanta,69,36,19,2864,J. Palomino,Argentina
+1935,2018,Atalanta,69,36,19,3288,B. Cristante,Italy
+1936,2018,Atalanta,69,36,19,3357,T. Castagne,Belgium
+1937,2018,Atalanta,69,36,19,3378,João Schmidt,Brazil
+1938,2018,Atalanta,69,36,19,4167,H. Hateboer,Netherlands
+1939,2018,Atalanta,69,36,19,4897,P. Gollini,Italy
+1940,2018,Atalanta,69,36,19,5038,R. Gosens,Germany
+1941,2018,Atalanta,69,36,19,5701,R. Orsolini,Italy
+1942,2018,Atalanta,69,36,19,10058,D. Mangni,Italy
+1943,2018,Atalanta,69,36,19,10736,A. Bastoni,Italy
+1944,2018,Atalanta,69,36,19,11771,F. Melegoni,Italy
+1945,2018,Atalanta,69,36,19,14208,N. Haas,Switzerland
+1946,2018,Atalanta,69,36,19,14225,L. Vido,Italy
+1947,2018,Atalanta,69,36,19,14454,G. Mancini,Italy
+1948,2018,Atalanta,69,36,19,15613,F. Rossi,Italy
+1949,2018,Juventus,90,39,13,9,G. Higuaín,Argentina
+1950,2018,Juventus,90,39,13,13,G. Buffon,Italy
+1951,2018,Juventus,90,39,13,14,G. Chiellini,Italy
+1952,2018,Juventus,90,39,13,20,P. Dybala,Argentina
+1953,2018,Juventus,90,39,13,50,Alex Sandro,Brazil
+1954,2018,Juventus,90,39,13,76,M. Pjanić,Bosnia Herzegovina
+1955,2018,Juventus,90,39,13,78,A. Barzagli,Italy
+1956,2018,Juventus,90,39,13,82,B. Matuidi,France
+1957,2018,Juventus,90,39,13,84,C. Marchisio,Italy
+1958,2018,Juventus,90,39,13,117,M. Benatia,Morocco
+1959,2018,Juventus,90,39,13,119,S. Khedira,Germany
+1960,2018,Juventus,90,39,13,180,B. Höwedes,Germany
+1961,2018,Juventus,90,39,13,182,M. Mandžukić,Croatia
+1962,2018,Juventus,90,39,13,206,F. Bernardeschi,Italy
+1963,2018,Juventus,90,39,13,230,W. Szczęsny,Poland
+1964,2018,Juventus,90,39,13,244,S. Lichtsteiner,Switzerland
+1965,2018,Juventus,90,39,13,286,Douglas Costa,Brazil
+1966,2018,Juventus,90,39,13,287,J. Cuadrado,Colombia
+1967,2018,Juventus,90,39,13,393,D. Rugani,Italy
+1968,2018,Juventus,90,39,13,877,K. Asamoah,Ghana
+1969,2018,Juventus,90,39,13,973,S. Sturaro,Italy
+1970,2018,Juventus,90,39,13,1218,M. Pjaca,Croatia
+1971,2018,Juventus,90,39,13,1283,M. De Sciglio,Italy
+1972,2018,Juventus,90,39,13,3460,M. Thiam,Senegal
+1973,2018,Juventus,90,39,13,5704,R. Bentancur,Uruguay
+1974,2018,Juventus,90,39,13,6429,C. Pinsoglio,Italy
+1975,2018,Napoli,79,41,16,41,M. Hamšík,Slovakia
+1976,2018,Napoli,79,41,16,60,D. Mertens,Belgium
+1977,2018,Napoli,79,41,16,77,L. Insigne,Italy
+1978,2018,Napoli,79,41,16,100,K. Koulibaly,Senegal
+1979,2018,Napoli,79,41,16,161,José Reina,Spain
+1980,2018,Napoli,79,41,16,186,José Callejón,Spain
+1981,2018,Napoli,79,41,16,251,Raúl Albiol,Spain
+1982,2018,Napoli,79,41,16,331,Jorginho,Italy
+1983,2018,Napoli,79,41,16,398,P. Zieliński,Poland
+1984,2018,Napoli,79,41,16,432,Allan,Brazil
+1985,2018,Napoli,79,41,16,528,A. Milik,Poland
+1986,2018,Napoli,79,41,16,567,E. Hysaj,Albania
+1987,2018,Napoli,79,41,16,568,N. Maksimović,Serbia
+1988,2018,Napoli,79,41,16,579,F. Ghoulam,Algeria
+1989,2018,Napoli,79,41,16,594,L. Tonelli,Italy
+1990,2018,Napoli,79,41,16,894,E. Giaccherini,Italy
+1991,2018,Napoli,79,41,16,920,A. Diawara,Guinea
+1992,2018,Napoli,79,41,16,1065,Mário Rui,Portugal
+1993,2018,Napoli,79,41,16,1195,V. Chiricheş,Romania
+1994,2018,Napoli,79,41,16,1222,M. Rog,Croatia
+1995,2018,Napoli,79,41,16,1820,C. Maggio,Italy
+1996,2018,Napoli,79,41,16,2178,L. Sepe,Italy
+1997,2018,Napoli,79,41,16,2181,Rafael,Brazil
+1998,2018,Napoli,79,41,16,3059,J. Zúñiga,Colombia
+1999,2018,Napoli,79,41,16,3302,A. Ounas,Algeria
+2000,2018,Napoli,79,41,16,9731,Leandrinho,Brazil
+2001,2018,Napoli,79,41,16,16897,A. Zerbin,Italy
+2002,2018,Cagliari Calcio,41,23,20,1130,M. Andreolli,Italy
+2003,2018,Cagliari Calcio,41,23,20,1194,L. Pavoletti,Italy
+2004,2018,Cagliari Calcio,41,23,20,1464,L. Cigarini,Italy
+2005,2018,Cagliari Calcio,41,23,20,1500,G. van der Wiel,Netherlands
+2006,2018,Cagliari Calcio,41,23,20,1676,João Pedro,Brazil
+2007,2018,Cagliari Calcio,41,23,20,1817,Rafael,Brazil
+2008,2018,Cagliari Calcio,41,23,20,1965,A. Ioniţă,Moldova
+2009,2018,Cagliari Calcio,41,23,20,2241,Diego Farías,Brazil
+2010,2018,Cagliari Calcio,41,23,20,2475,M. Sau,Italy
+2011,2018,Cagliari Calcio,41,23,20,2934,S. Padoin,Italy
+2012,2018,Cagliari Calcio,41,23,20,3231,F. Melchiorri,Italy
+2013,2018,Cagliari Calcio,41,23,20,3287,A. Cragno,Italy
+2014,2018,Cagliari Calcio,41,23,20,3441,M. Capuano,Italy
+2015,2018,Cagliari Calcio,41,23,20,3537,L. Ceppitelli,Italy
+2016,2018,Cagliari Calcio,41,23,20,4519,D. Dessena,Italy
+2017,2018,Cagliari Calcio,41,23,20,4648,F. Pisacane,Italy
+2018,2018,Cagliari Calcio,41,23,20,4804,N. Barella,Italy
+2019,2018,Cagliari Calcio,41,23,20,5113,N. Giannetti,Italy
+2020,2018,Cagliari Calcio,41,23,20,6211,A. Cossu,Italy
+2021,2018,Cagliari Calcio,41,23,20,6809,P. Faragò,Italy
+2022,2018,Cagliari Calcio,41,23,20,8739,S. Miangue,Belgium
+2023,2018,Cagliari Calcio,41,23,20,10774,L. Crosta,Italy
+2024,2018,Cagliari Calcio,41,23,20,10980,A. Deiola,Italy
+2025,2018,Cagliari Calcio,41,23,20,11821,F. Romagna,Italy
+2026,2018,ACF Fiorentina,41,25,19,373,D. Astori,Italy
+2027,2018,ACF Fiorentina,41,25,19,532,M. Benassi,Italy
+2028,2018,ACF Fiorentina,41,25,19,577,R. Saponara,Italy
+2029,2018,ACF Fiorentina,41,25,19,722,G. Pezzella,Argentina
+2030,2018,ACF Fiorentina,41,25,19,746,M. Sportiello,Italy
+2031,2018,ACF Fiorentina,41,25,19,771,V. Eysseric,France
+2032,2018,ACF Fiorentina,41,25,19,907,M. Badelj,Croatia
+2033,2018,ACF Fiorentina,41,25,19,953,J. Veretout,France
+2034,2018,ACF Fiorentina,41,25,19,984,Bruno Gaspar,Portugal
+2035,2018,ACF Fiorentina,41,25,19,1043,Vitor Hugo,Brazil
+2036,2018,ACF Fiorentina,41,25,19,1116,C. Théréau,France
+2037,2018,ACF Fiorentina,41,25,19,1147,C. Sánchez,Colombia
+2038,2018,ACF Fiorentina,41,25,19,1216,G. Simeone,Argentina
+2039,2018,ACF Fiorentina,41,25,19,1250,Gil Dias,Portugal
+2040,2018,ACF Fiorentina,41,25,19,1273,K. Babacar,Senegal
+2041,2018,ACF Fiorentina,41,25,19,1304,S. Cristóforo,Uruguay
+2042,2018,ACF Fiorentina,41,25,19,1582,F. Chiesa,Italy
+2043,2018,ACF Fiorentina,41,25,19,3201,V. Laurini,France
+2044,2018,ACF Fiorentina,41,25,19,3412,C. Biraghi,Italy
+2045,2018,ACF Fiorentina,41,25,19,3981,B. Drągowski,Poland
+2046,2018,ACF Fiorentina,41,25,19,4845,N. Milenković,Serbia
+2047,2018,ACF Fiorentina,41,25,19,5044,M. Olivera,Uruguay
+2048,2018,ACF Fiorentina,41,25,19,7604,R. Zekhnini,Norway
+2049,2018,ACF Fiorentina,41,25,19,11800,I. Hagi,Romania
+2050,2018,ACF Fiorentina,41,25,19,13447,P. Hristov,Bulgaria
+2051,2018,ACF Fiorentina,41,25,19,13474,G. Gori,Italy
+2052,2018,ACF Fiorentina,41,25,19,14132,S. Lo Faso,Italy
+2053,2018,ACF Fiorentina,41,25,19,14794,L. Ranieri,Italy
+2054,2018,ACF Fiorentina,41,25,19,15260,M. Meli,Italy
+2055,2018,ACF Fiorentina,41,25,19,16071,A. Diakhate,Senegal
+2056,2018,ACF Fiorentina,41,25,19,17554,M. Cerofolini,Italy
+2057,2018,Frosinone,25,14,38,1309,F. Bardi,Italy
+2058,2018,Frosinone,25,14,38,3051,F. Dionisi,Italy
+2059,2018,Frosinone,25,14,38,3077,D. Ciofani,Italy
+2060,2018,Frosinone,25,14,38,3185,C. Ciano,Italy
+2061,2018,Frosinone,25,14,38,3840,L. Ariaudo,Italy
+2062,2018,Frosinone,25,14,38,4979,L. Krajnc,Slovenia
+2063,2018,Frosinone,25,14,38,5459,E. Terranova,Italy
+2064,2018,Frosinone,25,14,38,6242,P. Sammarco,Italy
+2065,2018,Frosinone,25,14,38,6363,D. Soddimo,Italy
+2066,2018,Frosinone,25,14,38,6451,N. Brighenti,Italy
+2067,2018,Frosinone,25,14,38,6456,M. Ciofani,Italy
+2068,2018,Frosinone,25,14,38,7546,N. Citro,Italy
+2069,2018,Frosinone,25,14,38,7978,L. Paganini,Italy
+2070,2018,Frosinone,25,14,38,8041,M. Gori,Italy
+2071,2018,Frosinone,25,14,38,8097,R. Crivello,Italy
+2072,2018,Frosinone,25,14,38,8138,R. Maiello,Italy
+2073,2018,Frosinone,25,14,38,8193,A. Frara,Italy
+2074,2018,Frosinone,25,14,38,9346,A. Russo,Italy
+2075,2018,Frosinone,25,14,38,9449,M. Zappino,Brazil
+2076,2018,Frosinone,25,14,38,11594,M. Vigorito,Italy
+2077,2018,Frosinone,25,14,38,13858,A. Beghetto,Italy
+2078,2018,Frosinone,25,14,38,14242,E. Besea,Ghana
+2079,2018,Frosinone,25,14,38,16146,M. Volpe,Italy
+2080,2018,Frosinone,25,14,38,17171,L. Matarese,Italy
+2081,2018,Genoa,38,21,22,134,M. Perin,Italy
+2082,2018,Genoa,38,21,22,745,D. Laxalt,Uruguay
+2083,2018,Genoa,38,21,22,854,Miguel Veloso,Portugal
+2084,2018,Genoa,38,21,22,1004,A. Bertolacci,Italy
+2085,2018,Genoa,38,21,22,1192,S. Gentiletti,Argentina
+2086,2018,Genoa,38,21,22,1383,G. Lapadula,Italy
+2087,2018,Genoa,38,21,22,1504,L. Rossettini,Italy
+2088,2018,Genoa,38,21,22,1787,D. Lazović,Serbia
+2089,2018,Genoa,38,21,22,1816,L. Rigoni,Italy
+2090,2018,Genoa,38,21,22,1883,N. Spolli,Argentina
+2091,2018,Genoa,38,21,22,1959,E. Zukanović,Bosnia Herzegovina
+2092,2018,Genoa,38,21,22,2130,R. Centurión,Argentina
+2093,2018,Genoa,38,21,22,2301,G. Pandev,FYR Macedonia
+2094,2018,Genoa,38,21,22,3316,P. Brlek,Croatia
+2095,2018,Genoa,38,21,22,3325,F. Ricci,Italy
+2096,2018,Genoa,38,21,22,3477,I. Cofie,Ghana
+2097,2018,Genoa,38,21,22,3518,E. Lamanna,Italy
+2098,2018,Genoa,38,21,22,3675,R. Palladino,Italy
+2099,2018,Genoa,38,21,22,4546,A. Rosi,Italy
+2100,2018,Genoa,38,21,22,5013,L. Landre,France
+2101,2018,Genoa,38,21,22,5435,A. Taarabt,Morocco
+2102,2018,Genoa,38,21,22,5579,A. Galabinov,Bulgaria
+2103,2018,Genoa,38,21,22,6759,D. Biraschi,Italy
+2104,2018,Genoa,38,21,22,8394,F. Migliore,Italy
+2105,2018,Genoa,38,21,22,9789,T. Rodríguez,Argentina
+2106,2018,Genoa,38,21,22,11060,L. Zima,Czech Republic
+2107,2018,Genoa,38,21,22,14268,S. Omeonga,Belgium
+2108,2018,FC Internazionale Milano,69,27,10,38,S. Handanovič,Slovenia
+2109,2018,FC Internazionale Milano,69,27,10,58,Miranda,Brazil
+2110,2018,FC Internazionale Milano,69,27,10,95,M. Icardi,Argentina
+2111,2018,FC Internazionale Milano,69,27,10,122,I. Perišić,Croatia
+2112,2018,FC Internazionale Milano,69,27,10,138,João Mário,Portugal
+2113,2018,FC Internazionale Milano,69,27,10,171,Borja Valero,Spain
+2114,2018,FC Internazionale Milano,69,27,10,323,M. Brozović,Croatia
+2115,2018,FC Internazionale Milano,69,27,10,485,A. Candreva,Italy
+2116,2018,FC Internazionale Milano,69,27,10,499,Eder,Italy
+2117,2018,FC Internazionale Milano,69,27,10,531,João Cancelo,Portugal
+2118,2018,FC Internazionale Milano,69,27,10,700,R. Gagliardini,Italy
+2119,2018,FC Internazionale Milano,69,27,10,760,M. Vecino,Uruguay
+2120,2018,FC Internazionale Milano,69,27,10,950,Dalbert,Brazil
+2121,2018,FC Internazionale Milano,69,27,10,1333,D. Santon,Italy
+2122,2018,FC Internazionale Milano,69,27,10,1489,A. Ranocchia,Italy
+2123,2018,FC Internazionale Milano,69,27,10,1974,D. D'Ambrosio,Italy
+2124,2018,FC Internazionale Milano,69,27,10,2089,M. Škriniar,Slovakia
+2125,2018,FC Internazionale Milano,69,27,10,2370,D. Padelli,Italy
+2126,2018,FC Internazionale Milano,69,27,10,3172,Y. Nagatomo,Japan
+2127,2018,FC Internazionale Milano,69,27,10,3985,Y. Karamoh,France
+2128,2018,FC Internazionale Milano,69,27,10,4859,A. Gnoukouri,Ivory Coast
+2129,2018,FC Internazionale Milano,69,27,10,9740,Z. Vanheusden,Belgium
+2130,2018,FC Internazionale Milano,69,27,10,11476,T. Berni,Italy
+2131,2018,FC Internazionale Milano,69,27,10,12663,A. Pinamonti,Italy
+2132,2018,SPAL,42,20,26,805,M. Borriello,Italy
+2133,2018,SPAL,42,20,26,1296,F. Viviani,Italy
+2134,2018,SPAL,42,20,26,1358,A. Paloschi,Italy
+2135,2018,SPAL,42,20,26,1747,L. Rizzo,Italy
+2136,2018,SPAL,42,20,26,1796,Felipe,Brazil
+2137,2018,SPAL,42,20,26,1878,S. Floccari,Italy
+2138,2018,SPAL,42,20,26,2029,A. Meret,Italy
+2139,2018,SPAL,42,20,26,2169,M. Oikonomou,Greece
+2140,2018,SPAL,42,20,26,2638,A. Gomis,Senegal
+2141,2018,SPAL,42,20,26,2677,M. Lazzari,Italy
+2142,2018,SPAL,42,20,26,3133,M. Antenucci,Italy
+2143,2018,SPAL,42,20,26,4033,A. Grassi,Italy
+2144,2018,SPAL,42,20,26,4605,P. Schiattarella,Italy
+2145,2018,SPAL,42,20,26,4797,L. Mora,Italy
+2146,2018,SPAL,42,20,26,4852,F. Mattiello,Italy
+2147,2018,SPAL,42,20,26,5105,B. Salamon,Poland
+2148,2018,SPAL,42,20,26,5910,S. Väisänen,Finland
+2149,2018,SPAL,42,20,26,6539,M. Cremonesi,Italy
+2150,2018,SPAL,42,20,26,6724,F. Vicari,Italy
+2151,2018,SPAL,42,20,26,7913,P. Konate,Sweden
+2152,2018,SPAL,42,20,26,9763,G. Marchegiani,Italy
+2153,2018,SPAL,42,20,26,10060,F. Costa,Italy
+2154,2018,SPAL,42,20,26,10595,E. Schiavon,Italy
+2155,2018,SPAL,42,20,26,10832,M. Vitale,Italy
+2156,2018,SPAL,42,20,26,11817,Barbosa,Brazil
+2157,2018,SPAL,42,20,26,11940,F. Bonazzoli,Italy
+2158,2018,SPAL,42,20,26,14305,F. Della Giovanna,Italy
+2159,2018,SPAL,42,20,26,15044,A. Bellemo,Italy
+2160,2018,SPAL,42,20,26,15650,G. Poluzzi,Italy
+2161,2018,Udinese Calcio,43,22,22,638,Danilo,Brazil
+2162,2018,Udinese Calcio,43,22,22,978,S. Widmer,Switzerland
+2163,2018,Udinese Calcio,43,22,22,1112,V. Behrami,Switzerland
+2164,2018,Udinese Calcio,43,22,22,1227,J. Jankto,Czech Republic
+2165,2018,Udinese Calcio,43,22,22,1583,S. Fofana,Ivory Coast
+2166,2018,Udinese Calcio,43,22,22,1606,S. Scuffet,Italy
+2167,2018,Udinese Calcio,43,22,22,1634,R. Bajić,Bosnia Herzegovina
+2168,2018,Udinese Calcio,43,22,22,1799,A. Bizzarri,Argentina
+2169,2018,Udinese Calcio,43,22,22,1811,E. Hallfreðsson,Iceland
+2170,2018,Udinese Calcio,43,22,22,2062,R. De Paul,Argentina
+2171,2018,Udinese Calcio,43,22,22,2159,Ryder,Brazil
+2172,2018,Udinese Calcio,43,22,22,2305,M. López,Argentina
+2173,2018,Udinese Calcio,43,22,22,2483,G. Angella,Italy
+2174,2018,Udinese Calcio,43,22,22,2646,S. Perica,Croatia
+2175,2018,Udinese Calcio,43,22,22,2671,Samir,Brazil
+2176,2018,Udinese Calcio,43,22,22,2704,A. Adnan,Iraq
+2177,2018,Udinese Calcio,43,22,22,3303,A. Barák,Czech Republic
+2178,2018,Udinese Calcio,43,22,22,3464,K. Lasagna,Italy
+2179,2018,Udinese Calcio,43,22,22,3560,B. Nuytinck,Netherlands
+2180,2018,Udinese Calcio,43,22,22,5087,I. Bubnjić,Croatia
+2181,2018,Udinese Calcio,43,22,22,5765,Ewandro,Brazil
+2182,2018,Udinese Calcio,43,22,22,5821,A. Balić,Croatia
+2183,2018,Udinese Calcio,43,22,22,5841,G. Iñíguez,Argentina
+2184,2018,Udinese Calcio,43,22,22,6164,J. Stryger Larsen,Denmark
+2185,2018,Udinese Calcio,43,22,22,7628,A. Mallé,Mali
+2186,2018,Udinese Calcio,43,22,22,9771,G. Pezzella,Italy
+2187,2018,Udinese Calcio,43,22,22,9918,N. Jaadi,Morocco
+2188,2018,Udinese Calcio,43,22,22,11866,N. Garmendia,Spain
+2189,2018,Udinese Calcio,43,22,22,13578,S. Pontisso,Italy
+2190,2018,Udinese Calcio,43,22,22,16100,S. Ingelsson,Sweden
+2191,2018,Udinese Calcio,43,22,22,16150,P. Bochniewicz,Poland
+2192,2018,Udinese Calcio,43,22,22,16904,D. Borsellini,Italy
+2193,2018,AS Roma,66,43,26,62,R. Nainggolan,Belgium
+2194,2018,AS Roma,66,43,26,106,K. Manolas,Greece
+2195,2018,AS Roma,66,43,26,109,K. Strootman,Netherlands
+2196,2018,AS Roma,66,43,26,121,E. Džeko,Bosnia Herzegovina
+2197,2018,AS Roma,66,43,26,162,D. De Rossi,Italy
+2198,2018,AS Roma,66,43,26,234,A. Florenzi,Italy
+2199,2018,AS Roma,66,43,26,271,F. Fazio,Argentina
+2200,2018,AS Roma,66,43,26,381,D. Perotti,Argentina
+2201,2018,AS Roma,66,43,26,417,Alisson,Brazil
+2202,2018,AS Roma,66,43,26,420,S. El Shaarawy,Italy
+2203,2018,AS Roma,66,43,26,487,H. Moreno,Mexico
+2204,2018,AS Roma,66,43,26,512,M. Gonalons,France
+2205,2018,AS Roma,66,43,26,670,A. Kolarov,Serbia
+2206,2018,AS Roma,66,43,26,717,R. Karsdorp,Netherlands
+2207,2018,AS Roma,66,43,26,913,Bruno Peres,Brazil
+2208,2018,AS Roma,66,43,26,921,P. Schick,Czech Republic
+2209,2018,AS Roma,66,43,26,940,L. Pellegrini,Italy
+2210,2018,AS Roma,66,43,26,1037,G. Defrel,France
+2211,2018,AS Roma,66,43,26,1128,Castán,Brazil
+2212,2018,AS Roma,66,43,26,1188,Juan Jesus,Brazil
+2213,2018,AS Roma,66,43,26,1301,Emerson,Italy
+2214,2018,AS Roma,66,43,26,1306,L. Skorupski,Poland
+2215,2018,AS Roma,66,43,26,2057,C. Ünder,Turkey
+2216,2018,AS Roma,66,43,26,5289,B. Lobonţ,Romania
+2217,2018,AS Roma,66,43,26,7621,Gerson,Brazil
+2218,2018,AS Roma,66,43,26,12795,A. Nura,Nigeria
+2219,2018,AS Roma,66,43,26,15418,R. Corlu,Denmark
+2220,2018,AC Milan,68,31,17,31,L. Bonucci,Italy
+2221,2018,AC Milan,68,31,17,142,M. Musacchio,Argentina
+2222,2018,AC Milan,68,31,17,169,L. Biglia,Argentina
+2223,2018,AC Milan,68,31,17,189,G. Bonaventura,Italy
+2224,2018,AC Milan,68,31,17,196,G. Donnarumma,Italy
+2225,2018,AC Milan,68,31,17,210,Suso,Spain
+2226,2018,AC Milan,68,31,17,327,R. Rodríguez,Switzerland
+2227,2018,AC Milan,68,31,17,382,N. Kalinić,Croatia
+2228,2018,AC Milan,68,31,17,474,G. Paletta,Italy
+2229,2018,AC Milan,68,31,17,521,A. Romagnoli,Italy
+2230,2018,AC Milan,68,31,17,566,H. Çalhanoğlu,Turkey
+2231,2018,AC Milan,68,31,17,697,André Silva,Portugal
+2232,2018,AC Milan,68,31,17,835,R. Montolivo,Italy
+2233,2018,AC Milan,68,31,17,843,I. Abate,Italy
+2234,2018,AC Milan,68,31,17,853,C. Zapata,Colombia
+2235,2018,AC Milan,68,31,17,1221,F. Kessié,Ivory Coast
+2236,2018,AC Milan,68,31,17,1356,F. Borini,Italy
+2237,2018,AC Milan,68,31,17,1404,M. Storari,Italy
+2238,2018,AC Milan,68,31,17,1465,L. Antonelli,Italy
+2239,2018,AC Milan,68,31,17,1609,A. Conti,Italy
+2240,2018,AC Milan,68,31,17,1727,G. Gómez,Paraguay
+2241,2018,AC Milan,68,31,17,2032,M. Locatelli,Italy
+2242,2018,AC Milan,68,31,17,2091,Gabriel,Brazil
+2243,2018,AC Milan,68,31,17,2619,D. Calabria,Italy
+2244,2018,AC Milan,68,31,17,4084,J. Mauri,Italy
+2245,2018,AC Milan,68,31,17,4851,J. Vergara,Colombia
+2246,2018,AC Milan,68,31,17,9045,A. Donnarumma,Italy
+2247,2018,AC Milan,68,31,17,9749,P. Cutrone,Italy
+2248,2018,AC Milan,68,31,17,11924,N. Zanellato,Italy
+2249,2018,AC Milan,68,31,17,13507,M. Gabbia,Italy
+2250,2018,AC Milan,68,31,17,14851,A. Guarnone,Italy
+2251,2018,Sampdoria,53,28,16,260,E. Viviano,Italy
+2252,2018,Sampdoria,53,28,16,755,G. Ramírez,Uruguay
+2253,2018,Sampdoria,53,28,16,759,D. Zapata,Colombia
+2254,2018,Sampdoria,53,28,16,834,F. Quagliarella,Italy
+2255,2018,Sampdoria,53,28,16,1274,D. Praet,Belgium
+2256,2018,Sampdoria,53,28,16,1588,K. Linetty,Poland
+2257,2018,Sampdoria,53,28,16,1610,L. Torreira,Uruguay
+2258,2018,Sampdoria,53,28,16,1834,M. Silvestre,Italy
+2259,2018,Sampdoria,53,28,16,1980,I. Strinić,Croatia
+2260,2018,Sampdoria,53,28,16,1984,R. Álvarez,Argentina
+2261,2018,Sampdoria,53,28,16,2143,G. Ferrari,Italy
+2262,2018,Sampdoria,53,28,16,2182,F. Đuričić,Serbia
+2263,2018,Sampdoria,53,28,16,2321,E. Barreto,Paraguay
+2264,2018,Sampdoria,53,28,16,2661,G. Caprari,Italy
+2265,2018,Sampdoria,53,28,16,2750,J. Sala,Italy
+2266,2018,Sampdoria,53,28,16,2809,B. Bereszyński,Poland
+2267,2018,Sampdoria,53,28,16,2847,Dodô,Brazil
+2268,2018,Sampdoria,53,28,16,3561,V. Regini,Italy
+2269,2018,Sampdoria,53,28,16,4046,V. Verre,Italy
+2270,2018,Sampdoria,53,28,16,4438,C. Puggioni,Italy
+2271,2018,Sampdoria,53,28,16,4873,L. Capezzi,Italy
+2272,2018,Sampdoria,53,28,16,4927,N. Murru,Italy
+2273,2018,Sampdoria,53,28,16,5857,J. Andersen,Denmark
+2274,2018,Sampdoria,53,28,16,5914,D. Ivan,Slovakia
+2275,2018,Sampdoria,53,28,16,6607,D. Kownacki,Poland
+2276,2018,Sampdoria,53,28,16,13538,B. Mikulic,Croatia
+2277,2018,Sampdoria,53,28,16,13832,A. Tozzo,Italy
+2278,2018,Sampdoria,53,28,16,16784,T. Krapikas,Lithuania
+2279,2019,Parma,35,17,12,1022,R. Inglese,Italy
+2280,2019,Parma,35,17,12,1128,Gervinho,Ivory Coast
+2281,2019,Parma,35,17,12,1637,A. Grassi,Italy
+2282,2019,Parma,35,17,12,1886,L. Rigoni,Italy
+2283,2019,Parma,35,17,12,2236,A. Ciciretti,Italy
+2284,2019,Parma,35,17,12,2256,L. Sepe,Italy
+2285,2019,Parma,35,17,12,2443,J. Biabiany,France
+2286,2019,Parma,35,17,12,2568,A. Di Gaudio,Italy
+2287,2019,Parma,35,17,12,3009,M. Gazzola,Italy
+2288,2019,Parma,35,17,12,3323,M. Sprocati,Italy
+2289,2019,Parma,35,17,12,3489,J. Dezi,Italy
+2290,2019,Parma,35,17,12,3639,F. Ceravolo,Italy
+2291,2019,Parma,35,17,12,4321,M. Gobbi,Italy
+2292,2019,Parma,35,17,12,4323,Bruno Alves,Portugal
+2293,2019,Parma,35,17,12,4488,L. Siligardi,Italy
+2294,2019,Parma,35,17,12,5722,L. Stulac,Slovenia
+2295,2019,Parma,35,17,12,6184,M. Scozzarella,Italy
+2296,2019,Parma,35,17,12,6422,R. Gagliolo,Italy
+2297,2019,Parma,35,17,12,7052,Y. Baraye,Senegal
+2298,2019,Parma,35,17,12,7501,A. Bastoni,Italy
+2299,2019,Parma,35,17,12,8203,G. Munari,Italy
+2300,2019,Parma,35,17,12,8235,A. Barillà,Italy
+2301,2019,Parma,35,17,12,8253,P. Frattali,Italy
+2302,2019,Parma,35,17,12,10418,S. Iacoponi,Italy
+2303,2019,Parma,35,17,12,10825,F. Dimarco,Italy
+2304,2019,Parma,35,17,12,10929,A. Deiola,Italy
+2305,2019,Parma,35,17,12,11792,F. Sierralta,Chile
+2306,2019,Parma,35,17,12,11933,A. Da Cruz,Netherlands
+2307,2019,Parma,35,17,12,12423,G. Pinto,Italy
+2308,2019,ACF Fiorentina,30,13,17,602,G. Pezzella,Argentina
+2309,2019,ACF Fiorentina,30,13,17,728,G. Simeone,Argentina
+2310,2019,ACF Fiorentina,30,13,17,754,J. Veretout,France
+2311,2019,ACF Fiorentina,30,13,17,870,K. Mirallas,Belgium
+2312,2019,ACF Fiorentina,30,13,17,951,A. Lafont,France
+2313,2019,ACF Fiorentina,30,13,17,961,F. Chiesa,Italy
+2314,2019,ACF Fiorentina,30,13,17,999,M. Benassi,Italy
+2315,2019,ACF Fiorentina,30,13,17,1281,M. Pjaca,Croatia
+2316,2019,ACF Fiorentina,30,13,17,1386,Vitor Hugo,Brazil
+2317,2019,ACF Fiorentina,30,13,17,1408,V. Eysseric,France
+2318,2019,ACF Fiorentina,30,13,17,1454,C. Théréau,France
+2319,2019,ACF Fiorentina,30,13,17,1813,C. Biraghi,Italy
+2320,2019,ACF Fiorentina,30,13,17,2265,B. Dabo,Burkina Faso
+2321,2019,ACF Fiorentina,30,13,17,2554,V. Laurini,France
+2322,2019,ACF Fiorentina,30,13,17,2645,N. Milenković,Serbia
+2323,2019,ACF Fiorentina,30,13,17,2653,Gerson,Brazil
+2324,2019,ACF Fiorentina,30,13,17,3279,C. Nørgaard,Denmark
+2325,2019,ACF Fiorentina,30,13,17,3292,K. Diks,Netherlands
+2326,2019,ACF Fiorentina,30,13,17,3350,F. Ceccherini,Italy
+2327,2019,ACF Fiorentina,30,13,17,3932,B. Drągowski,Poland
+2328,2019,ACF Fiorentina,30,13,17,3971,E. Fernandes,Switzerland
+2329,2019,ACF Fiorentina,30,13,17,5025,M. Olivera,Uruguay
+2330,2019,ACF Fiorentina,30,13,17,15387,M. Meli,Italy
+2331,2019,Udinese Calcio,28,10,12,976,A. Barák,Czech Republic
+2332,2019,Udinese Calcio,28,10,12,1033,K. Lasagna,Italy
+2333,2019,Udinese Calcio,28,10,12,1291,R. De Paul,Argentina
+2334,2019,Udinese Calcio,28,10,12,1406,L. Teodorczyk,Poland
+2335,2019,Udinese Calcio,28,10,12,1449,V. Behrami,Switzerland
+2336,2019,Udinese Calcio,28,10,12,1609,Felipe Vizeu,Brazil
+2337,2019,Udinese Calcio,28,10,12,1618,R. Mandragora,Italy
+2338,2019,Udinese Calcio,28,10,12,1659,S. Fofana,Ivory Coast
+2339,2019,Udinese Calcio,28,10,12,1793,D. Machís,Venezuela
+2340,2019,Udinese Calcio,28,10,12,1837,E. Badu,Ghana
+2341,2019,Udinese Calcio,28,10,12,2150,I. Pussetto,Argentina
+2342,2019,Udinese Calcio,28,10,12,2188,J. Musso,Argentina
+2343,2019,Udinese Calcio,28,10,12,2293,B. Nuytinck,Netherlands
+2344,2019,Udinese Calcio,28,10,12,2772,W. Troost-Ekong,Nigeria
+2345,2019,Udinese Calcio,28,10,12,2776,Samir,Brazil
+2346,2019,Udinese Calcio,28,10,12,2835,J. Stryger Larsen,Denmark
+2347,2019,Udinese Calcio,28,10,12,2851,M. Wagué,Mali
+2348,2019,Udinese Calcio,28,10,12,3226,S. Scuffet,Italy
+2349,2019,Udinese Calcio,28,10,12,3924,G. Pezzella,Italy
+2350,2019,Udinese Calcio,28,10,12,4833,A. Balić,Croatia
+2351,2019,Udinese Calcio,28,10,12,5358,M. D'Alessandro,Italy
+2352,2019,Udinese Calcio,28,10,12,5699,H. ter Avest,Netherlands
+2353,2019,Udinese Calcio,28,10,12,6369,Nicolas,Brazil
+2354,2019,Udinese Calcio,28,10,12,7850,G. Iñíguez,Argentina
+2355,2019,Udinese Calcio,28,10,12,8606,P. Micin,Serbia
+2356,2019,Udinese Calcio,28,10,12,8616,M. Coulibaly,Senegal
+2357,2019,Udinese Calcio,28,10,12,8634,N. Opoku,Ghana
+2358,2019,Udinese Calcio,28,10,12,8660,S. Ingelsson,Sweden
+2359,2019,Udinese Calcio,28,10,12,9739,S. Pontisso,Italy
+2360,2019,Udinese Calcio,28,10,12,9783,N. Garmendia,Spain
+2361,2019,Cagliari Calcio,32,25,23,482,D. Srna,Croatia
+2362,2019,Cagliari Calcio,32,25,23,935,L. Castro,Argentina
+2363,2019,Cagliari Calcio,32,25,23,936,L. Pavoletti,Italy
+2364,2019,Cagliari Calcio,32,25,23,1094,R. Klavan,Estonia
+2365,2019,Cagliari Calcio,32,25,23,1234,N. Barella,Italy
+2366,2019,Cagliari Calcio,32,25,23,1700,A. Cragno,Italy
+2367,2019,Cagliari Calcio,32,25,23,1774,João Pedro,Brazil
+2368,2019,Cagliari Calcio,32,25,23,1888,Rafael,Brazil
+2369,2019,Cagliari Calcio,32,25,23,1933,L. Cigarini,Italy
+2370,2019,Cagliari Calcio,32,25,23,2403,M. Andreolli,Italy
+2371,2019,Cagliari Calcio,32,25,23,2495,A. Ioniţă,Moldova
+2372,2019,Cagliari Calcio,32,25,23,3051,M. Sau,Italy
+2373,2019,Cagliari Calcio,32,25,23,3062,Diego Farías,Brazil
+2374,2019,Cagliari Calcio,32,25,23,3249,A. Cerri,Italy
+2375,2019,Cagliari Calcio,32,25,23,3532,L. Ceppitelli,Italy
+2376,2019,Cagliari Calcio,32,25,23,3750,F. Pisacane,Italy
+2377,2019,Cagliari Calcio,32,25,23,4181,P. Faragò,Italy
+2378,2019,Cagliari Calcio,32,25,23,4314,S. Padoin,Italy
+2379,2019,Cagliari Calcio,32,25,23,4681,F. Romagna,Italy
+2380,2019,Cagliari Calcio,32,25,23,4966,F. Bradarić,Croatia
+2381,2019,Cagliari Calcio,32,25,23,5070,M. Pajač,Croatia
+2382,2019,Cagliari Calcio,32,25,23,5247,D. Dessena,Italy
+2383,2019,Cagliari Calcio,32,25,23,8228,S. Aresti,Italy
+2384,2019,Cagliari Calcio,32,25,23,8980,C. Lykogiannis,Greece
+2385,2019,Cagliari Calcio,32,25,23,15412,L. Gagliano,Italy
+2386,2019,AS Roma,45,26,19,87,K. Manolas,Greece
+2387,2019,AS Roma,45,26,19,104,E. Džeko,Bosnia Herzegovina
+2388,2019,AS Roma,45,26,19,190,D. De Rossi,Italy
+2389,2019,AS Roma,45,26,19,262,A. Florenzi,Italy
+2390,2019,AS Roma,45,26,19,282,Marcano,Spain
+2391,2019,AS Roma,45,26,19,286,F. Fazio,Argentina
+2392,2019,AS Roma,45,26,19,296,A. Kolarov,Serbia
+2393,2019,AS Roma,45,26,19,299,S. Nzonzi,France
+2394,2019,AS Roma,45,26,19,303,J. Pastore,Argentina
+2395,2019,AS Roma,45,26,19,346,S. El Shaarawy,Italy
+2396,2019,AS Roma,45,26,19,385,D. Perotti,Argentina
+2397,2019,AS Roma,45,26,19,483,A. Mirante,Italy
+2398,2019,AS Roma,45,26,19,718,B. Cristante,Italy
+2399,2019,AS Roma,45,26,19,749,L. Pellegrini,Italy
+2400,2019,AS Roma,45,26,19,927,Juan Jesus,Brazil
+2401,2019,AS Roma,45,26,19,957,P. Schick,Czech Republic
+2402,2019,AS Roma,45,26,19,958,C. Ünder,Turkey
+2403,2019,AS Roma,45,26,19,1237,A. Ćorić,Croatia
+2404,2019,AS Roma,45,26,19,1297,R. Karsdorp,Netherlands
+2405,2019,AS Roma,45,26,19,1613,J. Kluivert,Netherlands
+2406,2019,AS Roma,45,26,19,1818,R. Olsen,Sweden
+2407,2019,AS Roma,45,26,19,2002,D. Santon,Italy
+2408,2019,AS Roma,45,26,19,8745,Daniel Fuzato,Brazil
+2409,2019,AS Roma,45,26,19,9672,L. Pellegrini,Italy
+2410,2019,AS Roma,45,26,19,10695,N. Zaniolo,Italy
+2411,2019,AS Roma,45,26,19,10707,W. Bianda,France
+2412,2019,Sampdoria,26,16,22,495,F. Quagliarella,Italy
+2413,2019,Sampdoria,26,16,22,623,G. Ramírez,Uruguay
+2414,2019,Sampdoria,26,16,22,805,R. Saponara,Italy
+2415,2019,Sampdoria,26,16,22,1043,L. Tonelli,Italy
+2416,2019,Sampdoria,26,16,22,1248,J. Jankto,Czech Republic
+2417,2019,Sampdoria,26,16,22,1267,K. Linetty,Poland
+2418,2019,Sampdoria,26,16,22,1302,D. Praet,Belgium
+2419,2019,Sampdoria,26,16,22,1483,A. Ekdal,Sweden
+2420,2019,Sampdoria,26,16,22,1572,G. Defrel,France
+2421,2019,Sampdoria,26,16,22,1728,O. Colley,Gambia
+2422,2019,Sampdoria,26,16,22,2257,Rafael,Brazil
+2423,2019,Sampdoria,26,16,22,2711,G. Caprari,Italy
+2424,2019,Sampdoria,26,16,22,2794,B. Bereszyński,Poland
+2425,2019,Sampdoria,26,16,22,2925,E. Barreto,Paraguay
+2426,2019,Sampdoria,26,16,22,3344,N. Murru,Italy
+2427,2019,Sampdoria,26,16,22,3477,V. Belec,Slovenia
+2428,2019,Sampdoria,26,16,22,3478,J. Sala,Italy
+2429,2019,Sampdoria,26,16,22,3755,V. Regini,Italy
+2430,2019,Sampdoria,26,16,22,4714,Ronaldo Vieira,England
+2431,2019,Sampdoria,26,16,22,4791,J. Andersen,Denmark
+2432,2019,Sampdoria,26,16,22,4909,A. Ferrari,Italy
+2433,2019,Sampdoria,26,16,22,5560,E. Audero,Italy
+2434,2019,Sampdoria,26,16,22,5584,D. Kownacki,Poland
+2435,2019,Sampdoria,26,16,22,8776,G. Rolando,Italy
+2436,2019,Sampdoria,26,16,22,9852,Júnior Tavares,Brazil
+2437,2019,Sampdoria,26,16,22,11809,O. Stijepović,Montenegro
+2438,2019,Sampdoria,26,16,22,16769,M. Leverbe,France
+2439,2019,SPAL,18,11,20,1328,M. Lazzari,Italy
+2440,2019,SPAL,18,11,20,1361,F. Viviani,Italy
+2441,2019,SPAL,18,11,20,1516,A. Paloschi,Italy
+2442,2019,SPAL,18,11,20,1528,M. Antenucci,Italy
+2443,2019,SPAL,18,11,20,1657,A. Petagna,Italy
+2444,2019,SPAL,18,11,20,1671,A. Gomis,Senegal
+2445,2019,SPAL,18,11,20,1874,Felipe,Brazil
+2446,2019,SPAL,18,11,20,1940,S. Missiroli,Italy
+2447,2019,SPAL,18,11,20,1992,M. Valdifiori,Italy
+2448,2019,SPAL,18,11,20,2056,J. Kurtić,Slovenia
+2449,2019,SPAL,18,11,20,2398,S. Floccari,Italy
+2450,2019,SPAL,18,11,20,3050,P. Schiattarella,Italy
+2451,2019,SPAL,18,11,20,3252,F. Vicari,Italy
+2452,2019,SPAL,18,11,20,3609,J. Djourou,Switzerland
+2453,2019,SPAL,18,11,20,3706,Thiago Cionek,Poland
+2454,2019,SPAL,18,11,20,3976,V. Milinković-Savić,Serbia
+2455,2019,SPAL,18,11,20,3989,K. Bonifazi,Italy
+2456,2019,SPAL,18,11,20,4040,F. Costa,Italy
+2457,2019,SPAL,18,11,20,5656,L. Dickmann,Italy
+2458,2019,SPAL,18,11,20,5698,M. Fares,Algeria
+2459,2019,SPAL,18,11,20,5881,M. Valoti,Italy
+2460,2019,SPAL,18,11,20,7647,L. Šimić,Croatia
+2461,2019,SPAL,18,11,20,7674,G. Moncini,Italy
+2462,2019,SPAL,18,11,20,8441,Éverton Luiz,Brazil
+2463,2019,SPAL,18,11,20,10922,M. Vitale,Italy
+2464,2019,SPAL,18,11,20,16185,G. Poluzzi,Italy
+2465,2019,SPAL,18,11,20,17502,D. Thiam,Senegal
+2466,2019,Torino,27,11,22,230,A. Belotti,Italy
+2467,2019,Torino,27,11,22,261,S. Zaza,Italy
+2468,2019,Torino,27,11,22,277,S. Sirigu,Italy
+2469,2019,Torino,27,11,22,524,N. Nkoulou,Cameroon
+2470,2019,Torino,27,11,22,527,Iago Falqué,Spain
+2471,2019,Torino,27,11,22,593,D. Baselli,Italy
+2472,2019,Torino,27,11,22,875,C. Ansaldi,Argentina
+2473,2019,Torino,27,11,22,914,R. Soriano,Italy
+2474,2019,Torino,27,11,22,1125,L. De Silvestri,Italy
+2475,2019,Torino,27,11,22,1195,T. Rincón,Venezuela
+2476,2019,Torino,27,11,22,1313,A. Izzo,Italy
+2477,2019,Torino,27,11,22,1322,Alex Berenguer,Spain
+2478,2019,Torino,27,11,22,1785,S. Meïté,France
+2479,2019,Torino,27,11,22,1877,E. Moretti,Italy
+2480,2019,Torino,27,11,22,2298,K. Djidji,Ivory Coast
+2481,2019,Torino,27,11,22,2684,S. Lukić,Serbia
+2482,2019,Torino,27,11,22,3959,Lyanco,Brazil
+2483,2019,Torino,27,11,22,3963,Bremer,Brazil
+2484,2019,Torino,27,11,22,4756,O. Aina,Nigeria
+2485,2019,Torino,27,11,22,6126,A. Rosati,Italy
+2486,2019,Torino,27,11,22,7564,V. Parigini,Italy
+2487,2019,Torino,27,11,22,7585,S. Edera,Italy
+2488,2019,Torino,27,11,22,9710,V. Damascan,Moldova
+2489,2019,Torino,27,11,22,11676,S. Ichazo,Uruguay
+2490,2019,Torino,27,11,22,14255,V. Millico,Italy
+2491,2019,Torino,27,11,22,15006,E. Ferigra,Ecuador
+2492,2019,Hellas Verona,35,17,12,2513,A. Ragusa,Italy
+2493,2019,Hellas Verona,35,17,12,2912,G. Pazzini,Italy
+2494,2019,Hellas Verona,35,17,12,3039,S. Di Carmine,Italy
+2495,2019,Hellas Verona,35,17,12,3091,L. Marrone,Italy
+2496,2019,Hellas Verona,35,17,12,3431,R. Matos,Brazil
+2497,2019,Hellas Verona,35,17,12,4269,M. Bianchetti,Italy
+2498,2019,Hellas Verona,35,17,12,4554,A. Caracciolo,Italy
+2499,2019,Hellas Verona,35,17,12,5040,A. Crescenzi,Italy
+2500,2019,Hellas Verona,35,17,12,5348,K. Laribi,Tunisia
+2501,2019,Hellas Verona,35,17,12,5602,P. Dawidowicz,Poland
+2502,2019,Hellas Verona,35,17,12,5888,M. Fossati,Italy
+2503,2019,Hellas Verona,35,17,12,6292,M. Silvestri,Italy
+2504,2019,Hellas Verona,35,17,12,6536,S. Colombatto,Argentina
+2505,2019,Hellas Verona,35,17,12,6594,L. Henderson,Scotland
+2506,2019,Hellas Verona,35,17,12,6609,Lee Seung Woo,Korea Republic
+2507,2019,Hellas Verona,35,17,12,6714,S. Gustafson,Sweden
+2508,2019,Hellas Verona,35,17,12,6888,A. Almici,Italy
+2509,2019,Hellas Verona,35,17,12,7197,N. Cherubin,Italy
+2510,2019,Hellas Verona,35,17,12,7672,M. Zaccagni,Italy
+2511,2019,Hellas Verona,35,17,12,8262,K. Cissé,Guinea
+2512,2019,Hellas Verona,35,17,12,10024,J. Balkovec,Slovenia
+2513,2019,Hellas Verona,35,17,12,10164,S. Calvano,Italy
+2514,2019,Hellas Verona,35,17,12,11806,A. Danzi,Italy
+2515,2019,Hellas Verona,35,17,12,11971,P. Cappelluzzo,Italy
+2516,2019,Hellas Verona,35,17,12,12112,F. Eguelfi,Italy
+2517,2019,Hellas Verona,35,17,12,12306,A. Empereur,Brazil
+2518,2019,Hellas Verona,35,17,12,13606,L. Tupta,Slovakia
+2519,2019,Hellas Verona,35,17,12,13969,A. Tozzo,Italy
+2520,2019,Hellas Verona,35,17,12,15429,M. Kumbulla,Albania
+2521,2019,FC Internazionale Milano,54,23,10,33,S. Handanovič,Slovenia
+2522,2019,FC Internazionale Milano,54,23,10,44,M. Icardi,Argentina
+2523,2019,FC Internazionale Milano,54,23,10,68,I. Perišić,Croatia
+2524,2019,FC Internazionale Milano,54,23,10,79,M. Škriniar,Slovakia
+2525,2019,FC Internazionale Milano,54,23,10,99,Miranda,Brazil
+2526,2019,FC Internazionale Milano,54,23,10,101,R. Nainggolan,Belgium
+2527,2019,FC Internazionale Milano,54,23,10,125,S. de Vrij,Netherlands
+2528,2019,FC Internazionale Milano,54,23,10,339,S. Vrsaljko,Croatia
+2529,2019,FC Internazionale Milano,54,23,10,345,João Mário,Portugal
+2530,2019,FC Internazionale Milano,54,23,10,366,Borja Valero,Spain
+2531,2019,FC Internazionale Milano,54,23,10,373,A. Candreva,Italy
+2532,2019,FC Internazionale Milano,54,23,10,428,K. Baldé,Senegal
+2533,2019,FC Internazionale Milano,54,23,10,446,M. Brozović,Croatia
+2534,2019,FC Internazionale Milano,54,23,10,447,M. Politano,Italy
+2535,2019,FC Internazionale Milano,54,23,10,471,M. Vecino,Uruguay
+2536,2019,FC Internazionale Milano,54,23,10,559,L. Martínez,Argentina
+2537,2019,FC Internazionale Milano,54,23,10,674,K. Asamoah,Ghana
+2538,2019,FC Internazionale Milano,54,23,10,774,R. Gagliardini,Italy
+2539,2019,FC Internazionale Milano,54,23,10,1325,Dalbert,Brazil
+2540,2019,FC Internazionale Milano,54,23,10,1486,A. Ranocchia,Italy
+2541,2019,FC Internazionale Milano,54,23,10,1562,D. D'Ambrosio,Italy
+2542,2019,FC Internazionale Milano,54,23,10,2380,D. Padelli,Italy
+2543,2019,FC Internazionale Milano,54,23,10,7861,R. Di Gennaro,Italy
+2544,2019,FC Internazionale Milano,54,23,10,11421,T. Berni,Italy
+2545,2019,Bologna,34,18,20,1005,E. Pulgar,Chile
+2546,2019,Bologna,34,18,20,1089,B. Džemaili,Switzerland
+2547,2019,Bologna,34,18,20,1104,R. Palacio,Argentina
+2548,2019,Bologna,34,18,20,1120,Danilo,Brazil
+2549,2019,Bologna,34,18,20,1149,S. De Maio,France
+2550,2019,Bologna,34,18,20,1166,A. Poli,Italy
+2551,2019,Bologna,34,18,20,1222,G. González,Costa Rica
+2552,2019,Bologna,34,18,20,1296,G. Donsah,Ghana
+2553,2019,Bologna,34,18,20,1351,L. Skorupski,Poland
+2554,2019,Bologna,34,18,20,1547,M. Destro,Italy
+2555,2019,Bologna,34,18,20,1817,F. Helander,Sweden
+2556,2019,Bologna,34,18,20,2052,L. Krejčí,Czech Republic
+2557,2019,Bologna,34,18,20,2157,A. Nagy,Hungary
+2558,2019,Bologna,34,18,20,2323,D. Falcinelli,Italy
+2559,2019,Bologna,34,18,20,2475,Da Costa,Brazil
+2560,2019,Bologna,34,18,20,2665,I. Mbaye,Senegal
+2561,2019,Bologna,34,18,20,2882,F. Santander,Paraguay
+2562,2019,Bologna,34,18,20,3215,R. Orsolini,Italy
+2563,2019,Bologna,34,18,20,3361,F. Mattiello,Italy
+2564,2019,Bologna,34,18,20,4178,M. Dijks,Netherlands
+2565,2019,Bologna,34,18,20,4677,O. Okwonkwo,Nigeria
+2566,2019,Bologna,34,18,20,4799,A. Calabresi,Italy
+2567,2019,Bologna,34,18,20,4904,N. Paz,Argentina
+2568,2019,Bologna,34,18,20,6507,M. Svanberg,Sweden
+2569,2019,Bologna,34,18,20,6537,J. Valencia,Colombia
+2570,2019,Bologna,34,18,20,6828,A. Santurro,Italy
+2571,2019,Bologna,34,18,20,12750,Vinicius,Brazil
+2572,2019,Bologna,34,18,20,14236,G. Corbo,Italy
+2573,2019,AC Milan,36,13,15,35,G. Higuaín,Argentina
+2574,2019,AC Milan,36,13,15,171,Samu Castillejo,Spain
+2575,2019,AC Milan,36,13,15,189,Pepe Reina,Spain
+2576,2019,AC Milan,36,13,15,214,G. Donnarumma,Italy
+2577,2019,AC Milan,36,13,15,217,A. Romagnoli,Italy
+2578,2019,AC Milan,36,13,15,228,Suso,Spain
+2579,2019,AC Milan,36,13,15,273,L. Biglia,Argentina
+2580,2019,AC Milan,36,13,15,301,G. Bonaventura,Italy
+2581,2019,AC Milan,36,13,15,413,M. Caldara,Italy
+2582,2019,AC Milan,36,13,15,429,T. Bakayoko,France
+2583,2019,AC Milan,36,13,15,436,H. Çalhanoğlu,Turkey
+2584,2019,AC Milan,36,13,15,442,R. Rodríguez,Switzerland
+2585,2019,AC Milan,36,13,15,520,M. Musacchio,Argentina
+2586,2019,AC Milan,36,13,15,716,F. Kessié,Ivory Coast
+2587,2019,AC Milan,36,13,15,811,D. Laxalt,Uruguay
+2588,2019,AC Milan,36,13,15,854,R. Montolivo,Italy
+2589,2019,AC Milan,36,13,15,866,I. Abate,Italy
+2590,2019,AC Milan,36,13,15,880,C. Zapata,Colombia
+2591,2019,AC Milan,36,13,15,952,P. Cutrone,Italy
+2592,2019,AC Milan,36,13,15,954,D. Calabria,Italy
+2593,2019,AC Milan,36,13,15,1196,A. Bertolacci,Italy
+2594,2019,AC Milan,36,13,15,1269,A. Halilović,Croatia
+2595,2019,AC Milan,36,13,15,1512,F. Borini,Italy
+2596,2019,AC Milan,36,13,15,1761,A. Conti,Italy
+2597,2019,AC Milan,36,13,15,2528,I. Strinić,Croatia
+2598,2019,AC Milan,36,13,15,2649,S. Simič,Czech Republic
+2599,2019,AC Milan,36,13,15,3285,J. Mauri,Italy
+2600,2019,AC Milan,36,13,15,8600,A. Plizzari,Italy
+2601,2019,AC Milan,36,13,15,9219,A. Donnarumma,Italy
+2602,2019,Juventus,63,31,10,0,Cristiano Ronaldo,Portugal
+2603,2019,Juventus,63,31,10,15,P. Dybala,Argentina
+2604,2019,Juventus,63,31,10,21,G. Chiellini,Italy
+2605,2019,Juventus,63,31,10,66,M. Benatia,Morocco
+2606,2019,Juventus,63,31,10,67,M. Pjanić,Bosnia Herzegovina
+2607,2019,Juventus,63,31,10,70,L. Bonucci,Italy
+2608,2019,Juventus,63,31,10,74,Douglas Costa,Brazil
+2609,2019,Juventus,63,31,10,75,Alex Sandro,Brazil
+2610,2019,Juventus,63,31,10,100,B. Matuidi,France
+2611,2019,Juventus,63,31,10,103,S. Khedira,Germany
+2612,2019,Juventus,63,31,10,114,M. Perin,Italy
+2613,2019,Juventus,63,31,10,124,W. Szczęsny,Poland
+2614,2019,Juventus,63,31,10,135,A. Barzagli,Italy
+2615,2019,Juventus,63,31,10,148,M. Mandžukić,Croatia
+2616,2019,Juventus,63,31,10,155,J. Cuadrado,Colombia
+2617,2019,Juventus,63,31,10,231,F. Bernardeschi,Italy
+2618,2019,Juventus,63,31,10,237,D. Rugani,Italy
+2619,2019,Juventus,63,31,10,322,João Cancelo,Portugal
+2620,2019,Juventus,63,31,10,423,E. Can,Germany
+2621,2019,Juventus,63,31,10,772,M. De Sciglio,Italy
+2622,2019,Juventus,63,31,10,1026,L. Spinazzola,Italy
+2623,2019,Juventus,63,31,10,1235,R. Bentancur,Uruguay
+2624,2019,Juventus,63,31,10,3204,M. Kean,Italy
+2625,2019,Juventus,63,31,10,3712,C. Pinsoglio,Italy
+2626,2019,Juventus,63,31,10,12733,P. Beruatto,Italy
+2627,2019,SS Lazio,62,39,10,54,C. Immobile,Italy
+2628,2019,SS Lazio,62,39,10,82,S. Milinković-Savić,Serbia
+2629,2019,SS Lazio,62,39,10,194,Lucas Leiva,Brazil
+2630,2019,SS Lazio,62,39,10,226,Luis Alberto,Spain
+2631,2019,SS Lazio,62,39,10,290,M. Parolo,Italy
+2632,2019,SS Lazio,62,39,10,309,F. Acerbi,Italy
+2633,2019,SS Lazio,62,39,10,409,T. Strakosha,Albania
+2634,2019,SS Lazio,62,39,10,499,S. Radu,Romania
+2635,2019,SS Lazio,62,39,10,539,M. Badelj,Croatia
+2636,2019,SS Lazio,62,39,10,768,Bastos,Angola
+2637,2019,SS Lazio,62,39,10,813,A. Marušić,Montenegro
+2638,2019,SS Lazio,62,39,10,865,D. Basta,Serbia
+2639,2019,SS Lazio,62,39,10,889,M. Cáceres,Uruguay
+2640,2019,SS Lazio,62,39,10,904,S. Lulić,Bosnia Herzegovina
+2641,2019,SS Lazio,62,39,10,980,J. Lukaku,Belgium
+2642,2019,SS Lazio,62,39,10,1007,J. Correa,Argentina
+2643,2019,SS Lazio,62,39,10,1134,F. Caicedo,Ecuador
+2644,2019,SS Lazio,62,39,10,1255,Wallace,Brazil
+2645,2019,SS Lazio,62,39,10,1306,R. Durmisi,Denmark
+2646,2019,SS Lazio,62,39,10,1332,R. Morrison,England
+2647,2019,SS Lazio,62,39,10,1352,V. Berisha,Kosovo
+2648,2019,SS Lazio,62,39,10,1425,S. Proto,Belgium
+2649,2019,SS Lazio,62,39,10,1714,D. Cataldi,Italy
+2650,2019,SS Lazio,62,39,10,2625,Luiz Felipe,Brazil
+2651,2019,SS Lazio,62,39,10,3269,A. Murgia,Italy
+2652,2019,SS Lazio,62,39,10,3439,Patric,Spain
+2653,2019,SS Lazio,62,39,10,4722,J. Minala,Cameroon
+2654,2019,SS Lazio,62,39,10,5685,C. Lombardi,Italy
+2655,2019,SS Lazio,62,39,10,7519,A. Rossi,Italy
+2656,2019,SS Lazio,62,39,10,9883,L. Filippini,Italy
+2657,2019,SS Lazio,62,39,10,12717,Pedro Neto,Portugal
+2658,2019,SS Lazio,62,39,10,13679,G. Guerrieri,Italy
+2659,2019,SS Lazio,62,39,10,14282,Bruno Jordão,Portugal
+2660,2019,Atalanta,48,33,19,136,A. Gómez,Argentina
+2661,2019,Atalanta,48,33,19,401,J. Iličić,Slovenia
+2662,2019,Atalanta,48,33,19,647,A. Masiello,Italy
+2663,2019,Atalanta,48,33,19,783,E. Rigoni,Argentina
+2664,2019,Atalanta,48,33,19,793,Rafael Tolói,Brazil
+2665,2019,Atalanta,48,33,19,828,D. Zapata,Colombia
+2666,2019,Atalanta,48,33,19,907,E. Berisha,Albania
+2667,2019,Atalanta,48,33,19,1274,M. Pašalić,Croatia
+2668,2019,Atalanta,48,33,19,1385,J. Palomino,Argentina
+2669,2019,Atalanta,48,33,19,1409,R. Freuler,Switzerland
+2670,2019,Atalanta,48,33,19,1579,M. de Roon,Netherlands
+2671,2019,Atalanta,48,33,19,1723,H. Hateboer,Netherlands
+2672,2019,Atalanta,48,33,19,2819,A. Adnan,Iraq
+2673,2019,Atalanta,48,33,19,4010,T. Castagne,Belgium
+2674,2019,Atalanta,48,33,19,4087,R. Gosens,Germany
+2675,2019,Atalanta,48,33,19,4676,M. Varnier,Italy
+2676,2019,Atalanta,48,33,19,4763,G. Mancini,Italy
+2677,2019,Atalanta,48,33,19,4782,P. Gollini,Italy
+2678,2019,Atalanta,48,33,19,5650,L. Valzania,Italy
+2679,2019,Atalanta,48,33,19,6515,M. Pessina,Italy
+2680,2019,Atalanta,48,33,19,7726,B. Djimsiti,Albania
+2681,2019,Atalanta,48,33,19,8605,M. Barrow,Gambia
+2682,2019,Atalanta,48,33,19,11762,M. Tumminello,Italy
+2683,2019,Atalanta,48,33,19,12154,A. Reca,Poland
+2684,2019,Atalanta,48,33,19,14719,F. Rossi,Italy
+2685,2019,Genoa,25,14,18,372,D. Criscito,Italy
+2686,2019,Genoa,25,14,18,1090,F. Marchetti,Italy
+2687,2019,Genoa,25,14,18,1225,L. López,Argentina
+2688,2019,Genoa,25,14,18,1366,Iuri Medeiros,Portugal
+2689,2019,Genoa,25,14,18,1548,Rômulo,Italy
+2690,2019,Genoa,25,14,18,1582,G. Lapadula,Italy
+2691,2019,Genoa,25,14,18,1885,G. Pandev,FYR Macedonia
+2692,2019,Genoa,25,14,18,1927,N. Spolli,Argentina
+2693,2019,Genoa,25,14,18,2013,Sandro,Brazil
+2694,2019,Genoa,25,14,18,2015,E. Zukanović,Bosnia Herzegovina
+2695,2019,Genoa,25,14,18,2556,D. Lazović,Serbia
+2696,2019,Genoa,25,14,18,2736,L. Mazzitelli,Italy
+2697,2019,Genoa,25,14,18,2848,O. Hiljemark,Sweden
+2698,2019,Genoa,25,14,18,3396,D. Bessa,Italy
+2699,2019,Genoa,25,14,18,3912,C. Kouamé,Ivory Coast
+2700,2019,Genoa,25,14,18,4858,K. Piątek,Poland
+2701,2019,Genoa,25,14,18,4865,E. Rolón,Argentina
+2702,2019,Genoa,25,14,18,4880,K. Günter,Germany
+2703,2019,Genoa,25,14,18,5589,A. Favilli,Italy
+2704,2019,Genoa,25,14,18,5593,Pedro Pereira,Portugal
+2705,2019,Genoa,25,14,18,5737,D. Biraschi,Italy
+2706,2019,Genoa,25,14,18,7066,I. Lakićević,Serbia
+2707,2019,Genoa,25,14,18,7543,I. Radu,Romania
+2708,2019,Genoa,25,14,18,8651,R. Vodišek,Slovenia
+2709,2019,Genoa,25,14,18,14632,S. Omeonga,Belgium
+2710,2019,Lecce,25,19,26,3120,F. Lucioni,Italy
+2711,2019,Lecce,25,19,26,4894,R. Fiamozzi,Italy
+2712,2019,Lecce,25,19,26,4912,L. Venuti,Italy
+2713,2019,Lecce,25,19,26,5121,F. Falco,Italy
+2714,2019,Lecce,25,19,26,5153,C. Bovo,Italy
+2715,2019,Lecce,25,19,26,6843,T. Haye,Netherlands
+2716,2019,Lecce,25,19,26,6960,B. Meccariello,Italy
+2717,2019,Lecce,25,19,26,7014,S. Pettinari,Italy
+2718,2019,Lecce,25,19,26,7282,M. Calderoni,Italy
+2719,2019,Lecce,25,19,26,7323,A. La Mantia,Italy
+2720,2019,Lecce,25,19,26,8101,C. Chiricò,Italy
+2721,2019,Lecce,25,19,26,8315,M. Vigorito,Italy
+2722,2019,Lecce,25,19,26,9320,F. Cosenza,Italy
+2723,2019,Lecce,25,19,26,9856,S. Palombi,Italy
+2724,2019,Lecce,25,19,26,10005,J. Petriccione,Italy
+2725,2019,Lecce,25,19,26,10403,M. Mancosu,Italy
+2726,2019,Lecce,25,19,26,10466,L. Di Matteo,Italy
+2727,2019,Lecce,25,19,26,10538,M. Scavone,Italy
+2728,2019,Lecce,25,19,26,11636,G. Torromino,Italy
+2729,2019,Lecce,25,19,26,12553,F. Lepore,Italy
+2730,2019,Lecce,25,19,26,12557,A. Marino,Italy
+2731,2019,Lecce,25,19,26,12589,M. Armellino,Italy
+2732,2019,Lecce,25,19,26,13441,A. Arrigoni,Italy
+2733,2019,Lecce,25,19,26,13444,A. Tabanelli,Italy
+2734,2019,Lecce,25,19,26,14488,M. Bleve,Italy
+2735,2019,Lecce,25,19,26,15575,D. Riccardi,Italy
+2736,2019,Lecce,25,19,26,16501,R. Tsonev,Bulgaria
+2737,2019,Lecce,25,19,26,17130,E. Dubickas,Lithuania
+2738,2019,Lecce,25,19,26,17756,J. Milli,Italy
+2739,2019,Sassuolo Calcio,32,28,22,274,A. Consigli,Italy
+2740,2019,Sassuolo Calcio,32,28,22,375,K. Boateng,Ghana
+2741,2019,Sassuolo Calcio,32,28,22,764,D. Berardi,Italy
+2742,2019,Sassuolo Calcio,32,28,22,1330,K. Babacar,Senegal
+2743,2019,Sassuolo Calcio,32,28,22,1368,F. Di Francesco,Italy
+2744,2019,Sassuolo Calcio,32,28,22,1438,F. Magnanelli,Italy
+2745,2019,Sassuolo Calcio,32,28,22,1617,M. Locatelli,Italy
+2746,2019,Sassuolo Calcio,32,28,22,1658,Marlon,Brazil
+2747,2019,Sassuolo Calcio,32,28,22,1705,A. Duncan,Ghana
+2748,2019,Sassuolo Calcio,32,28,22,1727,G. Ferrari,Italy
+2749,2019,Sassuolo Calcio,32,28,22,1730,M. Lemos,Uruguay
+2750,2019,Sassuolo Calcio,32,28,22,2201,Pol Lirola,Spain
+2751,2019,Sassuolo Calcio,32,28,22,2259,F. Đuričić,Serbia
+2752,2019,Sassuolo Calcio,32,28,22,2706,S. Sensi,Italy
+2753,2019,Sassuolo Calcio,32,28,22,2802,M. Trotta,Italy
+2754,2019,Sassuolo Calcio,32,28,22,3655,A. Matri,Italy
+2755,2019,Sassuolo Calcio,32,28,22,3663,F. Peluso,Italy
+2756,2019,Sassuolo Calcio,32,28,22,3941,J. Boga,Ivory Coast
+2757,2019,Sassuolo Calcio,32,28,22,4019,C. Adjapong,Italy
+2758,2019,Sassuolo Calcio,32,28,22,4315,G. Pegolo,Italy
+2759,2019,Sassuolo Calcio,32,28,22,4683,E. Brignola,Italy
+2760,2019,Sassuolo Calcio,32,28,22,5099,M. Bourabia,France
+2761,2019,Sassuolo Calcio,32,28,22,5580,Rogério,Brazil
+2762,2019,Sassuolo Calcio,32,28,22,7803,C. Dell'Orco,Italy
+2763,2019,Sassuolo Calcio,32,28,22,9918,G. Magnani,Italy
+2764,2019,Sassuolo Calcio,32,28,22,12700,J. Odgaard,Denmark
+2765,2019,Sassuolo Calcio,32,28,22,16567,G. Satalino,Italy
+2766,2019,Napoli,39,17,18,40,L. Insigne,Italy
+2767,2019,Napoli,39,17,18,43,K. Koulibaly,Senegal
+2768,2019,Napoli,39,17,18,48,M. Hamšík,Slovakia
+2769,2019,Napoli,39,17,18,50,D. Mertens,Belgium
+2770,2019,Napoli,39,17,18,137,Raúl Albiol,Spain
+2771,2019,Napoli,39,17,18,150,José Callejón,Spain
+2772,2019,Napoli,39,17,18,310,Allan,Brazil
+2773,2019,Napoli,39,17,18,333,E. Hysaj,Albania
+2774,2019,Napoli,39,17,18,334,Fabián,Spain
+2775,2019,Napoli,39,17,18,357,F. Ghoulam,Algeria
+2776,2019,Napoli,39,17,18,397,S. Verdi,Italy
+2777,2019,Napoli,39,17,18,407,A. Milik,Poland
+2778,2019,Napoli,39,17,18,408,P. Zieliński,Poland
+2779,2019,Napoli,39,17,18,662,O. Karnezis,Greece
+2780,2019,Napoli,39,17,18,784,N. Maksimović,Serbia
+2781,2019,Napoli,39,17,18,821,Mário Rui,Portugal
+2782,2019,Napoli,39,17,18,878,D. Ospina,Colombia
+2783,2019,Napoli,39,17,18,937,V. Chiricheş,Romania
+2784,2019,Napoli,39,17,18,955,A. Diawara,Guinea
+2785,2019,Napoli,39,17,18,1263,M. Rog,Croatia
+2786,2019,Napoli,39,17,18,1401,K. Malcuit,France
+2787,2019,Napoli,39,17,18,1607,A. Meret,Italy
+2788,2019,Napoli,39,17,18,1858,A. Younes,Germany
+2789,2019,Napoli,39,17,18,2632,A. Ounas,Algeria
+2790,2019,Napoli,39,17,18,4751,S. Luperto,Italy
+2791,2019,Brescia,16,13,25,2062,A. Donnarumma,Italy
+2792,2019,Brescia,16,13,25,3576,D. Gastaldello,Italy
+2793,2019,Brescia,16,13,25,5103,S. Romagnoli,Italy
+2794,2019,Brescia,16,13,25,5106,L. Tremolada,Italy
+2795,2019,Brescia,16,13,25,5624,L. Morosini,Italy
+2796,2019,Brescia,16,13,25,5725,D. Bisoli,Italy
+2797,2019,Brescia,16,13,25,5954,E. Torregrossa,Italy
+2798,2019,Brescia,16,13,25,6629,S. Minelli,Italy
+2799,2019,Brescia,16,13,25,6839,S. Sabelli,Italy
+2800,2019,Brescia,16,13,25,7145,E. Alfonso,Italy
+2801,2019,Brescia,49,56,57,7739,A. Martinelli,Switzerland
+2802,2019,Brescia,49,51,48,7893,Felipe Curcio,Brazil
+2803,2019,Brescia,45,37,51,8593,S. Tonali,Italy
+2804,2019,Brescia,45,52,56,8619,N. Spalek,Slovakia
+2805,2019,Brescia,70,77,51,8627,E. Ndoj,Albania
+2806,2019,Brescia,42,48,65,8785,A. Matějů,Czech Republic
+2807,2019,Brescia,20,27,70,8893,F. Ferrari,Italy
+2808,2019,Brescia,40,46,68,8999,E. Lancini,Italy
+2809,2019,Brescia,49,47,51,9920,I. Rondanini,Italy
+2810,2019,Brescia,82,81,36,10180,L. Miracoli,Italy
+2811,2019,Brescia,47,52,65,10558,A. Longhi,Italy
+2812,2019,Brescia,66,63,46,11280,J. Dall'Oglio,Italy
+2813,2019,Brescia,83,76,43,11927,L. Andrenacci,Italy
+2814,2019,Brescia,78,79,42,12904,A. Semprini,Italy
+2815,2019,Brescia,78,98,48,13617,M. Cortesi,Italy
+2816,2019,Brescia,39,47,73,13756,L. Carillo,Italy
+2817,2019,Brescia,35,52,85,13761,A. Cistana,Italy
+2818,2019,Brescia,51,69,63,14228,M. Viviani,Italy
+2819,2019,Brescia,62,61,50,14317,M. Belkheir,Algeria
+2820,2019,Brescia,25,35,79,14416,P. Bastianello,Italy

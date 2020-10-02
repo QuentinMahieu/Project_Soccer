@@ -1,101 +1,2951 @@
-,Year,Teams,Points,Goals+,Goals-
-0,2015,Málaga CF ,48,26,15
-1,2015,Atlético Madrid ,88,33,7
-2,2015,RCD Espanyol ,43,22,28
-3,2015,RCD La Coruña ,42,25,34
-4,2015,Rayo Vallecano ,38,29,29
-5,2015,Athletic Club Bilbao ,62,35,17
-6,2015,Real Betis ,45,17,23
-7,2015,Levante UD ,32,23,26
-8,2015,Sporting Gijón ,39,28,28
-9,2015,Granada CF ,39,26,31
-10,2015,Villarreal CF ,64,26,12
-11,2015,FC Barcelona ,91,67,14
-12,2015,RC Celta Vigo ,60,29,25
-13,2015,Real Madrid ,90,70,16
-14,2015,Real Sociedad ,48,22,20
-15,2015,SD Eibar ,43,26,22
-16,2015,Getafe CF ,36,23,20
-17,2015,UD Las Palmas ,44,25,17
-18,2015,Sevilla FC ,52,38,21
-19,2015,Valencia CF ,44,25,23
-20,2016,RCD La Coruña ,36,27,23
-21,2016,Málaga CF ,46,32,25
-22,2016,FC Barcelona ,90,64,17
-23,2016,Granada CF ,20,17,32
-24,2016,Sevilla FC ,72,39,16
-25,2016,Atlético Madrid ,78,40,14
-26,2016,Real Sociedad ,64,30,24
-27,2016,Sporting Gijón ,31,26,38
-28,2016,RC Celta Vigo ,45,30,32
-29,2016,Valencia CF ,46,32,32
-30,2016,Real Betis ,39,22,24
-31,2016,RCD Espanyol ,56,28,24
-32,2016,SD Eibar ,54,29,21
-33,2016,CD Leganés ,35,22,23
-34,2016,CA Osasuna ,22,23,39
-35,2016,Real Madrid ,93,48,20
-36,2016,Deportivo Alavés ,55,19,21
-37,2016,Athletic Club Bilbao ,63,36,18
-38,2016,UD Las Palmas ,39,33,25
-39,2016,Villarreal CF ,67,35,18
-40,2017,CD Leganés ,43,19,19
-41,2017,Valencia CF ,73,36,16
-42,2017,RC Celta Vigo ,49,34,23
-43,2017,Girona FC ,51,26,22
-44,2017,Sevilla FC ,58,31,22
-45,2017,Athletic Club Bilbao ,43,19,16
-46,2017,FC Barcelona ,93,53,11
-47,2017,RCD La Coruña ,29,22,33
-48,2017,Levante UD ,46,25,28
-49,2017,Málaga CF ,20,14,27
-50,2017,Real Betis ,60,35,31
-51,2017,Real Sociedad ,49,47,29
-52,2017,Deportivo Alavés ,47,21,23
-53,2017,UD Las Palmas ,22,15,38
-54,2017,SD Eibar ,51,26,19
-55,2017,RCD Espanyol ,49,20,16
-56,2017,Getafe CF ,55,26,13
-57,2017,Real Madrid ,76,54,20
-58,2017,Villarreal CF ,61,35,22
-59,2017,Atlético Madrid ,79,30,8
-60,2018,Real Betis ,50,25,26
-61,2018,Girona FC ,37,17,28
-62,2018,FC Barcelona ,87,51,17
-63,2018,RC Celta Vigo ,41,31,25
-64,2018,Villarreal CF ,44,28,26
-65,2018,SD Eibar ,47,31,21
-66,2018,Real Madrid ,68,32,15
-67,2018,Rayo Vallecano ,32,25,32
-68,2018,Athletic Club Bilbao ,53,26,19
-69,2018,Valencia CF ,61,24,12
-70,2018,Getafe CF ,59,28,13
-71,2018,CD Leganés ,45,19,16
-72,2018,Deportivo Alavés ,50,19,19
-73,2018,Atlético Madrid ,76,32,10
-74,2018,Real Valladolid CF ,41,16,26
-75,2018,RCD Espanyol ,53,28,22
-76,2018,Sevilla FC ,59,39,20
-77,2018,Levante UD ,44,34,34
-78,2018,SD Huesca ,33,24,30
-79,2018,Real Sociedad ,50,23,20
-80,2019,Athletic Club Bilbao ,37,15,7
-81,2019,RC Celta Vigo ,26,10,12
-82,2019,Valencia CF ,42,23,12
-83,2019,RCD Mallorca ,25,16,14
-84,2019,CD Leganés ,23,13,19
-85,2019,Villarreal CF ,38,26,17
-86,2019,Deportivo Alavés ,32,18,11
-87,2019,RCD Espanyol ,20,12,24
-88,2019,Real Betis ,33,27,21
-89,2019,Atlético Madrid ,45,20,9
-90,2019,Granada CF ,38,16,8
-91,2019,Levante UD ,33,19,12
-92,2019,CA Osasuna ,34,20,20
-93,2019,Real Madrid ,56,27,9
-94,2019,Getafe CF ,46,21,13
-95,2019,FC Barcelona ,58,45,12
-96,2019,Sevilla FC ,47,19,13
-97,2019,Real Sociedad ,46,27,12
-98,2019,SD Eibar ,27,19,20
-99,2019,Real Valladolid CF ,29,14,13
+,Year,Teams,Points,Goals+,Goals-,index,short_name,nationality
+0,2015,Málaga CF,48,26,15,269,G. Ochoa,Mexico
+1,2015,Málaga CF,48,26,15,449,Camacho,Spain
+2,2015,Málaga CF,48,26,15,594,N. Amrabat,Morocco
+3,2015,Málaga CF,48,26,15,772,Antunes,Portugal
+4,2015,Málaga CF,48,26,15,790,Portillo,Spain
+5,2015,Málaga CF,48,26,15,800,R. Santa Cruz,Paraguay
+6,2015,Málaga CF,48,26,15,867,Weligton,Brazil
+7,2015,Málaga CF,48,26,15,884,P. Pérez,Argentina
+8,2015,Málaga CF,48,26,15,1128,Sergio Sánchez,Spain
+9,2015,Málaga CF,48,26,15,1455,M. Angeleri,Argentina
+10,2015,Málaga CF,48,26,15,1478,F. Tissone,Argentina
+11,2015,Málaga CF,48,26,15,1639,R. Rosales,Venezuela
+12,2015,Málaga CF,48,26,15,1739,A. Boka,Ivory Coast
+13,2015,Málaga CF,48,26,15,1753,Duda,Portugal
+14,2015,Málaga CF,48,26,15,1757,C. Kameni,Cameroon
+15,2015,Málaga CF,48,26,15,1853,Miguel Torres,Spain
+16,2015,Málaga CF,48,26,15,1863,Casado,Spain
+17,2015,Málaga CF,48,26,15,1905,Luis Alberto,Spain
+18,2015,Málaga CF,48,26,15,1908,Flávio Ferreira,Portugal
+19,2015,Málaga CF,48,26,15,1921,Ricardo Horta,Portugal
+20,2015,Málaga CF,48,26,15,2440,Recio,Spain
+21,2015,Málaga CF,48,26,15,2501,Sergi Darder,Spain
+22,2015,Málaga CF,48,26,15,3406,E. Rescaldani,Argentina
+23,2015,Málaga CF,48,26,15,3977,Juanmi,Spain
+24,2015,Málaga CF,48,26,15,4914,Samuel,Spain
+25,2015,Málaga CF,48,26,15,5531,R. Chen,Panama
+26,2015,Málaga CF,48,26,15,8148,Samu Castillejo,Spain
+27,2015,Málaga CF,48,26,15,9299,A. Cousillas,Argentina
+28,2015,Málaga CF,48,26,15,10856,J. Añor,Venezuela
+29,2015,Málaga CF,48,26,15,10914,Ernesto,Spain
+30,2015,Málaga CF,48,26,15,14136,Rafa,Spain
+31,2015,Málaga CF,48,26,15,14433,Iván Rodríguez,Spain
+32,2015,Atlético Madrid,88,33,7,45,A. Turan,Turkey
+33,2015,Atlético Madrid,88,33,7,62,D. Godín,Uruguay
+34,2015,Atlético Madrid,88,33,7,93,Miranda,Brazil
+35,2015,Atlético Madrid,88,33,7,97,M. Mandžukić,Croatia
+36,2015,Atlético Madrid,88,33,7,102,A. Griezmann,France
+37,2015,Atlético Madrid,88,33,7,112,Koke,Spain
+38,2015,Atlético Madrid,88,33,7,137,Gabi,Spain
+39,2015,Atlético Madrid,88,33,7,244,A. Cerci,Italy
+40,2015,Atlético Madrid,88,33,7,252,Tiago,Portugal
+41,2015,Atlético Madrid,88,33,7,309,Mario Suárez,Spain
+42,2015,Atlético Madrid,88,33,7,372,Juanfran,Spain
+43,2015,Atlético Madrid,88,33,7,387,C. Rodríguez,Uruguay
+44,2015,Atlético Madrid,88,33,7,388,Raúl García,Spain
+45,2015,Atlético Madrid,88,33,7,473,Moyá,Spain
+46,2015,Atlético Madrid,88,33,7,504,Jesús Gámez,Spain
+47,2015,Atlético Madrid,88,33,7,556,J. Oblak,Slovenia
+48,2015,Atlético Madrid,88,33,7,579,C. Ansaldi,Argentina
+49,2015,Atlético Madrid,88,33,7,657,Siqueira,Brazil
+50,2015,Atlético Madrid,88,33,7,1162,Saúl,Spain
+51,2015,Atlético Madrid,88,33,7,1298,R. Jiménez,Mexico
+52,2015,Atlético Madrid,88,33,7,2345,J. Giménez,Uruguay
+53,2015,Atlético Madrid,88,33,7,2363,Aquino,Spain
+54,2015,Atlético Madrid,88,33,7,7149,A. Robles,Chile
+55,2015,Atlético Madrid,88,33,7,8104,L. Hernández,France
+56,2015,Atlético Madrid,88,33,7,9922,Héctor,Spain
+57,2015,Atlético Madrid,88,33,7,10209,Samuel Saiz,Spain
+58,2015,Atlético Madrid,88,33,7,10757,M. N'Doye,Senegal
+59,2015,Atlético Madrid,88,33,7,11673,Carlos Ramos,Spain
+60,2015,Atlético Madrid,88,33,7,12432,Dani Espejo,Spain
+61,2015,RCD Espanyol,43,22,28,234,Kiko Casilla,Spain
+62,2015,RCD Espanyol,43,22,28,412,H. Moreno,Mexico
+63,2015,RCD Espanyol,43,22,28,602,José Cañas,Spain
+64,2015,RCD Espanyol,43,22,28,821,Sergio García,Spain
+65,2015,RCD Espanyol,43,22,28,927,F. Caicedo,Ecuador
+66,2015,RCD Espanyol,43,22,28,968,Montañés,Spain
+67,2015,RCD Espanyol,43,22,28,1072,D. Colotto,Argentina
+68,2015,RCD Espanyol,43,22,28,1321,Victor Sánchez,Spain
+69,2015,RCD Espanyol,43,22,28,1444,Salva Sevilla,Spain
+70,2015,RCD Espanyol,43,22,28,1620,Raúl Rodríguez,Spain
+71,2015,RCD Espanyol,43,22,28,2232,Lanzarote,Spain
+72,2015,RCD Espanyol,43,22,28,2419,C. Stuani,Uruguay
+73,2015,RCD Espanyol,43,22,28,2433,Álex Fernández,Spain
+74,2015,RCD Espanyol,43,22,28,2695,Abraham,Spain
+75,2015,RCD Espanyol,43,22,28,2768,Javi López,Spain
+76,2015,RCD Espanyol,43,22,28,2992,Álvaro,Spain
+77,2015,RCD Espanyol,43,22,28,3062,Arbilla,Spain
+78,2015,RCD Espanyol,43,22,28,3506,Víctor Álvarez,Spain
+79,2015,RCD Espanyol,43,22,28,4008,Felipe Mattioni,Brazil
+80,2015,RCD Espanyol,43,22,28,4156,Fuentes,Spain
+81,2015,RCD Espanyol,43,22,28,5562,Adriá Carmona,Spain
+82,2015,RCD Espanyol,43,22,28,6675,Lucas Vázquez,Spain
+83,2015,RCD Espanyol,43,22,28,10305,Germán Parreño,Spain
+84,2015,RCD Espanyol,43,22,28,10911,Clerc,Spain
+85,2015,RCD Espanyol,43,22,28,11576,Aday,Spain
+86,2015,RCD Espanyol,43,22,28,11592,Rober,Spain
+87,2015,RCD Espanyol,43,22,28,12314,Jairo Morilla,Spain
+88,2015,RCD Espanyol,43,22,28,12643,Joan Jordán,Spain
+89,2015,RCD Espanyol,43,22,28,12917,Pau,Spain
+90,2015,RCD Espanyol,43,22,28,13655,M. Sylla Diallo,Senegal
+91,2015,RCD Espanyol,43,22,28,13758,E. Bertrand,Ivory Coast
+92,2015,RCD Espanyol,43,22,28,14093,Pol Llonch,Spain
+93,2015,RCD Espanyol,43,22,28,14671,Traore,Ivory Coast
+94,2015,RCD La Coruña,42,25,34,966,Juan Dominguez,Spain
+95,2015,RCD La Coruña,42,25,34,1020,M. Diakité,France
+96,2015,RCD La Coruña,42,25,34,1032,Hélder Postiga,Portugal
+97,2015,RCD La Coruña,42,25,34,1065,G. Lux,Argentina
+98,2015,RCD La Coruña,42,25,34,1126,H. Medunjanin,Bosnia Herzegovina
+99,2015,RCD La Coruña,42,25,34,1216,Insua,Spain
+100,2015,RCD La Coruña,42,25,34,1247,L. Fariña,Argentina
+101,2015,RCD La Coruña,42,25,34,1340,Lucas Pérez,Spain
+102,2015,RCD La Coruña,42,25,34,1483,Luisinho,Portugal
+103,2015,RCD La Coruña,42,25,34,1549,Isaac Cuenca,Spain
+104,2015,RCD La Coruña,42,25,34,1592,José Rodríguez,Spain
+105,2015,RCD La Coruña,42,25,34,2084,Salomão,Portugal
+106,2015,RCD La Coruña,42,25,34,2101,Sidnei,Brazil
+107,2015,RCD La Coruña,42,25,34,2219,Toché,Spain
+108,2015,RCD La Coruña,42,25,34,2336,Ivan Cavaleiro,Portugal
+109,2015,RCD La Coruña,42,25,34,2387,Juanfran,Spain
+110,2015,RCD La Coruña,42,25,34,2463,Canella,Spain
+111,2015,RCD La Coruña,42,25,34,2623,Lopo,Spain
+112,2015,RCD La Coruña,42,25,34,2759,Laure,Spain
+113,2015,RCD La Coruña,42,25,34,2953,Fabricio,Spain
+114,2015,RCD La Coruña,42,25,34,3803,C. Wilk,Poland
+115,2015,RCD La Coruña,42,25,34,3839,Alex Bergantiños,Spain
+116,2015,RCD La Coruña,42,25,34,4330,Manuel Pablo,Spain
+117,2015,RCD La Coruña,42,25,34,5620,Juan Carlos,Spain
+118,2015,RCD La Coruña,42,25,34,6731,Seoane,Spain
+119,2015,RCD La Coruña,42,25,34,9310,Remeseiro,Spain
+120,2015,RCD La Coruña,42,25,34,10573,Dani Iglesias,Spain
+121,2015,RCD La Coruña,42,25,34,11494,Cañi,Spain
+122,2015,RCD La Coruña,42,25,34,11569,Queijeiro,Spain
+123,2015,RCD La Coruña,42,25,34,12286,Iago López,Spain
+124,2015,RCD La Coruña,42,25,34,12407,Cardoso,Portugal
+125,2015,RCD La Coruña,42,25,34,12650,David Gómez,Spain
+126,2015,RCD La Coruña,42,25,34,12668,Rober Suarez,Spain
+127,2015,Rayo Vallecano,38,29,29,546,E. Insua,Argentina
+128,2015,Rayo Vallecano,38,29,29,591,L. Bangoura,Guinea
+129,2015,Rayo Vallecano,38,29,29,641,Trashorras,Spain
+130,2015,Rayo Vallecano,38,29,29,785,Bueno,Spain
+131,2015,Rayo Vallecano,38,29,29,825,Amaya,Spain
+132,2015,Rayo Vallecano,38,29,29,832,Tito,Spain
+133,2015,Rayo Vallecano,38,29,29,1106,Cobeño,Spain
+134,2015,Rayo Vallecano,38,29,29,1192,Leo Baptistao,Brazil
+135,2015,Rayo Vallecano,38,29,29,1239,Baena,Spain
+136,2015,Rayo Vallecano,38,29,29,1404,Toño,Spain
+137,2015,Rayo Vallecano,38,29,29,1497,Manucho,Angola
+138,2015,Rayo Vallecano,38,29,29,1559,J. Aquino,Mexico
+139,2015,Rayo Vallecano,38,29,29,1643,Licá,Portugal
+140,2015,Rayo Vallecano,38,29,29,1648,G. Kakuta,France
+141,2015,Rayo Vallecano,38,29,29,1710,Nacho,Spain
+142,2015,Rayo Vallecano,38,29,29,2220,Zé Castro,Portugal
+143,2015,Rayo Vallecano,38,29,29,2443,Pozuelo,Spain
+144,2015,Rayo Vallecano,38,29,29,2505,A. Ba,Senegal
+145,2015,Rayo Vallecano,38,29,29,2760,C. Álvarez,Argentina
+146,2015,Rayo Vallecano,38,29,29,3610,Jonathan Pereira,Spain
+147,2015,Rayo Vallecano,38,29,29,5003,M. Fatau,Ghana
+148,2015,Rayo Vallecano,38,29,29,5369,Morcillo,Spain
+149,2015,Rayo Vallecano,38,29,29,5752,Quini,Spain
+150,2015,Rayo Vallecano,38,29,29,8241,Álex Moreno,Spain
+151,2015,Rayo Vallecano,38,29,29,8431,Jozabed,Spain
+152,2015,Rayo Vallecano,38,29,29,10790,Adri Embarba,Spain
+153,2015,Rayo Vallecano,38,29,29,12120,Rubén Ramiro,Spain
+154,2015,Rayo Vallecano,38,29,29,13180,Isi,Spain
+155,2015,Rayo Vallecano,38,29,29,13181,Saballs,Spain
+156,2015,Rayo Vallecano,38,29,29,13242,C. Flórez,Colombia
+157,2015,Rayo Vallecano,38,29,29,13524,Mario,Spain
+158,2015,Rayo Vallecano,38,29,29,14500,Alex Campos,Spain
+159,2015,Athletic Club Bilbao,62,35,17,153,A. Laporte,France
+160,2015,Athletic Club Bilbao,62,35,17,168,Iturraspe,Spain
+161,2015,Athletic Club Bilbao,62,35,17,220,Susaeta,Spain
+162,2015,Athletic Club Bilbao,62,35,17,221,Muniaín,Spain
+163,2015,Athletic Club Bilbao,62,35,17,243,Beñat,Spain
+164,2015,Athletic Club Bilbao,62,35,17,262,Iraola,Spain
+165,2015,Athletic Club Bilbao,62,35,17,263,Aduriz,Spain
+166,2015,Athletic Club Bilbao,62,35,17,324,Ibai Gómez,Spain
+167,2015,Athletic Club Bilbao,62,35,17,418,Mikel San José,Spain
+168,2015,Athletic Club Bilbao,62,35,17,435,De Marcos,Spain
+169,2015,Athletic Club Bilbao,62,35,17,474,Iraizoz,Spain
+170,2015,Athletic Club Bilbao,62,35,17,492,Mikel Rico,Spain
+171,2015,Athletic Club Bilbao,62,35,17,587,Balenziaga,Spain
+172,2015,Athletic Club Bilbao,62,35,17,613,Gurpegi,Spain
+173,2015,Athletic Club Bilbao,62,35,17,1186,Aurtenetxe,Spain
+174,2015,Athletic Club Bilbao,62,35,17,1286,Borja Viguera,Spain
+175,2015,Athletic Club Bilbao,62,35,17,1494,Kike Sola,Spain
+176,2015,Athletic Club Bilbao,62,35,17,1653,Etxeita,Spain
+177,2015,Athletic Club Bilbao,62,35,17,2270,Toquero,Spain
+178,2015,Athletic Club Bilbao,62,35,17,2974,Herrerín,Spain
+179,2015,Athletic Club Bilbao,62,35,17,3504,Erik Morán,Spain
+180,2015,Athletic Club Bilbao,62,35,17,3899,Kepa Arrizabalaga,Spain
+181,2015,Athletic Club Bilbao,62,35,17,4655,Guillermo,Spain
+182,2015,Athletic Club Bilbao,62,35,17,8120,Unai López,Spain
+183,2015,Athletic Club Bilbao,62,35,17,8150,Etxeberría,Spain
+184,2015,Athletic Club Bilbao,62,35,17,8236,Aketxe,Spain
+185,2015,Athletic Club Bilbao,62,35,17,9002,Óscar Gil,Spain
+186,2015,Athletic Club Bilbao,62,35,17,9174,Mario Barco,Spain
+187,2015,Athletic Club Bilbao,62,35,17,10244,Williams,Spain
+188,2015,Athletic Club Bilbao,62,35,17,12445,Mikel Juaristi,Spain
+189,2015,Athletic Club Bilbao,62,35,17,13299,Bustinza,Spain
+190,2015,Athletic Club Bilbao,62,35,17,14732,Magdaleno,Spain
+191,2015,Athletic Club Bilbao,62,35,17,14885,Lekue,Spain
+192,2015,Real Betis,45,17,23,475,Rubén Castro,Spain
+193,2015,Real Betis,45,17,23,751,Xavi Torres,Spain
+194,2015,Real Betis,45,17,23,1058,D. Perquis,Poland
+195,2015,Real Betis,45,17,23,1436,Jorge Molina,Spain
+196,2015,Real Betis,45,17,23,1658,Jordi Figueras,Spain
+197,2015,Real Betis,45,17,23,1783,Cejudo,Spain
+198,2015,Real Betis,45,17,23,1870,F. Kadir,Algeria
+199,2015,Real Betis,45,17,23,2521,Adán,Spain
+200,2015,Real Betis,45,17,23,2526,V. Rennella,Italy
+201,2015,Real Betis,45,17,23,2817,Dani Pacheco,Spain
+202,2015,Real Betis,45,17,23,2984,Bruno,Spain
+203,2015,Real Betis,45,17,23,3335,Vadillo,Spain
+204,2015,Real Betis,45,17,23,3456,Chuli,Spain
+205,2015,Real Betis,45,17,23,3552,Matilla,Spain
+206,2015,Real Betis,45,17,23,3956,L. Reyes,Chile
+207,2015,Real Betis,45,17,23,3983,Alex Martínez,Spain
+208,2015,Real Betis,45,17,23,4208,A. N'Diaye,Senegal
+209,2015,Real Betis,45,17,23,4428,Dani Giménez,Spain
+210,2015,Real Betis,45,17,23,4663,Sergio Rodríguez,Spain
+211,2015,Real Betis,45,17,23,4730,Nono,Spain
+212,2015,Real Betis,45,17,23,6083,Molinero,Spain
+213,2015,Real Betis,45,17,23,6657,Casado,Spain
+214,2015,Real Betis,45,17,23,7326,Caro,Spain
+215,2015,Real Betis,45,17,23,7768,Vilarchao,Spain
+216,2015,Real Betis,45,17,23,9038,C. Piccini,Italy
+217,2015,Real Betis,45,17,23,9101,Varela,Spain
+218,2015,Real Betis,45,17,23,11510,De La Hoz,Spain
+219,2015,Real Betis,45,17,23,13049,Pedro,Spain
+220,2015,Levante UD,32,23,26,617,David Navarro,Spain
+221,2015,Levante UD,32,23,26,802,A. Ivanschitz,Austria
+222,2015,Levante UD,32,23,26,843,M. Sissoko,Mali
+223,2015,Levante UD,32,23,26,870,P. Diop,Senegal
+224,2015,Levante UD,32,23,26,1012,Víctor Pérez,Spain
+225,2015,Levante UD,32,23,26,1170,Rubén García,Spain
+226,2015,Levante UD,32,23,26,1328,Rafael Martins,Brazil
+227,2015,Levante UD,32,23,26,1353,Juanfran,Spain
+228,2015,Levante UD,32,23,26,1449,L. Vyntra,Greece
+229,2015,Levante UD,32,23,26,1450,Víctor,Spain
+230,2015,Levante UD,32,23,26,1490,N. El Zhar,Morocco
+231,2015,Levante UD,32,23,26,1684,Simao Mate,Mozambique
+232,2015,Levante UD,32,23,26,1801,Pedro López,Spain
+233,2015,Levante UD,32,23,26,1872,Xumetra,Spain
+234,2015,Levante UD,32,23,26,2072,Jesús,Spain
+235,2015,Levante UD,32,23,26,2194,David Barral,Spain
+236,2015,Levante UD,32,23,26,2200,Gavilán,Spain
+237,2015,Levante UD,32,23,26,2434,Diego Mariño,Spain
+238,2015,Levante UD,32,23,26,2766,N. Karampelas,Greece
+239,2015,Levante UD,32,23,26,3522,Morales,Spain
+240,2015,Levante UD,32,23,26,3591,I. El Adoua,Morocco
+241,2015,Levante UD,32,23,26,4034,Toño,Spain
+242,2015,Levante UD,32,23,26,4152,Héctor Rodas,Spain
+243,2015,Levante UD,32,23,26,5468,Camarasa,Spain
+244,2015,Levante UD,32,23,26,5480,Iván,Spain
+245,2015,Levante UD,32,23,26,11432,Kike Torrent,Spain
+246,2015,Levante UD,32,23,26,11647,Jordi César,Spain
+247,2015,Levante UD,32,23,26,12189,Matías,Spain
+248,2015,Levante UD,32,23,26,12342,Juan Delgado,Spain
+249,2015,Levante UD,32,23,26,12888,Ovejero,Spain
+250,2015,Sporting Gijón,39,28,28,2014,Lora,Spain
+251,2015,Sporting Gijón,39,28,28,2543,Nacho Cases,Spain
+252,2015,Sporting Gijón,39,28,28,3437,Isma López,Spain
+253,2015,Sporting Gijón,39,28,28,3710,Iván Cuéllar,Spain
+254,2015,Sporting Gijón,39,28,28,4004,Jony,Spain
+255,2015,Sporting Gijón,39,28,28,4009,Bernardo,Colombia
+256,2015,Sporting Gijón,39,28,28,4371,Iván Hernández,Spain
+257,2015,Sporting Gijón,39,28,28,4833,Carmona,Spain
+258,2015,Sporting Gijón,39,28,28,5345,Alberto,Spain
+259,2015,Sporting Gijón,39,28,28,5504,Juan Muñiz,Spain
+260,2015,Sporting Gijón,39,28,28,5682,Mandi,Spain
+261,2015,Sporting Gijón,39,28,28,5695,Luís Hernández,Spain
+262,2015,Sporting Gijón,39,28,28,6432,Santi Jara,Spain
+263,2015,Sporting Gijón,39,28,28,6726,Hugo Fraile,Spain
+264,2015,Sporting Gijón,39,28,28,8327,Álex Barrera,Spain
+265,2015,Sporting Gijón,39,28,28,8407,Guerrero,Spain
+266,2015,Sporting Gijón,39,28,28,9110,Sergio Álvarez,Spain
+267,2015,Sporting Gijón,39,28,28,9201,A. Touré,Mali
+268,2015,Sporting Gijón,39,28,28,9885,Álex Serrano,Spain
+269,2015,Sporting Gijón,39,28,28,9991,Álex Menéndez,Spain
+270,2015,Sporting Gijón,39,28,28,10018,Pablo Pérez,Spain
+271,2015,Sporting Gijón,39,28,28,10104,R. Aït-Atmane,Algeria
+272,2015,Sporting Gijón,39,28,28,10609,Julio,Spain
+273,2015,Sporting Gijón,39,28,28,10797,Castro,Spain
+274,2015,Sporting Gijón,39,28,28,11020,Álvaro Bustos,Spain
+275,2015,Sporting Gijón,39,28,28,11599,Mendi,Spain
+276,2015,Sporting Gijón,39,28,28,12147,D. Ndi,Cameroon
+277,2015,Sporting Gijón,39,28,28,12378,Dennis,Spain
+278,2015,Granada CF,39,26,31,518,M. Iturra,Chile
+279,2015,Granada CF,39,26,31,635,Piti,Spain
+280,2015,Granada CF,39,26,31,788,A. Nyom,Cameroon
+281,2015,Granada CF,39,26,31,833,Roberto,Spain
+282,2015,Granada CF,39,26,31,986,Y. El Arabi,Morocco
+283,2015,Granada CF,39,26,31,1242,J. Murillo,Colombia
+284,2015,Granada CF,39,26,31,1423,Riki,Spain
+285,2015,Granada CF,39,26,31,1550,Juan Carlos,Spain
+286,2015,Granada CF,39,26,31,1874,Javi Márquez,Spain
+287,2015,Granada CF,39,26,31,2005,Fran Rico,Spain
+288,2015,Granada CF,39,26,31,2170,Mainz,Spain
+289,2015,Granada CF,39,26,31,2582,J. Babin,France
+290,2015,Granada CF,39,26,31,2965,Rochina,Spain
+291,2015,Granada CF,39,26,31,3152,P. Diakhaté,Senegal
+292,2015,Granada CF,39,26,31,3349,J. Córdoba,Colombia
+293,2015,Granada CF,39,26,31,3368,Luís Martins,Portugal
+294,2015,Granada CF,39,26,31,3414,D. Larsson,Sweden
+295,2015,Granada CF,39,26,31,3847,D. Nounkeu,Cameroon
+296,2015,Granada CF,39,26,31,3922,D. Foulquier,France
+297,2015,Granada CF,39,26,31,4678,Eddy,Spain
+298,2015,Granada CF,39,26,31,4741,Oier,Spain
+299,2015,Granada CF,39,26,31,4748,A. Sissoko,France
+300,2015,Granada CF,39,26,31,5438,C. Aboagye,Ghana
+301,2015,Granada CF,39,26,31,5800,Héctor Yuste,Spain
+302,2015,Granada CF,39,26,31,7232,C. Bravo,Chile
+303,2015,Granada CF,39,26,31,7627,Ortuño,Spain
+304,2015,Granada CF,39,26,31,8525,D. Machís,Venezuela
+305,2015,Granada CF,39,26,31,9096,S. Dimitrievski,FYR Macedonia
+306,2015,Granada CF,39,26,31,12173,S. Marreh,Gambia
+307,2015,Granada CF,39,26,31,12678,I. Success,Nigeria
+308,2015,Granada CF,39,26,31,13318,Nico,Spain
+309,2015,Granada CF,39,26,31,13779,Marcelo,Spain
+310,2015,Villarreal CF,64,26,12,163,G. dos Santos,Mexico
+311,2015,Villarreal CF,64,26,12,289,M. Musacchio,Argentina
+312,2015,Villarreal CF,64,26,12,321,Víctor Ruíz,Spain
+313,2015,Villarreal CF,64,26,12,330,Sergio Asenjo,Spain
+314,2015,Villarreal CF,64,26,12,397,Bruno,Spain
+315,2015,Villarreal CF,64,26,12,491,I. Uche,Nigeria
+316,2015,Villarreal CF,64,26,12,699,J. Dos Santos,Mexico
+317,2015,Villarreal CF,64,26,12,967,Tomás Pina,Spain
+318,2015,Villarreal CF,64,26,12,1132,A. Rukavina,Serbia
+319,2015,Villarreal CF,64,26,12,1161,Moi Gómez,Spain
+320,2015,Villarreal CF,64,26,12,1193,Manu Trigueros,Spain
+321,2015,Villarreal CF,64,26,12,1382,Cani,Spain
+322,2015,Villarreal CF,64,26,12,1515,L. Vietto,Argentina
+323,2015,Villarreal CF,64,26,12,1553,D. Cheryshev,Russia
+324,2015,Villarreal CF,64,26,12,1751,Dorado,Spain
+325,2015,Villarreal CF,64,26,12,1949,Gabriel,Brazil
+326,2015,Villarreal CF,64,26,12,1976,Mario Gaspar,Spain
+327,2015,Villarreal CF,64,26,12,2024,Jaume Costa,Spain
+328,2015,Villarreal CF,64,26,12,2283,B. Jokič,Slovenia
+329,2015,Villarreal CF,64,26,12,2394,H. Pérez,Paraguay
+330,2015,Villarreal CF,64,26,12,2460,Juan Carlos,Spain
+331,2015,Villarreal CF,64,26,12,3450,Javi Espinosa,Spain
+332,2015,Villarreal CF,64,26,12,4048,Israel,Spain
+333,2015,Villarreal CF,64,26,12,4767,Gerard Moreno,Spain
+334,2015,Villarreal CF,64,26,12,5459,N. Leiva,Argentina
+335,2015,Villarreal CF,64,26,12,5535,Sergio Marcos,Spain
+336,2015,Villarreal CF,64,26,12,7266,A. Shvets,Georgia
+337,2015,Villarreal CF,64,26,12,8315,Aitor,Spain
+338,2015,Villarreal CF,64,26,12,8546,E. Alic,Montenegro
+339,2015,Villarreal CF,64,26,12,9996,Miguel Bañuz,Spain
+340,2015,Villarreal CF,64,26,12,10643,Marín,Spain
+341,2015,Villarreal CF,64,26,12,10771,Fran Sol,Spain
+342,2015,Villarreal CF,64,26,12,10830,Pablo González,Spain
+343,2015,FC Barcelona,91,67,14,0,L. Messi,Argentina
+344,2015,FC Barcelona,91,67,14,5,L. Suárez,Uruguay
+345,2015,FC Barcelona,91,67,14,19,Neymar,Brazil
+346,2015,FC Barcelona,91,67,14,27,Xavi,Spain
+347,2015,FC Barcelona,91,67,14,32,Sergio Busquets,Spain
+348,2015,FC Barcelona,91,67,14,44,Piqué,Spain
+349,2015,FC Barcelona,91,67,14,71,Pedro,Spain
+350,2015,FC Barcelona,91,67,14,75,I. Rakitić,Croatia
+351,2015,FC Barcelona,91,67,14,84,J. Mascherano,Argentina
+352,2015,FC Barcelona,91,67,14,86,Dani Alves,Brazil
+353,2015,FC Barcelona,91,67,14,95,C. Bravo,Chile
+354,2015,FC Barcelona,91,67,14,101,M. ter Stegen,Germany
+355,2015,FC Barcelona,91,67,14,158,Jordi Alba,Spain
+356,2015,FC Barcelona,91,67,14,264,J. Mathieu,France
+357,2015,FC Barcelona,91,67,14,376,T. Vermaelen,Belgium
+358,2015,FC Barcelona,91,67,14,439,Rafinha,Brazil
+359,2015,FC Barcelona,91,67,14,541,Montoya,Spain
+360,2015,FC Barcelona,91,67,14,719,Marc Bartra,Spain
+361,2015,FC Barcelona,91,67,14,853,Adriano,Brazil
+362,2015,FC Barcelona,91,67,14,892,Sergi Roberto,Spain
+363,2015,FC Barcelona,91,67,14,3089,Jordi Masip,Spain
+364,2015,FC Barcelona,91,67,14,3389,Douglas,Brazil
+365,2015,FC Barcelona,91,67,14,4661,Sandro,Spain
+366,2015,FC Barcelona,91,67,14,5434,Munir,Spain
+367,2015,RC Celta Vigo,60,29,25,553,Nolito,Spain
+368,2015,RC Celta Vigo,60,29,25,661,A. Fernández,Argentina
+369,2015,RC Celta Vigo,60,29,25,852,Charles,Brazil
+370,2015,RC Celta Vigo,60,29,25,905,Hugo Mallo,Spain
+371,2015,RC Celta Vigo,60,29,25,1004,Alex López,Spain
+372,2015,RC Celta Vigo,60,29,25,1047,Borja Oubiña,Spain
+373,2015,RC Celta Vigo,60,29,25,1101,M. Krohn-Dehli,Denmark
+374,2015,RC Celta Vigo,60,29,25,1327,P. Hernández,Chile
+375,2015,RC Celta Vigo,60,29,25,1482,J. Larrivey,Argentina
+376,2015,RC Celta Vigo,60,29,25,1503,F. Orellana,Chile
+377,2015,RC Celta Vigo,60,29,25,1612,Fontàs,Spain
+378,2015,RC Celta Vigo,60,29,25,1823,G. Cabral,Argentina
+379,2015,RC Celta Vigo,60,29,25,1956,Jonny,Spain
+380,2015,RC Celta Vigo,60,29,25,2242,Sergio,Spain
+381,2015,RC Celta Vigo,60,29,25,2816,David Costas,Spain
+382,2015,RC Celta Vigo,60,29,25,3339,Sergi Gómez,Spain
+383,2015,RC Celta Vigo,60,29,25,3902,Rubén Blanco,Spain
+384,2015,RC Celta Vigo,60,29,25,3904,Santi Mina,Spain
+385,2015,RC Celta Vigo,60,29,25,3951,L. Madinda,Gabon
+386,2015,RC Celta Vigo,60,29,25,4098,Carles Planas,Spain
+387,2015,RC Celta Vigo,60,29,25,4187,N. Radoja,Serbia
+388,2015,RC Celta Vigo,60,29,25,5439,Borja Fernández,Spain
+389,2015,RC Celta Vigo,60,29,25,8446,E. Puchetta,Argentina
+390,2015,RC Celta Vigo,60,29,25,9900,David Goldar,Spain
+391,2015,RC Celta Vigo,60,29,25,11135,Javi Rey,Spain
+392,2015,RC Celta Vigo,60,29,25,12224,Yelko Pino,Spain
+393,2015,RC Celta Vigo,60,29,25,12455,Iván Villar,Spain
+394,2015,RC Celta Vigo,60,29,25,12896,Jonathan De Amo,Spain
+395,2015,RC Celta Vigo,60,29,25,15135,Borja Iglesias,Spain
+396,2015,RC Celta Vigo,60,29,25,15262,Luis Rioja,Spain
+397,2015,Real Madrid,90,70,16,1,Cristiano Ronaldo,Portugal
+398,2015,Real Madrid,90,70,16,11,G. Bale,Wales
+399,2015,Real Madrid,90,70,16,14,Sergio Ramos,Spain
+400,2015,Real Madrid,90,70,16,17,L. Modrić,Croatia
+401,2015,Real Madrid,90,70,16,18,J. Rodríguez,Colombia
+402,2015,Real Madrid,90,70,16,33,T. Kroos,Germany
+403,2015,Real Madrid,90,70,16,34,K. Benzema,France
+404,2015,Real Madrid,90,70,16,50,S. Khedira,Germany
+405,2015,Real Madrid,90,70,16,53,Casillas,Spain
+406,2015,Real Madrid,90,70,16,64,Isco,Spain
+407,2015,Real Madrid,90,70,16,81,Pepe,Portugal
+408,2015,Real Madrid,90,70,16,109,Marcelo,Brazil
+409,2015,Real Madrid,90,70,16,152,R. Varane,France
+410,2015,Real Madrid,90,70,16,173,J. Hernández,Mexico
+411,2015,Real Madrid,90,70,16,302,Illarramendi,Spain
+412,2015,Real Madrid,90,70,16,326,Carvajal,Spain
+413,2015,Real Madrid,90,70,16,329,Fábio Coentrão,Portugal
+414,2015,Real Madrid,90,70,16,336,K. Navas,Costa Rica
+415,2015,Real Madrid,90,70,16,371,Arbeloa,Spain
+416,2015,Real Madrid,90,70,16,694,Jesé Rodríguez,Spain
+417,2015,Real Madrid,90,70,16,2111,Nacho Fernández,Spain
+418,2015,Real Madrid,90,70,16,5530,Llorente,Spain
+419,2015,Real Madrid,90,70,16,6315,Derik,Spain
+420,2015,Real Madrid,90,70,16,6323,Burgui,Spain
+421,2015,Real Madrid,90,70,16,7129,De Tomás,Spain
+422,2015,Real Madrid,90,70,16,7674,E. Markkanen,Finland
+423,2015,Real Madrid,90,70,16,8128,Medrán,Spain
+424,2015,Real Madrid,90,70,16,8139,Rubén Yáñez,Spain
+425,2015,Real Madrid,90,70,16,8242,Aguza,Spain
+426,2015,Real Madrid,90,70,16,9350,Pacheco,Spain
+427,2015,Real Madrid,90,70,16,10655,Enzo Fernández,Spain
+428,2015,Real Madrid,90,70,16,11084,G. Varela,Uruguay
+429,2015,Real Madrid,90,70,16,12609,Abner,Brazil
+430,2015,Real Sociedad,48,22,20,103,C. Vela,Mexico
+431,2015,Real Sociedad,48,22,20,214,Iñigo Martínez,Spain
+432,2015,Real Sociedad,48,22,20,370,Xabi Prieto,Spain
+433,2015,Real Sociedad,48,22,20,389,Mikel Gonzalez,Spain
+434,2015,Real Sociedad,48,22,20,515,G. Castro,Uruguay
+435,2015,Real Sociedad,48,22,20,532,Sergio Canales,Spain
+436,2015,Real Sociedad,48,22,20,561,Granero,Spain
+437,2015,Real Sociedad,48,22,20,576,Agirretxe,Spain
+438,2015,Real Sociedad,48,22,20,636,Markel Bergara,Spain
+439,2015,Real Sociedad,48,22,20,697,G. Rulli,Argentina
+440,2015,Real Sociedad,48,22,20,707,Rubén Pardo,Spain
+441,2015,Real Sociedad,48,22,20,863,Carlos Martínez,Spain
+442,2015,Real Sociedad,48,22,20,987,A. Finnbogason,Iceland
+443,2015,Real Sociedad,48,22,20,1120,De la Bella,Spain
+444,2015,Real Sociedad,48,22,20,1121,Zurutuza,France
+445,2015,Real Sociedad,48,22,20,1264,Elustondo,Spain
+446,2015,Real Sociedad,48,22,20,1439,Ansotegi,Spain
+447,2015,Real Sociedad,48,22,20,2455,Zaldúa,Spain
+448,2015,Real Sociedad,48,22,20,2951,Dani Estrada,Spain
+449,2015,Real Sociedad,48,22,20,3193,Zubikarai,Spain
+450,2015,Real Sociedad,48,22,20,4945,Yuri,Spain
+451,2015,Real Sociedad,48,22,20,6335,Gaztañaga,Spain
+452,2015,Real Sociedad,48,22,20,7310,Aitor Castro,Spain
+453,2015,Real Sociedad,48,22,20,7319,A. Callens,Peru
+454,2015,Real Sociedad,48,22,20,9069,Hervías,Spain
+455,2015,Real Sociedad,48,22,20,10958,Bardaji,Spain
+456,2015,Real Sociedad,48,22,20,11066,Iker Hernández,Spain
+457,2015,Real Sociedad,48,22,20,12488,Oyarzun,Spain
+458,2015,Real Sociedad,48,22,20,14094,Martin Merquelanz,Spain
+459,2015,Real Sociedad,48,22,20,14096,Héctor,Spain
+460,2015,Real Sociedad,48,22,20,14345,Darlan Bispo,Brazil
+461,2015,SD Eibar,43,26,22,1077,Manu Del Moral,Spain
+462,2015,SD Eibar,43,26,22,1422,Jaime,Spain
+463,2015,SD Eibar,43,26,22,1507,Irureta,Spain
+464,2015,SD Eibar,43,26,22,1665,Ekiza,Spain
+465,2015,SD Eibar,43,26,22,1879,Abraham,Spain
+466,2015,SD Eibar,43,26,22,1945,Dídac,Spain
+467,2015,SD Eibar,43,26,22,2117,Dani García,Spain
+468,2015,SD Eibar,43,26,22,2494,Raúl Navas,Spain
+469,2015,SD Eibar,43,26,22,2519,Ángel,Spain
+470,2015,SD Eibar,43,26,22,2617,D. Boateng,Ghana
+471,2015,SD Eibar,43,26,22,2668,Arruabarrena,Spain
+472,2015,SD Eibar,43,26,22,2762,Saúl Berjón,Spain
+473,2015,SD Eibar,43,26,22,2930,Errasti,Spain
+474,2015,SD Eibar,43,26,22,2945,Capa,Spain
+475,2015,SD Eibar,43,26,22,3066,Albentosa,Spain
+476,2015,SD Eibar,43,26,22,3279,Javi Lara,Spain
+477,2015,SD Eibar,43,26,22,3489,Bóveda,Spain
+478,2015,SD Eibar,43,26,22,3509,Dani Nieto,Spain
+479,2015,SD Eibar,43,26,22,4278,Lillo,Spain
+480,2015,SD Eibar,43,26,22,4584,Añibarro,Spain
+481,2015,SD Eibar,43,26,22,4606,D. Lekić,Serbia
+482,2015,SD Eibar,43,26,22,6093,F. Piovaccari,Italy
+483,2015,SD Eibar,43,26,22,9806,Irazusta,Spain
+484,2015,Getafe CF,36,23,20,301,Guaita,Spain
+485,2015,Getafe CF,36,23,20,631,Diego Castro,Spain
+486,2015,Getafe CF,36,23,20,854,Valera,Spain
+487,2015,Getafe CF,36,23,20,1076,Lafita,Spain
+488,2015,Getafe CF,36,23,20,1324,P. Diawara,Senegal
+489,2015,Getafe CF,36,23,20,1398,Alexis,Spain
+490,2015,Getafe CF,36,23,20,1467,M. Lacen,Algeria
+491,2015,Getafe CF,36,23,20,1626,Sammir,Croatia
+492,2015,Getafe CF,36,23,20,2401,Álvaro,Spain
+493,2015,Getafe CF,36,23,20,2669,Juan Rodriguez,Spain
+494,2015,Getafe CF,36,23,20,2728,Roberto Lago,Spain
+495,2015,Getafe CF,36,23,20,2915,Escudero,Spain
+496,2015,Getafe CF,36,23,20,2925,Pablo Sarabia,Spain
+497,2015,Getafe CF,36,23,20,3019,Míchel,Spain
+498,2015,Getafe CF,36,23,20,3064,Naldo,Brazil
+499,2015,Getafe CF,36,23,20,3169,Codina,Spain
+500,2015,Getafe CF,36,23,20,4006,E. Velázquez,Uruguay
+501,2015,Getafe CF,36,23,20,4160,Arroyo,Spain
+502,2015,Getafe CF,36,23,20,4867,F. Hinestroza,Colombia
+503,2015,Getafe CF,36,23,20,7949,Jona,Spain
+504,2015,Getafe CF,36,23,20,8573,A. Yoda,France
+505,2015,Getafe CF,36,23,20,10045,Álex Pérez,Spain
+506,2015,Getafe CF,36,23,20,11658,Alberto,Spain
+507,2015,Getafe CF,36,23,20,12622,Vigaray,Spain
+508,2015,Getafe CF,36,23,20,12877,Ivi,Spain
+509,2015,Getafe CF,36,23,20,13435,Astray,Spain
+510,2015,UD Las Palmas,44,25,17,1722,Valerón,Spain
+511,2015,UD Las Palmas,44,25,17,2215,Casto,Spain
+512,2015,UD Las Palmas,44,25,17,2272,Nauzet Alemán,Spain
+513,2015,UD Las Palmas,44,25,17,2869,S. Araujo,Argentina
+514,2015,UD Las Palmas,44,25,17,3212,E. Culio,Argentina
+515,2015,UD Las Palmas,44,25,17,3673,Ángel,Spain
+516,2015,UD Las Palmas,44,25,17,3707,Momo,Spain
+517,2015,UD Las Palmas,44,25,17,3790,Aythami Artiles,Spain
+518,2015,UD Las Palmas,44,25,17,4163,M. Silva,Uruguay
+519,2015,UD Las Palmas,44,25,17,4903,Dani Castellano,Spain
+520,2015,UD Las Palmas,44,25,17,5286,Cristian Fernandez,Spain
+521,2015,UD Las Palmas,44,25,17,5692,Hernán,Spain
+522,2015,UD Las Palmas,44,25,17,5768,Asdrúbal,Spain
+523,2015,UD Las Palmas,44,25,17,5809,Vicente Gómez,Spain
+524,2015,UD Las Palmas,44,25,17,5864,Javi Castellano,Spain
+525,2015,UD Las Palmas,44,25,17,6483,Raúl Lizoain,Spain
+526,2015,UD Las Palmas,44,25,17,6876,David García,Spain
+527,2015,UD Las Palmas,44,25,17,7332,Tana,Spain
+528,2015,UD Las Palmas,44,25,17,7640,Benja,Spain
+529,2015,UD Las Palmas,44,25,17,8803,Guzmán,Spain
+530,2015,UD Las Palmas,44,25,17,9780,David Simón,Spain
+531,2015,UD Las Palmas,44,25,17,10148,Roque,Spain
+532,2015,UD Las Palmas,44,25,17,10252,Figueroa,Spain
+533,2015,UD Las Palmas,44,25,17,10679,José Artiles,Spain
+534,2015,UD Las Palmas,44,25,17,11085,Leo Ramírez,Spain
+535,2015,UD Las Palmas,44,25,17,11752,Maykel,Spain
+536,2015,UD Las Palmas,44,25,17,12220,Alejandro Rodríguez,Spain
+537,2015,UD Las Palmas,44,25,17,13008,Ale Martín,Spain
+538,2015,Sevilla FC,52,38,21,205,Beto,Portugal
+539,2015,Sevilla FC,52,38,21,206,C. Bacca,Colombia
+540,2015,Sevilla FC,52,38,21,217,E. Banega,Argentina
+541,2015,Sevilla FC,52,38,21,310,K. Gameiro,France
+542,2015,Sevilla FC,52,38,21,322,G. Krychowiak,Poland
+543,2015,Sevilla FC,52,38,21,325,Deulofeu,Spain
+544,2015,Sevilla FC,52,38,21,347,Iborra,Spain
+545,2015,Sevilla FC,52,38,21,454,Coke,Spain
+546,2015,Sevilla FC,52,38,21,461,Arribas,Spain
+547,2015,Sevilla FC,52,38,21,510,N. Pareja,Argentina
+548,2015,Sevilla FC,52,38,21,589,Vitolo,Spain
+549,2015,Sevilla FC,52,38,21,618,Reyes,Spain
+550,2015,Sevilla FC,52,38,21,663,B. Trémoulinas,France
+551,2015,Sevilla FC,52,38,21,732,Iago Aspas,Spain
+552,2015,Sevilla FC,52,38,21,759,Daniel Carriço,Portugal
+553,2015,Sevilla FC,52,38,21,810,Fernando Navarro,Spain
+554,2015,Sevilla FC,52,38,21,992,Aleix,Spain
+555,2015,Sevilla FC,52,38,21,995,Diogo Figueiras,Portugal
+556,2015,Sevilla FC,52,38,21,1108,S. M'Bia,Cameroon
+557,2015,Sevilla FC,52,38,21,1415,M. Barbosa,Argentina
+558,2015,Sevilla FC,52,38,21,1953,Denis Suarez,Spain
+559,2015,Sevilla FC,52,38,21,2392,T. Kolodziejczak,France
+560,2015,Sevilla FC,52,38,21,2765,Cicinho,Brazil
+561,2015,Sevilla FC,52,38,21,3312,S. Cristóforo,Uruguay
+562,2015,Sevilla FC,52,38,21,7198,Cotán,Spain
+563,2015,Sevilla FC,52,38,21,9239,Luismi,Spain
+564,2015,Sevilla FC,52,38,21,10096,Carlos Fernández,Spain
+565,2015,Sevilla FC,52,38,21,10915,Sergio Rico,Spain
+566,2015,Sevilla FC,52,38,21,11565,Juan Muñoz,Spain
+567,2015,Sevilla FC,52,38,21,12807,Garrido,Spain
+568,2015,Sevilla FC,52,38,21,13433,Tena,Spain
+569,2015,Sevilla FC,52,38,21,13692,Juanje,Spain
+570,2015,Sevilla FC,52,38,21,13788,Antonio Romero,Spain
+571,2015,Valencia CF,44,25,23,85,Negredo,Spain
+572,2015,Valencia CF,44,25,23,151,S. Feghouli,Algeria
+573,2015,Valencia CF,44,25,23,200,Diego Alves,Brazil
+574,2015,Valencia CF,44,25,23,208,Parejo,Spain
+575,2015,Valencia CF,44,25,23,211,Rodrigo,Spain
+576,2015,Valencia CF,44,25,23,229,N. Otamendi,Argentina
+577,2015,Valencia CF,44,25,23,294,Paco Alcácer,Spain
+578,2015,Valencia CF,44,25,23,399,João Pereira,Portugal
+579,2015,Valencia CF,44,25,23,416,P. Piatti,Argentina
+580,2015,Valencia CF,44,25,23,493,Javi Fuego,Spain
+581,2015,Valencia CF,44,25,23,529,S. Mustafi,Germany
+582,2015,Valencia CF,44,25,23,902,André Gomes,Portugal
+583,2015,Valencia CF,44,25,23,931,Yoel,Spain
+584,2015,Valencia CF,44,25,23,1157,Carles Gil,Spain
+585,2015,Valencia CF,44,25,23,1164,Gayà,Spain
+586,2015,Valencia CF,44,25,23,1173,Rúben Vezo,Portugal
+587,2015,Valencia CF,44,25,23,1522,B. Zuculini,Argentina
+588,2015,Valencia CF,44,25,23,1576,L. Orbán,Argentina
+589,2015,Valencia CF,44,25,23,2046,Barragán,Spain
+590,2015,Valencia CF,44,25,23,2335,Filipe Augusto,Brazil
+591,2015,Valencia CF,44,25,23,2343,R. De Paul,Argentina
+592,2015,Valencia CF,44,25,23,2788,João Cancelo,Portugal
+593,2015,Valencia CF,44,25,23,3376,Robert,Spain
+594,2015,Valencia CF,44,25,23,4831,Dani Ramírez,Spain
+595,2015,Valencia CF,44,25,23,6523,Jaume,Spain
+596,2015,Valencia CF,44,25,23,7274,Salva Ruíz,Spain
+597,2015,Valencia CF,44,25,23,7392,Akapo,Equatorial Guinea
+598,2015,Valencia CF,44,25,23,9240,Sivera,Spain
+599,2015,Valencia CF,44,25,23,9901,Tendillo,Spain
+600,2015,Valencia CF,44,25,23,9978,Ayala,Spain
+601,2015,Valencia CF,44,25,23,9986,S. Leuko,Cameroon
+602,2016,RCD La Coruña,36,27,23,640,Lucas Pérez,Spain
+603,2016,RCD La Coruña,36,27,23,792,Sidnei,Brazil
+604,2016,RCD La Coruña,36,27,23,822,C. Borges,Costa Rica
+605,2016,RCD La Coruña,36,27,23,1066,Fabricio,Spain
+606,2016,RCD La Coruña,36,27,23,1085,Mosquera,Spain
+607,2016,RCD La Coruña,36,27,23,1110,Fernando Navarro,Spain
+608,2016,RCD La Coruña,36,27,23,1129,G. Lux,Argentina
+609,2016,RCD La Coruña,36,27,23,1387,Arribas,Spain
+610,2016,RCD La Coruña,36,27,23,1429,F. Fajr,France
+611,2016,RCD La Coruña,36,27,23,1485,Cani,Spain
+612,2016,RCD La Coruña,36,27,23,1679,J. Rodríguez,Uruguay
+613,2016,RCD La Coruña,36,27,23,1694,F. Cartabia,Argentina
+614,2016,RCD La Coruña,36,27,23,1827,Juanfran,Spain
+615,2016,RCD La Coruña,36,27,23,2019,Luisinho,Portugal
+616,2016,RCD La Coruña,36,27,23,2032,Laure,Spain
+617,2016,RCD La Coruña,36,27,23,2067,Luis Alberto,Spain
+618,2016,RCD La Coruña,36,27,23,2144,Juan Dominguez,Spain
+619,2016,RCD La Coruña,36,27,23,2408,Oriol Riera,Spain
+620,2016,RCD La Coruña,36,27,23,2818,Lopo,Spain
+621,2016,RCD La Coruña,36,27,23,2946,H. Medunjanin,Bosnia Herzegovina
+622,2016,RCD La Coruña,36,27,23,2984,Alex Bergantiños,Spain
+623,2016,RCD La Coruña,36,27,23,4711,Manuel Pablo,Spain
+624,2016,RCD La Coruña,36,27,23,5219,Saúl,Spain
+625,2016,RCD La Coruña,36,27,23,6505,Manu,Spain
+626,2016,RCD La Coruña,36,27,23,7599,Cardoso,Portugal
+627,2016,RCD La Coruña,36,27,23,7630,Àlex Corredera,Spain
+628,2016,RCD La Coruña,36,27,23,10213,Róber,Spain
+629,2016,RCD La Coruña,36,27,23,11566,Borja Domingo,Spain
+630,2016,Málaga CF,46,32,25,200,Camacho,Spain
+631,2016,Málaga CF,46,32,25,345,G. Ochoa,Mexico
+632,2016,Málaga CF,46,32,25,645,C. Kameni,Cameroon
+633,2016,Málaga CF,46,32,25,694,Weligton,Brazil
+634,2016,Málaga CF,46,32,25,705,N. Amrabat,Morocco
+635,2016,Málaga CF,46,32,25,1008,Recio,Spain
+636,2016,Málaga CF,46,32,25,1105,A. Boka,Ivory Coast
+637,2016,Málaga CF,46,32,25,1180,M. Angeleri,Argentina
+638,2016,Málaga CF,46,32,25,1371,R. Rosales,Venezuela
+639,2016,Málaga CF,46,32,25,1469,R. Santa Cruz,Paraguay
+640,2016,Málaga CF,46,32,25,1563,Charles,Brazil
+641,2016,Málaga CF,46,32,25,1600,F. Tissone,Argentina
+642,2016,Málaga CF,46,32,25,1611,Miguel Torres,Spain
+643,2016,Málaga CF,46,32,25,1665,Ricardo Horta,Portugal
+644,2016,Málaga CF,46,32,25,1714,Flávio Ferreira,Portugal
+645,2016,Málaga CF,46,32,25,1742,A. Tighadouini,Morocco
+646,2016,Málaga CF,46,32,25,1845,Albentosa,Spain
+647,2016,Málaga CF,46,32,25,2202,Juan Carlos,Spain
+648,2016,Málaga CF,46,32,25,2231,E. Filipenko,Belarus
+649,2016,Málaga CF,46,32,25,2357,Duda,Portugal
+650,2016,Málaga CF,46,32,25,2487,Fábio Espinho,Portugal
+651,2016,Málaga CF,46,32,25,2596,D. Čop,Croatia
+652,2016,Málaga CF,46,32,25,3046,J. Añor,Venezuela
+653,2016,Málaga CF,46,32,25,5843,H. Mastour,Morocco
+654,2016,Málaga CF,46,32,25,8679,Pablo Fornals,Spain
+655,2016,Málaga CF,46,32,25,9688,A. Cousillas,Argentina
+656,2016,Málaga CF,46,32,25,10852,Kuki Zalazar,Spain
+657,2016,Málaga CF,46,32,25,11113,David Muñoz,Spain
+658,2016,Málaga CF,46,32,25,11600,Deco,Spain
+659,2016,Málaga CF,46,32,25,12775,Iván Rodríguez,Spain
+660,2016,Málaga CF,46,32,25,14266,Samu Casado,Spain
+661,2016,FC Barcelona,90,64,17,0,L. Messi,Argentina
+662,2016,FC Barcelona,90,64,17,4,L. Suárez,Uruguay
+663,2016,FC Barcelona,90,64,17,7,Neymar,Brazil
+664,2016,FC Barcelona,90,64,17,31,Sergio Busquets,Spain
+665,2016,FC Barcelona,90,64,17,39,Piqué,Spain
+666,2016,FC Barcelona,90,64,17,54,Jordi Alba,Spain
+667,2016,FC Barcelona,90,64,17,62,I. Rakitić,Croatia
+668,2016,FC Barcelona,90,64,17,74,Dani Alves,Brazil
+669,2016,FC Barcelona,90,64,17,93,A. Turan,Turkey
+670,2016,FC Barcelona,90,64,17,103,J. Mathieu,France
+671,2016,FC Barcelona,90,64,17,105,J. Mascherano,Argentina
+672,2016,FC Barcelona,90,64,17,116,C. Bravo,Chile
+673,2016,FC Barcelona,90,64,17,123,M. ter Stegen,Germany
+674,2016,FC Barcelona,90,64,17,281,Marc Bartra,Spain
+675,2016,FC Barcelona,90,64,17,356,T. Vermaelen,Belgium
+676,2016,FC Barcelona,90,64,17,432,Rafinha,Brazil
+677,2016,FC Barcelona,90,64,17,449,Aleix Vidal,Spain
+678,2016,FC Barcelona,90,64,17,520,Adriano,Brazil
+679,2016,FC Barcelona,90,64,17,555,Sergi Roberto,Spain
+680,2016,FC Barcelona,90,64,17,2059,Munir,Spain
+681,2016,FC Barcelona,90,64,17,2511,Sandro,Spain
+682,2016,FC Barcelona,90,64,17,2601,Douglas,Brazil
+683,2016,FC Barcelona,90,64,17,3360,Jordi Masip,Spain
+684,2016,FC Barcelona,90,64,17,3625,Sergi Samper,Spain
+685,2016,FC Barcelona,90,64,17,3641,Grimaldo,Spain
+686,2016,FC Barcelona,90,64,17,5032,J. Dongou Tsafack,Cameroon
+687,2016,FC Barcelona,90,64,17,6199,F. Bagnack,Cameroon
+688,2016,FC Barcelona,90,64,17,6888,Cámara,Spain
+689,2016,FC Barcelona,90,64,17,7011,Gerard,Spain
+690,2016,Granada CF,20,17,32,879,Andrés Fernández,Spain
+691,2016,Granada CF,20,17,32,1026,Rubén Pérez,Spain
+692,2016,Granada CF,20,17,32,1236,Miguel Lopes,Portugal
+693,2016,Granada CF,20,17,32,1299,Dória,Brazil
+694,2016,Granada CF,20,17,32,1312,R. Krhin,Slovenia
+695,2016,Granada CF,20,17,32,1440,Fran Rico,Spain
+696,2016,Granada CF,20,17,32,1634,Y. El Arabi,Morocco
+697,2016,Granada CF,20,17,32,1880,Lombán,Spain
+698,2016,Granada CF,20,17,32,1951,Piti,Spain
+699,2016,Granada CF,20,17,32,2008,J. Babin,France
+700,2016,Granada CF,20,17,32,2037,Javi Márquez,Spain
+701,2016,Granada CF,20,17,32,2077,N. López,Uruguay
+702,2016,Granada CF,20,17,32,2106,Robert Ibañez,Spain
+703,2016,Granada CF,20,17,32,2115,Rochina,Spain
+704,2016,Granada CF,20,17,32,2122,C. Biraghi,Italy
+705,2016,Granada CF,20,17,32,2132,Edgar Méndez,Spain
+706,2016,Granada CF,20,17,32,2614,T. Bifouma,Congo
+707,2016,Granada CF,20,17,32,2831,Mainz,Spain
+708,2016,Granada CF,20,17,32,3124,D. Foulquier,France
+709,2016,Granada CF,20,17,32,3628,I. Success,Nigeria
+710,2016,Granada CF,20,17,32,4422,Y. Musavu-King,Gabon
+711,2016,Granada CF,20,17,32,5013,C. Aboagye,Ghana
+712,2016,Granada CF,20,17,32,5363,Neuton,Brazil
+713,2016,Granada CF,20,17,32,5950,Salva Ruíz,Spain
+714,2016,Granada CF,20,17,32,9382,N. Jaadi,Morocco
+715,2016,Granada CF,20,17,32,9441,Brian,Spain
+716,2016,Granada CF,20,17,32,9453,S. Dimitrievski,FYR Macedonia
+717,2016,Granada CF,20,17,32,9476,U. Agbo,Nigeria
+718,2016,Granada CF,20,17,32,10664,Álex Carmona,Spain
+719,2016,Granada CF,20,17,32,10999,S. Marreh,Gambia
+720,2016,Sevilla FC,72,39,16,132,G. Krychowiak,Poland
+721,2016,Sevilla FC,72,39,16,133,Y. Konoplyanka,Ukraine
+722,2016,Sevilla FC,72,39,16,198,E. Banega,Argentina
+723,2016,Sevilla FC,72,39,16,205,Vitolo,Spain
+724,2016,Sevilla FC,72,39,16,216,Iborra,Spain
+725,2016,Sevilla FC,72,39,16,256,B. Trémoulinas,France
+726,2016,Sevilla FC,72,39,16,325,Daniel Carriço,Portugal
+727,2016,Sevilla FC,72,39,16,363,Llorente,Spain
+728,2016,Sevilla FC,72,39,16,377,Coke,Spain
+729,2016,Sevilla FC,72,39,16,423,S. N'Zonzi,France
+730,2016,Sevilla FC,72,39,16,443,C. Immobile,Italy
+731,2016,Sevilla FC,72,39,16,489,Reyes,Spain
+732,2016,Sevilla FC,72,39,16,513,M. Krohn-Dehli,Denmark
+733,2016,Sevilla FC,72,39,16,522,N. Pareja,Argentina
+734,2016,Sevilla FC,72,39,16,532,K. Gameiro,France
+735,2016,Sevilla FC,72,39,16,539,A. Rami,France
+736,2016,Sevilla FC,72,39,16,704,Beto,Portugal
+737,2016,Sevilla FC,72,39,16,905,M. Andreolli,Italy
+738,2016,Sevilla FC,72,39,16,925,Mariano,Brazil
+739,2016,Sevilla FC,72,39,16,1069,G. Kakuta,France
+740,2016,Sevilla FC,72,39,16,1663,Sergio Rico,Spain
+741,2016,Sevilla FC,72,39,16,1701,T. Kolodziejczak,France
+742,2016,Sevilla FC,72,39,16,2241,Escudero,Spain
+743,2016,Sevilla FC,72,39,16,3062,S. Cristóforo,Uruguay
+744,2016,Sevilla FC,72,39,16,3718,Luismi,Spain
+745,2016,Sevilla FC,72,39,16,5852,Juan Muñoz,Spain
+746,2016,Sevilla FC,72,39,16,5890,Cotán,Spain
+747,2016,Sevilla FC,72,39,16,10467,Carlos Fernández,Spain
+748,2016,Sevilla FC,72,39,16,11039,Moi,Spain
+749,2016,Sevilla FC,72,39,16,11108,David Soria,Spain
+750,2016,Sevilla FC,72,39,16,11171,Tena,Spain
+751,2016,Sevilla FC,72,39,16,12310,Ivi,Spain
+752,2016,Atlético Madrid,78,40,14,48,D. Godín,Uruguay
+753,2016,Atlético Madrid,78,40,14,82,J. Martínez,Colombia
+754,2016,Atlético Madrid,78,40,14,83,A. Griezmann,France
+755,2016,Atlético Madrid,78,40,14,87,Koke,Spain
+756,2016,Atlético Madrid,78,40,14,166,Filipe Luís,Brazil
+757,2016,Atlético Madrid,78,40,14,186,J. Oblak,Slovenia
+758,2016,Atlético Madrid,78,40,14,193,S. Savić,Montenegro
+759,2016,Atlético Madrid,78,40,14,223,Tiago,Portugal
+760,2016,Atlético Madrid,78,40,14,233,Moyá,Spain
+761,2016,Atlético Madrid,78,40,14,243,Juanfran,Spain
+762,2016,Atlético Madrid,78,40,14,350,Gabi,Spain
+763,2016,Atlético Madrid,78,40,14,394,Óliver Torres,Spain
+764,2016,Atlético Madrid,78,40,14,396,L. Vietto,Argentina
+765,2016,Atlético Madrid,78,40,14,484,Fernando Torres,Spain
+766,2016,Atlético Madrid,78,40,14,553,J. Giménez,Uruguay
+767,2016,Atlético Madrid,78,40,14,574,Y. Ferreira Carrasco,Belgium
+768,2016,Atlético Madrid,78,40,14,661,Jesús Gámez,Spain
+769,2016,Atlético Madrid,78,40,14,685,Siqueira,Brazil
+770,2016,Atlético Madrid,78,40,14,719,A. Correa,Argentina
+771,2016,Atlético Madrid,78,40,14,973,Saúl,Spain
+772,2016,Atlético Madrid,78,40,14,3100,Thomas,Ghana
+773,2016,Atlético Madrid,78,40,14,6661,L. Hernández,France
+774,2016,Atlético Madrid,78,40,14,10477,Nacho Monsalve,Spain
+775,2016,Atlético Madrid,78,40,14,10976,Bernabé,Spain
+776,2016,Atlético Madrid,78,40,14,12416,Dani Espejo,Spain
+777,2016,Real Sociedad,64,30,24,135,C. Vela,Mexico
+778,2016,Real Sociedad,64,30,24,295,Iñigo Martínez,Spain
+779,2016,Real Sociedad,64,30,24,397,G. Rulli,Argentina
+780,2016,Real Sociedad,64,30,24,412,Illarramendi,Spain
+781,2016,Real Sociedad,64,30,24,425,Jonathas,Brazil
+782,2016,Real Sociedad,64,30,24,427,Canales,Spain
+783,2016,Real Sociedad,64,30,24,655,Xabi Prieto,Spain
+784,2016,Real Sociedad,64,30,24,679,De la Bella,Spain
+785,2016,Real Sociedad,64,30,24,682,Carlos Martínez,Spain
+786,2016,Real Sociedad,64,30,24,744,Rubén Pardo,Spain
+787,2016,Real Sociedad,64,30,24,833,Granero,Spain
+788,2016,Real Sociedad,64,30,24,904,Mikel Gonzalez,Spain
+789,2016,Real Sociedad,64,30,24,908,G. Castro,Uruguay
+790,2016,Real Sociedad,64,30,24,960,Bruma,Portugal
+791,2016,Real Sociedad,64,30,24,1161,Markel Bergara,Spain
+792,2016,Real Sociedad,64,30,24,1173,Agirretxe,Spain
+793,2016,Real Sociedad,64,30,24,1259,D. Reyes,Mexico
+794,2016,Real Sociedad,64,30,24,1542,Ansotegi,Spain
+795,2016,Real Sociedad,64,30,24,1578,Zurutuza,France
+796,2016,Real Sociedad,64,30,24,1836,Raúl Navas,Spain
+797,2016,Real Sociedad,64,30,24,2591,Zaldúa,Spain
+798,2016,Real Sociedad,64,30,24,3147,Yuri,Spain
+799,2016,Real Sociedad,64,30,24,3823,Oier,Spain
+800,2016,Real Sociedad,64,30,24,6829,Aritz Elustondo,Spain
+801,2016,Real Sociedad,64,30,24,6852,Héctor,Spain
+802,2016,Real Sociedad,64,30,24,8790,Alain Oyarzun,Spain
+803,2016,Real Sociedad,64,30,24,9438,Eneko Capilla,Spain
+804,2016,Real Sociedad,64,30,24,11116,A. Diarra,Mali
+805,2016,Real Sociedad,64,30,24,11122,Sanz,Spain
+806,2016,Real Sociedad,64,30,24,11173,Bardaji,Spain
+807,2016,Real Sociedad,64,30,24,12698,Merquelanz,Spain
+808,2016,Real Sociedad,64,30,24,13458,Mikel Oyarzabal,Spain
+809,2016,Sporting Gijón,31,26,38,951,A. Halilović,Croatia
+810,2016,Sporting Gijón,31,26,38,1023,Bernardo,Colombia
+811,2016,Sporting Gijón,31,26,38,1042,Jony,Spain
+812,2016,Sporting Gijón,31,26,38,1143,Iván Cuéllar,Spain
+813,2016,Sporting Gijón,31,26,38,1230,Lora,Spain
+814,2016,Sporting Gijón,31,26,38,1277,Sergio Álvarez,Spain
+815,2016,Sporting Gijón,31,26,38,1779,Luís Hernández,Spain
+816,2016,Sporting Gijón,31,26,38,1838,Nacho Cases,Spain
+817,2016,Sporting Gijón,31,26,38,2602,Isma López,Spain
+818,2016,Sporting Gijón,31,26,38,2605,Guerrero,Spain
+819,2016,Sporting Gijón,31,26,38,2730,Canella,Spain
+820,2016,Sporting Gijón,31,26,38,2915,Carmona,Spain
+821,2016,Sporting Gijón,31,26,38,3031,A. Sanabria,Paraguay
+822,2016,Sporting Gijón,31,26,38,3035,Jorge Meré,Spain
+823,2016,Sporting Gijón,31,26,38,3097,Omar Mascarell,Spain
+824,2016,Sporting Gijón,31,26,38,3721,Pablo Pérez,Spain
+825,2016,Sporting Gijón,31,26,38,4415,Álex Barrera,Spain
+826,2016,Sporting Gijón,31,26,38,4922,Alberto,Spain
+827,2016,Sporting Gijón,31,26,38,5083,Juan Muñiz,Spain
+828,2016,Sporting Gijón,31,26,38,5122,Castro,Spain
+829,2016,Sporting Gijón,31,26,38,5132,Álex Menéndez,Spain
+830,2016,Sporting Gijón,31,26,38,6892,R. Aït-Atmane,Algeria
+831,2016,Sporting Gijón,31,26,38,7469,Hugo Fraile,Spain
+832,2016,Sporting Gijón,31,26,38,7699,Álvaro Bustos,Spain
+833,2016,Sporting Gijón,31,26,38,8815,Guitián,Spain
+834,2016,Sporting Gijón,31,26,38,9621,Mendi,Spain
+835,2016,Sporting Gijón,31,26,38,11801,Dennis,Spain
+836,2016,RC Celta Vigo,45,30,32,174,Nolito,Spain
+837,2016,RC Celta Vigo,45,30,32,533,A. Fernández,Argentina
+838,2016,RC Celta Vigo,45,30,32,542,F. Orellana,Chile
+839,2016,RC Celta Vigo,45,30,32,554,Hugo Mallo,Spain
+840,2016,RC Celta Vigo,45,30,32,715,Iago Aspas,Spain
+841,2016,RC Celta Vigo,45,30,32,751,N. Radoja,Serbia
+842,2016,RC Celta Vigo,45,30,32,773,Fontàs,Spain
+843,2016,RC Celta Vigo,45,30,32,790,D. Wass,Denmark
+844,2016,RC Celta Vigo,45,30,32,900,G. Cabral,Argentina
+845,2016,RC Celta Vigo,45,30,32,943,P. Hernández,Chile
+846,2016,RC Celta Vigo,45,30,32,993,Jonny,Spain
+847,2016,RC Celta Vigo,45,30,32,1183,Sergio,Spain
+848,2016,RC Celta Vigo,45,30,32,1706,J. Guidetti,Sweden
+849,2016,RC Celta Vigo,45,30,32,2072,Sergi Gómez,Spain
+850,2016,RC Celta Vigo,45,30,32,3030,T. Bongonda,Belgium
+851,2016,RC Celta Vigo,45,30,32,3167,Carles Planas,Spain
+852,2016,RC Celta Vigo,45,30,32,3630,D. Drazic,Serbia
+853,2016,RC Celta Vigo,45,30,32,3684,L. Madinda,Gabon
+854,2016,RC Celta Vigo,45,30,32,4278,Borja Fernández,Spain
+855,2016,RC Celta Vigo,45,30,32,4290,Rubén Blanco,Spain
+856,2016,RC Celta Vigo,45,30,32,4347,Josep Señé,Spain
+857,2016,RC Celta Vigo,45,30,32,6889,Borja Iglesias,Spain
+858,2016,RC Celta Vigo,45,30,32,7703,Jordan,Spain
+859,2016,RC Celta Vigo,45,30,32,7777,Jonathan De Amo,Spain
+860,2016,RC Celta Vigo,45,30,32,8536,David Goldar,Spain
+861,2016,RC Celta Vigo,45,30,32,10260,Rubén Ramiro,Spain
+862,2016,RC Celta Vigo,45,30,32,10337,Néstor,Spain
+863,2016,RC Celta Vigo,45,30,32,10372,Kevin,Spain
+864,2016,RC Celta Vigo,45,30,32,11498,P. Diop,Spain
+865,2016,RC Celta Vigo,45,30,32,11563,Samu Araújo,Spain
+866,2016,RC Celta Vigo,45,30,32,12258,Iván Villar,Spain
+867,2016,Valencia CF,46,32,32,113,Diego Alves,Brazil
+868,2016,Valencia CF,46,32,32,125,S. Mustafi,Germany
+869,2016,Valencia CF,46,32,32,139,Parejo,Spain
+870,2016,Valencia CF,46,32,32,189,S. Feghouli,Algeria
+871,2016,Valencia CF,46,32,32,242,Negredo,Spain
+872,2016,Valencia CF,46,32,32,268,Paco Alcácer,Spain
+873,2016,Valencia CF,46,32,32,272,André Gomes,Portugal
+874,2016,Valencia CF,46,32,32,273,Gayà,Spain
+875,2016,Valencia CF,46,32,32,299,P. Piatti,Argentina
+876,2016,Valencia CF,46,32,32,320,Aderllan Santos,Brazil
+877,2016,Valencia CF,46,32,32,348,Javi Fuego,Spain
+878,2016,Valencia CF,46,32,32,414,Rodrigo,Spain
+879,2016,Valencia CF,46,32,32,544,E. Pérez,Argentina
+880,2016,Valencia CF,46,32,32,564,Danilo,Brazil
+881,2016,Valencia CF,46,32,32,581,M. Ryan,Australia
+882,2016,Valencia CF,46,32,32,726,R. De Paul,Argentina
+883,2016,Valencia CF,46,32,32,976,Rúben Vezo,Portugal
+884,2016,Valencia CF,46,32,32,1027,L. Orbán,Argentina
+885,2016,Valencia CF,46,32,32,1192,Barragán,Spain
+886,2016,Valencia CF,46,32,32,1258,Santi Mina,Spain
+887,2016,Valencia CF,46,32,32,2060,Z. Bakkali,Belgium
+888,2016,Valencia CF,46,32,32,2080,João Cancelo,Portugal
+889,2016,Valencia CF,46,32,32,2278,Yoel,Spain
+890,2016,Valencia CF,46,32,32,6003,Jaume,Spain
+891,2016,Valencia CF,46,32,32,8619,Tropi,Spain
+892,2016,Valencia CF,46,32,32,8709,Ayala,Spain
+893,2016,Valencia CF,46,32,32,8782,Akapo,Equatorial Guinea
+894,2016,Valencia CF,46,32,32,9767,Dani Ramírez,Spain
+895,2016,Valencia CF,46,32,32,10842,Fran Villalba,Spain
+896,2016,Valencia CF,46,32,32,10943,I. Diallo,Mali
+897,2016,Valencia CF,46,32,32,11505,Nacho Gil,Spain
+898,2016,Real Betis,39,22,24,491,Rubén Castro,Spain
+899,2016,Real Betis,39,22,24,849,R. van der Vaart,Netherlands
+900,2016,Real Betis,39,22,24,1108,H. Westermann,Germany
+901,2016,Real Betis,39,22,24,1187,D. Digard,France
+902,2016,Real Betis,39,22,24,1191,J. Vargas,Peru
+903,2016,Real Betis,39,22,24,1287,A. N'Diaye,Senegal
+904,2016,Real Betis,39,22,24,1445,Xavi Torres,Spain
+905,2016,Real Betis,39,22,24,1452,Portillo,Spain
+906,2016,Real Betis,39,22,24,1602,Adán,Spain
+907,2016,Real Betis,39,22,24,1649,Dani Ceballos,Spain
+908,2016,Real Betis,39,22,24,1940,Cejudo,Spain
+909,2016,Real Betis,39,22,24,1952,Jorge Molina,Spain
+910,2016,Real Betis,39,22,24,2091,C. Piccini,Italy
+911,2016,Real Betis,39,22,24,2230,R. van Wolfswinkel,Netherlands
+912,2016,Real Betis,39,22,24,2325,Jordi Figueras,Spain
+913,2016,Real Betis,39,22,24,2474,F. Kadir,Algeria
+914,2016,Real Betis,39,22,24,2609,Bruno,Spain
+915,2016,Real Betis,39,22,24,2642,V. Rennella,Italy
+916,2016,Real Betis,39,22,24,2723,Petros,Brazil
+917,2016,Real Betis,39,22,24,2907,Molinero,Spain
+918,2016,Real Betis,39,22,24,3045,Varela,Spain
+919,2016,Real Betis,39,22,24,3116,G. Pezzella,Argentina
+920,2016,Real Betis,39,22,24,3660,Vadillo,Spain
+921,2016,Real Betis,39,22,24,3771,A. Tarek,Egypt
+922,2016,Real Betis,39,22,24,3887,Matilla,Spain
+923,2016,Real Betis,39,22,24,4071,Dani Giménez,Spain
+924,2016,Real Betis,39,22,24,5002,Fabián,Spain
+925,2016,Real Betis,39,22,24,8535,Abeledo,Spain
+926,2016,Real Betis,39,22,24,8551,Carlos García,Spain
+927,2016,Real Betis,39,22,24,10195,Pedro,Spain
+928,2016,Real Betis,39,22,24,11207,De La Hoz,Spain
+929,2016,Real Betis,39,22,24,12364,José Carlos,Spain
+930,2016,RCD Espanyol,56,28,24,623,F. Caicedo,Ecuador
+931,2016,RCD Espanyol,56,28,24,938,José Cañas,Spain
+932,2016,RCD Espanyol,56,28,24,1037,Álvaro,Spain
+933,2016,RCD Espanyol,56,28,24,1125,M. Ciani,France
+934,2016,RCD Espanyol,56,28,24,1238,Victor Sánchez,Spain
+935,2016,RCD Espanyol,56,28,24,1245,Javi López,Spain
+936,2016,RCD Espanyol,56,28,24,1251,Marco Asensio,Spain
+937,2016,RCD Espanyol,56,28,24,1298,Gerard Moreno,Spain
+938,2016,RCD Espanyol,56,28,24,1549,Salva Sevilla,Spain
+939,2016,RCD Espanyol,56,28,24,1690,E. Roco,Chile
+940,2016,RCD Espanyol,56,28,24,1732,F. Bardi,Italy
+941,2016,RCD Espanyol,56,28,24,1770,H. Pérez,Paraguay
+942,2016,RCD Espanyol,56,28,24,2042,Montañés,Spain
+943,2016,RCD Espanyol,56,28,24,2123,Víctor Álvarez,Spain
+944,2016,RCD Espanyol,56,28,24,2407,Abraham,Spain
+945,2016,RCD Espanyol,56,28,24,2496,Arbilla,Spain
+946,2016,RCD Espanyol,56,28,24,3051,Rubén Duarte,Spain
+947,2016,RCD Espanyol,56,28,24,3214,Fuentes,Spain
+948,2016,RCD Espanyol,56,28,24,3666,Burgui,Spain
+949,2016,RCD Espanyol,56,28,24,3720,Pau López,Spain
+950,2016,RCD Espanyol,56,28,24,4495,Raillo,Spain
+951,2016,RCD Espanyol,56,28,24,6936,Rober,Spain
+952,2016,RCD Espanyol,56,28,24,7774,Lucas Porcar,Spain
+953,2016,RCD Espanyol,56,28,24,8616,M. Sylla,Senegal
+954,2016,RCD Espanyol,56,28,24,8642,Álex Serrano,Spain
+955,2016,RCD Espanyol,56,28,24,8732,Joan Jordán,Spain
+956,2016,RCD Espanyol,56,28,24,10269,Robert Simón,Spain
+957,2016,RCD Espanyol,56,28,24,11121,Galas,Spain
+958,2016,RCD Espanyol,56,28,24,12151,Andrés Prieto,Spain
+959,2016,SD Eibar,54,29,21,1237,Saúl Berjón,Spain
+960,2016,SD Eibar,54,29,21,1393,Ekiza,Spain
+961,2016,SD Eibar,54,29,21,1643,Irureta,Spain
+962,2016,SD Eibar,54,29,21,1702,S. Verdi,Italy
+963,2016,SD Eibar,54,29,21,1731,I. Hajrović,Bosnia Herzegovina
+964,2016,SD Eibar,54,29,21,1852,Dani García,Spain
+965,2016,SD Eibar,54,29,21,1939,Jaime,Spain
+966,2016,SD Eibar,54,29,21,1942,Iván Ramis,Spain
+967,2016,SD Eibar,54,29,21,2150,Luna,Spain
+968,2016,SD Eibar,54,29,21,2172,Capa,Spain
+969,2016,SD Eibar,54,29,21,2219,A. Pantic,Serbia
+970,2016,SD Eibar,54,29,21,2225,Adrián González,Spain
+971,2016,SD Eibar,54,29,21,2535,Borja Bastón,Spain
+972,2016,SD Eibar,54,29,21,2656,Keko,Spain
+973,2016,SD Eibar,54,29,21,2748,Lillo,Spain
+974,2016,SD Eibar,54,29,21,2773,M. Dos Santos,Argentina
+975,2016,SD Eibar,54,29,21,3047,G. Escalante,Argentina
+976,2016,SD Eibar,54,29,21,3158,Sergi Enrich,Spain
+977,2016,SD Eibar,54,29,21,3390,Riesgo,Spain
+978,2016,SD Eibar,54,29,21,3422,Arruabarrena,Spain
+979,2016,SD Eibar,54,29,21,3739,David Juncà,Spain
+980,2016,SD Eibar,54,29,21,4420,Eddy,Azerbaijan
+981,2016,SD Eibar,54,29,21,12186,Julen López,Spain
+982,2016,SD Eibar,54,29,21,13197,Mediavilla,Spain
+983,2016,SD Eibar,54,29,21,14047,Ander Gayoso,Spain
+984,2016,SD Eibar,54,29,21,14585,Azkue,Spain
+985,2016,SD Eibar,54,29,21,14859,Ibargoien,Spain
+986,2016,CD Leganés,35,22,23,2126,Insua,Spain
+987,2016,CD Leganés,35,22,23,2553,Ruiz de Galarreta,Spain
+988,2016,CD Leganés,35,22,23,3159,Toni Dovale,Spain
+989,2016,CD Leganés,35,22,23,3915,A. Szymanowski,Argentina
+990,2016,CD Leganés,35,22,23,4533,Serantes,Spain
+991,2016,CD Leganés,35,22,23,4567,Omar Ramos,Spain
+992,2016,CD Leganés,35,22,23,5065,Gabriel,Brazil
+993,2016,CD Leganés,35,22,23,5121,Bustinza,Spain
+994,2016,CD Leganés,35,22,23,5193,Guillermo,Spain
+995,2016,CD Leganés,35,22,23,5788,M. Mantovani,Argentina
+996,2016,CD Leganés,35,22,23,6322,Albizua,Spain
+997,2016,CD Leganés,35,22,23,6493,Sastre,Spain
+998,2016,CD Leganés,35,22,23,7492,Cesar Soriano,Spain
+999,2016,CD Leganés,35,22,23,7800,Rubén Peña,Spain
+1000,2016,CD Leganés,35,22,23,8045,Víctor Díaz,Spain
+1001,2016,CD Leganés,35,22,23,8096,Borja Lázaro,Spain
+1002,2016,CD Leganés,35,22,23,8653,Bicho,Spain
+1003,2016,CD Leganés,35,22,23,9042,Juanan,Spain
+1004,2016,CD Leganés,35,22,23,9825,Paco Candela,Spain
+1005,2016,CD Leganés,35,22,23,9835,Miramón,Spain
+1006,2016,CD Leganés,35,22,23,10549,Alain Eizmendi,Spain
+1007,2016,CD Leganés,35,22,23,10718,Queco Piña,Spain
+1008,2016,CD Leganés,35,22,23,11265,Luis Ruiz,Spain
+1009,2016,CD Leganés,35,22,23,11858,Alberto Martín,Spain
+1010,2016,CD Leganés,35,22,23,12739,Alex Mozo,Spain
+1011,2016,CD Leganés,35,22,23,13513,Villacañas,Spain
+1012,2016,CA Osasuna,22,23,39,2385,Miguel Flaño,Spain
+1013,2016,CA Osasuna,22,23,39,3094,Luís Martins,Portugal
+1014,2016,CA Osasuna,22,23,39,3401,J. Lotiès,France
+1015,2016,CA Osasuna,22,23,39,3558,Oier,Spain
+1016,2016,CA Osasuna,22,23,39,5079,M. Pucko,Slovenia
+1017,2016,CA Osasuna,22,23,39,5317,Roberto Torres,Spain
+1018,2016,CA Osasuna,22,23,39,5663,Javi Flaño,Spain
+1019,2016,CA Osasuna,22,23,39,5854,Mikel Merino,Spain
+1020,2016,CA Osasuna,22,23,39,5900,Olavide,Spain
+1021,2016,CA Osasuna,22,23,39,6390,Nino,Spain
+1022,2016,CA Osasuna,22,23,39,7044,Mario Fernández,Spain
+1023,2016,CA Osasuna,22,23,39,7341,Nauzet,Spain
+1024,2016,CA Osasuna,22,23,39,7741,Unai Garcia,Spain
+1025,2016,CA Osasuna,22,23,39,7821,David García,Spain
+1026,2016,CA Osasuna,22,23,39,8464,Adrián Cruz,Spain
+1027,2016,CA Osasuna,22,23,39,8557,Kenan Kodro,Spain
+1028,2016,CA Osasuna,22,23,39,8816,Tano Bonnin,Dominican Republic
+1029,2016,CA Osasuna,22,23,39,9005,B. Milić,Montenegro
+1030,2016,CA Osasuna,22,23,39,9795,Álex Sánchez,Spain
+1031,2016,CA Osasuna,22,23,39,10173,Aitor Buñuel,Spain
+1032,2016,CA Osasuna,22,23,39,10367,Alex Berenguer,Spain
+1033,2016,CA Osasuna,22,23,39,10476,De Frutos,Spain
+1034,2016,CA Osasuna,22,23,39,10512,Maikel Mesa,Spain
+1035,2016,CA Osasuna,22,23,39,11170,Kike Barja,Spain
+1036,2016,CA Osasuna,22,23,39,11485,Antonio Otegui,Spain
+1037,2016,CA Osasuna,22,23,39,11552,José García,Spain
+1038,2016,CA Osasuna,22,23,39,11723,J. Mondragón,Colombia
+1039,2016,CA Osasuna,22,23,39,12752,Satrústegui,Spain
+1040,2016,Real Madrid,93,48,20,1,Cristiano Ronaldo,Portugal
+1041,2016,Real Madrid,93,48,20,10,J. Rodríguez,Colombia
+1042,2016,Real Madrid,93,48,20,11,G. Bale,Wales
+1043,2016,Real Madrid,93,48,20,12,T. Kroos,Germany
+1044,2016,Real Madrid,93,48,20,19,Sergio Ramos,Spain
+1045,2016,Real Madrid,93,48,20,22,L. Modrić,Croatia
+1046,2016,Real Madrid,93,48,20,27,K. Benzema,France
+1047,2016,Real Madrid,93,48,20,50,Isco,Spain
+1048,2016,Real Madrid,93,48,20,71,Pepe,Portugal
+1049,2016,Real Madrid,93,48,20,90,Marcelo,Brazil
+1050,2016,Real Madrid,93,48,20,122,R. Varane,France
+1051,2016,Real Madrid,93,48,20,194,Carvajal,Spain
+1052,2016,Real Madrid,93,48,20,257,Kiko Casilla,Spain
+1053,2016,Real Madrid,93,48,20,276,Danilo,Brazil
+1054,2016,Real Madrid,93,48,20,474,K. Navas,Costa Rica
+1055,2016,Real Madrid,93,48,20,504,Arbeloa,Spain
+1056,2016,Real Madrid,93,48,20,551,M. Kovačić,Croatia
+1057,2016,Real Madrid,93,48,20,557,Jesé,Spain
+1058,2016,Real Madrid,93,48,20,573,D. Cheryshev,Russia
+1059,2016,Real Madrid,93,48,20,783,Casemiro,Brazil
+1060,2016,Real Madrid,93,48,20,1014,Lucas Vázquez,Spain
+1061,2016,Real Madrid,93,48,20,1426,Nacho Fernández,Spain
+1062,2016,Real Madrid,93,48,20,4277,M. Ødegaard,Norway
+1063,2016,Real Madrid,93,48,20,5860,Lucas Torró,Spain
+1064,2016,Real Madrid,93,48,20,6683,Marcos Llorente,Spain
+1065,2016,Real Madrid,93,48,20,8477,Borja Mayoral,Spain
+1066,2016,Real Madrid,93,48,20,8507,Abner,Brazil
+1067,2016,Real Madrid,93,48,20,9475,Javi Muñoz,Spain
+1068,2016,Real Madrid,93,48,20,9496,Enzo Fernández,France
+1069,2016,Real Madrid,93,48,20,9568,Rubén Yáñez,Spain
+1070,2016,Real Madrid,93,48,20,9591,Lazo,Spain
+1071,2016,Deportivo Alavés,55,19,21,1484,Pelegrín,Spain
+1072,2016,Deportivo Alavés,55,19,21,3085,Dani Pacheco,Spain
+1073,2016,Deportivo Alavés,55,19,21,4068,Juli,Spain
+1074,2016,Deportivo Alavés,55,19,21,4148,Toquero,Spain
+1075,2016,Deportivo Alavés,55,19,21,4149,Carpio,Spain
+1076,2016,Deportivo Alavés,55,19,21,4516,Laguardia,Spain
+1077,2016,Deportivo Alavés,55,19,21,4672,Dani Estrada,Spain
+1078,2016,Deportivo Alavés,55,19,21,5568,Mora,Spain
+1079,2016,Deportivo Alavés,55,19,21,5743,Manu Barreiro,Spain
+1080,2016,Deportivo Alavés,55,19,21,5984,Pacheco,Spain
+1081,2016,Deportivo Alavés,55,19,21,6922,Raul García,Spain
+1082,2016,Deportivo Alavés,55,19,21,7022,F. Guichón,Uruguay
+1083,2016,Deportivo Alavés,55,19,21,7707,Kiko Femenía,Spain
+1084,2016,Deportivo Alavés,55,19,21,8299,Borda,Spain
+1085,2016,Deportivo Alavés,55,19,21,8300,Manu García,Spain
+1086,2016,Deportivo Alavés,55,19,21,9271,Beobide,Spain
+1087,2016,Deportivo Alavés,55,19,21,9286,David Torres,Spain
+1088,2016,Deportivo Alavés,55,19,21,10409,Sergio Llamas,Spain
+1089,2016,Deportivo Alavés,55,19,21,10471,Andoni,Spain
+1090,2016,Deportivo Alavés,55,19,21,10962,Dani Iglesias,Spain
+1091,2016,Deportivo Alavés,55,19,21,12006,Pau Torres,Spain
+1092,2016,Deportivo Alavés,55,19,21,12729,Einar Galilea,Spain
+1093,2016,Athletic Club Bilbao,63,36,18,88,A. Laporte,France
+1094,2016,Athletic Club Bilbao,63,36,18,155,Aduriz,Spain
+1095,2016,Athletic Club Bilbao,63,36,18,217,Iturraspe,Spain
+1096,2016,Athletic Club Bilbao,63,36,18,278,Muniaín,Spain
+1097,2016,Athletic Club Bilbao,63,36,18,301,Mikel San José,Spain
+1098,2016,Athletic Club Bilbao,63,36,18,307,De Marcos,Spain
+1099,2016,Athletic Club Bilbao,63,36,18,379,Beñat,Spain
+1100,2016,Athletic Club Bilbao,63,36,18,471,Balenziaga,Spain
+1101,2016,Athletic Club Bilbao,63,36,18,488,Gurpegi,Spain
+1102,2016,Athletic Club Bilbao,63,36,18,490,Iraizoz,Spain
+1103,2016,Athletic Club Bilbao,63,36,18,631,Susaeta,Spain
+1104,2016,Athletic Club Bilbao,63,36,18,654,Mikel Rico,Spain
+1105,2016,Athletic Club Bilbao,63,36,18,804,Ibai Gómez,Spain
+1106,2016,Athletic Club Bilbao,63,36,18,820,Etxeita,Spain
+1107,2016,Athletic Club Bilbao,63,36,18,1051,Bóveda,Spain
+1108,2016,Athletic Club Bilbao,63,36,18,1577,Elustondo,Spain
+1109,2016,Athletic Club Bilbao,63,36,18,1666,Aketxe,Spain
+1110,2016,Athletic Club Bilbao,63,36,18,1667,Williams,Spain
+1111,2016,Athletic Club Bilbao,63,36,18,1808,Herrerín,Spain
+1112,2016,Athletic Club Bilbao,63,36,18,2111,Sabin Merino,Spain
+1113,2016,Athletic Club Bilbao,63,36,18,2637,Eraso,Spain
+1114,2016,Athletic Club Bilbao,63,36,18,3541,Kike Sola,Spain
+1115,2016,Athletic Club Bilbao,63,36,18,3572,Borja Viguera,Spain
+1116,2016,Athletic Club Bilbao,63,36,18,3698,Lekue,Spain
+1117,2016,Athletic Club Bilbao,63,36,18,11487,Unai Simón,Spain
+1118,2016,UD Las Palmas,39,33,25,1032,S. Araujo,Argentina
+1119,2016,UD Las Palmas,39,33,25,1056,Jonathan Viera,Spain
+1120,2016,UD Las Palmas,39,33,25,1579,Javi Varas,Spain
+1121,2016,UD Las Palmas,39,33,25,1799,M. Wakaso,Ghana
+1122,2016,UD Las Palmas,39,33,25,1893,Valerón,Spain
+1123,2016,UD Las Palmas,39,33,25,2025,N. El Zhar,Morocco
+1124,2016,UD Las Palmas,39,33,25,2161,David Simón,Spain
+1125,2016,UD Las Palmas,39,33,25,2360,Garrido,Spain
+1126,2016,UD Las Palmas,39,33,25,2374,A. Alcaraz,Paraguay
+1127,2016,UD Las Palmas,39,33,25,2410,E. Culio,Argentina
+1128,2016,UD Las Palmas,39,33,25,2753,Javi Castellano,Spain
+1129,2016,UD Las Palmas,39,33,25,2927,Aythami Artiles,Spain
+1130,2016,UD Las Palmas,39,33,25,2928,Nauzet Alemán,Spain
+1131,2016,UD Las Palmas,39,33,25,3066,Willian José,Brazil
+1132,2016,UD Las Palmas,39,33,25,3171,Hernán,Spain
+1133,2016,UD Las Palmas,39,33,25,3176,Bigas,Spain
+1134,2016,UD Las Palmas,39,33,25,3234,Roque,Spain
+1135,2016,UD Las Palmas,39,33,25,3396,Ángel,Spain
+1136,2016,UD Las Palmas,39,33,25,4069,David García,Spain
+1137,2016,UD Las Palmas,39,33,25,4640,Dani Castellano,Spain
+1138,2016,UD Las Palmas,39,33,25,4653,Vicente Gómez,Spain
+1139,2016,UD Las Palmas,39,33,25,4789,Momo,Spain
+1140,2016,UD Las Palmas,39,33,25,5302,Raúl Lizoain,Spain
+1141,2016,UD Las Palmas,39,33,25,5332,Asdrúbal,Spain
+1142,2016,UD Las Palmas,39,33,25,6136,Tana,Spain
+1143,2016,UD Las Palmas,39,33,25,10568,Carlos,Spain
+1144,2016,UD Las Palmas,39,33,25,10979,Nili,Spain
+1145,2016,UD Las Palmas,39,33,25,11221,Maykel,Spain
+1146,2016,UD Las Palmas,39,33,25,11269,Dani Lorenzo,Spain
+1147,2016,Villarreal CF,67,35,18,180,M. Musacchio,Argentina
+1148,2016,Villarreal CF,67,35,18,264,Bruno,Spain
+1149,2016,Villarreal CF,67,35,18,293,Víctor Ruíz,Spain
+1150,2016,Villarreal CF,67,35,18,298,Sergio Asenjo,Spain
+1151,2016,Villarreal CF,67,35,18,404,Manu Trigueros,Spain
+1152,2016,Villarreal CF,67,35,18,413,Mario Gaspar,Spain
+1153,2016,Villarreal CF,67,35,18,505,Soldado,Spain
+1154,2016,Villarreal CF,67,35,18,577,J. dos Santos,Mexico
+1155,2016,Villarreal CF,67,35,18,583,Samuel,Spain
+1156,2016,Villarreal CF,67,35,18,588,Leo Baptistao,Brazil
+1157,2016,Villarreal CF,67,35,18,616,Tomás Pina,Spain
+1158,2016,Villarreal CF,67,35,18,725,Samu Castillejo,Spain
+1159,2016,Villarreal CF,67,35,18,801,Jaume Costa,Spain
+1160,2016,Villarreal CF,67,35,18,956,A. Aréola,France
+1161,2016,Villarreal CF,67,35,18,985,C. Bakambu,DR Congo
+1162,2016,Villarreal CF,67,35,18,1212,B. Jokič,Slovenia
+1163,2016,Villarreal CF,67,35,18,1222,A. Rukavina,Serbia
+1164,2016,Villarreal CF,67,35,18,1403,Adrián,Spain
+1165,2016,Villarreal CF,67,35,18,1523,M. Barbosa,Argentina
+1166,2016,Villarreal CF,67,35,18,2066,E. Bailly,Ivory Coast
+1167,2016,Villarreal CF,67,35,18,4328,Pablo Iñiguez,Spain
+1168,2016,Villarreal CF,67,35,18,5001,N. Leiva,Argentina
+1169,2016,Villarreal CF,67,35,18,5929,Alfonso,Spain
+1170,2016,Villarreal CF,67,35,18,6707,F. Acosta,Uruguay
+1171,2016,Villarreal CF,67,35,18,7868,Fran Sol,Spain
+1172,2016,Villarreal CF,67,35,18,8575,Marín,Spain
+1173,2016,Villarreal CF,67,35,18,8706,A. Shvets,Georgia
+1174,2016,Villarreal CF,67,35,18,8812,Aitor,Spain
+1175,2017,CD Leganés,43,19,19,1039,Rubén Pérez,Spain
+1176,2017,CD Leganés,43,19,19,1222,A. Szymanowski,Argentina
+1177,2017,CD Leganés,43,19,19,1284,Insua,Spain
+1178,2017,CD Leganés,43,19,19,1312,Gabriel,Brazil
+1179,2017,CD Leganés,43,19,19,1387,Serantes,Spain
+1180,2017,CD Leganés,43,19,19,1686,Diego Rico,Spain
+1181,2017,CD Leganés,43,19,19,1796,Timor,Spain
+1182,2017,CD Leganés,43,19,19,1880,C. Medjani,Algeria
+1183,2017,CD Leganés,43,19,19,2051,M. Mantovani,Argentina
+1184,2017,CD Leganés,43,19,19,2148,Luciano,Brazil
+1185,2017,CD Leganés,43,19,19,2434,Omar Ramos,Spain
+1186,2017,CD Leganés,43,19,19,2615,Marín,Spain
+1187,2017,CD Leganés,43,19,19,2669,D. Machís,Venezuela
+1188,2017,CD Leganés,43,19,19,3047,Víctor Díaz,Spain
+1189,2017,CD Leganés,43,19,19,3274,Robert Ibáñez,Spain
+1190,2017,CD Leganés,43,19,19,3279,Unai López,Spain
+1191,2017,CD Leganés,43,19,19,3417,Guerrero,Spain
+1192,2017,CD Leganés,43,19,19,4021,A. Brignoli,Italy
+1193,2017,CD Leganés,43,19,19,4381,Sastre,Spain
+1194,2017,CD Leganés,43,19,19,5804,Alberto Martín,Spain
+1195,2017,CD Leganés,43,19,19,5893,Toni Dovale,Spain
+1196,2017,CD Leganés,43,19,19,6544,M. Kone,Ivory Coast
+1197,2017,CD Leganés,43,19,19,6587,Bustinza,Spain
+1198,2017,CD Leganés,43,19,19,13706,Chiki,Spain
+1199,2017,CD Leganés,43,19,19,14794,Diego Barrios,Spain
+1200,2017,Valencia CF,73,36,16,116,E. Garay,Argentina
+1201,2017,Valencia CF,73,36,16,154,Nani,Portugal
+1202,2017,Valencia CF,73,36,16,167,Diego Alves,Brazil
+1203,2017,Valencia CF,73,36,16,225,Parejo,Spain
+1204,2017,Valencia CF,73,36,16,407,Gayà,Spain
+1205,2017,Valencia CF,73,36,16,418,E. Mangala,France
+1206,2017,Valencia CF,73,36,16,437,A. Abdennour,Tunisia
+1207,2017,Valencia CF,73,36,16,530,João Cancelo,Portugal
+1208,2017,Valencia CF,73,36,16,553,M. Ryan,Australia
+1209,2017,Valencia CF,73,36,16,580,Montoya,Spain
+1210,2017,Valencia CF,73,36,16,664,Mario Suárez,Spain
+1211,2017,Valencia CF,73,36,16,772,Rodrigo,Spain
+1212,2017,Valencia CF,73,36,16,886,Siqueira,Brazil
+1213,2017,Valencia CF,73,36,16,928,E. Pérez,Argentina
+1214,2017,Valencia CF,73,36,16,956,Medrán,Spain
+1215,2017,Valencia CF,73,36,16,958,F. Cartabia,Argentina
+1216,2017,Valencia CF,73,36,16,1085,Aderllan Santos,Brazil
+1217,2017,Valencia CF,73,36,16,1269,Santi Mina,Spain
+1218,2017,Valencia CF,73,36,16,2108,Z. Bakkali,Belgium
+1219,2017,Valencia CF,73,36,16,2151,Munir,Spain
+1220,2017,Valencia CF,73,36,16,2211,Jaume,Spain
+1221,2017,Valencia CF,73,36,16,4725,Fran Villalba,Spain
+1222,2017,Valencia CF,73,36,16,7305,Carlos Soler,Spain
+1223,2017,Valencia CF,73,36,16,7427,Toni Lato,Spain
+1224,2017,Valencia CF,73,36,16,7486,Ayala,Spain
+1225,2017,Valencia CF,73,36,16,8517,Salva Ruíz,Spain
+1226,2017,Valencia CF,73,36,16,9371,Nacho Gil,Spain
+1227,2017,Valencia CF,73,36,16,10313,Quim Araujo,Spain
+1228,2017,Valencia CF,73,36,16,11272,Rafa Mir,Spain
+1229,2017,Valencia CF,73,36,16,11467,Sivera,Spain
+1230,2017,Valencia CF,73,36,16,12803,Sito,Spain
+1231,2017,RC Celta Vigo,49,34,23,379,F. Orellana,Chile
+1232,2017,RC Celta Vigo,49,34,23,380,Iago Aspas,Spain
+1233,2017,RC Celta Vigo,49,34,23,399,Hugo Mallo,Spain
+1234,2017,RC Celta Vigo,49,34,23,442,D. Wass,Denmark
+1235,2017,RC Celta Vigo,49,34,23,479,G. Cabral,Argentina
+1236,2017,RC Celta Vigo,49,34,23,493,M. Díaz,Chile
+1237,2017,RC Celta Vigo,49,34,23,520,P. Hernández,Chile
+1238,2017,RC Celta Vigo,49,34,23,654,G. Rossi,Italy
+1239,2017,RC Celta Vigo,49,34,23,743,N. Radoja,Serbia
+1240,2017,RC Celta Vigo,49,34,23,790,Fontàs,Spain
+1241,2017,RC Celta Vigo,49,34,23,943,Sergi Gómez,Spain
+1242,2017,RC Celta Vigo,49,34,23,974,Jonny,Spain
+1243,2017,RC Celta Vigo,49,34,23,1142,Sergio,Spain
+1244,2017,RC Celta Vigo,49,34,23,1184,F. Roncaglia,Argentina
+1245,2017,RC Celta Vigo,49,34,23,1239,T. Bongonda,Belgium
+1246,2017,RC Celta Vigo,49,34,23,1279,J. Guidetti,Sweden
+1247,2017,RC Celta Vigo,49,34,23,1643,Naranjo,Spain
+1248,2017,RC Celta Vigo,49,34,23,1729,Carles Planas,Spain
+1249,2017,RC Celta Vigo,49,34,23,2099,P. Sisto,Denmark
+1250,2017,RC Celta Vigo,49,34,23,2485,C. Beauvue,France
+1251,2017,RC Celta Vigo,49,34,23,2598,Rubén Blanco,Spain
+1252,2017,RC Celta Vigo,49,34,23,4698,Álvaro Lemos,Spain
+1253,2017,RC Celta Vigo,49,34,23,4745,David Costas,Spain
+1254,2017,RC Celta Vigo,49,34,23,4800,Josep Señé,Spain
+1255,2017,RC Celta Vigo,49,34,23,7420,Borja Fernández,Spain
+1256,2017,RC Celta Vigo,49,34,23,8395,P. Diop,Spain
+1257,2017,RC Celta Vigo,49,34,23,8640,Borja Iglesias,Spain
+1258,2017,RC Celta Vigo,49,34,23,9447,Robert Costa,Spain
+1259,2017,RC Celta Vigo,49,34,23,9536,Gus Ledes,Portugal
+1260,2017,RC Celta Vigo,49,34,23,10414,Iván Villar,Spain
+1261,2017,RC Celta Vigo,49,34,23,10461,Diego Alende,Spain
+1262,2017,RC Celta Vigo,49,34,23,10678,Agus Medina,Spain
+1263,2017,RC Celta Vigo,49,34,23,12190,Roger Riera,Spain
+1264,2017,Girona FC,51,26,22,1815,Kiko Olivas,Spain
+1265,2017,Girona FC,51,26,22,2643,Portu,Spain
+1266,2017,Girona FC,51,26,22,2739,Cifuentes,Spain
+1267,2017,Girona FC,51,26,22,3324,Juanpe,Spain
+1268,2017,Girona FC,51,26,22,3774,Sandaza,Spain
+1269,2017,Girona FC,51,26,22,3911,Saúl,Spain
+1270,2017,Girona FC,51,26,22,3965,Pere Pons,Spain
+1271,2017,Girona FC,51,26,22,4082,Borja García,Spain
+1272,2017,Girona FC,51,26,22,4221,Alcalá,Spain
+1273,2017,Girona FC,51,26,22,4886,Cristian Herrera,Spain
+1274,2017,Girona FC,51,26,22,4894,Y. Bounou,Morocco
+1275,2017,Girona FC,51,26,22,5150,Richy,Spain
+1276,2017,Girona FC,51,26,22,5403,Granell,Spain
+1277,2017,Girona FC,51,26,22,5533,Ramalho,Spain
+1278,2017,Girona FC,51,26,22,5733,S. Longo,Italy
+1279,2017,Girona FC,51,26,22,6372,Pablo Marí,Spain
+1280,2017,Girona FC,51,26,22,6585,Juan Cámara,Spain
+1281,2017,Girona FC,51,26,22,6649,Rubén Alcaraz,Spain
+1282,2017,Girona FC,51,26,22,7119,René,Spain
+1283,2017,Girona FC,51,26,22,8150,Eloi Amagat,Spain
+1284,2017,Girona FC,51,26,22,8200,Aday Benítez,Spain
+1285,2017,Girona FC,51,26,22,8753,Carles Mas,Spain
+1286,2017,Girona FC,51,26,22,9009,Felipe Sanchón,Spain
+1287,2017,Girona FC,51,26,22,10675,Sebas Coris,Spain
+1288,2017,Girona FC,51,26,22,14353,Gianni Cassaró,Spain
+1289,2017,Girona FC,51,26,22,14578,Sergi Álamo,Spain
+1290,2017,Girona FC,51,26,22,14740,Serrano,Spain
+1291,2017,Sevilla FC,58,31,22,224,S. N'Zonzi,France
+1292,2017,Sevilla FC,58,31,22,227,Vitolo,Spain
+1293,2017,Sevilla FC,58,31,22,246,M. Krohn-Dehli,Denmark
+1294,2017,Sevilla FC,58,31,22,249,S. Nasri,France
+1295,2017,Sevilla FC,58,31,22,253,S. Sirigu,Italy
+1296,2017,Sevilla FC,58,31,22,259,A. Rami,France
+1297,2017,Sevilla FC,58,31,22,264,Iborra,Spain
+1298,2017,Sevilla FC,58,31,22,266,F. Vázquez,Italy
+1299,2017,Sevilla FC,58,31,22,309,Ganso,Brazil
+1300,2017,Sevilla FC,58,31,22,321,Daniel Carriço,Portugal
+1301,2017,Sevilla FC,58,31,22,367,B. Trémoulinas,France
+1302,2017,Sevilla FC,58,31,22,392,T. Kolodziejczak,France
+1303,2017,Sevilla FC,58,31,22,405,Sergio Rico,Spain
+1304,2017,Sevilla FC,58,31,22,423,W. Ben Yedder,France
+1305,2017,Sevilla FC,58,31,22,536,L. Vietto,Argentina
+1306,2017,Sevilla FC,58,31,22,599,H. Kiyotake,Japan
+1307,2017,Sevilla FC,58,31,22,688,Mariano,Brazil
+1308,2017,Sevilla FC,58,31,22,754,Pablo Sarabia,Spain
+1309,2017,Sevilla FC,58,31,22,948,M. Kranevitter,Argentina
+1310,2017,Sevilla FC,58,31,22,1070,Escudero,Spain
+1311,2017,Sevilla FC,58,31,22,1144,N. Pareja,Argentina
+1312,2017,Sevilla FC,58,31,22,1573,G. Mercado,Argentina
+1313,2017,Sevilla FC,58,31,22,2113,J. Correa,Argentina
+1314,2017,Sevilla FC,58,31,22,2638,David Soria,Spain
+1315,2017,Sevilla FC,58,31,22,11434,José Amo,Spain
+1316,2017,Sevilla FC,58,31,22,12172,Eliseo Falcón,Spain
+1317,2017,Sevilla FC,58,31,22,13584,Javi Díaz,Spain
+1318,2017,Athletic Club Bilbao,43,19,16,91,A. Laporte,France
+1319,2017,Athletic Club Bilbao,43,19,16,112,Aduriz,Spain
+1320,2017,Athletic Club Bilbao,43,19,16,257,Beñat,Spain
+1321,2017,Athletic Club Bilbao,43,19,16,308,Mikel San José,Spain
+1322,2017,Athletic Club Bilbao,43,19,16,322,Iturraspe,Spain
+1323,2017,Athletic Club Bilbao,43,19,16,324,De Marcos,Spain
+1324,2017,Athletic Club Bilbao,43,19,16,359,Raúl García,Spain
+1325,2017,Athletic Club Bilbao,43,19,16,397,Williams,Spain
+1326,2017,Athletic Club Bilbao,43,19,16,517,Etxeita,Spain
+1327,2017,Athletic Club Bilbao,43,19,16,622,Iraizoz,Spain
+1328,2017,Athletic Club Bilbao,43,19,16,696,Balenziaga,Spain
+1329,2017,Athletic Club Bilbao,43,19,16,744,Muniain,Spain
+1330,2017,Athletic Club Bilbao,43,19,16,919,Susaeta,Spain
+1331,2017,Athletic Club Bilbao,43,19,16,1069,Bóveda,Spain
+1332,2017,Athletic Club Bilbao,43,19,16,1114,Mikel Rico,Spain
+1333,2017,Athletic Club Bilbao,43,19,16,1604,Herrerín,Spain
+1334,2017,Athletic Club Bilbao,43,19,16,1946,Elustondo,Spain
+1335,2017,Athletic Club Bilbao,43,19,16,2152,Sabin Merino,Spain
+1336,2017,Athletic Club Bilbao,43,19,16,2287,Eraso,Spain
+1337,2017,Athletic Club Bilbao,43,19,16,2629,Kepa Arrizabalaga,Spain
+1338,2017,Athletic Club Bilbao,43,19,16,2639,Lekue,Spain
+1339,2017,Athletic Club Bilbao,43,19,16,3244,Aketxe,Spain
+1340,2017,Athletic Club Bilbao,43,19,16,3316,Yeray,Spain
+1341,2017,Athletic Club Bilbao,43,19,16,5567,Vesga,Spain
+1342,2017,Athletic Club Bilbao,43,19,16,6486,Saborit,Spain
+1343,2017,Athletic Club Bilbao,43,19,16,8376,Unai Simón,Spain
+1344,2017,Athletic Club Bilbao,43,19,16,8378,Villalibre,Spain
+1345,2017,Athletic Club Bilbao,43,19,16,8480,Tarsi,Spain
+1346,2017,Athletic Club Bilbao,43,19,16,10522,Bengoa,Spain
+1347,2017,Athletic Club Bilbao,43,19,16,11551,Agirrezabala,Spain
+1348,2017,FC Barcelona,93,53,11,1,L. Messi,Argentina
+1349,2017,FC Barcelona,93,53,11,2,Neymar,Brazil
+1350,2017,FC Barcelona,93,53,11,4,L. Suárez,Uruguay
+1351,2017,FC Barcelona,93,53,11,33,Sergio Busquets,Spain
+1352,2017,FC Barcelona,93,53,11,39,I. Rakitić,Croatia
+1353,2017,FC Barcelona,93,53,11,47,Jordi Alba,Spain
+1354,2017,FC Barcelona,93,53,11,51,Piqué,Spain
+1355,2017,FC Barcelona,93,53,11,69,J. Mascherano,Argentina
+1356,2017,FC Barcelona,93,53,11,86,André Gomes,Portugal
+1357,2017,FC Barcelona,93,53,11,113,A. Turan,Turkey
+1358,2017,FC Barcelona,93,53,11,130,M. ter Stegen,Germany
+1359,2017,FC Barcelona,93,53,11,203,S. Umtiti,France
+1360,2017,FC Barcelona,93,53,11,277,Paco Alcácer,Spain
+1361,2017,FC Barcelona,93,53,11,316,J. Cillessen,Netherlands
+1362,2017,FC Barcelona,93,53,11,341,J. Mathieu,France
+1363,2017,FC Barcelona,93,53,11,389,Denis Suárez,Spain
+1364,2017,FC Barcelona,93,53,11,401,Rafinha,Brazil
+1365,2017,FC Barcelona,93,53,11,544,Sergi Roberto,Spain
+1366,2017,FC Barcelona,93,53,11,554,L. Digne,France
+1367,2017,FC Barcelona,93,53,11,1077,Aleix Vidal,Spain
+1368,2017,FC Barcelona,93,53,11,3208,Marlon Santos,Brazil
+1369,2017,FC Barcelona,93,53,11,3926,Borja López,Spain
+1370,2017,FC Barcelona,93,53,11,3956,Nili Perdomo,Spain
+1371,2017,FC Barcelona,93,53,11,4900,Gerard,Spain
+1372,2017,FC Barcelona,93,53,11,5036,Jordi Masip,Spain
+1373,2017,FC Barcelona,93,53,11,6472,W. Kaptoum,Cameroon
+1374,2017,FC Barcelona,93,53,11,8408,Sergi Palencia,Spain
+1375,2017,FC Barcelona,93,53,11,8423,José Suarez,Spain
+1376,2017,FC Barcelona,93,53,11,9527,Marc Cardona,Spain
+1377,2017,FC Barcelona,93,53,11,10399,Aleñà,Spain
+1378,2017,FC Barcelona,93,53,11,10426,Rafa Mújica,Spain
+1379,2017,FC Barcelona,93,53,11,10519,Àlex Carbonell,Spain
+1380,2017,RCD La Coruña,29,22,33,429,Sidnei,Brazil
+1381,2017,RCD La Coruña,29,22,33,682,Mosquera,Spain
+1382,2017,RCD La Coruña,29,22,33,912,Juanfran,Spain
+1383,2017,RCD La Coruña,29,22,33,975,Carles Gil,Spain
+1384,2017,RCD La Coruña,29,22,33,982,F. Andone,Romania
+1385,2017,RCD La Coruña,29,22,33,1007,E. Çolak,Turkey
+1386,2017,RCD La Coruña,29,22,33,1082,Albentosa,Spain
+1387,2017,RCD La Coruña,29,22,33,1107,G. Lux,Argentina
+1388,2017,RCD La Coruña,29,22,33,1204,C. Borges,Costa Rica
+1389,2017,RCD La Coruña,29,22,33,1218,F. Fajr,Morocco
+1390,2017,RCD La Coruña,29,22,33,1364,Joselu,Spain
+1391,2017,RCD La Coruña,29,22,33,1380,Arribas,Spain
+1392,2017,RCD La Coruña,29,22,33,1493,R. Babel,Netherlands
+1393,2017,RCD La Coruña,29,22,33,1510,Bruno Gama,Portugal
+1394,2017,RCD La Coruña,29,22,33,1764,Guilherme,Brazil
+1395,2017,RCD La Coruña,29,22,33,1858,Fernando Navarro,Spain
+1396,2017,RCD La Coruña,29,22,33,1956,P. Tytoń,Poland
+1397,2017,RCD La Coruña,29,22,33,1985,Luisinho,Portugal
+1398,2017,RCD La Coruña,29,22,33,2511,Laure,Spain
+1399,2017,RCD La Coruña,29,22,33,2512,Alex Bergantiños,Spain
+1400,2017,RCD La Coruña,29,22,33,3195,M. Moreno,Colombia
+1401,2017,RCD La Coruña,29,22,33,3317,Borja Valle,Spain
+1402,2017,RCD La Coruña,29,22,33,4312,Rubén,Spain
+1403,2017,RCD La Coruña,29,22,33,7362,Óscar Pinchi,Spain
+1404,2017,RCD La Coruña,29,22,33,8643,Nacho Monsalve,Spain
+1405,2017,RCD La Coruña,29,22,33,9357,Hugo Rama,Spain
+1406,2017,RCD La Coruña,29,22,33,9477,Àlex Corredera,Spain
+1407,2017,RCD La Coruña,29,22,33,9520,Borja Domingo,Spain
+1408,2017,RCD La Coruña,29,22,33,11291,Edu Expósito,Spain
+1409,2017,RCD La Coruña,29,22,33,12203,Manú,Portugal
+1410,2017,RCD La Coruña,29,22,33,12233,M. Legaz,Argentina
+1411,2017,RCD La Coruña,29,22,33,12864,Lucas Viña,Spain
+1412,2017,RCD La Coruña,29,22,33,13045,Queijeiro,Spain
+1413,2017,Levante UD,46,25,28,934,Morales,Spain
+1414,2017,Levante UD,46,25,28,1660,J. Lerma,Colombia
+1415,2017,Levante UD,46,25,28,1709,Campaña,Spain
+1416,2017,Levante UD,46,25,28,1832,Rafael Martins,Brazil
+1417,2017,Levante UD,46,25,28,2160,Javi Espinosa,Spain
+1418,2017,Levante UD,46,25,28,2277,Toño,Spain
+1419,2017,Levante UD,46,25,28,2644,Iván López,Spain
+1420,2017,Levante UD,46,25,28,2650,Rubén García,Spain
+1421,2017,Levante UD,46,25,28,2674,Chema Rodríguez,Spain
+1422,2017,Levante UD,46,25,28,2732,Roger,Spain
+1423,2017,Levante UD,46,25,28,2875,Postigo,Spain
+1424,2017,Levante UD,46,25,28,2935,Verza,Spain
+1425,2017,Levante UD,46,25,28,3117,Montañés,Spain
+1426,2017,Levante UD,46,25,28,3213,Álex Remiro,Spain
+1427,2017,Levante UD,46,25,28,3638,Pedro López,Spain
+1428,2017,Levante UD,46,25,28,3652,Víctor Casadesús,Spain
+1429,2017,Levante UD,46,25,28,3743,Natxo Insa,Spain
+1430,2017,Levante UD,46,25,28,4023,E. Saveljich,Montenegro
+1431,2017,Levante UD,46,25,28,4676,Jason,Spain
+1432,2017,Levante UD,46,25,28,4913,Raúl Fernández,Spain
+1433,2017,Levante UD,46,25,28,5340,Abraham,Spain
+1434,2017,Levante UD,46,25,28,5459,Rober Pier,Spain
+1435,2017,Levante UD,46,25,28,10331,Pepelu,Spain
+1436,2017,Levante UD,46,25,28,11449,Koke,Spain
+1437,2017,Levante UD,46,25,28,11553,Álvaro Traver,Spain
+1438,2017,Levante UD,46,25,28,13093,Juan Delgado,Spain
+1439,2017,Levante UD,46,25,28,13630,Matías,Spain
+1440,2017,Levante UD,46,25,28,13759,Kaiser,Spain
+1441,2017,Málaga CF,20,14,27,294,Camacho,Spain
+1442,2017,Málaga CF,20,14,27,393,Keko,Spain
+1443,2017,Málaga CF,20,14,27,454,C. Kameni,Cameroon
+1444,2017,Málaga CF,20,14,27,678,Weligton,Brazil
+1445,2017,Málaga CF,20,14,27,719,Diego Llorente,Spain
+1446,2017,Málaga CF,20,14,27,759,Recio,Spain
+1447,2017,Málaga CF,20,14,27,780,Jony,Spain
+1448,2017,Málaga CF,20,14,27,862,Charles,Brazil
+1449,2017,Málaga CF,20,14,27,937,D. Boyko,Ukraine
+1450,2017,Málaga CF,20,14,27,1061,R. Rosales,Venezuela
+1451,2017,Málaga CF,20,14,27,1238,J. Añor,Venezuela
+1452,2017,Málaga CF,20,14,27,1259,Pablo Fornals,Spain
+1453,2017,Málaga CF,20,14,27,1518,Z. Kuzmanović,Serbia
+1454,2017,Málaga CF,20,14,27,1568,B. Koné,Burkina Faso
+1455,2017,Málaga CF,20,14,27,1669,F. Ricca,Uruguay
+1456,2017,Málaga CF,20,14,27,1952,G. Castro,Uruguay
+1457,2017,Málaga CF,20,14,27,1978,Miguel Torres,Spain
+1458,2017,Málaga CF,20,14,27,2117,Sandro,Spain
+1459,2017,Málaga CF,20,14,27,3318,M. Santos,Uruguay
+1460,2017,Málaga CF,20,14,27,3537,Juankar,Spain
+1461,2017,Málaga CF,20,14,27,3582,Duda,Portugal
+1462,2017,Málaga CF,20,14,27,5600,M. Villanueva,Venezuela
+1463,2017,Málaga CF,20,14,27,8388,Javi Ontiveros,Spain
+1464,2017,Málaga CF,20,14,27,9362,Y. En-Nesyri,Morocco
+1465,2017,Málaga CF,20,14,27,11287,Kuki Zalazar,Spain
+1466,2017,Málaga CF,20,14,27,12437,Aarón,Spain
+1467,2017,Málaga CF,20,14,27,13055,Javi Jiménez,Spain
+1468,2017,Málaga CF,20,14,27,14594,Joel Arimany,Spain
+1469,2017,Málaga CF,20,14,27,16158,Samu Casado,Spain
+1470,2017,Real Betis,60,35,31,342,Rubén Castro,Spain
+1471,2017,Real Betis,60,35,31,495,Adán,Spain
+1472,2017,Real Betis,60,35,31,570,Bruno,Spain
+1473,2017,Real Betis,60,35,31,711,A. Sanabria,Paraguay
+1474,2017,Real Betis,60,35,31,748,A. Mandi,Algeria
+1475,2017,Real Betis,60,35,31,797,Petros,Brazil
+1476,2017,Real Betis,60,35,31,824,Joaquín,Spain
+1477,2017,Real Betis,60,35,31,940,C. Musonda,Belgium
+1478,2017,Real Betis,60,35,31,949,Dani Ceballos,Spain
+1479,2017,Real Betis,60,35,31,960,G. Pezzella,Argentina
+1480,2017,Real Betis,60,35,31,1261,C. Piccini,Italy
+1481,2017,Real Betis,60,35,31,1358,R. Zozulya,Ukraine
+1482,2017,Real Betis,60,35,31,1379,J. Martin,France
+1483,2017,Real Betis,60,35,31,1473,Cejudo,Spain
+1484,2017,Real Betis,60,35,31,1760,F. Gutiérrez,Chile
+1485,2017,Real Betis,60,35,31,2104,N. Leiva,Spain
+1486,2017,Real Betis,60,35,31,2468,R. Donk,Netherlands
+1487,2017,Real Betis,60,35,31,2711,D. Brasanac,Serbia
+1488,2017,Real Betis,60,35,31,2777,Alex Martínez,Spain
+1489,2017,Real Betis,60,35,31,3276,Alex Alegría,Spain
+1490,2017,Real Betis,60,35,31,3936,Fabián,Spain
+1491,2017,Real Betis,60,35,31,5125,Dani Giménez,Spain
+1492,2017,Real Betis,60,35,31,5515,R. Durmisi,Denmark
+1493,2017,Real Betis,60,35,31,8392,José Carlos,Spain
+1494,2017,Real Betis,60,35,31,9546,De La Hoz,Spain
+1495,2017,Real Betis,60,35,31,11399,Rafa Navarro,Spain
+1496,2017,Real Betis,60,35,31,11661,Juanma,Spain
+1497,2017,Real Betis,60,35,31,13562,J. Narváez,Colombia
+1498,2017,Real Sociedad,49,47,29,193,G. Rulli,Argentina
+1499,2017,Real Sociedad,49,47,29,289,Iñigo Martínez,Spain
+1500,2017,Real Sociedad,49,47,29,357,C. Vela,Mexico
+1501,2017,Real Sociedad,49,47,29,568,Canales,Spain
+1502,2017,Real Sociedad,49,47,29,595,Illarramendi,Spain
+1503,2017,Real Sociedad,49,47,29,652,Agirretxe,Spain
+1504,2017,Real Sociedad,49,47,29,734,Willian José,Brazil
+1505,2017,Real Sociedad,49,47,29,842,Xabi Prieto,Spain
+1506,2017,Real Sociedad,49,47,29,882,Zurutuza,France
+1507,2017,Real Sociedad,49,47,29,950,Oyarzabal,Spain
+1508,2017,Real Sociedad,49,47,29,969,Rubén Pardo,Spain
+1509,2017,Real Sociedad,49,47,29,1036,Yuri,Spain
+1510,2017,Real Sociedad,49,47,29,1258,Aritz Elustondo,Spain
+1511,2017,Real Sociedad,49,47,29,1489,Markel Bergara,Spain
+1512,2017,Real Sociedad,49,47,29,1531,Mikel Gonzalez,Spain
+1513,2017,Real Sociedad,49,47,29,1545,Granero,Spain
+1514,2017,Real Sociedad,49,47,29,1671,Juanmi,Spain
+1515,2017,Real Sociedad,49,47,29,2319,Raúl Navas,Spain
+1516,2017,Real Sociedad,49,47,29,2675,Zaldúa,Spain
+1517,2017,Real Sociedad,49,47,29,3335,Héctor,Spain
+1518,2017,Real Sociedad,49,47,29,3685,Carlos Martínez,Spain
+1519,2017,Real Sociedad,49,47,29,4045,Gaztañaga,Spain
+1520,2017,Real Sociedad,49,47,29,4630,Concha,Spain
+1521,2017,Real Sociedad,49,47,29,6770,Toño Ramirez,Spain
+1522,2017,Real Sociedad,49,47,29,7315,Zubeldia,Spain
+1523,2017,Real Sociedad,49,47,29,7429,P. Sisniega,Mexico
+1524,2017,Real Sociedad,49,47,29,9375,Jon Bautista,Spain
+1525,2017,Real Sociedad,49,47,29,10505,Merquelanz,Spain
+1526,2017,Real Sociedad,49,47,29,10617,Sanz,Spain
+1527,2017,Real Sociedad,49,47,29,10683,Bardaji,Spain
+1528,2017,Real Sociedad,49,47,29,11432,Muguruza,Spain
+1529,2017,Real Sociedad,49,47,29,13521,R. Le Normand,France
+1530,2017,Real Sociedad,49,47,29,13660,Odriozola,Spain
+1531,2017,Deportivo Alavés,47,21,23,1050,D. Torres,Colombia
+1532,2017,Deportivo Alavés,47,21,23,1079,Z. Feddal,Morocco
+1533,2017,Deportivo Alavés,47,21,23,1253,Camarasa,Spain
+1534,2017,Deportivo Alavés,47,21,23,1264,Pacheco,Spain
+1535,2017,Deportivo Alavés,47,21,23,1320,Deyverson,Brazil
+1536,2017,Deportivo Alavés,47,21,23,1376,Laguardia,Spain
+1537,2017,Deportivo Alavés,47,21,23,1830,Ibai Gómez,Spain
+1538,2017,Deportivo Alavés,47,21,23,1872,Alexis,Spain
+1539,2017,Deportivo Alavés,47,21,23,2162,A. Katai,Serbia
+1540,2017,Deportivo Alavés,47,21,23,2208,A. Pantic,Serbia
+1541,2017,Deportivo Alavés,47,21,23,2270,Raul García,Spain
+1542,2017,Deportivo Alavés,47,21,23,2446,Manu García,Spain
+1543,2017,Deportivo Alavés,47,21,23,2603,Marcos Llorente,Spain
+1544,2017,Deportivo Alavés,47,21,23,2616,C. Espinoza,Argentina
+1545,2017,Deportivo Alavés,47,21,23,2751,Kiko Femenía,Spain
+1546,2017,Deportivo Alavés,47,21,23,2752,N. Krstičić,Serbia
+1547,2017,Deportivo Alavés,47,21,23,3111,C. Santos,Venezuela
+1548,2017,Deportivo Alavés,47,21,23,3678,Toquero,Spain
+1549,2017,Deportivo Alavés,47,21,23,3951,Vigaray,Spain
+1550,2017,Deportivo Alavés,47,21,23,4156,Edgar Méndez,Spain
+1551,2017,Deportivo Alavés,47,21,23,4737,Rubén Sobrino,Spain
+1552,2017,Deportivo Alavés,47,21,23,5481,Adrián Ortolá,Spain
+1553,2017,Deportivo Alavés,47,21,23,6183,Manu Barreiro,Spain
+1554,2017,Deportivo Alavés,47,21,23,7418,Manu García,Spain
+1555,2017,Deportivo Alavés,47,21,23,8390,T. Hernández,France
+1556,2017,Deportivo Alavés,47,21,23,10605,Sergio Llamas,Spain
+1557,2017,Deportivo Alavés,47,21,23,11520,Einar Galilea,Spain
+1558,2017,Deportivo Alavés,47,21,23,12943,Dani Iglesias,Spain
+1559,2017,Deportivo Alavés,47,21,23,12977,Asier Benito,Spain
+1560,2017,Deportivo Alavés,47,21,23,13494,Aritz Castro,Spain
+1561,2017,UD Las Palmas,22,15,38,385,M. Lemos,Uruguay
+1562,2017,UD Las Palmas,22,15,38,448,Jonathan Viera,Spain
+1563,2017,UD Las Palmas,22,15,38,612,Roque Mesa,Spain
+1564,2017,UD Las Palmas,22,15,38,670,K. Boateng,Ghana
+1565,2017,UD Las Palmas,22,15,38,883,Javi Varas,Spain
+1566,2017,UD Las Palmas,22,15,38,930,Vicente Gómez,Spain
+1567,2017,UD Las Palmas,22,15,38,1028,Bigas,Spain
+1568,2017,UD Las Palmas,22,15,38,1182,N. El Zhar,Morocco
+1569,2017,UD Las Palmas,22,15,38,1360,Tana,Spain
+1570,2017,UD Las Palmas,22,15,38,1368,Michel Macedo,Brazil
+1571,2017,UD Las Palmas,22,15,38,1389,David Simón,Spain
+1572,2017,UD Las Palmas,22,15,38,1471,David García,Spain
+1573,2017,UD Las Palmas,22,15,38,1525,Aythami Artiles,Spain
+1574,2017,UD Las Palmas,22,15,38,1698,M. Livaja,Croatia
+1575,2017,UD Las Palmas,22,15,38,1726,S. Araujo,Argentina
+1576,2017,UD Las Palmas,22,15,38,2517,Dani Castellano,Spain
+1577,2017,UD Las Palmas,22,15,38,3090,Javi Castellano,Spain
+1578,2017,UD Las Palmas,22,15,38,3424,Hernán,Spain
+1579,2017,UD Las Palmas,22,15,38,3549,Hélder Lopes,Portugal
+1580,2017,UD Las Palmas,22,15,38,3615,Momo,Spain
+1581,2017,UD Las Palmas,22,15,38,4086,Raúl Lizoain,Spain
+1582,2017,UD Las Palmas,22,15,38,4454,Montoro,Spain
+1583,2017,UD Las Palmas,22,15,38,4925,Tyronne,Spain
+1584,2017,UD Las Palmas,22,15,38,6704,Asdrúbal,Spain
+1585,2017,UD Las Palmas,22,15,38,7348,M. García,Argentina
+1586,2017,UD Las Palmas,22,15,38,9601,Alvaro Arencibia,Spain
+1587,2017,UD Las Palmas,22,15,38,11378,R. Peña,Venezuela
+1588,2017,UD Las Palmas,22,15,38,11401,José Artiles,Spain
+1589,2017,UD Las Palmas,22,15,38,11446,Benito,Spain
+1590,2017,UD Las Palmas,22,15,38,12156,Carlos González,Spain
+1591,2017,UD Las Palmas,22,15,38,12375,Borja Herrera,Spain
+1592,2017,UD Las Palmas,22,15,38,14743,David Ramírez,Spain
+1593,2017,SD Eibar,51,26,19,721,G. Escalante,Argentina
+1594,2017,SD Eibar,51,26,19,1042,Sergi Enrich,Spain
+1595,2017,SD Eibar,51,26,19,1049,M. Dos Santos,Argentina
+1596,2017,SD Eibar,51,26,19,1052,Dani García,Spain
+1597,2017,SD Eibar,51,26,19,1162,Pedro León,Spain
+1598,2017,SD Eibar,51,26,19,1301,F. Lejeune,France
+1599,2017,SD Eibar,51,26,19,1322,Capa,Spain
+1600,2017,SD Eibar,51,26,19,1398,Bebé,Portugal
+1601,2017,SD Eibar,51,26,19,1474,Iván Ramis,Spain
+1602,2017,SD Eibar,51,26,19,1697,David Juncà,Spain
+1603,2017,SD Eibar,51,26,19,1831,Gálvez,Spain
+1604,2017,SD Eibar,51,26,19,1954,Fran Rico,Spain
+1605,2017,SD Eibar,51,26,19,1977,Adrián González,Spain
+1606,2017,SD Eibar,51,26,19,2049,T. Inui,Japan
+1607,2017,SD Eibar,51,26,19,2243,Rubén Peña,Spain
+1608,2017,SD Eibar,51,26,19,2359,Riesgo,Spain
+1609,2017,SD Eibar,51,26,19,2721,Luna,Spain
+1610,2017,SD Eibar,51,26,19,2758,Kike,Spain
+1611,2017,SD Eibar,51,26,19,2776,Jota,Spain
+1612,2017,SD Eibar,51,26,19,3223,Nano,Spain
+1613,2017,SD Eibar,51,26,19,3499,Yoel,Spain
+1614,2017,SD Eibar,51,26,19,3815,Arbilla,Spain
+1615,2017,SD Eibar,51,26,19,9338,Christian Rivera,Spain
+1616,2017,SD Eibar,51,26,19,11555,Etxaburu,Spain
+1617,2017,SD Eibar,51,26,19,14258,Amorrortu,Spain
+1618,2017,SD Eibar,51,26,19,14604,Markel Areitio,Spain
+1619,2017,RCD Espanyol,49,20,16,349,Diego López,Spain
+1620,2017,RCD Espanyol,49,20,16,507,Roberto,Spain
+1621,2017,RCD Espanyol,49,20,16,563,Leo Baptistao,Brazil
+1622,2017,RCD Espanyol,49,20,16,627,M. Demichelis,Argentina
+1623,2017,RCD Espanyol,49,20,16,636,Javi Fuego,Spain
+1624,2017,RCD Espanyol,49,20,16,733,D. Reyes,Mexico
+1625,2017,RCD Espanyol,49,20,16,830,Reyes,Spain
+1626,2017,RCD Espanyol,49,20,16,854,Jurado,Spain
+1627,2017,RCD Espanyol,49,20,16,888,F. Caicedo,Ecuador
+1628,2017,RCD Espanyol,49,20,16,896,P. Diop,Senegal
+1629,2017,RCD Espanyol,49,20,16,906,P. Piatti,Argentina
+1630,2017,RCD Espanyol,49,20,16,927,H. Pérez,Paraguay
+1631,2017,RCD Espanyol,49,20,16,973,Gerard Moreno,Spain
+1632,2017,RCD Espanyol,49,20,16,1075,David López,Spain
+1633,2017,RCD Espanyol,49,20,16,1211,Javi López,Spain
+1634,2017,RCD Espanyol,49,20,16,1431,O. Duarte,Costa Rica
+1635,2017,RCD Espanyol,49,20,16,1594,Victor Sánchez,Spain
+1636,2017,RCD Espanyol,49,20,16,2137,Víctor Álvarez,Spain
+1637,2017,RCD Espanyol,49,20,16,2691,Álvaro,Spain
+1638,2017,RCD Espanyol,49,20,16,2964,Salva Sevilla,Spain
+1639,2017,RCD Espanyol,49,20,16,3283,Rubén Duarte,Spain
+1640,2017,RCD Espanyol,49,20,16,5509,Marc Roca,Spain
+1641,2017,RCD Espanyol,49,20,16,7346,Lluis López,Spain
+1642,2017,RCD Espanyol,49,20,16,9403,M. Latour,France
+1643,2017,RCD Espanyol,49,20,16,9743,Rufo,Spain
+1644,2017,RCD Espanyol,49,20,16,10434,Andrés Prieto,Spain
+1645,2017,RCD Espanyol,49,20,16,11437,Marc Navarro,Spain
+1646,2017,RCD Espanyol,49,20,16,12218,Aarón Martín,Spain
+1647,2017,Getafe CF,55,26,13,1937,M. Lacen,Algeria
+1648,2017,Getafe CF,55,26,13,2020,Guaita,Spain
+1649,2017,Getafe CF,55,26,13,2047,D. Suárez,Uruguay
+1650,2017,Getafe CF,55,26,13,2218,Dani Pacheco,Spain
+1651,2017,Getafe CF,55,26,13,2378,D. Díaz,Argentina
+1652,2017,Getafe CF,55,26,13,2392,A. Faurlín,Argentina
+1653,2017,Getafe CF,55,26,13,2798,Juan Cala,Spain
+1654,2017,Getafe CF,55,26,13,2807,S. Šćepović,Serbia
+1655,2017,Getafe CF,55,26,13,2955,Jorge Molina,Spain
+1656,2017,Getafe CF,55,26,13,3007,David Fuster,Spain
+1657,2017,Getafe CF,55,26,13,3073,F. Kadir,Algeria
+1658,2017,Getafe CF,55,26,13,3486,N. Gorosito,Argentina
+1659,2017,Getafe CF,55,26,13,3526,Portillo,Spain
+1660,2017,Getafe CF,55,26,13,3658,Molinero,Spain
+1661,2017,Getafe CF,55,26,13,3752,Kike Sola,Spain
+1662,2017,Getafe CF,55,26,13,4435,J. van den Bergh,Germany
+1663,2017,Getafe CF,55,26,13,4461,A. Yoda,France
+1664,2017,Getafe CF,55,26,13,4571,F. Castillón,Argentina
+1665,2017,Getafe CF,55,26,13,4663,E. Buendía,Argentina
+1666,2017,Getafe CF,55,26,13,4849,P. Anton,Romania
+1667,2017,Getafe CF,55,26,13,6172,Alberto,Spain
+1668,2017,Getafe CF,55,26,13,6654,R. Feltscher,Venezuela
+1669,2017,Getafe CF,55,26,13,10575,Álvaro Jiménez,Spain
+1670,2017,Getafe CF,55,26,13,11484,Miguel Ángel,Spain
+1671,2017,Getafe CF,55,26,13,11656,Calderón,Spain
+1672,2017,Getafe CF,55,26,13,14396,David Gil,Spain
+1673,2017,Getafe CF,55,26,13,14840,Pepelu,Spain
+1674,2017,Real Madrid,76,54,20,0,Cristiano Ronaldo,Portugal
+1675,2017,Real Madrid,76,54,20,7,G. Bale,Wales
+1676,2017,Real Madrid,76,54,20,13,Sergio Ramos,Spain
+1677,2017,Real Madrid,76,54,20,15,L. Modrić,Croatia
+1678,2017,Real Madrid,76,54,20,19,T. Kroos,Germany
+1679,2017,Real Madrid,76,54,20,23,Pepe,Portugal
+1680,2017,Real Madrid,76,54,20,30,J. Rodríguez,Colombia
+1681,2017,Real Madrid,76,54,20,37,K. Benzema,France
+1682,2017,Real Madrid,76,54,20,57,Marcelo,Brazil
+1683,2017,Real Madrid,76,54,20,82,K. Navas,Costa Rica
+1684,2017,Real Madrid,76,54,20,83,R. Varane,France
+1685,2017,Real Madrid,76,54,20,89,Isco,Spain
+1686,2017,Real Madrid,76,54,20,140,Carvajal,Spain
+1687,2017,Real Madrid,76,54,20,199,Casemiro,Brazil
+1688,2017,Real Madrid,76,54,20,205,Morata,Spain
+1689,2017,Real Madrid,76,54,20,271,Marco Asensio,Spain
+1690,2017,Real Madrid,76,54,20,302,Lucas Vázquez,Spain
+1691,2017,Real Madrid,76,54,20,422,Danilo,Brazil
+1692,2017,Real Madrid,76,54,20,484,Fábio Coentrão,Portugal
+1693,2017,Real Madrid,76,54,20,548,M. Kovačić,Croatia
+1694,2017,Real Madrid,76,54,20,679,Kiko Casilla,Spain
+1695,2017,Real Madrid,76,54,20,792,Nacho Fernández,Spain
+1696,2017,Real Madrid,76,54,20,2279,Lucas Silva,Brazil
+1697,2017,Real Madrid,76,54,20,3950,Mariano,Dominican Republic
+1698,2017,Real Madrid,76,54,20,4626,M. Ødegaard,Norway
+1699,2017,Real Madrid,76,54,20,7307,Aleix Febas,Spain
+1700,2017,Real Madrid,76,54,20,7316,S. Díaz,Paraguay
+1701,2017,Real Madrid,76,54,20,8478,E. Fernández,France
+1702,2017,Real Madrid,76,54,20,9358,P. Lienhart,Austria
+1703,2017,Real Madrid,76,54,20,9511,N. Vergos,Greece
+1704,2017,Real Madrid,76,54,20,9564,Rubén Yáñez,Spain
+1705,2017,Real Madrid,76,54,20,10425,A. Hakimi,Morocco
+1706,2017,Real Madrid,76,54,20,12171,Álvaro Tejero,Spain
+1707,2017,Villarreal CF,61,35,22,135,M. Musacchio,Argentina
+1708,2017,Villarreal CF,61,35,22,180,Bruno,Spain
+1709,2017,Villarreal CF,61,35,22,287,C. Bakambu,DR Congo
+1710,2017,Villarreal CF,61,35,22,304,Sergio Asenjo,Spain
+1711,2017,Villarreal CF,61,35,22,326,Víctor Ruíz,Spain
+1712,2017,Villarreal CF,61,35,22,390,Samu Castillejo,Spain
+1713,2017,Villarreal CF,61,35,22,404,Manu Trigueros,Spain
+1714,2017,Villarreal CF,61,35,22,410,Mario Gaspar,Spain
+1715,2017,Villarreal CF,61,35,22,441,J. dos Santos,Mexico
+1716,2017,Villarreal CF,61,35,22,443,Alexandre Pato,Brazil
+1717,2017,Villarreal CF,61,35,22,468,Soldado,Spain
+1718,2017,Villarreal CF,61,35,22,579,R. Soriano,Italy
+1719,2017,Villarreal CF,61,35,22,587,D. Cheryshev,Russia
+1720,2017,Villarreal CF,61,35,22,592,A. N'Diaye,Senegal
+1721,2017,Villarreal CF,61,35,22,700,Jaume Costa,Spain
+1722,2017,Villarreal CF,61,35,22,775,N. Sansone,Italy
+1723,2017,Villarreal CF,61,35,22,1045,Álvaro,Spain
+1724,2017,Villarreal CF,61,35,22,1092,D. Bonera,Italy
+1725,2017,Villarreal CF,61,35,22,1177,A. Rukavina,Serbia
+1726,2017,Villarreal CF,61,35,22,1468,M. Barbosa,Argentina
+1727,2017,Villarreal CF,61,35,22,1472,Andrés Fernández,Spain
+1728,2017,Villarreal CF,61,35,22,1541,B. Jokič,Slovenia
+1729,2017,Villarreal CF,61,35,22,2103,R. Borré,Colombia
+1730,2017,Villarreal CF,61,35,22,2309,José Ángel,Spain
+1731,2017,Villarreal CF,61,35,22,3920,L. Suárez,Argentina
+1732,2017,Villarreal CF,61,35,22,6353,Aitor,Spain
+1733,2017,Villarreal CF,61,35,22,6354,Rodri,Spain
+1734,2017,Villarreal CF,61,35,22,6691,Edgar Ié,Portugal
+1735,2017,Villarreal CF,61,35,22,8496,A. Doffo,Argentina
+1736,2017,Villarreal CF,61,35,22,9459,F. Acosta,Uruguay
+1737,2017,Villarreal CF,61,35,22,10478,Mario González,Spain
+1738,2017,Villarreal CF,61,35,22,11463,Cantero,Spain
+1739,2017,Villarreal CF,61,35,22,12848,Miguelón,Spain
+1740,2017,Atlético Madrid,79,30,8,17,A. Griezmann,France
+1741,2017,Atlético Madrid,79,30,8,28,D. Godín,Uruguay
+1742,2017,Atlético Madrid,79,30,8,31,J. Oblak,Slovenia
+1743,2017,Atlético Madrid,79,30,8,72,Filipe Luís,Brazil
+1744,2017,Atlético Madrid,79,30,8,79,N. Gaitán,Argentina
+1745,2017,Atlético Madrid,79,30,8,88,Koke,Spain
+1746,2017,Atlético Madrid,79,30,8,134,J. Giménez,Uruguay
+1747,2017,Atlético Madrid,79,30,8,159,Juanfran,Spain
+1748,2017,Atlético Madrid,79,30,8,172,K. Gameiro,France
+1749,2017,Atlético Madrid,79,30,8,198,Y. Carrasco,Belgium
+1750,2017,Atlético Madrid,79,30,8,207,S. Savić,Montenegro
+1751,2017,Atlético Madrid,79,30,8,239,Gabi,Spain
+1752,2017,Atlético Madrid,79,30,8,331,Tiago,Portugal
+1753,2017,Atlético Madrid,79,30,8,339,Fernando Torres,Spain
+1754,2017,Atlético Madrid,79,30,8,340,Moyá,Spain
+1755,2017,Atlético Madrid,79,30,8,363,A. Fernández,Argentina
+1756,2017,Atlético Madrid,79,30,8,384,Saúl,Spain
+1757,2017,Atlético Madrid,79,30,8,525,A. Correa,Argentina
+1758,2017,Atlético Madrid,79,30,8,572,S. Vrsaljko,Croatia
+1759,2017,Atlético Madrid,79,30,8,1548,A. Cerci,Italy
+1760,2017,Atlético Madrid,79,30,8,1640,L. Hernández,France
+1761,2017,Atlético Madrid,79,30,8,1681,Thomas,Ghana
+1762,2017,Atlético Madrid,79,30,8,4659,André Moreira,Portugal
+1763,2017,Atlético Madrid,79,30,8,8363,Caio Henrique,Brazil
+1764,2017,Atlético Madrid,79,30,8,10559,Bernabé,Spain
+1765,2017,Atlético Madrid,79,30,8,12207,Borja González,Spain
+1766,2017,Atlético Madrid,79,30,8,12322,Juan Moreno,Spain
+1767,2017,Atlético Madrid,79,30,8,12849,Roberto Núñez,Spain
+1768,2017,Atlético Madrid,79,30,8,13147,Álex García,Spain
+1769,2018,Real Betis,50,25,26,348,R. Boudebouz,Algeria
+1770,2018,Real Betis,50,25,26,376,Adán,Spain
+1771,2018,Real Betis,50,25,26,481,A. Guardado,Mexico
+1772,2018,Real Betis,50,25,26,696,A. Sanabria,Paraguay
+1773,2018,Real Betis,50,25,26,725,A. Mandi,Algeria
+1774,2018,Real Betis,50,25,26,801,Joaquín,Spain
+1775,2018,Real Betis,50,25,26,836,Javi García,Spain
+1776,2018,Real Betis,50,25,26,952,Jordi Amat,Spain
+1777,2018,Real Betis,50,25,26,1023,J. Campbell,Costa Rica
+1778,2018,Real Betis,50,25,26,1062,Cristian Tello,Spain
+1779,2018,Real Betis,50,25,26,1067,Z. Feddal,Morocco
+1780,2018,Real Betis,50,25,26,1186,Sergio León,Spain
+1781,2018,Real Betis,50,25,26,1232,Camarasa,Spain
+1782,2018,Real Betis,50,25,26,2669,R. Durmisi,Denmark
+1783,2018,Real Betis,50,25,26,3312,N. Leiva,Spain
+1784,2018,Real Betis,50,25,26,3740,Barragán,Spain
+1785,2018,Real Betis,50,25,26,4888,Rafa Navarro,Spain
+1786,2018,Real Betis,50,25,26,4907,Fabián,Spain
+1787,2018,Real Betis,50,25,26,5004,A. Toşca,Romania
+1788,2018,Real Betis,50,25,26,5311,Dani Giménez,Spain
+1789,2018,Real Betis,50,25,26,9914,Francis,Spain
+1790,2018,Real Betis,50,25,26,11869,Pedro,Spain
+1791,2018,Real Betis,50,25,26,11987,J. Narváez,Colombia
+1792,2018,Real Betis,50,25,26,14315,Nil Coch,Spain
+1793,2018,Girona FC,37,17,28,1060,Timor,Spain
+1794,2018,Girona FC,37,17,28,1078,Iraizoz,Spain
+1795,2018,Girona FC,37,17,28,1164,C. Stuani,Uruguay
+1796,2018,Girona FC,37,17,28,1252,Marc Muniesa,Spain
+1797,2018,Girona FC,37,17,28,1297,Portu,Spain
+1798,2018,Girona FC,37,17,28,1357,B. Espinosa,Colombia
+1799,2018,Girona FC,37,17,28,1952,Alcalá,Spain
+1800,2018,Girona FC,37,17,28,2090,Ramalho,Spain
+1801,2018,Girona FC,37,17,28,2098,Pere Pons,Spain
+1802,2018,Girona FC,37,17,28,2150,Juanpe,Spain
+1803,2018,Girona FC,37,17,28,2188,Carles Planas,Spain
+1804,2018,Girona FC,37,17,28,2606,Douglas Luiz,Brazil
+1805,2018,Girona FC,37,17,28,2772,O. Kayode,Nigeria
+1806,2018,Girona FC,37,17,28,2804,Borja García,Spain
+1807,2018,Girona FC,37,17,28,3234,Granell,Spain
+1808,2018,Girona FC,37,17,28,3274,Pablo Maffeo,Spain
+1809,2018,Girona FC,37,17,28,3313,M. Moreno,Colombia
+1810,2018,Girona FC,37,17,28,4201,Y. Bounou,Morocco
+1811,2018,Girona FC,37,17,28,4671,Aday Benítez,Spain
+1812,2018,Girona FC,37,17,28,4823,Aleix García,Spain
+1813,2018,Girona FC,37,17,28,4985,F. Boulaya,Algeria
+1814,2018,Girona FC,37,17,28,5137,J. Mojica,Colombia
+1815,2018,Girona FC,37,17,28,5815,M. Olunga,Kenya
+1816,2018,Girona FC,37,17,28,7395,Eloi Amagat,Spain
+1817,2018,Girona FC,37,17,28,7646,José Suarez,Spain
+1818,2018,Girona FC,37,17,28,7696,Paik Seung Ho,Korea Republic
+1819,2018,Girona FC,37,17,28,10749,K. Soni,Cameroon
+1820,2018,Girona FC,37,17,28,12764,Sergi Álamo,Spain
+1821,2018,Girona FC,37,17,28,15387,Y. Andzouana,DR Congo
+1822,2018,FC Barcelona,87,51,17,1,L. Messi,Argentina
+1823,2018,FC Barcelona,87,51,17,4,L. Suárez,Uruguay
+1824,2018,FC Barcelona,87,51,17,37,Piqué,Spain
+1825,2018,FC Barcelona,87,51,17,40,I. Rakitić,Croatia
+1826,2018,FC Barcelona,87,51,17,66,Sergio Busquets,Spain
+1827,2018,FC Barcelona,87,51,17,70,M. ter Stegen,Germany
+1828,2018,FC Barcelona,87,51,17,86,Jordi Alba,Spain
+1829,2018,FC Barcelona,87,51,17,127,O. Dembélé,France
+1830,2018,FC Barcelona,87,51,17,136,S. Umtiti,France
+1831,2018,FC Barcelona,87,51,17,165,J. Mascherano,Argentina
+1832,2018,FC Barcelona,87,51,17,201,Deulofeu,Spain
+1833,2018,FC Barcelona,87,51,17,205,André Gomes,Portugal
+1834,2018,FC Barcelona,87,51,17,247,A. Turan,Turkey
+1835,2018,FC Barcelona,87,51,17,311,Nélson Semedo,Portugal
+1836,2018,FC Barcelona,87,51,17,313,Sergi Roberto,Spain
+1837,2018,FC Barcelona,87,51,17,314,Rafinha,Brazil
+1838,2018,FC Barcelona,87,51,17,341,J. Cillessen,Netherlands
+1839,2018,FC Barcelona,87,51,17,383,Paulinho,Brazil
+1840,2018,FC Barcelona,87,51,17,395,Denis Suárez,Spain
+1841,2018,FC Barcelona,87,51,17,538,Paco Alcácer,Spain
+1842,2018,FC Barcelona,87,51,17,543,L. Digne,France
+1843,2018,FC Barcelona,87,51,17,828,T. Vermaelen,Belgium
+1844,2018,FC Barcelona,87,51,17,1551,Aleix Vidal,Spain
+1845,2018,FC Barcelona,87,51,17,4892,Adrián Ortolá,Spain
+1846,2018,RC Celta Vigo,41,31,25,194,Iago Aspas,Spain
+1847,2018,RC Celta Vigo,41,31,25,422,Hugo Mallo,Spain
+1848,2018,RC Celta Vigo,41,31,25,475,G. Cabral,Argentina
+1849,2018,RC Celta Vigo,41,31,25,483,D. Wass,Denmark
+1850,2018,RC Celta Vigo,41,31,25,515,P. Hernández,Chile
+1851,2018,RC Celta Vigo,41,31,25,732,N. Radoja,Serbia
+1852,2018,RC Celta Vigo,41,31,25,735,J. Guidetti,Sweden
+1853,2018,RC Celta Vigo,41,31,25,764,Fontàs,Spain
+1854,2018,RC Celta Vigo,41,31,25,941,Sergi Gómez,Spain
+1855,2018,RC Celta Vigo,41,31,25,959,Jonny,Spain
+1856,2018,RC Celta Vigo,41,31,25,1024,Jozabed,Spain
+1857,2018,RC Celta Vigo,41,31,25,1114,Sergio,Spain
+1858,2018,RC Celta Vigo,41,31,25,1156,F. Roncaglia,Argentina
+1859,2018,RC Celta Vigo,41,31,25,1600,Rubén Blanco,Spain
+1860,2018,RC Celta Vigo,41,31,25,2052,P. Sisto,Denmark
+1861,2018,RC Celta Vigo,41,31,25,2658,M. Gómez,Uruguay
+1862,2018,RC Celta Vigo,41,31,25,4807,E. Mor,Turkey
+1863,2018,RC Celta Vigo,41,31,25,5736,S. Lobotka,Slovakia
+1864,2018,RC Celta Vigo,41,31,25,7667,A. Hjulsager,Denmark
+1865,2018,RC Celta Vigo,41,31,25,8687,Brais Méndez,Spain
+1866,2018,RC Celta Vigo,41,31,25,8758,D. Dražić,Serbia
+1867,2018,RC Celta Vigo,41,31,25,8810,Tià Sastre,Spain
+1868,2018,RC Celta Vigo,41,31,25,9828,Robert Costa,Spain
+1869,2018,RC Celta Vigo,41,31,25,9850,Diego Alende,Spain
+1870,2018,RC Celta Vigo,41,31,25,10006,Kevin,Spain
+1871,2018,RC Celta Vigo,41,31,25,10036,Dani Sotres,Spain
+1872,2018,RC Celta Vigo,41,31,25,10873,Iván Villar,Spain
+1873,2018,RC Celta Vigo,41,31,25,10947,D. Eckert,Germany
+1874,2018,RC Celta Vigo,41,31,25,11150,Agus Medina,Spain
+1875,2018,RC Celta Vigo,41,31,25,11851,Dani Molina,Spain
+1876,2018,RC Celta Vigo,41,31,25,12813,Diego Pampín,Spain
+1877,2018,Villarreal CF,44,28,26,107,Sergio Asenjo,Spain
+1878,2018,Villarreal CF,44,28,26,123,Bruno,Spain
+1879,2018,Villarreal CF,44,28,26,226,Manu Trigueros,Spain
+1880,2018,Villarreal CF,44,28,26,239,Víctor Ruíz,Spain
+1881,2018,Villarreal CF,44,28,26,295,C. Bacca,Colombia
+1882,2018,Villarreal CF,44,28,26,326,Mario Gaspar,Spain
+1883,2018,Villarreal CF,44,28,26,329,C. Bakambu,DR Congo
+1884,2018,Villarreal CF,44,28,26,410,Samu Castillejo,Spain
+1885,2018,Villarreal CF,44,28,26,444,R. Soriano,Italy
+1886,2018,Villarreal CF,44,28,26,581,N. Sansone,Italy
+1887,2018,Villarreal CF,44,28,26,682,Jaume Costa,Spain
+1888,2018,Villarreal CF,44,28,26,705,Rúben Semedo,Portugal
+1889,2018,Villarreal CF,44,28,26,791,D. Cheryshev,Russia
+1890,2018,Villarreal CF,44,28,26,928,Pablo Fornals,Spain
+1891,2018,Villarreal CF,44,28,26,1038,Álvaro,Spain
+1892,2018,Villarreal CF,44,28,26,1073,D. Bonera,Italy
+1893,2018,Villarreal CF,44,28,26,1145,A. Rukavina,Serbia
+1894,2018,Villarreal CF,44,28,26,1413,Andrés Fernández,Spain
+1895,2018,Villarreal CF,44,28,26,1818,M. Barbosa,Argentina
+1896,2018,Villarreal CF,44,28,26,2047,E. Ünal,Turkey
+1897,2018,Villarreal CF,44,28,26,2610,Marín,Spain
+1898,2018,Villarreal CF,44,28,26,4839,L. Suárez,Argentina
+1899,2018,Villarreal CF,44,28,26,4885,Rodrigo,Spain
+1900,2018,Villarreal CF,44,28,26,9842,F. Acosta,Uruguay
+1901,2018,Villarreal CF,44,28,26,9865,Imanol García,Spain
+1902,2018,Villarreal CF,44,28,26,11244,Dalmau,Spain
+1903,2018,Villarreal CF,44,28,26,11959,Mario González,Spain
+1904,2018,Villarreal CF,44,28,26,11985,Cantero,Spain
+1905,2018,Villarreal CF,44,28,26,12735,Miguelón,Spain
+1906,2018,Villarreal CF,44,28,26,12783,Riera,Spain
+1907,2018,Villarreal CF,44,28,26,13752,Quinti,Spain
+1908,2018,Villarreal CF,44,28,26,14199,Víctor Narro,Spain
+1909,2018,Villarreal CF,44,28,26,14224,Darío Poveda,Spain
+1910,2018,SD Eibar,47,31,21,353,Dani García,Spain
+1911,2018,SD Eibar,47,31,21,446,Sergi Enrich,Spain
+1912,2018,SD Eibar,47,31,21,490,Pedro León,Spain
+1913,2018,SD Eibar,47,31,21,729,Capa,Spain
+1914,2018,SD Eibar,47,31,21,744,Paulo Oliveira,Portugal
+1915,2018,SD Eibar,47,31,21,910,T. Inui,Japan
+1916,2018,SD Eibar,47,31,21,948,G. Escalante,Argentina
+1917,2018,SD Eibar,47,31,21,1086,Iván Ramis,Spain
+1918,2018,SD Eibar,47,31,21,1115,Charles,Brazil
+1919,2018,SD Eibar,47,31,21,1161,Yoel,Spain
+1920,2018,SD Eibar,47,31,21,1374,Gálvez,Spain
+1921,2018,SD Eibar,47,31,21,1396,Riesgo,Spain
+1922,2018,SD Eibar,47,31,21,1766,Kike García,Spain
+1923,2018,SD Eibar,47,31,21,1896,Fran Rico,Spain
+1924,2018,SD Eibar,47,31,21,1951,Lombán,Spain
+1925,2018,SD Eibar,47,31,21,2092,David Juncà,Spain
+1926,2018,SD Eibar,47,31,21,2206,M. Dmitrović,Serbia
+1927,2018,SD Eibar,47,31,21,2384,Bebé,Portugal
+1928,2018,SD Eibar,47,31,21,2491,José Ángel,Spain
+1929,2018,SD Eibar,47,31,21,2526,Arbilla,Spain
+1930,2018,SD Eibar,47,31,21,2826,Rubén Peña,Spain
+1931,2018,SD Eibar,47,31,21,3984,Christian Rivera,Spain
+1932,2018,SD Eibar,47,31,21,4123,Joan Jordán,Spain
+1933,2018,SD Eibar,47,31,21,4960,Iván Alejo,Spain
+1934,2018,SD Eibar,47,31,21,10932,Julen López,Spain
+1935,2018,SD Eibar,47,31,21,11958,Amorrortu,Spain
+1936,2018,SD Eibar,47,31,21,11962,Sarriegi,Spain
+1937,2018,SD Eibar,47,31,21,12781,Cristian,Spain
+1938,2018,SD Eibar,47,31,21,12917,Quique Cebriá,Spain
+1939,2018,Real Madrid,68,32,15,0,Cristiano Ronaldo,Portugal
+1940,2018,Real Madrid,68,32,15,8,Sergio Ramos,Spain
+1941,2018,Real Madrid,68,32,15,10,T. Kroos,Germany
+1942,2018,Real Madrid,68,32,15,16,G. Bale,Wales
+1943,2018,Real Madrid,68,32,15,17,L. Modrić,Croatia
+1944,2018,Real Madrid,68,32,15,42,Marcelo,Brazil
+1945,2018,Real Madrid,68,32,15,46,Isco,Spain
+1946,2018,Real Madrid,68,32,15,57,K. Benzema,France
+1947,2018,Real Madrid,68,32,15,68,R. Varane,France
+1948,2018,Real Madrid,68,32,15,71,Casemiro,Brazil
+1949,2018,Real Madrid,68,32,15,90,K. Navas,Costa Rica
+1950,2018,Real Madrid,68,32,15,91,Marco Asensio,Spain
+1951,2018,Real Madrid,68,32,15,102,Carvajal,Spain
+1952,2018,Real Madrid,68,32,15,203,M. Kovačić,Croatia
+1953,2018,Real Madrid,68,32,15,241,Lucas Vázquez,Spain
+1954,2018,Real Madrid,68,32,15,342,Nacho Fernández,Spain
+1955,2018,Real Madrid,68,32,15,498,Kiko Casilla,Spain
+1956,2018,Real Madrid,68,32,15,691,Dani Ceballos,Spain
+1957,2018,Real Madrid,68,32,15,927,Marcos Llorente,Spain
+1958,2018,Real Madrid,68,32,15,938,Vallejo,Spain
+1959,2018,Real Madrid,68,32,15,1591,T. Hernández,France
+1960,2018,Real Madrid,68,32,15,3279,Borja Mayoral,Spain
+1961,2018,Real Madrid,68,32,15,4023,A. Hakimi,Morocco
+1962,2018,Real Madrid,68,32,15,6611,Óscar,Spain
+1963,2018,Real Madrid,68,32,15,8700,Álvaro Tejero,Spain
+1964,2018,Real Madrid,68,32,15,10949,L. Zidane,France
+1965,2018,Rayo Vallecano,32,25,32,1131,O. Trejo,Argentina
+1966,2018,Rayo Vallecano,32,25,32,1407,A. Domínguez,Argentina
+1967,2018,Rayo Vallecano,32,25,32,1467,Baiano,Brazil
+1968,2018,Rayo Vallecano,32,25,32,1835,Trashorras,Spain
+1969,2018,Rayo Vallecano,32,25,32,2088,E. Velázquez,Uruguay
+1970,2018,Rayo Vallecano,32,25,32,2222,A. Ba,Senegal
+1971,2018,Rayo Vallecano,32,25,32,3113,Alberto,Spain
+1972,2018,Rayo Vallecano,32,25,32,3221,F. Cerro,Argentina
+1973,2018,Rayo Vallecano,32,25,32,3293,Unai López,Spain
+1974,2018,Rayo Vallecano,32,25,32,3377,De Tomás,Spain
+1975,2018,Rayo Vallecano,32,25,32,3501,Embarba,Spain
+1976,2018,Rayo Vallecano,32,25,32,3632,Toño,Spain
+1977,2018,Rayo Vallecano,32,25,32,3636,Javi Guerra,Spain
+1978,2018,Rayo Vallecano,32,25,32,4113,Álex Moreno,Spain
+1979,2018,Rayo Vallecano,32,25,32,4398,Amaya,Spain
+1980,2018,Rayo Vallecano,32,25,32,5124,A. Bangoura,Guinea
+1981,2018,Rayo Vallecano,32,25,32,5478,Manucho,Angola
+1982,2018,Rayo Vallecano,32,25,32,5753,Fran Beltrán,Spain
+1983,2018,Rayo Vallecano,32,25,32,5918,Santi Comesaña,Spain
+1984,2018,Rayo Vallecano,32,25,32,6157,Mario Fernández,Spain
+1985,2018,Rayo Vallecano,32,25,32,6215,Dorado,Spain
+1986,2018,Rayo Vallecano,32,25,32,6233,R. Raţ,Romania
+1987,2018,Rayo Vallecano,32,25,32,6453,Galán,Spain
+1988,2018,Rayo Vallecano,32,25,32,8167,Diego Aguirre,Spain
+1989,2018,Rayo Vallecano,32,25,32,9855,Joni Montiel,Spain
+1990,2018,Rayo Vallecano,32,25,32,12018,L. García,Colombia
+1991,2018,Rayo Vallecano,32,25,32,12337,Kike,Spain
+1992,2018,Rayo Vallecano,32,25,32,12930,Akieme,Spain
+1993,2018,Rayo Vallecano,32,25,32,14879,Sergio Benito,Spain
+1994,2018,Athletic Club Bilbao,53,26,19,96,A. Laporte,France
+1995,2018,Athletic Club Bilbao,53,26,19,110,Aduriz,Spain
+1996,2018,Athletic Club Bilbao,53,26,19,267,Beñat,Spain
+1997,2018,Athletic Club Bilbao,53,26,19,309,Williams,Spain
+1998,2018,Athletic Club Bilbao,53,26,19,371,Raúl García,Spain
+1999,2018,Athletic Club Bilbao,53,26,19,384,Iturraspe,Spain
+2000,2018,Athletic Club Bilbao,53,26,19,385,De Marcos,Spain
+2001,2018,Athletic Club Bilbao,53,26,19,396,Arrizabalaga,Spain
+2002,2018,Athletic Club Bilbao,53,26,19,503,Mikel San José,Spain
+2003,2018,Athletic Club Bilbao,53,26,19,678,Balenziaga,Spain
+2004,2018,Athletic Club Bilbao,53,26,19,720,Yeray,Spain
+2005,2018,Athletic Club Bilbao,53,26,19,721,Muniain,Spain
+2006,2018,Athletic Club Bilbao,53,26,19,886,Susaeta,Spain
+2007,2018,Athletic Club Bilbao,53,26,19,890,Etxeita,Spain
+2008,2018,Athletic Club Bilbao,53,26,19,1530,Bóveda,Spain
+2009,2018,Athletic Club Bilbao,53,26,19,1533,Herrerín,Spain
+2010,2018,Athletic Club Bilbao,53,26,19,1643,Lekue,Spain
+2011,2018,Athletic Club Bilbao,53,26,19,1732,Sabin Merino,Spain
+2012,2018,Athletic Club Bilbao,53,26,19,2314,Mikel Rico,Spain
+2013,2018,Athletic Club Bilbao,53,26,19,3385,Aketxe,Spain
+2014,2018,Athletic Club Bilbao,53,26,19,3407,Vesga,Spain
+2015,2018,Athletic Club Bilbao,53,26,19,4959,Córdoba,Spain
+2016,2018,Athletic Club Bilbao,53,26,19,5012,Saborit,Spain
+2017,2018,Athletic Club Bilbao,53,26,19,5474,Kike Sola,Spain
+2018,2018,Athletic Club Bilbao,53,26,19,5826,Unai Nuñez,Spain
+2019,2018,Athletic Club Bilbao,53,26,19,7622,Unai Simón,Spain
+2020,2018,Athletic Club Bilbao,53,26,19,9801,Jesús Areso,Spain
+2021,2018,Athletic Club Bilbao,53,26,19,9881,Tarsi,Spain
+2022,2018,Valencia CF,61,24,12,174,E. Garay,Argentina
+2023,2018,Valencia CF,61,24,12,284,Parejo,Spain
+2024,2018,Valencia CF,61,24,12,352,S. Zaza,Italy
+2025,2018,Valencia CF,61,24,12,511,F. Orellana,Chile
+2026,2018,Valencia CF,61,24,12,513,Neto,Brazil
+2027,2018,Valencia CF,61,24,12,554,Gayà,Spain
+2028,2018,Valencia CF,61,24,12,561,J. Murillo,Colombia
+2029,2018,Valencia CF,61,24,12,595,Gabriel Paulista,Brazil
+2030,2018,Valencia CF,61,24,12,753,Rodrigo,Spain
+2031,2018,Valencia CF,61,24,12,922,Andreas Pereira,Brazil
+2032,2018,Valencia CF,61,24,12,991,G. Kondogbia,France
+2033,2018,Valencia CF,61,24,12,1009,Montoya,Spain
+2034,2018,Valencia CF,61,24,12,1228,Carlos Soler,Spain
+2035,2018,Valencia CF,61,24,12,1244,Santi Mina,Spain
+2036,2018,Valencia CF,61,24,12,1690,Jaume,Spain
+2037,2018,Valencia CF,61,24,12,2056,Lato,Spain
+2038,2018,Valencia CF,61,24,12,2068,Gonçalo Guedes,Portugal
+2039,2018,Valencia CF,61,24,12,2104,Rúben Vezo,Portugal
+2040,2018,Valencia CF,61,24,12,3304,N. Maksimović,Serbia
+2041,2018,Valencia CF,61,24,12,3389,Rober Ibáñez,Spain
+2042,2018,Valencia CF,61,24,12,4863,Fran Villalba,Spain
+2043,2018,Valencia CF,61,24,12,4913,Nacho Gil,Spain
+2044,2018,Valencia CF,61,24,12,5008,Nacho Vidal,Spain
+2045,2018,Valencia CF,61,24,12,8790,Rafa Mir,Spain
+2046,2018,Valencia CF,61,24,12,9002,Salva Ruíz,Spain
+2047,2018,Valencia CF,61,24,12,9960,Javi Jiménez,Spain
+2048,2018,Valencia CF,61,24,12,12882,De la Calzada,Spain
+2049,2018,Getafe CF,59,28,13,659,Antunes,Portugal
+2050,2018,Getafe CF,59,28,13,876,J. Montero,Ecuador
+2051,2018,Getafe CF,59,28,13,1017,Bruno,Spain
+2052,2018,Getafe CF,59,28,13,1647,G. Shibasaki,Japan
+2053,2018,Getafe CF,59,28,13,1986,F. Fajr,Morocco
+2054,2018,Getafe CF,59,28,13,2030,A. Ndiaye Diedhiou,Senegal
+2055,2018,Getafe CF,59,28,13,2238,Dani Pacheco,Spain
+2056,2018,Getafe CF,59,28,13,2538,D. Suárez,Uruguay
+2057,2018,Getafe CF,59,28,13,2969,Jorge Molina,Spain
+2058,2018,Getafe CF,59,28,13,3038,M. Lacen,Algeria
+2059,2018,Getafe CF,59,28,13,3144,Guaita,Spain
+2060,2018,Getafe CF,59,28,13,3512,Juan Cala,Spain
+2061,2018,Getafe CF,59,28,13,3563,Portillo,Spain
+2062,2018,Getafe CF,59,28,13,3603,N. Gorosito,Argentina
+2063,2018,Getafe CF,59,28,13,3665,Markel Bergara,Spain
+2064,2018,Getafe CF,59,28,13,3770,Ángel,Spain
+2065,2018,Getafe CF,59,28,13,4096,Álvaro,Spain
+2066,2018,Getafe CF,59,28,13,4490,Molinero,Spain
+2067,2018,Getafe CF,59,28,13,4891,F. Manojlović,Serbia
+2068,2018,Getafe CF,59,28,13,4971,E. Martinez,Argentina
+2069,2018,Getafe CF,59,28,13,5129,Chuli,Spain
+2070,2018,Getafe CF,59,28,13,5140,D. Djené,Togo
+2071,2018,Getafe CF,59,28,13,5309,Mora,Spain
+2072,2018,Getafe CF,59,28,13,5786,M. Arambarri,Uruguay
+2073,2018,Getafe CF,59,28,13,6629,M. Olivera,Uruguay
+2074,2018,Getafe CF,59,28,13,7391,A. Yoda,France
+2075,2018,Getafe CF,59,28,13,11084,K. Baysal,Turkey
+2076,2018,Getafe CF,59,28,13,12227,Calderón,Spain
+2077,2018,Getafe CF,59,28,13,13916,Tamayo,Spain
+2078,2018,Getafe CF,59,28,13,14426,Diego Barri,Spain
+2079,2018,Getafe CF,59,28,13,14469,G. Quezada,Ecuador
+2080,2018,CD Leganés,45,19,16,662,N. Amrabat,Morocco
+2081,2018,CD Leganés,45,19,16,914,A. Szymanowski,Argentina
+2082,2018,CD Leganés,45,19,16,1291,Diego Rico,Spain
+2083,2018,CD Leganés,45,19,16,1341,Serantes,Spain
+2084,2018,CD Leganés,45,19,16,1636,Gabriel,Brazil
+2085,2018,CD Leganés,45,19,16,1762,Rubén Pérez,Spain
+2086,2018,CD Leganés,45,19,16,1784,M. Dos Santos,Argentina
+2087,2018,CD Leganés,45,19,16,1819,Iván Cuéllar,Spain
+2088,2018,CD Leganés,45,19,16,1877,Omar Ramos,Spain
+2089,2018,CD Leganés,45,19,16,1918,N. El Zhar,Morocco
+2090,2018,CD Leganés,45,19,16,1992,M. Mantovani,Argentina
+2091,2018,CD Leganés,45,19,16,1993,D. Siovas,Greece
+2092,2018,CD Leganés,45,19,16,2252,Guerrero,Spain
+2093,2018,CD Leganés,45,19,16,2281,Eraso,Spain
+2094,2018,CD Leganés,45,19,16,2446,C. Beauvue,France
+2095,2018,CD Leganés,45,19,16,2521,Raul García,Spain
+2096,2018,CD Leganés,45,19,16,2696,Naranjo,Spain
+2097,2018,CD Leganés,45,19,16,2745,D. Brašanac,Serbia
+2098,2018,CD Leganés,45,19,16,2777,Zaldúa,Spain
+2099,2018,CD Leganés,45,19,16,2779,Bustinza,Spain
+2100,2018,CD Leganés,45,19,16,2794,E. Muñoz,Argentina
+2101,2018,CD Leganés,45,19,16,2953,Tito,Spain
+2102,2018,CD Leganés,45,19,16,3443,Erik Morán,Spain
+2103,2018,CD Leganés,45,19,16,4479,N. Champagne,Argentina
+2104,2018,CD Leganés,45,19,16,4990,Gerard,Spain
+2105,2018,CD Leganés,45,19,16,5937,M. Kone,Ivory Coast
+2106,2018,CD Leganés,45,19,16,13610,Álex Mozo,Spain
+2107,2018,CD Leganés,45,19,16,13714,Sergio Arribas,Spain
+2108,2018,CD Leganés,45,19,16,14425,Leonardo Rocha,Portugal
+2109,2018,Deportivo Alavés,50,19,19,601,Bojan,Spain
+2110,2018,Deportivo Alavés,50,19,19,997,Pacheco,Spain
+2111,2018,Deportivo Alavés,50,19,19,1041,D. Torres,Colombia
+2112,2018,Deportivo Alavés,50,19,19,1329,O. Romero,Paraguay
+2113,2018,Deportivo Alavés,50,19,19,1336,Laguardia,Spain
+2114,2018,Deportivo Alavés,50,19,19,1399,Alexis,Spain
+2115,2018,Deportivo Alavés,50,19,19,1547,Ibai Gómez,Spain
+2116,2018,Deportivo Alavés,50,19,19,1630,Munir,Spain
+2117,2018,Deportivo Alavés,50,19,19,1666,Burgui,Spain
+2118,2018,Deportivo Alavés,50,19,19,1887,Manu García,Spain
+2119,2018,Deportivo Alavés,50,19,19,1941,M. Wakaso,Ghana
+2120,2018,Deportivo Alavés,50,19,19,2101,Medrán,Spain
+2121,2018,Deportivo Alavés,50,19,19,2160,Rodrigo Ely,Brazil
+2122,2018,Deportivo Alavés,50,19,19,2171,G. Maripán,Chile
+2123,2018,Deportivo Alavés,50,19,19,2267,A. Katai,Serbia
+2124,2018,Deportivo Alavés,50,19,19,3165,C. Santos,Venezuela
+2125,2018,Deportivo Alavés,50,19,19,3175,Tomás Pina,Spain
+2126,2018,Deportivo Alavés,50,19,19,3393,Vigaray,Spain
+2127,2018,Deportivo Alavés,50,19,19,3400,Rubén Duarte,Spain
+2128,2018,Deportivo Alavés,50,19,19,3402,Pedraza,Spain
+2129,2018,Deportivo Alavés,50,19,19,4075,E. Fernández,France
+2130,2018,Deportivo Alavés,50,19,19,4238,Héctor,Spain
+2131,2018,Deportivo Alavés,50,19,19,5022,Rubén Sobrino,Spain
+2132,2018,Deportivo Alavés,50,19,19,8779,Sivera,Spain
+2133,2018,Deportivo Alavés,50,19,19,10948,Landeta,Spain
+2134,2018,Deportivo Alavés,50,19,19,12049,Einar Galilea,Spain
+2135,2018,Deportivo Alavés,50,19,19,12946,Adrián Diéguez,Spain
+2136,2018,Deportivo Alavés,50,19,19,13034,Erik Ruiz,Spain
+2137,2018,Deportivo Alavés,50,19,19,13534,E. Demirović,Bosnia Herzegovina
+2138,2018,Deportivo Alavés,50,19,19,13631,Víctor López,Spain
+2139,2018,Deportivo Alavés,50,19,19,13638,Dani Iglesias,Spain
+2140,2018,Atlético Madrid,76,32,10,19,J. Oblak,Slovenia
+2141,2018,Atlético Madrid,76,32,10,21,A. Griezmann,France
+2142,2018,Atlético Madrid,76,32,10,29,D. Godín,Uruguay
+2143,2018,Atlético Madrid,76,32,10,69,Y. Carrasco,Belgium
+2144,2018,Atlético Madrid,76,32,10,80,Filipe Luís,Brazil
+2145,2018,Atlético Madrid,76,32,10,98,Koke,Spain
+2146,2018,Atlético Madrid,76,32,10,141,J. Giménez,Uruguay
+2147,2018,Atlético Madrid,76,32,10,168,Juanfran,Spain
+2148,2018,Atlético Madrid,76,32,10,176,K. Gameiro,France
+2149,2018,Atlético Madrid,76,32,10,183,N. Gaitán,Argentina
+2150,2018,Atlético Madrid,76,32,10,198,Saúl,Spain
+2151,2018,Atlético Madrid,76,32,10,216,S. Savić,Montenegro
+2152,2018,Atlético Madrid,76,32,10,355,Fernando Torres,Spain
+2153,2018,Atlético Madrid,76,32,10,359,Moyá,Spain
+2154,2018,Atlético Madrid,76,32,10,365,Gabi,Spain
+2155,2018,Atlético Madrid,76,32,10,494,A. Fernández,Argentina
+2156,2018,Atlético Madrid,76,32,10,524,A. Correa,Argentina
+2157,2018,Atlético Madrid,76,32,10,530,L. Vietto,Argentina
+2158,2018,Atlético Madrid,76,32,10,562,S. Vrsaljko,Croatia
+2159,2018,Atlético Madrid,76,32,10,919,L. Hernández,France
+2160,2018,Atlético Madrid,76,32,10,957,T. Partey,Ghana
+2161,2018,Atlético Madrid,76,32,10,1891,Siqueira,Brazil
+2162,2018,Atlético Madrid,76,32,10,5716,A. Werner,Argentina
+2163,2018,Atlético Madrid,76,32,10,7614,Caio Henrique,Brazil
+2164,2018,Atlético Madrid,76,32,10,12692,N. Schiappacasse,Uruguay
+2165,2018,Atlético Madrid,76,32,10,12767,K. Bare,Albania
+2166,2018,Atlético Madrid,76,32,10,12770,M. Boulahia,Algeria
+2167,2018,Atlético Madrid,76,32,10,13090,Sergi González,Spain
+2168,2018,Atlético Madrid,76,32,10,13711,Juan Moreno,Spain
+2169,2018,Atlético Madrid,76,32,10,13721,Olabe,Spain
+2170,2018,Atlético Madrid,76,32,10,14133,Tachi,Spain
+2171,2018,Atlético Madrid,76,32,10,14810,Obama,Spain
+2172,2018,Real Valladolid CF,41,16,26,1782,Isaac Becerra,Spain
+2173,2018,Real Valladolid CF,41,16,26,2256,Deivid,Spain
+2174,2018,Real Valladolid CF,41,16,26,2463,Kiko Olivas,Spain
+2175,2018,Real Valladolid CF,41,16,26,2494,Míchel,Spain
+2176,2018,Real Valladolid CF,41,16,26,2806,Guitián,Spain
+2177,2018,Real Valladolid CF,41,16,26,3310,Cotán,Spain
+2178,2018,Real Valladolid CF,41,16,26,3415,Hervías,Spain
+2179,2018,Real Valladolid CF,41,16,26,3527,Jordi Masip,Spain
+2180,2018,Real Valladolid CF,41,16,26,3586,Óscar Plano,Spain
+2181,2018,Real Valladolid CF,41,16,26,3937,Mata,Spain
+2182,2018,Real Valladolid CF,41,16,26,4085,Luismi,Spain
+2183,2018,Real Valladolid CF,41,16,26,4156,G. Gianniotas,Greece
+2184,2018,Real Valladolid CF,41,16,26,5277,Borja Fernández,Spain
+2185,2018,Real Valladolid CF,41,16,26,5612,Nacho,Spain
+2186,2018,Real Valladolid CF,41,16,26,6322,Javi Moyano,Spain
+2187,2018,Real Valladolid CF,41,16,26,6613,Villalibre,Spain
+2188,2018,Real Valladolid CF,41,16,26,6897,Sergio Marcos,Spain
+2189,2018,Real Valladolid CF,41,16,26,7692,Iban Salvador,Equatorial Guinea
+2190,2018,Real Valladolid CF,41,16,26,8408,Antoñito,Spain
+2191,2018,Real Valladolid CF,41,16,26,8803,Calero,Spain
+2192,2018,Real Valladolid CF,41,16,26,8879,S. Marreh,Gambia
+2193,2018,Real Valladolid CF,41,16,26,8900,Ángel,Spain
+2194,2018,Real Valladolid CF,41,16,26,9812,Toni Villa,Spain
+2195,2018,Real Valladolid CF,41,16,26,9849,Anuar,Morocco
+2196,2018,Real Valladolid CF,41,16,26,11802,J. Segura,Colombia
+2197,2018,Real Valladolid CF,41,16,26,12705,Mayoral,Spain
+2198,2018,Real Valladolid CF,41,16,26,12909,Miguel,Spain
+2199,2018,Real Valladolid CF,41,16,26,13788,Santi Samanes,Spain
+2200,2018,Real Valladolid CF,41,16,26,14364,Tanis,Spain
+2201,2018,Real Valladolid CF,41,16,26,14368,Javi Pérez,Spain
+2202,2018,RCD Espanyol,53,28,22,167,Diego López,Spain
+2203,2018,RCD Espanyol,53,28,22,426,Leo Baptistao,Brazil
+2204,2018,RCD Espanyol,53,28,22,464,Javi Fuego,Spain
+2205,2018,RCD Espanyol,53,28,22,565,Gerard Moreno,Spain
+2206,2018,RCD Espanyol,53,28,22,633,Jurado,Spain
+2207,2018,RCD Espanyol,53,28,22,666,P. Piatti,Argentina
+2208,2018,RCD Espanyol,53,28,22,683,H. Pérez,Paraguay
+2209,2018,RCD Espanyol,53,28,22,710,Sergi Darder,Spain
+2210,2018,RCD Espanyol,53,28,22,731,Pau López,Spain
+2211,2018,RCD Espanyol,53,28,22,808,Sergio García,Spain
+2212,2018,RCD Espanyol,53,28,22,856,Granero,Spain
+2213,2018,RCD Espanyol,53,28,22,887,Victor Sánchez,Spain
+2214,2018,RCD Espanyol,53,28,22,908,David López,Spain
+2215,2018,RCD Espanyol,53,28,22,1198,O. Duarte,Costa Rica
+2216,2018,RCD Espanyol,53,28,22,1240,Aarón Martín,Spain
+2217,2018,RCD Espanyol,53,28,22,1481,P. Diop,Senegal
+2218,2018,RCD Espanyol,53,28,22,1539,Javi López,Spain
+2219,2018,RCD Espanyol,53,28,22,1776,Naldo,Brazil
+2220,2018,RCD Espanyol,53,28,22,2041,Marc Roca,Spain
+2221,2018,RCD Espanyol,53,28,22,2429,Sergio Sánchez,Spain
+2222,2018,RCD Espanyol,53,28,22,2815,Álvaro,Spain
+2223,2018,RCD Espanyol,53,28,22,3336,Hermoso,Spain
+2224,2018,RCD Espanyol,53,28,22,3857,Dídac Vilà,Spain
+2225,2018,RCD Espanyol,53,28,22,4043,Marc Navarro,Spain
+2226,2018,RCD Espanyol,53,28,22,4844,Melendo,Spain
+2227,2018,RCD Espanyol,53,28,22,6674,Lluis López,Spain
+2228,2018,RCD Espanyol,53,28,22,7894,Jairo Morillas,Spain
+2229,2018,RCD Espanyol,53,28,22,10075,Manel Royo,Spain
+2230,2018,RCD Espanyol,53,28,22,10806,Edu Frias,Spain
+2231,2018,RCD Espanyol,53,28,22,10857,Adrián López,Spain
+2232,2018,Sevilla FC,59,39,20,179,E. Banega,Argentina
+2233,2018,Sevilla FC,59,39,20,187,S. N'Zonzi,France
+2234,2018,Sevilla FC,59,39,20,212,Sergio Rico,Spain
+2235,2018,Sevilla FC,59,39,20,294,F. Vázquez,Italy
+2236,2018,Sevilla FC,59,39,20,344,S. Kjær,Denmark
+2237,2018,Sevilla FC,59,39,20,351,W. Ben Yedder,France
+2238,2018,Sevilla FC,59,39,20,423,Pablo Sarabia,Spain
+2239,2018,Sevilla FC,59,39,20,424,L. Muriel,Colombia
+2240,2018,Sevilla FC,59,39,20,438,Ganso,Brazil
+2241,2018,Sevilla FC,59,39,20,440,Daniel Carriço,Portugal
+2242,2018,Sevilla FC,59,39,20,556,C. Lenglet,France
+2243,2018,Sevilla FC,59,39,20,608,S. Corchia,France
+2244,2018,Sevilla FC,59,39,20,634,M. Krohn-Dehli,Denmark
+2245,2018,Sevilla FC,59,39,20,637,N. Pareja,Argentina
+2246,2018,Sevilla FC,59,39,20,681,Escudero,Spain
+2247,2018,Sevilla FC,59,39,20,685,Nolito,Spain
+2248,2018,Sevilla FC,59,39,20,776,G. Pizarro,Argentina
+2249,2018,Sevilla FC,59,39,20,818,Jesús Navas,Spain
+2250,2018,Sevilla FC,59,39,20,1021,J. Geis,Germany
+2251,2018,Sevilla FC,59,39,20,1499,G. Mercado,Argentina
+2252,2018,Sevilla FC,59,39,20,2192,L. Carole,France
+2253,2018,Sevilla FC,59,39,20,2627,J. Correa,Argentina
+2254,2018,Sevilla FC,59,39,20,2649,David Soria,Spain
+2255,2018,Sevilla FC,59,39,20,4124,W. Montoya,Argentina
+2256,2018,Sevilla FC,59,39,20,4916,Borja Lasso,Spain
+2257,2018,Sevilla FC,59,39,20,11953,José Amo,Spain
+2258,2018,Sevilla FC,59,39,20,14272,Javi Díaz,Spain
+2259,2018,Levante UD,44,34,34,916,Morales,Spain
+2260,2018,Levante UD,44,34,34,970,Campaña,Spain
+2261,2018,Levante UD,44,34,34,1319,Roger,Spain
+2262,2018,Levante UD,44,34,34,1602,J. Lerma,Colombia
+2263,2018,Levante UD,44,34,34,1631,Alex Alegría,Spain
+2264,2018,Levante UD,44,34,34,1706,Luna,Spain
+2265,2018,Levante UD,44,34,34,1780,Toño García,Spain
+2266,2018,Levante UD,44,34,34,1981,Samu García,Spain
+2267,2018,Levante UD,44,34,34,2138,Chema Rodríguez,Spain
+2268,2018,Levante UD,44,34,34,2211,Raúl Fernández,Spain
+2269,2018,Levante UD,44,34,34,2234,M. Langerak,Australia
+2270,2018,Levante UD,44,34,34,2278,Postigo,Spain
+2271,2018,Levante UD,44,34,34,2644,Jason,Spain
+2272,2018,Levante UD,44,34,34,2657,E. Bardhi,FYR Macedonia
+2273,2018,Levante UD,44,34,34,2673,Nano,Spain
+2274,2018,Levante UD,44,34,34,2679,C. Doukouré,Ivory Coast
+2275,2018,Levante UD,44,34,34,3306,Róber,Spain
+2276,2018,Levante UD,44,34,34,3331,E. Boateng,Ghana
+2277,2018,Levante UD,44,34,34,3346,Iván López,Spain
+2278,2018,Levante UD,44,34,34,3356,Ivi,Spain
+2279,2018,Levante UD,44,34,34,3670,Pedro López,Spain
+2280,2018,Levante UD,44,34,34,4308,Oier,Spain
+2281,2018,Levante UD,44,34,34,4889,S. Lukić,Serbia
+2282,2018,Levante UD,44,34,34,5754,E. Cabaco,Uruguay
+2283,2018,Levante UD,44,34,34,7768,Borja Domingo,Spain
+2284,2018,Levante UD,44,34,34,8761,S. Moore,United States
+2285,2018,Levante UD,44,34,34,11166,Álvaro Traver,Spain
+2286,2018,Levante UD,44,34,34,12914,Fran Manzanera,Spain
+2287,2018,Levante UD,44,34,34,13805,Juan Delgado,Spain
+2288,2018,Levante UD,44,34,34,14306,Quintana,Spain
+2289,2018,Levante UD,44,34,34,14349,Dani Cárdenas,Spain
+2290,2018,Levante UD,44,34,34,14403,Kaiser,Spain
+2291,2018,SD Huesca,33,24,30,3297,Álex Remiro,Spain
+2292,2018,SD Huesca,33,24,30,3745,Luso,Spain
+2293,2018,SD Huesca,33,24,30,3861,Carlos David,Spain
+2294,2018,SD Huesca,33,24,30,4045,Vadillo,Spain
+2295,2018,SD Huesca,33,24,30,4090,Melero,Spain
+2296,2018,SD Huesca,33,24,30,4244,A. González,Venezuela
+2297,2018,SD Huesca,33,24,30,5401,Sastre,Spain
+2298,2018,SD Huesca,33,24,30,5585,David Ferreiro,Spain
+2299,2018,SD Huesca,33,24,30,5957,E. Rescaldani,Argentina
+2300,2018,SD Huesca,33,24,30,6145,Jair Amador,Portugal
+2301,2018,SD Huesca,33,24,30,6207,Camacho,Spain
+2302,2018,SD Huesca,33,24,30,6324,Íñigo López,Spain
+2303,2018,SD Huesca,33,24,30,6552,R. Brežančić,Serbia
+2304,2018,SD Huesca,33,24,30,6822,Akapo,Equatorial Guinea
+2305,2018,SD Huesca,33,24,30,7290,Nagore,Spain
+2306,2018,SD Huesca,33,24,30,7453,Aguilera,Spain
+2307,2018,SD Huesca,33,24,30,7928,Bardají,Spain
+2308,2018,SD Huesca,33,24,30,8027,Álex Gallar,Spain
+2309,2018,SD Huesca,33,24,30,9202,Pulido,Spain
+2310,2018,SD Huesca,33,24,30,9902,E. Ávila,Argentina
+2311,2018,SD Huesca,33,24,30,10819,J. Hernández,Colombia
+2312,2018,SD Huesca,33,24,30,11094,Kilian Grant,Spain
+2313,2018,SD Huesca,33,24,30,11112,Rulo,Spain
+2314,2018,SD Huesca,33,24,30,12127,Sergio Sánchez,Spain
+2315,2018,SD Huesca,33,24,30,13852,Álex García,Spain
+2316,2018,SD Huesca,33,24,30,14418,Valera,Spain
+2317,2018,SD Huesca,33,24,30,15406,Gabi,Spain
+2318,2018,SD Huesca,33,24,30,15526,Javito,Spain
+2319,2018,Real Sociedad,50,23,20,133,G. Rulli,Argentina
+2320,2018,Real Sociedad,50,23,20,214,Willian José,Brazil
+2321,2018,Real Sociedad,50,23,20,215,Iñigo Martínez,Spain
+2322,2018,Real Sociedad,50,23,20,261,C. Vela,Mexico
+2323,2018,Real Sociedad,50,23,20,386,Illarramendi,Spain
+2324,2018,Real Sociedad,50,23,20,522,Diego Llorente,Spain
+2325,2018,Real Sociedad,50,23,20,537,Oyarzabal,Spain
+2326,2018,Real Sociedad,50,23,20,563,Rubén Pardo,Spain
+2327,2018,Real Sociedad,50,23,20,571,Canales,Spain
+2328,2018,Real Sociedad,50,23,20,626,Xabi Prieto,Spain
+2329,2018,Real Sociedad,50,23,20,649,D. Zurutuza,France
+2330,2018,Real Sociedad,50,23,20,789,Raúl Navas,Spain
+2331,2018,Real Sociedad,50,23,20,944,A. Januzaj,Belgium
+2332,2018,Real Sociedad,50,23,20,949,Aritz Elustondo,Spain
+2333,2018,Real Sociedad,50,23,20,951,Juanmi,Spain
+2334,2018,Real Sociedad,50,23,20,1443,Agirretxe,Spain
+2335,2018,Real Sociedad,50,23,20,1462,Carlos Martínez,Spain
+2336,2018,Real Sociedad,50,23,20,1886,De la Bella,Spain
+2337,2018,Real Sociedad,50,23,20,2051,Odriozola,Spain
+2338,2018,Real Sociedad,50,23,20,4867,Zubeldia,Spain
+2339,2018,Real Sociedad,50,23,20,4886,Jon Bautista,Spain
+2340,2018,Real Sociedad,50,23,20,4896,K. Rodrigues,Portugal
+2341,2018,Real Sociedad,50,23,20,5507,Toño Ramirez,Spain
+2342,2018,Real Sociedad,50,23,20,6779,Ander Guevara,Spain
+2343,2018,Real Sociedad,50,23,20,7805,Eneko Capilla,Spain
+2344,2018,Real Sociedad,50,23,20,8796,P. Sisniega,Mexico
+2345,2018,Real Sociedad,50,23,20,11904,Gorosabel,Spain
+2346,2018,Real Sociedad,50,23,20,11950,Muguruza,Spain
+2347,2018,Real Sociedad,50,23,20,11964,Guridi,Spain
+2348,2018,Real Sociedad,50,23,20,11997,Merquelanz,Spain
+2349,2018,Real Sociedad,50,23,20,12670,A. Dávila,Uruguay
+2350,2019,Athletic Club Bilbao,37,15,7,191,Aduriz,Spain
+2351,2019,Athletic Club Bilbao,37,15,7,264,Dani García,Spain
+2352,2019,Athletic Club Bilbao,37,15,7,323,Williams,Spain
+2353,2019,Athletic Club Bilbao,37,15,7,440,Muniain,Spain
+2354,2019,Athletic Club Bilbao,37,15,7,502,Raúl García,Spain
+2355,2019,Athletic Club Bilbao,37,15,7,509,Beñat,Spain
+2356,2019,Athletic Club Bilbao,37,15,7,525,Susaeta,Spain
+2357,2019,Athletic Club Bilbao,37,15,7,628,Iñigo Martínez,Spain
+2358,2019,Athletic Club Bilbao,37,15,7,680,De Marcos,Spain
+2359,2019,Athletic Club Bilbao,37,15,7,787,Capa,Spain
+2360,2019,Athletic Club Bilbao,37,15,7,908,Iturraspe,Spain
+2361,2019,Athletic Club Bilbao,37,15,7,913,Herrerín,Spain
+2362,2019,Athletic Club Bilbao,37,15,7,988,Álex Remiro,Spain
+2363,2019,Athletic Club Bilbao,37,15,7,989,Yeray,Spain
+2364,2019,Athletic Club Bilbao,37,15,7,1158,Yuri Berchiche,Spain
+2365,2019,Athletic Club Bilbao,37,15,7,1165,Mikel San José,Spain
+2366,2019,Athletic Club Bilbao,37,15,7,1646,Córdoba,Spain
+2367,2019,Athletic Club Bilbao,37,15,7,1653,Unai Núñez,Spain
+2368,2019,Athletic Club Bilbao,37,15,7,1662,Unai López,Spain
+2369,2019,Athletic Club Bilbao,37,15,7,1806,Lekue,Spain
+2370,2019,Athletic Club Bilbao,37,15,7,1890,Mikel Rico,Spain
+2371,2019,Athletic Club Bilbao,37,15,7,2009,Balenziaga,Spain
+2372,2019,Athletic Club Bilbao,37,15,7,4712,Unai Simón,Spain
+2373,2019,Athletic Club Bilbao,37,15,7,5026,C. Ganea,Romania
+2374,2019,Athletic Club Bilbao,37,15,7,6590,Villalibre,Spain
+2375,2019,Athletic Club Bilbao,37,15,7,7516,Sancet,Spain
+2376,2019,Athletic Club Bilbao,37,15,7,7553,Iñigo Muñoz,Spain
+2377,2019,Athletic Club Bilbao,37,15,7,7581,Guruzeta,Spain
+2378,2019,Athletic Club Bilbao,37,15,7,7596,Nolaskoain,Spain
+2379,2019,Athletic Club Bilbao,37,15,7,8650,Iñigo Vicente,Spain
+2380,2019,Athletic Club Bilbao,37,15,7,10739,Jesús Areso,Spain
+2381,2019,Athletic Club Bilbao,37,15,7,12843,Sillero,Spain
+2382,2019,Athletic Club Bilbao,37,15,7,15117,Oleaga,Spain
+2383,2019,RC Celta Vigo,26,10,12,109,Iago Aspas,Spain
+2384,2019,RC Celta Vigo,26,10,12,433,M. Gómez,Uruguay
+2385,2019,RC Celta Vigo,26,10,12,464,Hugo Mallo,Spain
+2386,2019,RC Celta Vigo,26,10,12,742,P. Sisto,Denmark
+2387,2019,RC Celta Vigo,26,10,12,745,S. Lobotka,Slovakia
+2388,2019,RC Celta Vigo,26,10,12,858,Sergio,Spain
+2389,2019,RC Celta Vigo,26,10,12,970,Rubén Blanco,Spain
+2390,2019,RC Celta Vigo,26,10,12,978,O. Yokuşlu,Turkey
+2391,2019,RC Celta Vigo,26,10,12,1011,N. Radoja,Serbia
+2392,2019,RC Celta Vigo,26,10,12,1029,S. Boufal,Morocco
+2393,2019,RC Celta Vigo,26,10,12,1073,Jozabed,Spain
+2394,2019,RC Celta Vigo,26,10,12,1119,G. Cabral,Argentina
+2395,2019,RC Celta Vigo,26,10,12,1303,David Juncà,Spain
+2396,2019,RC Celta Vigo,26,10,12,1689,M. Jensen,Denmark
+2397,2019,RC Celta Vigo,26,10,12,1767,N. Araújo,Mexico
+2398,2019,RC Celta Vigo,26,10,12,1970,F. Roncaglia,Argentina
+2399,2019,RC Celta Vigo,26,10,12,2132,E. Mor,Turkey
+2400,2019,RC Celta Vigo,26,10,12,2644,Brais Méndez,Spain
+2401,2019,RC Celta Vigo,26,10,12,2697,J. Alonso,Paraguay
+2402,2019,RC Celta Vigo,26,10,12,3272,Fran Beltrán,Spain
+2403,2019,RC Celta Vigo,26,10,12,4908,David Costas,Spain
+2404,2019,RC Celta Vigo,26,10,12,5646,A. Hjulsager,Denmark
+2405,2019,RC Celta Vigo,26,10,12,6678,Iván Villar,Spain
+2406,2019,RC Celta Vigo,26,10,12,6738,R. Mazáň,Slovakia
+2407,2019,RC Celta Vigo,26,10,12,6808,Kevin,Spain
+2408,2019,RC Celta Vigo,26,10,12,7618,Iban Salvador,Equatorial Guinea
+2409,2019,RC Celta Vigo,26,10,12,8737,E. Apeh,Nigeria
+2410,2019,RC Celta Vigo,26,10,12,9800,Pastrana,Spain
+2411,2019,RC Celta Vigo,26,10,12,10801,D. Eckert,Germany
+2412,2019,RC Celta Vigo,26,10,12,10818,Dani Molina,Spain
+2413,2019,RC Celta Vigo,26,10,12,10878,Diego Alende,Spain
+2414,2019,RC Celta Vigo,26,10,12,11965,Robert Costa,Spain
+2415,2019,RC Celta Vigo,26,10,12,13548,Diego Pampín,Spain
+2416,2019,Valencia CF,42,23,12,72,Parejo,Spain
+2417,2019,Valencia CF,42,23,12,131,Neto,Brazil
+2418,2019,Valencia CF,42,23,12,132,Rodrigo,Spain
+2419,2019,Valencia CF,42,23,12,175,Gonçalo Guedes,Portugal
+2420,2019,Valencia CF,42,23,12,241,G. Kondogbia,France
+2421,2019,Valencia CF,42,23,12,259,Gabriel Paulista,Brazil
+2422,2019,Valencia CF,42,23,12,279,E. Garay,Argentina
+2423,2019,Valencia CF,42,23,12,281,D. Wass,Denmark
+2424,2019,Valencia CF,42,23,12,331,J. Murillo,Colombia
+2425,2019,Valencia CF,42,23,12,332,M. Batshuayi,Belgium
+2426,2019,Valencia CF,42,23,12,377,K. Gameiro,France
+2427,2019,Valencia CF,42,23,12,411,Carlos Soler,Spain
+2428,2019,Valencia CF,42,23,12,426,Santi Mina,Spain
+2429,2019,Valencia CF,42,23,12,572,Gayà,Spain
+2430,2019,Valencia CF,42,23,12,615,F. Coquelin,France
+2431,2019,Valencia CF,42,23,12,779,C. Piccini,Italy
+2432,2019,Valencia CF,42,23,12,982,Rúben Vezo,Portugal
+2433,2019,Valencia CF,42,23,12,1220,D. Cheryshev,Russia
+2434,2019,Valencia CF,42,23,12,1282,M. Diakhaby,France
+2435,2019,Valencia CF,42,23,12,1348,Jaume,Spain
+2436,2019,Valencia CF,42,23,12,1633,Lato,Spain
+2437,2019,Valencia CF,42,23,12,1635,U. Račić,Serbia
+2438,2019,Valencia CF,42,23,12,2618,Ferrán Torres,Spain
+2439,2019,Valencia CF,42,23,12,4672,Kangin Lee,Korea Republic
+2440,2019,Valencia CF,42,23,12,7552,Cristian Rivero,Spain
+2441,2019,Valencia CF,42,23,12,9911,Javi Jiménez,Spain
+2442,2019,Valencia CF,42,23,12,10699,Pascu,Spain
+2443,2019,Valencia CF,42,23,12,10783,Álex Centelles,Spain
+2444,2019,Valencia CF,42,23,12,11771,Ricardo Campos,Portugal
+2445,2019,Valencia CF,42,23,12,12153,Sito,Spain
+2446,2019,Valencia CF,42,23,12,12810,Álex Blanco,Spain
+2447,2019,RCD Mallorca,25,16,14,5183,A. Faurlín,Argentina
+2448,2019,RCD Mallorca,25,16,14,5196,Salva Sevilla,Spain
+2449,2019,RCD Mallorca,25,16,14,5934,Pablo Valcarce,Spain
+2450,2019,RCD Mallorca,25,16,14,5967,Raillo,Spain
+2451,2019,RCD Mallorca,25,16,14,7146,Manolo Reina,Spain
+2452,2019,RCD Mallorca,25,16,14,7250,Marc Pedraza,Spain
+2453,2019,RCD Mallorca,25,16,14,7257,L. Wakalible,Ivory Coast
+2454,2019,RCD Mallorca,25,16,14,7796,Castro,Spain
+2455,2019,RCD Mallorca,25,16,14,8384,Dani Rodríguez,Spain
+2456,2019,RCD Mallorca,25,16,14,8394,Aridai,Spain
+2457,2019,RCD Mallorca,25,16,14,8730,P. Estupiñán,Ecuador
+2458,2019,RCD Mallorca,25,16,14,8743,M. Ndockyt,Congo
+2459,2019,RCD Mallorca,25,16,14,8963,Abdón,Spain
+2460,2019,RCD Mallorca,25,16,14,9015,Álex López,Spain
+2461,2019,RCD Mallorca,25,16,14,9281,Xisco Campos,Spain
+2462,2019,RCD Mallorca,25,16,14,10050,Salva Ruíz,Spain
+2463,2019,RCD Mallorca,25,16,14,10334,Fran Gámez,Spain
+2464,2019,RCD Mallorca,25,16,14,10642,Ferrán Giner,Spain
+2465,2019,RCD Mallorca,25,16,14,11068,M. Valjent,Slovakia
+2466,2019,RCD Mallorca,25,16,14,12143,Sergio Buenacasa,Spain
+2467,2019,RCD Mallorca,25,16,14,12395,Bonilla,Spain
+2468,2019,RCD Mallorca,25,16,14,12940,Joan Sastre,Spain
+2469,2019,RCD Mallorca,25,16,14,13114,Stoichkov,Spain
+2470,2019,RCD Mallorca,25,16,14,13794,F. Russo,Argentina
+2471,2019,RCD Mallorca,25,16,14,14088,Leandro,Spain
+2472,2019,RCD Mallorca,25,16,14,14556,I. Baba,Ghana
+2473,2019,RCD Mallorca,25,16,14,14626,Miquel Parera,Spain
+2474,2019,CD Leganés,23,13,19,941,A. Szymanowski,Argentina
+2475,2019,CD Leganés,23,13,19,1238,A. Lunin,Ukraine
+2476,2019,CD Leganés,23,13,19,1357,Recio,Spain
+2477,2019,CD Leganés,23,13,19,1379,Serantes,Spain
+2478,2019,CD Leganés,23,13,19,1436,Iván Cuéllar,Spain
+2479,2019,CD Leganés,23,13,19,1494,N. El Zhar,Morocco
+2480,2019,CD Leganés,23,13,19,1590,Eraso,Spain
+2481,2019,CD Leganés,23,13,19,1798,D. Rolán,Uruguay
+2482,2019,CD Leganés,23,13,19,1805,Bustinza,Spain
+2483,2019,CD Leganés,23,13,19,1867,G. Carrillo,Argentina
+2484,2019,CD Leganés,23,13,19,1871,Sabin Merino,Spain
+2485,2019,CD Leganés,23,13,19,2007,Rubén Pérez,Spain
+2486,2019,CD Leganés,23,13,19,2218,J. Silva,Argentina
+2487,2019,CD Leganés,23,13,19,2463,Juanfran,Spain
+2488,2019,CD Leganés,23,13,19,2498,A. Nyom,Cameroon
+2489,2019,CD Leganés,23,13,19,2790,M. Santos,Uruguay
+2490,2019,CD Leganés,23,13,19,3094,Raul García,Spain
+2491,2019,CD Leganés,23,13,19,3277,K. Omeruo,Nigeria
+2492,2019,CD Leganés,23,13,19,3330,Y. En-Nesyri,Morocco
+2493,2019,CD Leganés,23,13,19,3332,Vesga,Spain
+2494,2019,CD Leganés,23,13,19,3814,D. Siovas,Greece
+2495,2019,CD Leganés,23,13,19,4037,Gumbau,Spain
+2496,2019,CD Leganés,23,13,19,4144,E. Muñoz,Argentina
+2497,2019,CD Leganés,23,13,19,4766,José Arnáiz,Spain
+2498,2019,CD Leganés,23,13,19,5452,M. Dos Santos,Argentina
+2499,2019,CD Leganés,23,13,19,6527,Óscar,Spain
+2500,2019,CD Leganés,23,13,19,7761,Dani Ojeda,Spain
+2501,2019,CD Leganés,23,13,19,10970,Tarín,Spain
+2502,2019,CD Leganés,23,13,19,11836,Jaime Sierra,Spain
+2503,2019,CD Leganés,23,13,19,13803,Álex Mozo,Spain
+2504,2019,CD Leganés,23,13,19,14555,Lombo,Spain
+2505,2019,CD Leganés,23,13,19,15060,Raúl Sánchez,Spain
+2506,2019,Villarreal CF,38,26,17,128,Sergio Asenjo,Spain
+2507,2019,Villarreal CF,38,26,17,182,Manu Trigueros,Spain
+2508,2019,Villarreal CF,38,26,17,185,Gerard Moreno,Spain
+2509,2019,Villarreal CF,38,26,17,254,Víctor Ruiz,Spain
+2510,2019,Villarreal CF,38,26,17,313,C. Bacca,Colombia
+2511,2019,Villarreal CF,38,26,17,328,Pablo Fornals,Spain
+2512,2019,Villarreal CF,38,26,17,386,Bruno,Spain
+2513,2019,Villarreal CF,38,26,17,462,Mario Gaspar,Spain
+2514,2019,Villarreal CF,38,26,17,472,K. Toko-Ekambi,Cameroon
+2515,2019,Villarreal CF,38,26,17,485,Santi Cazorla,Spain
+2516,2019,Villarreal CF,38,26,17,626,Álvaro,Spain
+2517,2019,Villarreal CF,38,26,17,690,Jaume Costa,Spain
+2518,2019,Villarreal CF,38,26,17,844,Javi Fuego,Spain
+2519,2019,Villarreal CF,38,26,17,882,M. Layún,Mexico
+2520,2019,Villarreal CF,38,26,17,1061,R. Funes Mori,Argentina
+2521,2019,Villarreal CF,38,26,17,1323,Pedraza,Spain
+2522,2019,Villarreal CF,38,26,17,1407,N. Sansone,Italy
+2523,2019,Villarreal CF,38,26,17,1424,D. Bonera,Italy
+2524,2019,Villarreal CF,38,26,17,1431,M. Barbosa,Argentina
+2525,2019,Villarreal CF,38,26,17,1435,Andrés Fernández,Spain
+2526,2019,Villarreal CF,38,26,17,1670,Dani Raba,Spain
+2527,2019,Villarreal CF,38,26,17,2974,M. Iturra,Chile
+2528,2019,Villarreal CF,38,26,17,4707,Manu Morlanes,Spain
+2529,2019,Villarreal CF,38,26,17,4737,S. Cáseres,Argentina
+2530,2019,Villarreal CF,38,26,17,8771,Miguelón,Spain
+2531,2019,Villarreal CF,38,26,17,8809,Carlos Blanco,Spain
+2532,2019,Villarreal CF,38,26,17,10809,E. Lomotey,Ghana
+2533,2019,Villarreal CF,38,26,17,12055,Mario González,Spain
+2534,2019,Villarreal CF,38,26,17,13027,Quinti,Spain
+2535,2019,Villarreal CF,38,26,17,13233,Rubén Mesa,Spain
+2536,2019,Villarreal CF,38,26,17,13903,Roger Riera,Spain
+2537,2019,Deportivo Alavés,32,18,11,588,J. Guidetti,Sweden
+2538,2019,Deportivo Alavés,32,18,11,596,Pacheco,Spain
+2539,2019,Deportivo Alavés,32,18,11,697,Ibai Gómez,Spain
+2540,2019,Deportivo Alavés,32,18,11,871,Manu García,Spain
+2541,2019,Deportivo Alavés,32,18,11,983,J. Calleri,Argentina
+2542,2019,Deportivo Alavés,32,18,11,1224,D. Torres,Colombia
+2543,2019,Deportivo Alavés,32,18,11,1375,Laguardia,Spain
+2544,2019,Deportivo Alavés,32,18,11,1382,Rubén Sobrino,Spain
+2545,2019,Deportivo Alavés,32,18,11,1560,Tomás Pina,Spain
+2546,2019,Deportivo Alavés,32,18,11,1719,Burgui,Spain
+2547,2019,Deportivo Alavés,32,18,11,1729,Rubén Duarte,Spain
+2548,2019,Deportivo Alavés,32,18,11,1738,Martín,Spain
+2549,2019,Deportivo Alavés,32,18,11,1745,Rodrigo Ely,Brazil
+2550,2019,Deportivo Alavés,32,18,11,1770,Borja Bastón,Spain
+2551,2019,Deportivo Alavés,32,18,11,2108,Jony,Spain
+2552,2019,Deportivo Alavés,32,18,11,2465,M. Wakaso,Ghana
+2553,2019,Deportivo Alavés,32,18,11,2512,Ximo Navarro,Spain
+2554,2019,Deportivo Alavés,32,18,11,2780,G. Maripán,Chile
+2555,2019,Deportivo Alavés,32,18,11,2827,D. Brasanac,Serbia
+2556,2019,Deportivo Alavés,32,18,11,3241,Adrián Marín,Spain
+2557,2019,Deportivo Alavés,32,18,11,3321,Vigaray,Spain
+2558,2019,Deportivo Alavés,32,18,11,4816,Sivera,Spain
+2559,2019,Deportivo Alavés,32,18,11,7710,Adrián Diéguez,Spain
+2560,2019,Deportivo Alavés,32,18,11,9992,P. Twumasi,Ghana
+2561,2019,Deportivo Alavés,32,18,11,11805,Álex Domínguez,Spain
+2562,2019,Deportivo Alavés,32,18,11,12877,Perera,Spain
+2563,2019,Deportivo Alavés,32,18,11,13716,A. Lupu,Romania
+2564,2019,RCD Espanyol,20,12,24,486,Diego López,Spain
+2565,2019,RCD Espanyol,20,12,24,579,Sergi Darder,Spain
+2566,2019,RCD Espanyol,20,12,24,594,Leo Baptistao,Brazil
+2567,2019,RCD Espanyol,20,12,24,665,P. Piatti,Argentina
+2568,2019,RCD Espanyol,20,12,24,700,David López,Spain
+2569,2019,RCD Espanyol,20,12,24,881,Granero,Spain
+2570,2019,RCD Espanyol,20,12,24,1087,Sergio García,Spain
+2571,2019,RCD Espanyol,20,12,24,1160,Roberto,Spain
+2572,2019,RCD Espanyol,20,12,24,1190,Victor Sánchez,Spain
+2573,2019,RCD Espanyol,20,12,24,1203,H. Pérez,Paraguay
+2574,2019,RCD Espanyol,20,12,24,1318,Borja Iglesias,Spain
+2575,2019,RCD Espanyol,20,12,24,1489,R. Rosales,Venezuela
+2576,2019,RCD Espanyol,20,12,24,1612,Marc Roca,Spain
+2577,2019,RCD Espanyol,20,12,24,2039,Javi López,Spain
+2578,2019,RCD Espanyol,20,12,24,2055,Naldo,Brazil
+2579,2019,RCD Espanyol,20,12,24,2085,O. Duarte,Costa Rica
+2580,2019,RCD Espanyol,20,12,24,2652,Hermoso,Spain
+2581,2019,RCD Espanyol,20,12,24,2660,Melendo,Spain
+2582,2019,RCD Espanyol,20,12,24,3733,Dídac Vilà,Spain
+2583,2019,RCD Espanyol,20,12,24,7616,Lluis López,Spain
+2584,2019,RCD Espanyol,20,12,24,7651,Alex López,Spain
+2585,2019,RCD Espanyol,20,12,24,7719,Puado,Spain
+2586,2019,RCD Espanyol,20,12,24,7720,Pipa,Spain
+2587,2019,RCD Espanyol,20,12,24,10013,Damià,Spain
+2588,2019,RCD Espanyol,20,12,24,10761,Edu Frias,Spain
+2589,2019,RCD Espanyol,20,12,24,12146,Manel Royo,Spain
+2590,2019,RCD Espanyol,20,12,24,13867,Sánchez,Spain
+2591,2019,RCD Espanyol,20,12,24,13879,Genís,Spain
+2592,2019,RCD Espanyol,20,12,24,16245,Pol Lozano,Spain
+2593,2019,RCD Espanyol,20,12,24,16584,Víctor Gómez,Spain
+2594,2019,Real Betis,33,27,21,127,William Carvalho,Portugal
+2595,2019,Real Betis,33,27,21,232,Pau López,Spain
+2596,2019,Real Betis,33,27,21,256,Bartra,Spain
+2597,2019,Real Betis,33,27,21,268,Joaquín,Spain
+2598,2019,Real Betis,33,27,21,280,A. Guardado,Mexico
+2599,2019,Real Betis,33,27,21,416,G. Lo Celso,Argentina
+2600,2019,Real Betis,33,27,21,523,R. Boudebouz,Algeria
+2601,2019,Real Betis,33,27,21,538,Cristian Tello,Spain
+2602,2019,Real Betis,33,27,21,543,T. Inui,Japan
+2603,2019,Real Betis,33,27,21,544,Z. Feddal,Morocco
+2604,2019,Real Betis,33,27,21,563,A. Sanabria,Paraguay
+2605,2019,Real Betis,33,27,21,568,A. Mandi,Algeria
+2606,2019,Real Betis,33,27,21,612,Sidnei,Brazil
+2607,2019,Real Betis,33,27,21,682,Canales,Spain
+2608,2019,Real Betis,33,27,21,695,Sergio León,Spain
+2609,2019,Real Betis,33,27,21,770,Loren,Spain
+2610,2019,Real Betis,33,27,21,855,Javi García,Spain
+2611,2019,Real Betis,33,27,21,1123,Barragán,Spain
+2612,2019,Real Betis,33,27,21,1736,Francis,Spain
+2613,2019,Real Betis,33,27,21,1737,J. Firpo,Dominican Republic
+2614,2019,Real Betis,33,27,21,1843,Joel Robles,Spain
+2615,2019,Real Betis,33,27,21,8679,W. Kaptoum,Cameroon
+2616,2019,Real Betis,33,27,21,13533,Robert,Spain
+2617,2019,Real Betis,33,27,21,13676,Iván,Spain
+2618,2019,Real Betis,33,27,21,14352,Daniel Rebollo,Spain
+2619,2019,Real Betis,33,27,21,14493,Sergio Tienza,Spain
+2620,2019,Atlético Madrid,45,20,9,9,J. Oblak,Slovenia
+2621,2019,Atlético Madrid,45,20,9,12,D. Godín,Uruguay
+2622,2019,Atlético Madrid,45,20,9,19,A. Griezmann,France
+2623,2019,Atlético Madrid,45,20,9,80,Saúl,Spain
+2624,2019,Atlético Madrid,45,20,9,91,Koke,Spain
+2625,2019,Atlético Madrid,45,20,9,97,Filipe Luís,Brazil
+2626,2019,Atlético Madrid,45,20,9,102,Diego Costa,Spain
+2627,2019,Atlético Madrid,45,20,9,117,J. Giménez,Uruguay
+2628,2019,Atlético Madrid,45,20,9,161,T. Lemar,France
+2629,2019,Atlético Madrid,45,20,9,180,S. Savić,Montenegro
+2630,2019,Atlético Madrid,45,20,9,196,Adán,Spain
+2631,2019,Atlético Madrid,45,20,9,221,L. Hernández,France
+2632,2019,Atlético Madrid,45,20,9,224,T. Partey,Ghana
+2633,2019,Atlético Madrid,45,20,9,234,Gelson Martins,Portugal
+2634,2019,Atlético Madrid,45,20,9,235,Rodri,Spain
+2635,2019,Atlético Madrid,45,20,9,400,Vitolo,Spain
+2636,2019,Atlético Madrid,45,20,9,412,A. Correa,Argentina
+2637,2019,Atlético Madrid,45,20,9,487,Juanfran,Spain
+2638,2019,Atlético Madrid,45,20,9,672,N. Kalinić,Croatia
+2639,2019,Atlético Madrid,45,20,9,780,S. Arias,Colombia
+2640,2019,Atlético Madrid,45,20,9,6551,Óscar Pinchi,Spain
+2641,2019,Atlético Madrid,45,20,9,11784,Tachi,Spain
+2642,2019,Atlético Madrid,45,20,9,11909,Carlos Isaac,Spain
+2643,2019,Atlético Madrid,45,20,9,12917,A. Solano,Colombia
+2644,2019,Atlético Madrid,45,20,9,13541,Borja Garcés,Spain
+2645,2019,Atlético Madrid,45,20,9,13586,Toni Moya,Spain
+2646,2019,Atlético Madrid,45,20,9,13638,Álex Dos Santos,Brazil
+2647,2019,Atlético Madrid,45,20,9,13772,Darío Poveda,Spain
+2648,2019,Atlético Madrid,45,20,9,14247,Montero,Spain
+2649,2019,Atlético Madrid,45,20,9,14450,San Román,Spain
+2650,2019,Atlético Madrid,45,20,9,14508,Cristian Rodríguez,Spain
+2651,2019,Atlético Madrid,45,20,9,14901,Obama,Spain
+2652,2019,Atlético Madrid,45,20,9,14907,Mollejo,Spain
+2653,2019,Granada CF,38,16,8,1936,Fran Rico,Spain
+2654,2019,Granada CF,38,16,8,2973,A. Ramos,Colombia
+2655,2019,Granada CF,38,16,8,3845,N. Aguirre,Argentina
+2656,2019,Granada CF,38,16,8,4029,Vadillo,Spain
+2657,2019,Granada CF,38,16,8,4451,Víctor Díaz,Spain
+2658,2019,Granada CF,38,16,8,4577,Álex Martínez,Spain
+2659,2019,Granada CF,38,16,8,4755,Fede,Spain
+2660,2019,Granada CF,38,16,8,4843,Fede Vico,Spain
+2661,2019,Granada CF,38,16,8,5319,Montoro,Spain
+2662,2019,Granada CF,38,16,8,5396,Rodri,Spain
+2663,2019,Granada CF,38,16,8,5456,Alberto Martín,Spain
+2664,2019,Granada CF,38,16,8,5771,Rui Silva,Portugal
+2665,2019,Granada CF,38,16,8,6327,Germán,Spain
+2666,2019,Granada CF,38,16,8,8115,Puertas,Spain
+2667,2019,Granada CF,38,16,8,8442,Quini,Spain
+2668,2019,Granada CF,38,16,8,8780,Alex Pozo,Spain
+2669,2019,Granada CF,38,16,8,9952,Adri Castellano,Spain
+2670,2019,Granada CF,38,16,8,10947,José González,Spain
+2671,2019,Granada CF,38,16,8,10983,Jean Carlos,Brazil
+2672,2019,Granada CF,38,16,8,10985,Pablo Vázquez,Spain
+2673,2019,Granada CF,38,16,8,11232,Martínez,Spain
+2674,2019,Granada CF,38,16,8,11874,Isi,Spain
+2675,2019,Granada CF,38,16,8,12973,Fran Serrano,Spain
+2676,2019,Granada CF,38,16,8,12992,M. Hongla,Cameroon
+2677,2019,Granada CF,38,16,8,13081,Aarón,Spain
+2678,2019,Granada CF,38,16,8,13652,Eliseo Falcón,Spain
+2679,2019,Granada CF,38,16,8,13728,J. Victoria,Colombia
+2680,2019,Granada CF,38,16,8,13951,Rubén Sánchez,Spain
+2681,2019,Granada CF,38,16,8,14525,Leja,Spain
+2682,2019,Levante UD,33,19,12,403,Morales,Spain
+2683,2019,Levante UD,33,19,12,589,Campaña,Spain
+2684,2019,Levante UD,33,19,12,737,E. Bardhi,FYR Macedonia
+2685,2019,Levante UD,33,19,12,872,Coke,Spain
+2686,2019,Levante UD,33,19,12,1031,N. Vukčević,Montenegro
+2687,2019,Levante UD,33,19,12,1072,Roger,Spain
+2688,2019,Levante UD,33,19,12,1294,M. Simon,Nigeria
+2689,2019,Levante UD,33,19,12,1298,E. Boateng,Ghana
+2690,2019,Levante UD,33,19,12,1645,Borja Mayoral,Spain
+2691,2019,Levante UD,33,19,12,1675,Jason,Spain
+2692,2019,Levante UD,33,19,12,1692,E. Cabaco,Uruguay
+2693,2019,Levante UD,33,19,12,1801,Chema Rodríguez,Spain
+2694,2019,Levante UD,33,19,12,1965,Oier,Spain
+2695,2019,Levante UD,33,19,12,1986,Rochina,Spain
+2696,2019,Levante UD,33,19,12,2065,Toño García,Spain
+2697,2019,Levante UD,33,19,12,2095,Postigo,Spain
+2698,2019,Levante UD,33,19,12,2203,C. Doukouré,Ivory Coast
+2699,2019,Levante UD,33,19,12,2330,Luna,Spain
+2700,2019,Levante UD,33,19,12,2648,Róber,Spain
+2701,2019,Levante UD,33,19,12,2762,S. Prcić,Bosnia Herzegovina
+2702,2019,Levante UD,33,19,12,3425,Aitor,Spain
+2703,2019,Levante UD,33,19,12,3780,Samu García,Spain
+2704,2019,Levante UD,33,19,12,4352,Pedro López,Spain
+2705,2019,Levante UD,33,19,12,6082,A. Sadiku,Albania
+2706,2019,Levante UD,33,19,12,6612,Koke Vegas,Spain
+2707,2019,Levante UD,33,19,12,6618,R. Dwamena,Ghana
+2708,2019,Levante UD,33,19,12,8612,Pepelu,Spain
+2709,2019,Levante UD,33,19,12,8810,Arturo Molina,Spain
+2710,2019,Levante UD,33,19,12,10904,Fran Manzanara,Spain
+2711,2019,Levante UD,33,19,12,11045,Jauregi,Spain
+2712,2019,Levante UD,33,19,12,11938,Dani Cárdenas,Spain
+2713,2019,Levante UD,33,19,12,11962,Joan Monterde,Spain
+2714,2019,Levante UD,33,19,12,12088,Juan Delgado,Spain
+2715,2019,CA Osasuna,34,20,20,2507,Iñigo Pérez,Spain
+2716,2019,CA Osasuna,34,20,20,3078,Juan Villar,Spain
+2717,2019,CA Osasuna,34,20,20,3280,Brandon Thomas,Spain
+2718,2019,CA Osasuna,34,20,20,3351,Rubén García,Spain
+2719,2019,CA Osasuna,34,20,20,3507,Fran Mérida,Spain
+2720,2019,CA Osasuna,34,20,20,3805,Roberto Torres,Spain
+2721,2019,CA Osasuna,34,20,20,4021,Nacho Vidal,Spain
+2722,2019,CA Osasuna,34,20,20,4237,Sergio Herrera,Spain
+2723,2019,CA Osasuna,34,20,20,4374,Xisco,Spain
+2724,2019,CA Osasuna,34,20,20,4501,Oier,Spain
+2725,2019,CA Osasuna,34,20,20,4989,Clerc,Spain
+2726,2019,CA Osasuna,34,20,20,5078,Aridane,Spain
+2727,2019,CA Osasuna,34,20,20,6171,David Rodríguez,Spain
+2728,2019,CA Osasuna,34,20,20,6682,Kike Barja,Spain
+2729,2019,CA Osasuna,34,20,20,6791,Unai García,Spain
+2730,2019,CA Osasuna,34,20,20,6803,David García,Spain
+2731,2019,CA Osasuna,34,20,20,7095,Rubén,Spain
+2732,2019,CA Osasuna,34,20,20,7243,Lillo,Spain
+2733,2019,CA Osasuna,34,20,20,8185,Miguel Flaño,Spain
+2734,2019,CA Osasuna,34,20,20,8816,Olavide,Spain
+2735,2019,CA Osasuna,34,20,20,11036,Imanol García,Spain
+2736,2019,CA Osasuna,34,20,20,11884,Juan Pérez,Spain
+2737,2019,CA Osasuna,34,20,20,12120,Endika,Spain
+2738,2019,CA Osasuna,34,20,20,12791,Luis Perea,Spain
+2739,2019,CA Osasuna,34,20,20,12984,Borja Domingo,Spain
+2740,2019,CA Osasuna,34,20,20,13583,Aitor Lorea,Spain
+2741,2019,Real Madrid,56,27,9,5,Sergio Ramos,Spain
+2742,2019,Real Madrid,56,27,9,7,L. Modrić,Croatia
+2743,2019,Real Madrid,56,27,9,10,T. Courtois,Belgium
+2744,2019,Real Madrid,56,27,9,13,T. Kroos,Germany
+2745,2019,Real Madrid,56,27,9,17,Isco,Spain
+2746,2019,Real Madrid,56,27,9,28,Casemiro,Brazil
+2747,2019,Real Madrid,56,27,9,37,G. Bale,Wales
+2748,2019,Real Madrid,56,27,9,38,Marcelo,Brazil
+2749,2019,Real Madrid,56,27,9,55,K. Navas,Costa Rica
+2750,2019,Real Madrid,56,27,9,57,R. Varane,France
+2751,2019,Real Madrid,56,27,9,78,Marco Asensio,Spain
+2752,2019,Real Madrid,56,27,9,120,Carvajal,Spain
+2753,2019,Real Madrid,56,27,9,141,K. Benzema,France
+2754,2019,Real Madrid,56,27,9,184,Nacho Fernández,Spain
+2755,2019,Real Madrid,56,27,9,210,Lucas Vázquez,Spain
+2756,2019,Real Madrid,56,27,9,406,Odriozola,Spain
+2757,2019,Real Madrid,56,27,9,430,Mariano,Dominican Republic
+2758,2019,Real Madrid,56,27,9,512,Kiko Casilla,Spain
+2759,2019,Real Madrid,56,27,9,554,Marcos Llorente,Spain
+2760,2019,Real Madrid,56,27,9,714,Dani Ceballos,Spain
+2761,2019,Real Madrid,56,27,9,722,Vallejo,Spain
+2762,2019,Real Madrid,56,27,9,950,Vinícius Júnior,Brazil
+2763,2019,Real Madrid,56,27,9,2637,F. Valverde,Uruguay
+2764,2019,Real Madrid,56,27,9,9689,Cristo González,Spain
+2765,2019,Real Madrid,56,27,9,10729,Sergio López,Spain
+2766,2019,Real Madrid,56,27,9,10742,F. Feuillassier,Argentina
+2767,2019,Real Madrid,56,27,9,10766,Reguilón,Spain
+2768,2019,Real Madrid,56,27,9,10807,Manu Hernando,Spain
+2769,2019,Real Madrid,56,27,9,10911,Javi Sánchez,Spain
+2770,2019,Real Madrid,56,27,9,11759,De la Fuente,Spain
+2771,2019,Real Madrid,56,27,9,11760,M. Peeters,Netherlands
+2772,2019,Real Madrid,56,27,9,11808,Dani Gómez,Spain
+2773,2019,Real Madrid,56,27,9,11996,L. Zidane,France
+2774,2019,Getafe CF,46,21,13,511,Ángel,Spain
+2775,2019,Getafe CF,46,21,13,514,Antunes,Portugal
+2776,2019,Getafe CF,46,21,13,812,David Soria,Spain
+2777,2019,Getafe CF,46,21,13,956,A. Ndiaye Diedhiou,Senegal
+2778,2019,Getafe CF,46,21,13,1037,G. Shibasaki,Japan
+2779,2019,Getafe CF,46,21,13,1056,L. Chichizola,Argentina
+2780,2019,Getafe CF,46,21,13,1064,Bruno,Spain
+2781,2019,Getafe CF,46,21,13,1076,D. Djené,Togo
+2782,2019,Getafe CF,46,21,13,1106,Jorge Molina,Spain
+2783,2019,Getafe CF,46,21,13,1108,Markel Bergara,Spain
+2784,2019,Getafe CF,46,21,13,1216,D. Suárez,Uruguay
+2785,2019,Getafe CF,46,21,13,1326,Iván Alejo,Spain
+2786,2019,Getafe CF,46,21,13,1327,M. Arambarri,Uruguay
+2787,2019,Getafe CF,46,21,13,1589,Mata,Spain
+2788,2019,Getafe CF,46,21,13,1759,S. Cristóforo,Uruguay
+2789,2019,Getafe CF,46,21,13,1873,Sergi Guardiola,Spain
+2790,2019,Getafe CF,46,21,13,2033,Portillo,Spain
+2791,2019,Getafe CF,46,21,13,2686,N. Maksimović,Serbia
+2792,2019,Getafe CF,46,21,13,2752,Ignasi Miquel,Spain
+2793,2019,Getafe CF,46,21,13,3422,L. Cabrera,Uruguay
+2794,2019,Getafe CF,46,21,13,3457,Rober Ibáñez,Spain
+2795,2019,Getafe CF,46,21,13,4878,D. Foulquier,France
+2796,2019,Getafe CF,46,21,13,7669,Rubén Yáñez,Spain
+2797,2019,Getafe CF,46,21,13,11910,David Alba,Spain
+2798,2019,Getafe CF,46,21,13,12802,Hugo Duro,Spain
+2799,2019,Getafe CF,46,21,13,12913,Alberto Redondo,Spain
+2800,2019,Getafe CF,46,21,13,12914,Miguel Ángel,Spain
+2801,2019,Getafe CF,46,21,13,14497,P. Mbodji,Senegal
+2802,2019,FC Barcelona,58,45,12,1,L. Messi,Argentina
+2803,2019,FC Barcelona,58,45,12,6,L. Suárez,Uruguay
+2804,2019,FC Barcelona,58,45,12,16,M. ter Stegen,Germany
+2805,2019,FC Barcelona,58,45,12,29,Coutinho,Brazil
+2806,2019,FC Barcelona,58,45,12,39,Sergio Busquets,Spain
+2807,2019,FC Barcelona,58,45,12,42,S. Umtiti,France
+2808,2019,FC Barcelona,58,45,12,46,Piqué,Spain
+2809,2019,FC Barcelona,58,45,12,47,I. Rakitić,Croatia
+2810,2019,FC Barcelona,58,45,12,53,Jordi Alba,Spain
+2811,2019,FC Barcelona,58,45,12,105,A. Vidal,Chile
+2812,2019,FC Barcelona,58,45,12,119,Sergi Roberto,Spain
+2813,2019,FC Barcelona,58,45,12,158,Malcom,Brazil
+2814,2019,FC Barcelona,58,45,12,215,O. Dembélé,France
+2815,2019,FC Barcelona,58,45,12,216,Arthur,Brazil
+2816,2019,FC Barcelona,58,45,12,220,C. Lenglet,France
+2817,2019,FC Barcelona,58,45,12,227,Rafinha,Brazil
+2818,2019,FC Barcelona,58,45,12,349,J. Cillessen,Netherlands
+2819,2019,FC Barcelona,58,45,12,418,Nélson Semedo,Portugal
+2820,2019,FC Barcelona,58,45,12,556,Denis Suárez,Spain
+2821,2019,FC Barcelona,58,45,12,984,Munir,Spain
+2822,2019,FC Barcelona,58,45,12,1112,T. Vermaelen,Belgium
+2823,2019,FC Barcelona,58,45,12,2663,Sergi Samper,Spain
+2824,2019,FC Barcelona,58,45,12,4691,Aleñà,Spain
+2825,2019,FC Barcelona,58,45,12,5598,M. Wagué,Senegal
+2826,2019,FC Barcelona,58,45,12,6499,Riqui Puig,Spain
+2827,2019,FC Barcelona,58,45,12,7512,Abel Ruiz,Spain
+2828,2019,FC Barcelona,58,45,12,8618,Miranda,Spain
+2829,2019,FC Barcelona,58,45,12,11842,Ezkieta,Spain
+2830,2019,Sevilla FC,47,19,13,188,Q. Promes,Netherlands
+2831,2019,Sevilla FC,47,19,13,198,E. Banega,Argentina
+2832,2019,Sevilla FC,47,19,13,312,F. Vázquez,Italy
+2833,2019,Sevilla FC,47,19,13,356,Pablo Sarabia,Spain
+2834,2019,Sevilla FC,47,19,13,399,W. Ben Yedder,France
+2835,2019,Sevilla FC,47,19,13,466,L. Muriel,Colombia
+2836,2019,Sevilla FC,47,19,13,537,Nolito,Spain
+2837,2019,Sevilla FC,47,19,13,638,Jesús Navas,Spain
+2838,2019,Sevilla FC,47,19,13,661,S. Kjær,Denmark
+2839,2019,Sevilla FC,47,19,13,664,G. Mercado,Argentina
+2840,2019,Sevilla FC,47,19,13,688,Escudero,Spain
+2841,2019,Sevilla FC,47,19,13,701,Roque Mesa,Spain
+2842,2019,Sevilla FC,47,19,13,820,T. Vaclík,Czech Republic
+2843,2019,Sevilla FC,47,19,13,906,Daniel Carriço,Portugal
+2844,2019,Sevilla FC,47,19,13,966,André Silva,Portugal
+2845,2019,Sevilla FC,47,19,13,967,J. Gnagnon,France
+2846,2019,Sevilla FC,47,19,13,994,Sergi Gómez,Spain
+2847,2019,Sevilla FC,47,19,13,1215,Aleix Vidal,Spain
+2848,2019,Sevilla FC,47,19,13,1715,I. Amadou,France
+2849,2019,Sevilla FC,47,19,13,2029,M. Gonalons,France
+2850,2019,Sevilla FC,47,19,13,2650,Arana,Brazil
+2851,2019,Sevilla FC,47,19,13,4053,Borja Lasso,Spain
+2852,2019,Sevilla FC,47,19,13,6611,Soriano,Spain
+2853,2019,Sevilla FC,47,19,13,6620,Pejiño,Spain
+2854,2019,Sevilla FC,47,19,13,7757,Curro Sánchez,Spain
+2855,2019,Sevilla FC,47,19,13,8617,José Lara,Spain
+2856,2019,Sevilla FC,47,19,13,8633,Berrocal,Spain
+2857,2019,Sevilla FC,47,19,13,10795,José Mena,Spain
+2858,2019,Sevilla FC,47,19,13,11987,L. García,Colombia
+2859,2019,Sevilla FC,47,19,13,13783,Genaro,Spain
+2860,2019,Real Sociedad,46,27,12,152,Illarramendi,Spain
+2861,2019,Real Sociedad,46,27,12,176,Willian José,Brazil
+2862,2019,Real Sociedad,46,27,12,326,G. Rulli,Argentina
+2863,2019,Real Sociedad,46,27,12,410,Oyarzabal,Spain
+2864,2019,Real Sociedad,46,27,12,479,Moyá,Spain
+2865,2019,Real Sociedad,46,27,12,739,A. Januzaj,Belgium
+2866,2019,Real Sociedad,46,27,12,1021,Juanmi,Spain
+2867,2019,Real Sociedad,46,27,12,1131,D. Zurutuza,France
+2868,2019,Real Sociedad,46,27,12,1262,T. Hernández,France
+2869,2019,Real Sociedad,46,27,12,1290,Diego Llorente,Spain
+2870,2019,Real Sociedad,46,27,12,1295,Sandro,Spain
+2871,2019,Real Sociedad,46,27,12,1469,H. Moreno,Mexico
+2872,2019,Real Sociedad,46,27,12,1627,Merino,Spain
+2873,2019,Real Sociedad,46,27,12,1765,Aritz Elustondo,Spain
+2874,2019,Real Sociedad,46,27,12,1783,Rubén Pardo,Spain
+2875,2019,Real Sociedad,46,27,12,2047,Raúl Navas,Spain
+2876,2019,Real Sociedad,46,27,12,2282,Zaldúa,Spain
+2877,2019,Real Sociedad,46,27,12,2682,Zubeldia,Spain
+2878,2019,Real Sociedad,46,27,12,2719,Kévin Rodrigues,Portugal
+2879,2019,Real Sociedad,46,27,12,4052,Jon Bautista,Spain
+2880,2019,Real Sociedad,46,27,12,5625,David Concha,Spain
+2881,2019,Real Sociedad,46,27,12,5724,Luca Sangalli,Spain
+2882,2019,Real Sociedad,46,27,12,6619,Gorosabel,Spain
+2883,2019,Real Sociedad,46,27,12,6684,Merquelanz,Spain
+2884,2019,Real Sociedad,46,27,12,7715,Zubiaurre,Spain
+2885,2019,Real Sociedad,46,27,12,8735,Ander Guevara,Spain
+2886,2019,Real Sociedad,46,27,12,8885,P. Sisniega,Mexico
+2887,2019,Real Sociedad,46,27,12,9914,Guridi,Spain
+2888,2019,Real Sociedad,46,27,12,12754,R. Le Normand,France
+2889,2019,Real Sociedad,46,27,12,12769,A. Dávila,Uruguay
+2890,2019,SD Eibar,27,19,20,376,Pedro León,Spain
+2891,2019,SD Eibar,27,19,20,528,Kike García,Spain
+2892,2019,SD Eibar,27,19,20,532,Sergi Enrich,Spain
+2893,2019,SD Eibar,27,19,20,632,M. Dmitrović,Serbia
+2894,2019,SD Eibar,27,19,20,645,Charles,Brazil
+2895,2019,SD Eibar,27,19,20,686,F. Orellana,Chile
+2896,2019,SD Eibar,27,19,20,729,G. Escalante,Argentina
+2897,2019,SD Eibar,27,19,20,809,Paulo Oliveira,Portugal
+2898,2019,SD Eibar,27,19,20,925,Arbilla,Spain
+2899,2019,SD Eibar,27,19,20,1010,Joan Jordán,Spain
+2900,2019,SD Eibar,27,19,20,1074,Rubén Peña,Spain
+2901,2019,SD Eibar,27,19,20,1096,Iván Ramis,Spain
+2902,2019,SD Eibar,27,19,20,1144,P. Diop,Senegal
+2903,2019,SD Eibar,27,19,20,1192,Cote,Spain
+2904,2019,SD Eibar,27,19,20,1356,Sergio Álvarez,Spain
+2905,2019,SD Eibar,27,19,20,1581,P. De Blasis,Argentina
+2906,2019,SD Eibar,27,19,20,1859,Bigas,Spain
+2907,2019,SD Eibar,27,19,20,2740,Pere Milla,Spain
+2908,2019,SD Eibar,27,19,20,2804,Hervías,Spain
+2909,2019,SD Eibar,27,19,20,2909,Riesgo,Spain
+2910,2019,SD Eibar,27,19,20,3266,Jordi Calavera,Spain
+2911,2019,SD Eibar,27,19,20,5639,Cucurella,Spain
+2912,2019,SD Eibar,27,19,20,5667,Marc Cardona,Spain
+2913,2019,SD Eibar,27,19,20,9745,Markel Areitio,Spain
+2914,2019,SD Eibar,27,19,20,10879,Julen López,Spain
+2915,2019,SD Eibar,27,19,20,10945,Xesc Regis,Spain
+2916,2019,SD Eibar,27,19,20,12921,Quique Cebriá,Spain
+2917,2019,SD Eibar,27,19,20,13788,Ángel López,Spain
+2918,2019,SD Eibar,27,19,20,14505,Kike PIna,Spain
+2919,2019,Real Valladolid CF,29,14,13,746,E. Ünal,Turkey
+2920,2019,Real Valladolid CF,29,14,13,1167,Yoel,Spain
+2921,2019,Real Valladolid CF,29,14,13,1685,Ivi,Spain
+2922,2019,Real Valladolid CF,29,14,13,1841,Keko,Spain
+2923,2019,Real Valladolid CF,29,14,13,2481,Míchel,Spain
+2924,2019,Real Valladolid CF,29,14,13,2521,Jordi Masip,Spain
+2925,2019,Real Valladolid CF,29,14,13,3134,Óscar Plano,Spain
+2926,2019,Real Valladolid CF,29,14,13,3228,D. Verde,Italy
+2927,2019,Real Valladolid CF,29,14,13,3259,L. Suárez,Argentina
+2928,2019,Real Valladolid CF,29,14,13,3362,Luismi,Spain
+2929,2019,Real Valladolid CF,29,14,13,3479,Guitián,Spain
+2930,2019,Real Valladolid CF,51,41,38,3553,Rubén Alcaraz,Spain
+2931,2019,Real Valladolid CF,37,37,49,3693,Kiko Olivas,Spain
+2932,2019,Real Valladolid CF,53,46,53,3715,D. Čop,Croatia
+2933,2019,Real Valladolid CF,33,40,65,4602,Nacho,Spain
+2934,2019,Real Valladolid CF,36,30,51,4762,Toni Villa,Spain
+2935,2019,Real Valladolid CF,60,63,49,4788,Cotán,Spain
+2936,2019,Real Valladolid CF,39,34,59,4820,Anuar,Morocco
+2937,2019,Real Valladolid CF,25,27,59,5155,Borja Fernández,Spain
+2938,2019,Real Valladolid CF,41,48,60,5234,Javi Moyano,Spain
+2939,2019,Real Valladolid CF,70,51,27,5311,Antoñito,Spain
+2940,2019,Real Valladolid CF,56,52,45,5763,Calero,Spain
+2941,2019,Real Valladolid CF,49,47,53,6870,Joaquín,Spain
+2942,2019,Real Valladolid CF,52,46,54,10712,Kuki Zalazar,Spain
+2943,2019,Real Valladolid CF,87,70,25,10760,Miguel,Spain
+2944,2019,Real Valladolid CF,54,43,37,11010,Moi Delgado,Spain
+2945,2019,Real Valladolid CF,82,86,38,11839,M. Salisu,Ghana
+2946,2019,Real Valladolid CF,70,54,34,13099,Kike,Spain
+2947,2019,Real Valladolid CF,56,56,48,14589,Javi Pérez,Spain
+2948,2019,Real Valladolid CF,42,39,56,15140,Samu Pérez,Spain
+2949,2019,Real Valladolid CF,42,32,43,16450,Pedrosa,Spain
