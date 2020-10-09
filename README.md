@@ -12,7 +12,7 @@ We’re going to examine the strongest performers in three of the top leagues in
 2. **Average Age**: of the playing group
 3. **Average Height**: of the playing group
 4. **Diversity**: examining the makeup of a team by the origin of players
-5. **Cohesiveness**: the years a playing group has played together.
+5. **Player Variables**: looking at the skillset that makes up a team
 
 ## First steps
 1. ~~Find data sources required for analysis~~
